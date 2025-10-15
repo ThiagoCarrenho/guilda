@@ -152,23 +152,23 @@ Lista dos personagens que marcaram a história da GUILDA:
 - [[Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]] - Responsável pela pior piada: "Uma antena no meu rádio";
 - [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], [[Aventuras/Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], [[Aventuras/Jardim do Capitão Varnost/Carlos Morrow\|Carlos Morrow]], [[Aventuras/Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]] - grupo mais estranho, formado por um coco, um rato ninja fissurado em queijo, um pescador renascido que tem metade do corpo de tentáculos e um celestial da dimensão da deusa da noite, devoto das profundezas;
 - Os personagens favoritos de cada um (ordem alfabética):
-* + [[Aventuras/Tales of Andalurien/Belega\|Belega]] - [[Jogadores/Franciane\|Franciane]];
-* + [[Aventuras/Conflito das Águas/Bruto\|Bruto]] - [[Jogadores/George\|George]];
-* + ? [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-* + [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] - [[Jogadores/Thiago Carro\|Thiago Carro]];
-* + ? [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] - [[Jogadores/Miguel de Maria\|Miguel de Maria]];
-* + ? [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
-* + ? [[Aventuras/Lendas de Tu'Pana/Kora\|Kora]] - [[Jogadores/Jozsef\|Jozsef]];
-* + ? [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]] - [[Jogadores/Raul Ouros\|Raul Ouros]];
-* + [[Aventuras/Tales of Andalurien/Luisão\|Luisão]] - [[Jogadores/Lucas Moura\|Lucas Moura]];
-* + [[Aventuras/Ascenção do Deus Dragão/Miirphys\|Miirphys]] - [[Jogadores/Fabiano Meloni\|Fabiano Meloni]];
-* + [[Aventuras/Planeswalker/Nikita Ivanov\|Nikita Ivanov]] - [[Jogadores/Viska\|Viska]];
-* + [[Aventuras/Lendas de Tu'Pana/Príncipe Intinho\|Príncipe Intinho]] - [[Jogadores/Giovanni Chefe\|Giovanni Chefe]];
-* + [[Aventuras/Lendas de Tu'Pana/Quasar\|Quasar]] - [[Jogadores/José Ernesto\|José Ernesto]]
-* + ? [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] - [[Jogadores/Laura\|Laura]];
-* + [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]] - [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-* + [[Aventuras/A Voz das Marés/Desconhecido-Dani-001\|Desconhecido-Dani-001]] - [[Jogadores/Daniela\|Daniela]];
-* + [[Aventuras/Segredos Profundos/Desconhecido-Rennó-001\|Desconhecido-Rennó-001]] - [[Jogadores/Mateus Rennó\|Mateus Rennó]];
+	* [[Aventuras/Tales of Andalurien/Belega\|Belega]] - [[Jogadores/Franciane\|Franciane]];
+	* [[Aventuras/Conflito das Águas/Bruto\|Bruto]] - [[Jogadores/George\|George]];
+	* ? [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+	* [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] - [[Jogadores/Thiago Carro\|Thiago Carro]];
+	* ? [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] - [[Jogadores/Miguel de Maria\|Miguel de Maria]];
+	* ? [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
+	* ? [[Aventuras/Lendas de Tu'Pana/Kora\|Kora]] - [[Jogadores/Jozsef\|Jozsef]];
+	* ? [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]] - [[Jogadores/Raul Ouros\|Raul Ouros]];
+	* [[Aventuras/Tales of Andalurien/Luisão\|Luisão]] - [[Jogadores/Lucas Moura\|Lucas Moura]];
+	* [[Aventuras/Ascenção do Deus Dragão/Miirphys\|Miirphys]] - [[Jogadores/Fabiano Meloni\|Fabiano Meloni]];
+	* [[Aventuras/Planeswalker/Nikita Ivanov\|Nikita Ivanov]] - [[Jogadores/Viska\|Viska]];
+	* [[Aventuras/Lendas de Tu'Pana/Príncipe Intinho\|Príncipe Intinho]] - [[Jogadores/Giovanni Chefe\|Giovanni Chefe]];
+	* [[Aventuras/Lendas de Tu'Pana/Quasar\|Quasar]] - [[Jogadores/José Ernesto\|José Ernesto]]
+	* ? [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] - [[Jogadores/Laura\|Laura]];
+	* [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]] - [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+	* [[Aventuras/A Voz das Marés/Desconhecido-Dani-001\|Desconhecido-Dani-001]] - [[Jogadores/Daniela\|Daniela]];
+	* [[Aventuras/Segredos Profundos/Desconhecido-Rennó-001\|Desconhecido-Rennó-001]] - [[Jogadores/Mateus Rennó\|Mateus Rennó]];
 ### Estatísticas Marcantes
 - Maior guerreiro: [[Jogadores/Miguel de Maria\|Miguel de Maria]] - 1 câncer vencido;
 - Mestre mais carnificeiro: [[Jogadores/Raul Teixeira\|Raul Teixeira]] - 5 mortos;
