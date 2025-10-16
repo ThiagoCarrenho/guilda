@@ -15,8 +15,8 @@ Participam desta história:
 - [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]]
 
-![Panfleto Velho encontrado na nave_page-0001.jpg](/img/user/Panfleto%20Velho%20encontrado%20na%20nave_page-0001.jpg)
-![Panfleto Velho encontrado na nave_page-0002.jpg](/img/user/Panfleto%20Velho%20encontrado%20na%20nave_page-0002.jpg)
+![Panfleto Velho encontrado na nave_page-0001.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0001.jpg)
+![Panfleto Velho encontrado na nave_page-0002.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0002.jpg)
 
 ---
 #### Sessão 00 (06/10/2025) - Criação de Personagens
