@@ -3,7 +3,10 @@
 ---
 
 *Personagem solo de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
+*Grupo: [[Aventuras/A Caçada Maior/Baklev\|Baklev]].*
 
 **Raça:** Ósteon
 **Classe:** Cavaleiro
 **Divindade:** Ragnar
+
+![token Skrull.png](/img/user/Aventuras/A%20Ca%C3%A7ada%20Maior/token%20Skrull.png)

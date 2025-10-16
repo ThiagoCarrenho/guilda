@@ -8,7 +8,10 @@
 **Raça:** Elfo
 **Classe:** Arcanista
 **Divindade:** Tanna-Toh
+
+![Kael_token.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Kael_token.png)![Lobinho_bg 1.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Lobinho_bg%201.png)
 #### Descrição
 - Estudioso ao máximo
 - Misterioso
 - Capa longa preta com manchas vermelhas pelo corpo
+- Carregava consigo Lobinho, um lobo mágico

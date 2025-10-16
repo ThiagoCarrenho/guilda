@@ -26,7 +26,7 @@ Eis os aventureiros que foram criados e interpretados pelo Raul:
 - [[Aventuras/Guerra Artoniana/Nagi\|Nagi]], o flecheiro de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
 - [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]], o nerd elemental de [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];
-- [[Aventuras/A Voz das Marés/Desconhecido-Ouros-001\|Desconhecido-Ouros-001]] de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
+- [[Aventuras/A Voz das Marés/Victor\|Victor]], o paladino de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
 - [[Aventuras/Caçada nas Sanguinárias/Atriox\|Atriox]], de [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
 - [[Aventuras/Passos de Lava/Mushu Misashi\|Mushu Misashi]] de [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]];
 - [[Aventuras/Conflito das Águas/Tomas\|Tomas]], de [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]];

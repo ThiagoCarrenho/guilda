@@ -7,6 +7,9 @@
 
 **Raça:** Hynne
 **Classe:** Nobre
+
+![Intinho_token.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Intinho_token.png)![IntinhoHF_token.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/IntinhoHF_token.png)
+
 #### Descrição
 - Criado em Galrasia, como divindade
 - Mimado

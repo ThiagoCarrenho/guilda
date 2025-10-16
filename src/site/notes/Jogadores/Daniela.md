@@ -10,4 +10,4 @@ Graças ao noivo, é amigo do casal [[Jogadores/Thiago Carro\|Thiago Carro]] e F
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pela Daniela:
-- [[Aventuras/A Voz das Marés/Desconhecido-Dani-001\|Desconhecido-Dani-001]] de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
+- [[Aventuras/A Voz das Marés/Mera\|Mera]], a sereia de algas de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];

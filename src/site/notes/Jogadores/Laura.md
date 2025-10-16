@@ -14,4 +14,4 @@ Personagem predileto: [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]]?
 Eis os aventureiros que foram criados e interpretados pela Laura:
 - [[Aventuras/Guerra Artoniana/Mya\|Mya]], a bárbara de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - † [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]], a necromante de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/A Voz das Marés/Desconhecido-Laura-001\|Desconhecido-Laura-001]] de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
+- [[Aventuras/A Voz das Marés/Agatha\|Agatha]], a bruxa de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];

@@ -8,6 +8,8 @@
 **Raça:** Ósteon
 **Classe:** Paladino
 **Divindade:** Thyatis
+
+![Matuz_token.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Matuz_token.png)
 #### Descrição
 - Armário Ambulante, 100% Defesa
 - Foi um humanóide, mas morreu e ressuscitou tantas vezes que virou um ósteon

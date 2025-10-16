@@ -16,6 +16,9 @@ Participam desta história:
 - [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Jogadores/Miguel de Maria\|Miguel de Maria]];
 
+![Vila do Mirante.png](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/Vila%20do%20Mirante.png)
+![acd7bdcf-4ef7-47ee-a327-45f85621179f.png](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/acd7bdcf-4ef7-47ee-a327-45f85621179f.png)
+
 ---
 #### Prólogo
 - Em um mundo repleto de perigos, onde monstros emergem das profundezas, magos colossais invocam meteoros por capricho e a própria realidade pode ser dilacerada pela Tormenta, encontrar um lugar seguro é um luxo raro.

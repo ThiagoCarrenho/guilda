@@ -12,10 +12,10 @@
 A fim de comemorar o aniversário do mestre, os aventureiros embarcaram num resgate a um pai de família em uma região abandonada de Malpetrim.
 
 **Personagens e Jogadores:**
+- [[Aventuras/A Voz das Marés/Agatha\|Agatha]], a bruxa de [[Jogadores/Laura\|Laura]];
 - [[Aventuras/A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]], o clérigo surfista de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/A Voz das Marés/Desconhecido-Laura-001\|Desconhecido-Laura-001]] de [[Jogadores/Laura\|Laura]];
-- [[Aventuras/A Voz das Marés/Desconhecido-Ouros-001\|Desconhecido-Ouros-001]] de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/A Voz das Marés/Desconhecido-Dani-001\|Desconhecido-Dani-001]] de [[Jogadores/Daniela\|Daniela]];
+- [[Aventuras/A Voz das Marés/Mera\|Mera]], a sereia de algas de [[Jogadores/Daniela\|Daniela]];
+- [[Aventuras/A Voz das Marés/Victor\|Victor]], o paladino de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
 ---
 #### História (Finalizada - Sucesso)
@@ -32,3 +32,23 @@ A fim de comemorar o aniversário do mestre, os aventureiros embarcaram num resg
 - Houve combate, um dos personagens foi cristalizado
 - O combate foi vencido, regataram um bom número de pessoas extraindo a saliva do monstro
 - Os heróis voltaram com um bom número de pessoas prontas para ajudar a salvar a família e a taverna as mãos dos criminosos
+
+---
+
+#### Sessão 1
+
+Juntamente com sua equipe: Victor, um minauro paladino de Valkaria, Agatha, uma elfa bruxa e Mera (Meralda) uma sereia de temas algais, dirigiram-se para O Cação Encalhado, uma taverna montada num barco encalhado.
+
+Foram servidos pela taverneira Ryana, sua filha Meliandra, seu filho Tiracos, todos minotauros, e o pequeno golem-cachorro Toby.
+
+Após uma competição de comida picante, vencida por Mera, capangas de Brutus vieram cobrar serviços, mas demos contas deles.
+
+Na madrugada, saímos com Tiracos a procura de seu pai, sua antiga casa, na Velha Malpetrim, que fora submersa, e um item valioso que pagaria a dívida que possuem.
+
+Após passar por ravinas, encontramos com muitos corpos transformados em pedra vermelha, claramente da Tormenta, alguns deles com partes do corpo faltando.
+
+A nossa investigação foi, em grande parte, em vão, até que nos aproximamos de uma área de maior concentração de estátuas, nisto, Tiracos correu em direção à uma estátua – seu pai, e soltou um grito.
+
+Chegamos mais adiante, vimos sua estátua, e diante dela, uma besta gigante, que transformava criaturas em estátuas e as comia.
+
+Num combate extremamente tenso, Agatha sucumbiu aos poderes da criatura e se tornou pedra, mas, no fim das contas, vencemos, e, usando da saliva e dos dentes do monstro, conseguimos fazer voltar à vida Agatha, Tiracos, seu pai, seu irmão, e alguns outros corpos mais inteiros.

@@ -10,6 +10,7 @@
 **Classe:** Místico da Luz e do Fogo
 **Divindade:** Azgher
 
+![token_2.png](/img/user/Aventuras/Posto%20de%20Troca%20Baixa%20Vila%20de%20Lena/token_2.png)
 #### Descrição
 - Geômetro de Tanna-Toh
 - Halak-Tur - Cidade do Deserto

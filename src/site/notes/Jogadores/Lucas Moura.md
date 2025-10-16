@@ -10,9 +10,10 @@ Quando começou a jogar, era da Física, mas mudou pro lado bom da Força com o 
 
 **Personagem predileto:** [[Aventuras/Tales of Andalurien/Luisão\|Luisão]].
 
-Ainda está na GUILDA, mas não jogou nenhum jogo desde [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]].
+Ainda está na GUILDA, mas não jogou nenhum jogo desde [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]].
 
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Lucas:
+- [[Aventuras/A Caçada Maior/Baklev\|Baklev]], o Caçador de [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]];
 - [[Aventuras/Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];

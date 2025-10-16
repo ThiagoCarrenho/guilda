@@ -13,6 +13,9 @@
 - [[Aventuras/Lendas de Tu'Pana/Matuz\|Matuz]], a Lenda de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/Lendas de Tu'Pana/Príncipe Intinho\|Príncipe Intinho]], de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]];
 - [[Aventuras/Lendas de Tu'Pana/Quasar\|Quasar]], de [[Jogadores/José Ernesto\|José Ernesto]];
+
+![Imagem1.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Imagem1.png)
+
 ---
 #### Sessão 01 - Taboão Dasserra
 

@@ -8,6 +8,8 @@
 **Raça:** Medusa
 **Classe:** Caçadora
 **Divindade:** Tenebra
+
+![Kora Lireal_token 1.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Kora%20Lireal_token%201.png)![Kora_token 1.png](/img/user/Aventuras/Lendas%20de%20Tu'Pana/Kora_token%201.png)
 #### Descrição
 - Pele totalmente coberta
 - Totalmente furtiva

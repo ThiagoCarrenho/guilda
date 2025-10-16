@@ -30,7 +30,7 @@ Lista dos personagens que marcaram a história da GUILDA:
     * [[Aventuras/Lendas de Tu'Pana/Quasar\|Quasar]] - [[Jogadores/José Ernesto\|José Ernesto]]
     * ? [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] - [[Jogadores/Laura\|Laura]];
     * [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]] - [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-    * [[Aventuras/A Voz das Marés/Desconhecido-Dani-001\|Desconhecido-Dani-001]] - [[Jogadores/Daniela\|Daniela]];
+    * [[Aventuras/A Voz das Marés/Mera\|Mera]] - [[Jogadores/Daniela\|Daniela]];
     * [[Aventuras/Segredos Profundos/Desconhecido-Rennó-001\|Desconhecido-Rennó-001]] - [[Jogadores/Mateus Rennó\|Mateus Rennó]];
 ### Estatísticas Marcantes
 - Maior guerreiro: [[Jogadores/Miguel de Maria\|Miguel de Maria]] - 1 câncer vencido;

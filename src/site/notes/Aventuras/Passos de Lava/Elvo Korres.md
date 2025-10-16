@@ -14,3 +14,4 @@
 - Viajante portuário
 - Leve, esbelto e de sorriso malicioso, usa um chapéu de palha
 
+![Elvo Korres_page-0001.jpg](/img/user/Aventuras/Passos%20de%20Lava/Elvo%20Korres_page-0001.jpg)
