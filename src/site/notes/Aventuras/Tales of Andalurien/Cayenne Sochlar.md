@@ -8,6 +8,13 @@
 **Raça:** Anão da Montanha
 **Origem:** Cabelereiro
 **Classe:** Ladino Ladrão 3 Guerreiro 2
+
+#### Início
+
+![Cayenne Sochlar by Hero Forge token.png](/img/user/Aventuras/Tales%20of%20Andalurien/Cayenne%20Sochlar%20by%20Hero%20Forge%20token.png)
+#### Fim
+
+![Cayenne Sochlar Batalha Final by Hero Forge token.png](/img/user/Aventuras/Tales%20of%20Andalurien/Cayenne%20Sochlar%20Batalha%20Final%20by%20Hero%20Forge%20token.png)
 #### Descrição
 - Bela barba e cabelo
 - Líder, intimidador

@@ -9,3 +9,5 @@
 #### Descrição
 - Velho alheio às novas tecnologias
 - Vive nas estradas com seu bando, os Tataguyra, e com seu carro, o Firebird
+
+![Pontiac-Tataguyra.png](/img/user/Aventuras/Carga%20de%20Chromo%20Vermelho/Pontiac-Tataguyra.png)

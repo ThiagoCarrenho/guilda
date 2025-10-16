@@ -16,6 +16,10 @@
 - [[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Jogadores/Lucas Moura\|Lucas Moura]];
 
+![Token Belega 1 1.png](/img/user/Aventuras/Tales%20of%20Andalurien/Token%20Belega%201%201.png)
+![Token Cayenne 1.png](/img/user/Aventuras/Tales%20of%20Andalurien/Token%20Cayenne%201.png)
+![Token Luisão 1.png](/img/user/Aventuras/Tales%20of%20Andalurien/Token%20Luis%C3%A3o%201.png)
+
 ---
 #### Sessão 01 (15/04/2020)
 - Recompensa altíssima por um humano de capuz escondido na floresta, fui pra lá pegar o mané, apareceu um elfo e um anão, depois umas almas penadas, e agora estamos presos numa caverna, pois fora dela tem um perigo estranho de bichinhos, preciso interrogar pra entender o humano e tirar informação dele (pode ser útil ao Comando, já que o preço pela cabeça dele é alto). Ezequiel se juntou a nós, parece um anão legal, prometi levá-lo de volta pra casa.

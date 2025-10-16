@@ -8,3 +8,5 @@
 **Raça:** Elfo da Floresta
 **Origem:** Herói do Povo
 **Classe:** Caçador 5
+
+![Aventuras/Tales of Andalurien/Token Belega 1.png](/img/user/Aventuras/Tales%20of%20Andalurien/Token%20Belega%201.png)

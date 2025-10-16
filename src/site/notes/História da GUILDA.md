@@ -104,7 +104,7 @@ Então nós recebemos a difícil notícia de uma batalha fora das mesas, na qual
 
 Na curiosidade de conhecer novos sistemas, o grupo adentrou um conjunto de breves aventuras em cenários distintos, mais precisamente, o trio RRT.
 
-O primeiro, antes mesmo de Guerra Artoniana e Jardim do Capitão Varnost, foi Skyfall RPG, no qual Thiago Carro mestrou Conto de Bela Passagem para os dois amigos.
+O primeiro, antes mesmo de Guerra Artoniana e Jardim do Capitão Varnost, foi Skyfall RPG, no qual Thiago Carro mestrou Conto de Bela Passagem para os dois amigos, incluindo uma breve aparição de Plínio, que teve seu personagem, Riujin Maru, morto em combate.
 
 Depois foi a vez de Cyberpunk RED estrear, na mesa Carga de Chromo Vermelho, mestrada por Raul Ouros, um expert no cenário.
 

@@ -43,7 +43,8 @@ Lista dos personagens que marcaram a história da GUILDA:
 Aqui jazem os personagens que tiveram sua história interrompida.
 *Não constam aqueles que morreram de velhice ou causas naturais, nem os aposentados ou aqueles que não tiveram a história finalizada. Apenas os que morreram durante os jogos.*
 - † [[Aventuras/Ascenção do Deus Dragão/Raiden\|Raiden]] (Thiago Carro) - Ascenção do Deus Dragão - morto pelas mãos de Raul Teixeira;
-- † [[Aventuras/Ascenção do Deus Dragão/Lin Lang\|Lin Lang]] (Plínio) - Ascenção do Deus Dragão - morto pelas mãos de Raul Teixeira]];
+- † [[Aventuras/Ascenção do Deus Dragão/Lin Lang\|Lin Lang]] (Plínio) - Ascenção do Deus Dragão - morto pelas mãos de Raul Teixeira;
+- † [[Aventuras/Conto de Bela Passagem/Riujin Maru\|Riujin Maru]] (Plínio) - Conto da Bela Passagem - morto pelas mãos de Thiago Carro;
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] (Thiago Carro) - Guerra Artoniana - morto pelas mãos de Raul Teixeira;
 - † [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] (Miguel de Maria) - Guerra Artoniana - morto pelas mãos de Raul Teixeira;
 - † [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] (Laura) - Guerra Artoniana - morto pelas mãos de Raul Teixeira;

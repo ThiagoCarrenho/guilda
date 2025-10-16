@@ -40,7 +40,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - Mya de Laura;
 - Nagi de Raul Ouros;
 - † Alfa Romeu o nobre filantropo de Thiago Carro morto em batalha;
-- † Harcos] de  Miguel de Maria
+- † Harcos de  Miguel de Maria
 - † Suzumi de Laura;
 ---
 ### Carga de Chromo Vermelho
@@ -83,7 +83,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Personagens e Jogadores:**
 - Leo Gekodd o nerd elemental de Raul Ouros;
 - Nitro Tolueno o detetive magictecnológico de Raul Teixeira;
-- Riujin Maru o ladrão azul esvoaçante de Plínio;
+- † Riujin Maru o ladrão azul esvoaçante de Plínio;
 ---
 ### A Voz das Marés
 **Nome da Aventura:** [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
