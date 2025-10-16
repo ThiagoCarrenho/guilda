@@ -2,11 +2,16 @@
 {"dg-publish":true,"permalink":"/Mestres e Jogadores/","created":"2025-10-14T12:03:39.305-03:00"}
 ---
 
+Para conhecer mais dos sistemas apresentados, acesse [[Sistemas\|Sistemas]].
+Para conhecer essas e outras aventuras, acesse [[Aventuras\|Aventuras]].
+Tudo que contém um '?' é um palpite de Thiago quanto à preferência do outro.
+
+---
 # Quem Somos
 Conheça os jogadores.
 ### Thiago Carro
 [[Jogadores/Thiago Carro\|Thiago Carro]] é esposo da Fernanda e irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]].
-Católico, santista, usuário de chapéu e sandália, Mestre em Matemática Aplicada e Mestre também de [[Sistemas/Tormenta20\|Tormenta20]] e [[Sistemas/Skyfall RPG\|Skyfall RPG]].
+Católico, santista, usuário de chapéu e sandália, Mestre em Matemática Aplicada e Mestre também de Tormenta20 e Skyfall RPG.
 Tem como gênero favorito a Alta Fantasia (High Fantasy) e prefere classes de suporte, principalmente Clérigo e Ladino.
 Seus personagens costumam ter nomes de carro e usar itens na cabeça.
 - **Mesa mestrada predileta:** [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]];
@@ -14,14 +19,14 @@ Seus personagens costumam ter nomes de carro e usar itens na cabeça.
 - **Atualmente jogando**;
 ### Raul Teixeira
 [[Jogadores/Raul Teixeira\|Raul Teixeira]] é um dos mestres e jogadores mais presentes nas mesas, noivo da [[Jogadores/Daniela\|Daniela]] e irmão da [[Jogadores/Laura\|Laura]].
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Sistemas/Stars Without Numbers\|Stars Without Numbers]] e [[Sistemas/Storyteller\|Storyteller]].
+Mestre de Tormenta20, D&D 5e, Stars Without Numbers e Storyteller.
 - **Mesa mestrada predileta:** [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]]?;
 - **Personagem predileto:** [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]];
 - **Atualmente jogando**;
 ### Raul Ouros 
 [[Jogadores/Raul Ouros\|Raul Ouros]] é um dos mestres e jogadores mais presentes nas mesas.
 Conhecedor exímio das regras dos jogos e "otimizador" de fichas.
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]] e [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].
+Mestre de Tormenta20, D&D 5e e Cyberpunk RED.
 - **Mesa mestrada predileta:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]?;
 - **Personagem predileto:** [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]?;
 - **Atualmente jogando**;
@@ -40,7 +45,7 @@ Tem anão como sua raça preferida, e gosta de inventores e criativos.
 - **Atualmente jogando**;
 ### Plínio
 [[Jogadores/Plínio\|Plínio]] é Matemático Aplicado.
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]]
+Mestre de Tormenta20.
 - **Mesa mestrada predileta:** [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]];
 - **Personagem predileto:** [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]]?;
 - Presente na GUILDA, mas não joga desde [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]].
@@ -49,7 +54,7 @@ Mestre de [[Sistemas/Tormenta20\|Tormenta20]]
 Na verdade, não é muito fã de RPG, jogando apenas a Aventura de Aniversário de seu parceiro.
 ### Jozsef
 [[Jogadores/Jozsef\|Jozsef]] é primo de [[Jogadores/Raul Teixeira\|Raul Teixeira]] e [[Jogadores/Laura\|Laura]].
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]].
+Mestre de Tormenta20.
 - **Mesa mestrada predileta:** [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
 - **Personagem predileto:** [[Aventuras/Lendas de Tu'Pana/Kora\|Kora]]?;
 - Presente na GUILDA, mas não joga desde [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]].
