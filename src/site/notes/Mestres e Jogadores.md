@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/","noteIcon":"","created":"2025-10-14T12:03:39.305-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/","created":"2025-10-14T12:03:39.305-03:00"}
 ---
 
 # Quem Somos

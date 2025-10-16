@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/A Voz das Marés/A Voz das Marés/","noteIcon":"","created":"2025-10-13T17:42:10.943-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/A Voz das Marés/A Voz das Marés/","created":"2025-10-13T17:42:10.943-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

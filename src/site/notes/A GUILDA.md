@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-13T17:42:13.348-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00"}
 ---
 
 # A GUILDA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/José Ernesto/","noteIcon":"","created":"2025-10-14T10:43:24.922-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/José Ernesto/","created":"2025-10-14T10:43:24.922-03:00"}
 ---
 
 Católico e Engenheiro (ou Cientista) da Computação.

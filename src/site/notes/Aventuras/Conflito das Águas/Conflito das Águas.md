@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Conflito das Águas/Conflito das Águas/","noteIcon":"","created":"2025-10-13T17:42:08.668-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Conflito das Águas/Conflito das Águas/","created":"2025-10-13T17:42:08.668-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

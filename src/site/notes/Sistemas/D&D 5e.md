@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/D&D 5e/","noteIcon":"","created":"2025-10-13T19:13:40.171-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/D&D 5e/","created":"2025-10-13T19:13:40.171-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Cyberpunk RED/","noteIcon":"","created":"2025-10-13T17:42:06.444-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Cyberpunk RED/","created":"2025-10-13T17:42:06.444-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

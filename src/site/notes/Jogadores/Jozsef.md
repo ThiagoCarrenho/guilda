@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Jozsef/","noteIcon":"","created":"2025-10-13T17:42:06.578-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Jozsef/","created":"2025-10-13T17:42:06.578-03:00"}
 ---
 
 Primo de [[Jogadores/Raul Teixeira\|Raul Teixeira]] e [[Jogadores/Laura\|Laura]].

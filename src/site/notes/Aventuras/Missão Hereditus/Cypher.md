@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Missão Hereditus/Cypher/","noteIcon":"","created":"2025-10-13T17:42:13.214-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Missão Hereditus/Cypher/","created":"2025-10-13T17:42:13.214-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*

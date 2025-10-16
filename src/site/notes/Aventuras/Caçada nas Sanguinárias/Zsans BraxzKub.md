@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub/","noteIcon":"","created":"2025-10-13T17:42:08.670-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub/","created":"2025-10-13T17:42:08.670-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

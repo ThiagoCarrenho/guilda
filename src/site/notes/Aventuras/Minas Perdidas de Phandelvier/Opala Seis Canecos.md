@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos/","noteIcon":"","created":"2025-10-13T18:26:43.163-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos/","created":"2025-10-13T18:26:43.163-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]], no sistema [[Sistemas/D&D 5e\|D&D 5e]] .*

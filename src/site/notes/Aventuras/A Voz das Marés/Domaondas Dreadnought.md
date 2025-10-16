@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/A Voz das Marés/Domaondas Dreadnought/","noteIcon":"","created":"2025-10-13T17:42:10.917-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/A Voz das Marés/Domaondas Dreadnought/","created":"2025-10-13T17:42:10.917-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost/","noteIcon":"","created":"2025-10-13T17:42:11.075-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost/","created":"2025-10-13T17:42:11.075-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

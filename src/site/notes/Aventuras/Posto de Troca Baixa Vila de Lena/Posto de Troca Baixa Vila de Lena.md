@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena/","noteIcon":"","created":"2025-10-13T17:42:15.336-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena/","created":"2025-10-13T17:42:15.336-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];

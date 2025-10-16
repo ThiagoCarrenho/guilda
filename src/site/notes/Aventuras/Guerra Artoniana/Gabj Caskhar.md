@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Guerra Artoniana/Gabj Caskhar/","noteIcon":"","created":"2025-10-13T17:42:13.007-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

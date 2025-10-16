@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Planeswalker/Baltazar Blake/","noteIcon":"","created":"2025-10-14T11:09:18.078-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Planeswalker/Baltazar Blake/","created":"2025-10-14T11:09:18.078-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
