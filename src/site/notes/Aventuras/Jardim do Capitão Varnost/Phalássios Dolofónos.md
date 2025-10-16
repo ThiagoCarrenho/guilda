@@ -9,7 +9,14 @@
 **Origem:** De Outro Mundo (Éter Divino)
 **Classe:** Paladino Algoz de Yrr’Thulu
 **Divindade:** Yrr'thulu
+
+![phalassios.png](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/phalassios.png)
 #### Descrição
 - Náufrago, morreu, mas um espírito do mundo de Tenebra o reviveu
 - Amedrontador, traz em seu pescoço a mandíbula de um tubarão
 - Carrega uma arma específica, que saiu consigo do fundo do oceano
+
+---
+#### Ficha
+
+![phalássios dolófonos_page-0001.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/phal%C3%A1ssios%20dol%C3%B3fonos_page-0001.jpg)

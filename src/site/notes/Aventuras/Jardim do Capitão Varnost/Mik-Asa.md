@@ -8,6 +8,11 @@
 **Raça:** Duende
 **Origem:** Náufrago
 **Classe:** Ladino Ventanista 1
+
+![mik.png](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/mik.png)
 #### Descrição
 - Um coco. Isso mesmo, um coco com um guarda-chuvinha, bem bebida tropical. Com pernas e braços
 - Carrega consigo um tamborzinho - Nislow
+---
+#### Ficha
+![Mik-Asa_page-0001.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/Mik-Asa_page-0001.jpg)

@@ -8,7 +8,13 @@
 **Raça:** Nezumi
 **Origem:** Detetive
 **Classe:** Ladino 1
+
+![kuro.png](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/kuro.png)
 #### Descrição
 - Rato Ninja
 - Membro do Clã do Queijo Sombrio
 - Ladrão honroso
+
+---
+#### Ficha
+![kuro_page-0001.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/kuro_page-0001.jpg)
