@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/passos-de-lava/elvo-korres/"}
+{"dg-publish":true,"permalink":"/Aventuras/Passos de Lava/Elvo Korres/","noteIcon":"","created":"2025-10-13T17:42:13.538-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/"}
+{"dg-publish":true,"permalink":"/Aventuras/","noteIcon":"","created":"2025-10-13T17:42:13.422-03:00"}
 ---
 
 ### Missão Hereditus

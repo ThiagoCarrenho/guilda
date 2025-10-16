@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sistemas/stars-without-numbers/"}
+{"dg-publish":true,"permalink":"/Sistemas/Stars Without Numbers/","noteIcon":"","created":"2025-10-13T17:42:06.318-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

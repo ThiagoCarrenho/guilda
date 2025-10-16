@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/lendas-de-tu-pana/lendas-de-tu-pana/"}
+{"dg-publish":true,"permalink":"/Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana/","noteIcon":"","created":"2025-10-14T10:44:59.309-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

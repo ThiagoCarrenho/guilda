@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jogadores/plinio/"}
+{"dg-publish":true,"permalink":"/Jogadores/Plínio/","noteIcon":"","created":"2025-10-13T17:42:06.638-03:00"}
 ---
 
 Matemático Aplicado, amigo de faculdade de [[Jogadores/Thiago Carro\|Thiago Carro]] e [[Jogadores/Raul Teixeira\|Raul Teixeira]].

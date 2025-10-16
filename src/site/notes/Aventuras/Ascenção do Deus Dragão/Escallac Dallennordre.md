@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/ascencao-do-deus-dragao/escallac-dallennordre/"}
+{"dg-publish":true,"permalink":"/Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre/","noteIcon":"","created":"2025-10-13T19:39:40.782-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

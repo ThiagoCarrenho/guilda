@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/comeco-da-guilda/mil-vozes/"}
+{"dg-publish":true,"permalink":"/Aventuras/Começo da Guilda/Mil Vozes/","noteIcon":"","created":"2025-10-13T18:36:33.473-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]], no sistema [[Sistemas/Tormenta20\|Tormenta20]] .*

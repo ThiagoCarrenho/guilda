@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jogadores/fabiano-meloni/"}
+{"dg-publish":true,"permalink":"/Jogadores/Fabiano Meloni/","noteIcon":"","created":"2025-10-13T19:46:40.426-03:00"}
 ---
 
 Amigo de [[Jogadores/Raul Teixeira\|Raul Teixeira]].

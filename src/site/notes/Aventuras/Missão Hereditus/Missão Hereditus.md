@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/missao-hereditus/missao-hereditus/"}
+{"dg-publish":true,"permalink":"/Aventuras/Missão Hereditus/Missão Hereditus/","noteIcon":"","created":"2025-10-13T17:42:13.218-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

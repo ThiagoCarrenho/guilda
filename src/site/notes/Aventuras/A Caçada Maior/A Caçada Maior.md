@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/a-cacada-maior/a-cacada-maior/"}
+{"dg-publish":true,"permalink":"/Aventuras/A Caçada Maior/A Caçada Maior/","noteIcon":"","created":"2025-10-15T10:19:47.680-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

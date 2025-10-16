@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/lendas-de-tu-pana/quasar/"}
+{"dg-publish":true,"permalink":"/Aventuras/Lendas de Tu'Pana/Quasar/","noteIcon":"","created":"2025-10-14T10:54:59.421-03:00"}
 ---
 
 *Personagem de [[Jogadores/José Ernesto\|José Ernesto]] em [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

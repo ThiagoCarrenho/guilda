@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/jardim-do-capitao-varnost/mik-asa/"}
+{"dg-publish":true,"permalink":"/Aventuras/Jardim do Capitão Varnost/Mik-Asa/","noteIcon":"","created":"2025-10-13T17:42:11.130-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

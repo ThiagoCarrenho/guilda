@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/cacada-nas-sanguinarias/isriktas-skyline/"}
+{"dg-publish":true,"permalink":"/Aventuras/Caçada nas Sanguinárias/Isriktas Skyline/","noteIcon":"","created":"2025-10-13T17:42:08.682-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

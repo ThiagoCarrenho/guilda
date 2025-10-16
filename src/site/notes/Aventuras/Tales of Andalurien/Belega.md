@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/tales-of-andalurien/belega/"}
+{"dg-publish":true,"permalink":"/Aventuras/Tales of Andalurien/Belega/","noteIcon":"","created":"2025-10-14T11:30:52.658-03:00"}
 ---
 
 *Personagem de [[Jogadores/Franciane\|Franciane]] em [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], no sistema [[Sistemas/D&D 5e\|D&D 5e]].*

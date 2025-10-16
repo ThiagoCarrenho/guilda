@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jogadores/george/"}
+{"dg-publish":true,"permalink":"/Jogadores/George/","noteIcon":"","created":"2025-10-13T17:42:06.485-03:00"}
 ---
 
 Amigo de [[Jogadores/Raul Teixeira\|Raul Teixeira]].

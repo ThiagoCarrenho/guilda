@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/carga-de-chromo-vermelho/carga-de-chromo-vermelho/"}
+{"dg-publish":true,"permalink":"/Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho/","noteIcon":"","created":"2025-10-13T17:42:08.912-03:00"}
 ---
 
 [[Sistemas/Cyberpunk RED\|Cyberpunk RED]]

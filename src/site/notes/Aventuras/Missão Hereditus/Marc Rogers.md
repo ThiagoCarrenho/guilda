@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/missao-hereditus/marc-rogers/"}
+{"dg-publish":true,"permalink":"/Aventuras/Missão Hereditus/Marc Rogers/","noteIcon":"","created":"2025-10-13T17:42:13.149-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/ascencao-do-deus-dragao/mond/"}
+{"dg-publish":true,"permalink":"/Aventuras/Ascenção do Deus Dragão/Mond/","noteIcon":"","created":"2025-10-13T19:47:17.821-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

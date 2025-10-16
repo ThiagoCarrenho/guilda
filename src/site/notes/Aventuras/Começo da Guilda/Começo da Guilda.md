@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/comeco-da-guilda/comeco-da-guilda/"}
+{"dg-publish":true,"permalink":"/Aventuras/Começo da Guilda/Começo da Guilda/","noteIcon":"","created":"2025-10-13T18:35:24.204-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Jozsef\|Jozsef]];

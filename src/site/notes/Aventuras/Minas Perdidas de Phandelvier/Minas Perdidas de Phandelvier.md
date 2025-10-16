@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/minas-perdidas-de-phandelvier/minas-perdidas-de-phandelvier/"}
+{"dg-publish":true,"permalink":"/Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier/","noteIcon":"","created":"2025-10-13T18:21:18.267-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];

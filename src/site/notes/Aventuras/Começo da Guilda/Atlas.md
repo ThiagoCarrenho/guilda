@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/comeco-da-guilda/atlas/"}
+{"dg-publish":true,"permalink":"/Aventuras/Começo da Guilda/Atlas/","noteIcon":"","created":"2025-10-13T18:35:48.202-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]], no sistema [[Sistemas/Tormenta20\|Tormenta20]] .*

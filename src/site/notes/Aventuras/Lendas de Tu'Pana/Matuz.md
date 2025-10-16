@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/lendas-de-tu-pana/matuz/"}
+{"dg-publish":true,"permalink":"/Aventuras/Lendas de Tu'Pana/Matuz/","noteIcon":"","created":"2025-10-14T10:52:33.765-03:00"}
 ---
 
 *Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

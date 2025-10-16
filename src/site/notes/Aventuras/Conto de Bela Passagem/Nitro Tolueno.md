@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/conto-de-bela-passagem/nitro-tolueno/"}
+{"dg-publish":true,"permalink":"/Aventuras/Conto de Bela Passagem/Nitro Tolueno/","noteIcon":"","created":"2025-10-13T17:42:11.183-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]], no sistema [[Sistemas/Skyfall RPG\|Skyfall RPG]].*

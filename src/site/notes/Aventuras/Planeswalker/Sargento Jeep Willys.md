@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/planeswalker/sargento-jeep-willys/"}
+{"dg-publish":true,"permalink":"/Aventuras/Planeswalker/Sargento Jeep Willys/","noteIcon":"","created":"2025-10-14T11:10:39.508-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

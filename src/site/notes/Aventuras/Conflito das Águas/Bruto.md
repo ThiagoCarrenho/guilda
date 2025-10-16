@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/conflito-das-aguas/bruto/"}
+{"dg-publish":true,"permalink":"/Aventuras/Conflito das Águas/Bruto/","noteIcon":"","created":"2025-10-13T17:42:08.636-03:00"}
 ---
 
 *Personagem de [[Jogadores/George\|George]] em [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

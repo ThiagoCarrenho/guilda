@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/tales-of-andalurien/luisao/"}
+{"dg-publish":true,"permalink":"/Aventuras/Tales of Andalurien/Luisão/","noteIcon":"","created":"2025-10-14T11:32:33.287-03:00"}
 ---
 
 *Personagem de [[Aventuras/Tales of Andalurien/Luisão\|Luisão]] em [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], no sistema [[Sistemas/D&D 5e\|D&D 5e]].*

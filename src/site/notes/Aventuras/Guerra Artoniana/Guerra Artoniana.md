@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/guerra-artoniana/guerra-artoniana/"}
+{"dg-publish":true,"permalink":"/Aventuras/Guerra Artoniana/Guerra Artoniana/","noteIcon":"","created":"2025-10-13T17:42:13.089-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

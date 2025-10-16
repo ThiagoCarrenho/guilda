@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/a-voz-das-mares/desconhecido-dani-001/"}
+{"dg-publish":true,"permalink":"/Aventuras/A Voz das Marés/Desconhecido-Dani-001/","noteIcon":"","created":"2025-10-13T17:42:11.018-03:00"}
 ---
 
 *Personagem de [[Jogadores/Daniela\|Daniela]] em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

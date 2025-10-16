@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jogadores/thiago-carro/"}
+{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","noteIcon":"","created":"2025-10-13T17:42:08.670-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/invasao-ao-vulcao-negro/invasao-ao-vulcao-negro/"}
+{"dg-publish":true,"permalink":"/Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro/","noteIcon":"","created":"2025-10-14T10:19:45.106-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];

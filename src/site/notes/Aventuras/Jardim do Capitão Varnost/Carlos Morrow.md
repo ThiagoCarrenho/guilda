@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventuras/jardim-do-capitao-varnost/carlos-morrow/"}
+{"dg-publish":true,"permalink":"/Aventuras/Jardim do Capitão Varnost/Carlos Morrow/","noteIcon":"","created":"2025-10-13T17:42:11.011-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
