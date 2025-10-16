@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/A GUILDA/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-13T17:42:13.348-03:00"}
 ---
 
+# A GUILDA
+
 A **GUILDA** - **Grupo Único dos Indivíduos Ligados a Diversas Aventuras**, é um grupo de amigos que se uniu para jogar RPG, em diversas histórias diferentes, variando Sistemas, [[Mestres e Jogadores\|Mestres e Jogadores]] e, principalmente, [[Aventuras\|Aventuras]].
 
 Aqui apresentamos, em ordem:
