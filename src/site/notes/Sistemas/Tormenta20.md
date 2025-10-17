@@ -3,6 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
+- [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões por [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
 - [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]]: One-shot de caçada por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 

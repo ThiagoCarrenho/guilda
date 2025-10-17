@@ -33,6 +33,7 @@ Mestre de Tormenta20, D&D 5e e Cyberpunk RED.
 ### Gabriel Carrenho
 [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] é irmão de [[Jogadores/Thiago Carro\|Thiago Carro]]. Católico.
 Tem anão como sua raça preferida, e gosta de inventores e criativos.
+- **Mesa mestrada predileta:** [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - **Personagem predileto:** [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?;
 - **Atualmente jogando**;
 ### Miguel de Maria

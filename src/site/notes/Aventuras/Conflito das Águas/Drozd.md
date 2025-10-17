@@ -10,7 +10,7 @@
 **Classe:** Bárbaro
 **Divindade:** Megalokk
 
-![token_1.png](/img/user/Aventuras/Conflito%20das%20%C3%81guas/token_1.png)
+![token_drozd.png](/img/user/Aventuras/Conflito%20das%20%C3%81guas/token_drozd.png)
 
 ---
 #### Descrição

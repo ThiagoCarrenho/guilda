@@ -109,6 +109,8 @@ Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
+Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões.
+
 ### O Futuro
  
-Esse texto foi escrito no final de 2025, enquanto a GUILDA joga [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]] e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.
+Esse texto foi escrito no final de 2025, enquanto a GUILDA joga [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.

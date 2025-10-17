@@ -11,6 +11,21 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores\|Mestres e Jogadores]]
 Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 
 ---
+### Irmandade do Martelo
+**Nome da Aventura:** [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+**Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+**Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+**Tamanho:** Aventura breve;
+**Data de Jogo:** 17/10/2025-Hoje;
+**Sessões:** 0 online;
+**Nível dos Personagens**: 3;
+**Descrição:** Anões guerream pela irmandade.
+**Personagens e Jogadores:**
+- [[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]], de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]], de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
+
+---
 ### Missão Hereditus
 **Nome da Aventura:** [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

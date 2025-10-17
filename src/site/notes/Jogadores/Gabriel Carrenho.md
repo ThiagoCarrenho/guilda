@@ -7,8 +7,14 @@ Fã de Harry Potter, Star Wars, Senhor dos Anéis e de cultura nerd em geral.
 
 Seus personagens são, em geral, anões e rabugentos, e sempre têm algum ponto de criatividade ou invenção, trazendo a característica engenhosa do seu autor.
 
-Personagem predileto: [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?.
+Mestre de [[Sistemas/Tormenta20\|Tormenta20]].
 
+Aventura favorita criada fora [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e o personagem predileto foi [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?.
+
+---
+## Mestre
+Enquanto Mestre, Gabriel conduziu as seguintes aventuras:
+- [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões em [[Sistemas/Tormenta20\|Tormenta20]];
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Gabriel:

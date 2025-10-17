@@ -42,6 +42,10 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 ---
 ## Aventuras em Andamento
 
+### Irmandade do Martelo
+
+Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]]), [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
+
 ### Missão Hereditus
 
 Em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Missão Hereditus/Cypher\|Cypher]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Missão Hereditus/Oraskin\|Oraskin]]) em uma missão espacial em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], numa busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
