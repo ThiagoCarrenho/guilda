@@ -17,6 +17,11 @@ Para ver os jogos que jogamos, acesse [[Aventuras\|Aventuras]].
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
+
+![grupo.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
+*Grupo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*
+
+---
 ## Links Úteis
 #### Imagens de personagem
 - HeroForge: https://www.heroforge.com/
@@ -46,6 +51,3 @@ Em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], o Mestr
 Em [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]),  [[Jogadores/Laura\|Laura]] ([[Aventuras/Guerra Artoniana/Mya\|Mya]] e a falecida [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 
 ---
-
-![grupo.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
-*Grupo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*
