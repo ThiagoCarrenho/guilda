@@ -68,7 +68,7 @@ Agora todos os refugiados estão no salão do reino de Eldoria, o Rei Alaric est
 Afetada por diversas intercorrências, o grupo não conseguiu se unir, então o mestre explicou para o Thiago um pouco sobre o mundo que estava planejando, e sobre a história do começo da aventura.
 
 ---
-## Sessão 1 (20/10/2025) - O Novo Rei de Thargrum
+## Sessão 1 (20/10/2025) - Salve o Rei sob a Montanha
 
 A história começa num cenário de destruição, corpos mortos em combate, todos nobres, num salão real no qual o rei os havia reunido, e foram atacados. Na parede, escrito com sangue, há a frase:
 =="O Caminho dos Ventos espera os filhos da pedra".==
