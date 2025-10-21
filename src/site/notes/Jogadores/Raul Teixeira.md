@@ -18,7 +18,6 @@ Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Si
 ---
 ## Mestre
 Enquanto Mestre, Raul conduziu as seguintes aventuras:
-- [[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]], de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]]: Aventura breve sci-fi de busca em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica em [[Sistemas/Tormenta20\|Tormenta20]]; 
 - [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]]: One-shot de caçada em [[Sistemas/Tormenta20\|Tormenta20]]; 
@@ -33,6 +32,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
+- [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], o tira em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
 - [[Aventuras/Jardim do Capitão Varnost/Carlos Morrow\|Carlos Morrow]], o feiticeiro atormentado devoto de Yrr'thulu de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
 - [[Aventuras/Conto de Bela Passagem/Nitro Tolueno\|Nitro Tolueno]], o detetive magictecnológico de [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];

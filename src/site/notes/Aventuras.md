@@ -21,9 +21,9 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Nível dos Personagens**: 3;
 **Descrição:** Anões guerream pela irmandade.
 **Personagens e Jogadores:**
-- [[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]], de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]], de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
 ---
 ### Missão Hereditus

@@ -7,15 +7,15 @@
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 0 online;
+**Sessões:** 1 online;
 **Nível dos Personagens**: 3;
 
 **Descrição:** Anões guerream pela irmandade.
 
 **Personagens e Jogadores:**
-- [[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]], de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]], de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
 ![Pasted image 20251017180819.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/Pasted%20image%2020251017180819.jpg)
 
@@ -62,3 +62,48 @@ Agora todos os refugiados estão no salão do reino de Eldoria, o Rei Alaric est
 
 #### Brasão de Thargrum
 ![Pasted image 20251017180804.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/Pasted%20image%2020251017180804.jpg)
+
+---
+## Quase-Sessão 0 (17/10/2025)
+Afetada por diversas intercorrências, o grupo não conseguiu se unir, então o mestre explicou para o Thiago um pouco sobre o mundo que estava planejando, e sobre a história do começo da aventura.
+
+---
+## Sessão 1 (20/10/2025) - O Novo Rei de Thargrum
+
+A história começa num cenário de destruição, corpos mortos em combate, todos nobres, num salão real no qual o rei os havia reunido, e foram atacados. Na parede, escrito com sangue, há a frase:
+=="O Caminho dos Ventos espera os filhos da pedra".==
+
+Nota-se então um dos cadáveres se mexendo, e, decomposto em menos de algumas horas, vemos que o corpo de Bóra Quebratudo já se tornou apenas esqueleto, e este se levanta. Ele não lembra de nada de sua vida, mas ve suas antigas roupas, e seu nome escrito nela.
+
+Incrivelmente, ele tem barba, pois a barba de um anão sai diretamente de seu crânio. Pega um osso de um dos cadáveres ao lado - o fêmur de seu pai - e sai do local em busca do Caminho dos Ventos.
+
+Após o ataque, a maior parte dos anões fugiu para o reino de Eldoria, que, quando soube da notícia do ataque, enviou um exército aos outros dois reinos da aliança: Vaeloria e Nerya. Chega, então, cerca de 7 dias depois, uma comitiva com a Rainha Seravalen (de Vaeloria), reino de cavaleiros, Rainha Miralen (de Nerya) e o Sempre Observado de Oggetor, Erwin Merek, goblin com roupa de humano, mesmo sem ter sido ativamente convidado para a ocasião.
+
+As rainhas chegam pilhadas com a guerra e o goblin oferece ajuda, além destes, chega também Cedric Mapafeito, clérigo do deus dos mapas, que já chega falando: "Vocês vão precisar de um clérigo dos mapas, pois o de vocês faleceu em combate. É necessario orar para o deus dos mapas, para pedir um caminho a Cartemir", e Aleric, rei de Eldoria, pede calma, pois nem mesmo havia contado aos anões sobre a comitiva que deveria ser formada.
+
+O primeiro ponto que precisam resolver é um rei, pois o trono de Thargrum está vacante. Bóra, o esqueleto, chega durante essa discussão, e é apontado para o cargo, pois tem "sangue nobre", e rapidamente se tornou ósteon, os deuses tem algo para ele, mas ele de nada lembra, não sabe nem o nome de seu próprio reino. Um outro se candidata, Zsim, um explorador de ruínas e caçador de tesouros. Aleric, rei de Eldoria, conhecendo o povo do reino irmão, ainda pede para o incansável Fusca, que outrora fora nomeado para o Conselho - e se tivesse aceitado, seria outro corpo inerte no reino de Thargrum, mas este não quer trabalho de gente que fica sentado e se recusa a se candidatar.
+
+Por voto popular, Zsim se torna o novo Rei de Thargrum. Ainda que de forma temporária. Bóra se recusou a perder, por ser devoto da Guerra, e desafiou o anão para um combate, os ânimos cresceram, mas não houve derramamento de sangue. Saindo duplamente derrotado, ele fica suficientemente mais fraco, como se tivesse perdido a energia, e, como forma de reconciliação com o seu deus, se põe a servir o seu novo rei, a fim de trazer a vitória a seu reino.
+
+Aleric, Rei de Eldoria, fala que será necessário decidir um local para os anões ficar, pois Eldoria está no máximo de suas capacidades, ou reconquistam a montanha, ou encontram um outro lugar. Para isso, o rei deve ir até o Lago dos Ventos, pedir orientação a Cartemir, e precisará de ajuda nessa empreeitada. Bóra Quebratudo é o primeiro a se candidatar, jurando defender seu reino, Aleric também pede auxílio a Fusca, o meio-máquina, sabendo que este já desafiou a morte diversas vezes e saiu vitorioso (e adoraria fazer isso de novo).
+
+Se segue uma conversa entre os líderes dos reinos, o clérigo de Cartemir, e os integrantes da comitiva, num jantar que, aos olhos de Fusca, foi insuportavelemente chato. Pelo menos neste ele conseguiu auxílio material de Eldoria, um machado anão cruel, o ósteon recebeu uma meia armadura ajustada, e o novo rei recebeu ainda mais coisas - o que, como um caçador de recompensas, foi muito gratificante.
+
+O grupo então seguiu até a rosa dos ventos, com a *péssima* companhia de Cedric Mapafeito, em algumas montarias cedidas por Vaeloria, sendo que o novo rei de Thargrum viajara em uma carruagem. Após passar por Valeoria, seguiram para o Lago dos ventos e, lá chegando, visitaram a rocha.
+
+Haviam muitas vendinhas no local, Cedric fez suas orações e o rei, de forma bastante nobre, procurou artefatos que pudesse... levar para seu reino... ou algo assim, mas não teve sucesso. 
+
+Saindo do local, um outro clérigo de Cartemir, recém ordenado, pede ajuda para que busquem fugitivos que roubaram seus mapas e foram em direção a um bosque próximo. Após um tempo considerando, o grupo aceita a missão, por meio do rei Zsim, busca os fugitivos e engaja em combate.
+
+Cedric e o outro devoto de Cartemir evitam o derramamento de sangue. Bóra, devoto da guerra, vê ali a oportunidade perfeita de mostrar serviço ao seu rei, e usa magias de combate para favorecer a equipe, mas é Fusca que rouba cena. Seus olhos ficam vermelhos, as partes mecânicas de seu corpo soltam fumaças, e, trocando de forma muito ágil de armas, fazendo acrobacias inesperadas para um anão, e atacando com machados, marretas e martelos, assassina os três ladrões.
+
+Após o fim do combate, o sanguinário passa um tempo polindo suas armas, o rei e seu novo fiel escudeiro de ossos encontram os mapas, mas não são capazes de lê-lo. Após falharem na leitura, cedem os mapas aos devotos. Cedric se assusta, pois não são mapas quaisquer, são importantes, já a vítima do assalto recolhe aquilo que lhe é necessário, e deixa alguns mapas úteis com o grupo, como forma de recompensa.
+
+No que voltam ao lago dos ventos, Cedric manda o companheiro de devoção ao local de Orientação - um retorno à formação clerical. Nisto chega um mensageiro, dizendo que todos os reis de Khalmyrthaal devem se reunir em Gearholt, o que já era esperado, segundo a conversa tida durante aquele jantar.
+
+Cedric se despede dos aventureiros e volta a sua terra natal. Agora, o grupo formado por um anão artificial - o sanguinário meio-construto Fusca, um ex-anão nobre - o ósteon devoto da Guerra Bóra, e o novo anão Rei de Thargrum - o caçador de recompensas Zsim, devem partir em direção à terra dos inventores, e ainda tem uma pendência a resolver:
+==Onde será a nova terra dos anões de Thargrum?==
+
+Tudo isso e mais um pouco (como tretas políticas e batalhas em trens), no próximo episódio da Irmandade do Martelo.
+
+---

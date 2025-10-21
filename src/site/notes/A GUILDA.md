@@ -44,7 +44,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 ### Irmandade do Martelo
 
-Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]]), [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
+Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
 
 ### Missão Hereditus
 

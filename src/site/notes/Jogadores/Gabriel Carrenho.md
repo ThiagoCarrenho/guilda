@@ -15,6 +15,7 @@ Aventura favorita criada fora [[Aventuras/Irmandade do Martelo/Irmandade do Mart
 ## Mestre
 Enquanto Mestre, Gabriel conduziu as seguintes aventuras:
 - [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões em [[Sistemas/Tormenta20\|Tormenta20]];
+
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Gabriel:

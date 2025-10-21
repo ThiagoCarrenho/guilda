@@ -3,7 +3,7 @@
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
-*Grupo:  [[Aventuras/Irmandade do Martelo/Desconhecido-Raul\|Desconhecido-Raul]], [[Aventuras/Irmandade do Martelo/Desconhecido-Ouros\|Desconhecido-Ouros]].
+*Grupo:  [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]].
 
 ![token-fusca.png](/img/user/Aventuras/Irmandade%20do%20Martelo/token-fusca.png)
 
