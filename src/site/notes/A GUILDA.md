@@ -14,6 +14,8 @@ Para conhecer nossa história, acesse [[História da GUILDA\|História da GUILDA
 
 Para ver os jogos que jogamos, acesse [[Aventuras\|Aventuras]].
 
+Para ver nossas próximas possíveis histórias, acesse [[Ideias Futuras\|Ideias Futuras]].
+
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
