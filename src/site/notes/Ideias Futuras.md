@@ -34,7 +34,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e,
 - **Mestre:** [[Jogadores/Laura\|Laura]];
 - **Descrição:** Não sei, só sei que a Laurinha queria mestrar OP.
 ---
-#### \#005 - Loop Temporal
+#### \#005 Loop Temporal
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
