@@ -11,6 +11,18 @@
 - **Origem** Viajante Intrépido: Busca sempre lugares novos
 - **Classe:** Ocultista
 - **Trilha:** Elementalista
+- 3 Pontos de Sombra gastos
+- 0 Testes de Morte falhados
+
+![leo-geckkod.png](/img/user/Aventuras/Conto%20de%20Bela%20Passagem/leo-geckkod.png)
+
+#### Atributos
+- FOR 0
+- DES 2
+- CON 2
+- INT 3
+- SAB 0
+- CAR 0
 ### Descrição
 - Foice e corrente como foco arcano
 - Amaldiçoado por ficar preso numa caverna com muito Aetherium próximo a ilha de Kiki, onde também desenvolveu sua segunda herança

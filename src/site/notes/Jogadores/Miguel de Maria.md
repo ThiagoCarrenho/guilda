@@ -4,10 +4,9 @@
 
 Católico, pai de família e guerreiro da vida real.
 Venceu um câncer.
+ † 21/10/2025
 
 Graças ao RPG e a igreja, amigo de [[Jogadores/Thiago Carro\|Thiago Carro]], [[Jogadores/Raul Teixeira\|Raul Teixeira]], [[Jogadores/Laura\|Laura]], [[Jogadores/Raul Ouros\|Raul Ouros]] e [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]].
-
-Personagem predileto: [[Aventuras/Guerra Artoniana/Harcos\|Harcos]]?
 
 ---
 ## Personagens

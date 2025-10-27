@@ -11,11 +11,18 @@
 **Classe:** Clérigo
 **Divindade:** Allihanna
 
-![Escallac token.png](/img/user/Aventuras/Conto%20de%20Bela%20Passagem/Escallac%20token.png)
+![Escallac token.png](/img/user/Aventuras/Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/Escallac%20token.png)
 #### Descrição
 - Anão idoso, devoto da natureza
 - Rabugento, mas disposto a ajudar, desde que isso ajude também a colocr as coisas em equilíbrios
 - Acompanhado por Glipto, o minigliptodonte
+---
+#### Background
+Nascido junto dos Bárbaros Anões, no Vale da Escama, daí nunca saiu, mas muito explorou, caçou monstros nas montanhas, adentrou a floresta setentrional, resolveu conflitos com o Forte Estrela Ladrante e com o povo Duyshidakk, sempre almejando o equilíbrio natural das coisas, com o advento da idade, assim como seu povo, se tornou mais recluso, e menos participante nos conflitos da região, estabelecendo total confiança em Allihanna em todas suas formas naturais (até mesmo a pedra), se isolou dentro da floresta, mas segue tendo participação nas decisões da tribo, não só porque visita-a mensalmente, como também porque é visitado quase diariamente por alguém precisando de conselhos divinos.
+
+Dentre suas caças, destaca-se o Cornalado, um monstro de tamanho médio, como um lobo selvagem, mas com um chifre amedrontador e belas asas, boa parte de seus espólios vieram dessa caçada.
+
+O Sábio, como é chamado pelos seus compatriotas, recentemente teve um sonho, um sonho que, pelo que ele entendeu, traria equilíbrio para o Vale da Escama, mas dizia que era necessário lutar por esse equilíbrio. Chegava, no sonho, quatro homens: o homem de metal, o homem de saia, o homem de flechas e o homem de raios, assim, ele tomou rumo para a Tribo, e profetiza a chegada desses homens por uma semana, até o dia em que eles realmente chegam.
 
 ---
 #### Resumo da Ficha

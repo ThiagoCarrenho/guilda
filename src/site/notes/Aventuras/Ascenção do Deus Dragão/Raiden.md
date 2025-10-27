@@ -11,13 +11,80 @@ Não chegou a conhecer os sucessores [[Aventuras/Ascenção do Deus Dragão/Esca
 **Origem:** Guerreiro Escolhido (Homebrew)
 **Classe:** Bardo 3, Clérigo de Arsenal 2
 
-![Raiden_t.png](/img/user/Aventuras/Conto%20de%20Bela%20Passagem/Raiden_t.png)
+![Raiden_t.png](/img/user/Aventuras/Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/Raiden_t.png)
 #### Descrição
 - Filho de um dragão elétrico, pedindo isso à Wynna, mas abandonado em frente a uma vila (Tabmok) quando percebe que não consegue cuidar de uma criança
 - Aprendeu a lutar com um chapéu que lhe foi entregue por um aventureiro que passou pela taverna do pai
 - Honroso, orgulhoso, esquentadinho, brigão, mas disposto a ajudar
 #### Fim da Aventura
 Morreu por uma flechada amiga no combate contra um Wyvern.
+
+---
+#### Background
+Nome dado pelo pai adotivo: **Jacievlo** (referência ao carro elétrico JAC iEV20)
+
+Nome que ele escolheu para aventurar-se: **Raiden** (**RAID3N**) 
+
+_Essa história leva em conta o caso em que Raiden se devota a Kallyadranoch, alterar se necessário._
+
+A história desse bom rapaz começa com um grande "_e se..._": e se os dragões tivessem filhos?
+
+Existem muitos dragões espalhados por Arton, um deles tirou nossa dúvida, numa prece à deusa Wynna, que concede desejos a todos que o pedem, um dragão de raio solicitou à Deusa que lhe desse um filho, e seu desejo foi atendido, a mãe dos qareen lhe deu uma criatura mágica, um qareen com ascendência elemental de eletricidade.
+
+Logo na primeira semana de vida do pequeno, o dragão percebeu que, por mais que conheça a vida e os seres, saiba caçar e alimentar um humanóide, uma criança é diferente.
+
+O dragão percebeu que não seria capaz de tal tarefa, e para não ter seu orgulho ferido, antes que qualquer outro soubesse, ele arranjou uma maneira de despejar a criança, e com uma carta e uma escama cinza, deixou-a na porta de uma taverna na cidade de **Tabmok**, na entrada das Sanguinárias.
+
+Assim que o taverneiro leu a carta, riu, dizendo "que criatividade, se dizer dragão para largar o filho!", e percebeu que havia uma escama junto da criança, decidiu guardar os itens para entregar quando a criança crescesse.
+
+Mesmo assim, o taverneiro adotou a criança, um anão, **Jacodon Forja-Apagada**, de uma família de anões que largou a vida de mineração para viver com outras ocupações na sociedade, Jacodon é o dono atual da estalagem, de uns 97 anos (lembrando que anões vivem o dobro do normal), com afeições bem redondas, tudo sempre bem curvo, e nada fino, a barriga de chopp, o nariz bolinha, as orelhas menores e mais largas, uma boa barba, mas o que mais chama a atenção e Jacodon é, sem dúvida, a monocelha grossa, costumam dizer que quem tem sobrancelhas grossas tem uma taturana sobre cada olho, bem, ele deve ter A Taturana Rainha, se isso existisse.
+
+Vendo que o recém-nascido apresentava traços humanos, começou a pensar num nome para o pequenino, e num espirro do bebê, saiu uma faísca, então ele entendeu, é um daquele povo com ar de mágico, cheio de nome fino, e brincando com o jeito fino de falar dos outros povos, chegou no nome: "ui ui, eu sou jaciodoooiooo... ou, jacieviiiii... humm... jacievlo! Parece bem estranho, que nem os outros pomposos, hehe, Jacievlo".
+
+Trouxe para dentro de sua casa e de sua taverna, Jacodon, sua esposa **Vecamma** tinha dado a luz à pouco tempo de uma garotinha, **Ludatha**, três dias mais nova que Jacievlo, a terceira filha do casal, e provavelmente última, dada a idade dos pais, além dela, **Dutro**, de 13 anos é o filho do meio, e **Martiba,** de 41 anos, a primogênita.
+
+A taverna leva o nome da família: _Taverna Forja-Apagada_, e é um nome muito adequado, já que a taverna realmente tem sinais de forja, um bom tema para um local no meio das montanhas, Jacodon é o dono e cuidador principal, Vecamma trabalha quando não tem que cuidar dos filhos, principalmente na parte da limpeza, Martiba aprendeu a arte da culinária, e Dutro era garçom, além destes, trabalharam lá muitas pessoas, como cozinheiros, auxiliares de limpeza, garçons, vira e mexe alguém novo era contratado, mas um cargo nunca saiu de posição. Quem gerenciava as finanças sempre foi **Plint de Tibar**, tinha 40 anos quando Jacievlo chegou, agora, com 60, segue firme no cargo, extremamente leal ao Jacodon, e muito amigo, era normal num dia de festa um fazer surpresa para o outro... aquela surpresa já esperada, mas ainda sim, empolgante, os dois possuiam um laço de amizade que poucos artonianos conheceram ou conhecerão, a ponto de Jacodon sugerir que ele se casasse com sua filha, mas a ideia não foi para frente.
+
+E nesse meio Jacievlo cresceu, Dutro se tornou adulto e formou seu próprio negócio, de materiais de construção, Martiba aperfeiçoou-se cozinheira, Vecamma deixou de trabalhar pela idade, mas os inseparáveis Jacodon e Plint seguiam rumando a taverna em frente.
+
+Uma coisa era engraçada... toda noite três dias antes do aniversário da irmã era noite de tempestade, é, Jacievlo comemorava seu nascimento junto com Ludatha, mas era na noite de tempestade que sua festa acontecia, e era, sem dúvidas, a maior tempestade.
+
+Assim que alcançou uma certa idade, Jacodon contou toda verdade, que ele nunca escondera dos outros, o menino foi abandonado e entregue. Claro, era perceptível que não era um anão, mas chegara a hora de entender tudo isso.
+
+Jacodon lhe entregou a carta e a escama, e por mais que insistisse, depois que Jacievlo leu, nada lhe tirava da cabeça que ele era filho de dragão. Todos concordavam que foi um qareen irresponsável que o abandonou, mas para não decepcionar o pequeno, deixavam crer na sua história.
+
+E assim ele cresceu no meio dos aventureiros que iam se aventurar nas Sanguinárias, sempre alguém novo passava na vila, e ele, desejoso de encontrar o pai-dragão, pedia a cada um que o ensinasse um pouco do que fazia. Foi lecionado por guerreiros armadurados, ladinos roubaram os itens de um de seus bolsos e puseram em outros sem ele perceber, feiticeiros iludiram-no deixando sua mão verde, as pessoas passavam, lhe davam um agrado, e de pedacinho em pedacinho, muito ele aprendeu.
+
+Jacievlo atingiu a mocidade e decidiu ser um aventureiro, prometeu trabalhar bastante para retribuir o tanto que recebeu dos Forja-Apagada e cumpriu sua palavra, pedia para que os aventureiros contassem sobre dragões, um devoto de Kallyadranoch, **Calicchio**, até lhe deixou um livro, e um símbolo sagrado do Deus, falando para pensar bem na proposta de reverenciar esses seres magníficos, na noite deste dia, apareceu uma segunda escama, cor de cobre, sob o seu travesseiro.
+
+Outro personagem marcante foi **Kunglao**, este lhe deu e lhe ensinou a manusear uma arma única, um chapéu bumerangue, que foi nomeado _Panama_, e, vendo que Jacievlo trazia consigo um pouco de eletricidade, mostrou a ele a beleza dos raios e trovões, já que a noite que Kunglao passo com ele era de tempestade, sem saber, seu aniversário, ele passou a noite em claro conversando, mas quando chegou no quarto, lá se encontrava uma outra escama, uma azul.
+
+Por fim, **Sr. Au****bamiyagi**, quem lhe mostrou a arte da guerra, entregando-lhe um livro de Sun Tzu, escritor do Império de Jade, livro que ele leu e guardou, mas durante a leitura, todas as aventuras vitoriosas do Mestre Arsenal, na sua estadia de uma semana na taverna, o velhinho muito lhe ensinou, quando foi partir, deixou o seu próprio símbolo com o pequeno, agora apaixonado pelo conflito.
+
+Num outro dia, Jacodon pediu a Plint que lhe ensinasse o valor de bem manusear o dinheiro, Jacievlo tomou todas as notas possíveis, e, novamente, lhe apareceu uma escama nova, dessa vez, dourada.
+
+No seu aniversário (que ele não sabia) de 20 anos, em mais uma tempestade, ele olhou pela janela, e num raio, viu a silhueta de um dragão, aquilo lhe abriu a mente, ele sentiu a necessidade de ir ao encontro daquela criatura, desceu as escadas correndo e saiu na rua, vendo, na porta de entrada da taverna uma caixinha de presentes, ao abrir uma carta, com a mesma letra da carta que tinha de seu pai, escrito "Feliz aniversário, Raid3n" e um símbolo de raio, desembrulhando, veio a quinta escama, uma escama amarela, que ao toque, deu um choque, então tudo fez sentido, cinco escamas de cores diferentes, um símbolo sagrado de Kally... será que seu pai quem escondeu essas escamas, será que aquele dragão era seu pai, será que os dragões têm forma humana e Kunglao ou Calicchio, será que Plint, ou o velhinho Aubamiyagi eram a forma de seu pai, será que ele contratou aventureiros para esconder as escamas sob o travesseiro... todas essas perguntas rodeiam a cabeça de Jacievlo.
+
+Enquanto confabulava possibilidades, percebeu que havia mais coisa no fundo da caixa, escrita na embalagem: "Você está sendo observado, a _White Lotus Society_ confia no teu potencial de ser um guerreiro defensor de Arton", foi quando passou uma pessoa caminhando e derrubou algo metálico, ele pegou e foi devolver, mas quando dobrou a esquina, a pessoa desaparecera, e o item era uma insígnia de lótus branca. O que será que querem com ele? Será que estão ligados a seu pai? Ligados a Kally? Será que ele tem todo esse potencial? Dia do seu aniversário, maior presente, a dúvida.
+
+Daí em diante ele teve certeza do que deveria fazer, deixou em casa o símbolo sagrado de Kally, mas trouxe consigo as escamas, deixou os livros e os estudos e partiu, inspirado pelo mestre Arsenal que venceu um torneio épico, quem sabe ele também tenha um de mesmo nível lhe esperando.
+
+É nessa situação, procurando aventuras com dragões, que **Raiden** começa a aventura, sabendo que já pagou boa parte do que "deve" à família, espera a oportunidade perfeita para se despedir.
+
+  
+
+**Frases que descrevem o que ele acredita:**
+
+- O maior ato de honra com um oponente é lutar até a última das forças e matá-lo em caso de vitória;  
+- É uma desonra estar vivo por piedade de um adversário;  
+- Todo aquele que mata um oponente é digno de seu espólio;  
+- Cada um deve ser respeitado e admirado de acordo com seus feitos, glórias e conquistas;  
+- Todo aquele que toma o que é do outro sem merecer (ladrões) devem ser punido... com uma batalha!  
+- Aqueles que vivem com a mente livre são como um dia de céu limpo, são agradáveis, mas vivem sem objetivo, e qualquer um faz o que quer com um dia de céu limpo. Deveríamos todos viver como numa tempestade, a tempestade é majestosa, e não dá liberdade total às pessoas, mostre quem manda em você, e esteja um passo mais próximo de mudar o mundo.  
+- A verdadeira força não está em acabar com o que é contrário vós, mas em converter esta força para teus desígnios. Não há nada de errado em ser silencioso, mas usar isso para furto é desonroso, ao invés de matar um ladrão, ensine-o a honra, e ele há de usar seu silêncio para derrotar inimigos em combate.  
+- Proteja o que ama com a força que tem, isso inclui posses e conquistas, mas também amigos.
+
+**Palavras-Chave:** _Honroso, Orgulhoso, Majestoso, Bom-Amigo, Esquentadinho, Espirituoso, Esperançoso, Disposto a ajudar, Brigão_
 
 ---
 

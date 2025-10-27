@@ -11,7 +11,7 @@
 
 Nesta história, os aventureiros entram numa busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
 Participam desta história:
-- [[Aventuras/Missão Hereditus/Cypher\|Cypher]], o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]]
 
@@ -22,16 +22,16 @@ Participam desta história:
 #### Sessão 00 (06/10/2025) - Criação de Personagens
 - Thiago “Carro” - Ambu Lance - depois trocou pro Oraskin.
 - Gabriel Carrenho - Marc Roger (Marcos Rogério).
-- Raul Ouros - Michel Kaiser - depois trocou pro Cypher.
+- Raul Ouros - Michel Kaiser - depois trocou pro Cifer.
 - Luís Andreo - Bruce Willys do espaço.
 #### Sessão 01 (10/10/2025) - Bem-vindos a Csina
 - Ano 3200.
 - Compramos a nave de um tal de Bolly. Ele mandou procurar o Comandante Joric, que teria uma missão.
 - Atmosfera respirável, mas Csina é deserto sem vida. Hereditus capital.
-- Cypher - Lagarto de 2m de altura. Um alienígena "amigável".
+- Cifer - Lagarto de 2m de altura. Um alienígena "amigável".
 - Marc Rogers - pequeno anão treinador de drones.
 - Oraskin - criança baderneira.
-- Tempestade de Areia. Cypher resolve o problema.
+- Tempestade de Areia. Cifer resolve o problema.
 - No chão, soldados treinando. Todos têm mutação.
 - Aproximamos de um guarda com uma caixa. 6 olhos (3 de cada lado).
 - Colocamos máscaras de gás. Local tem uma toxina. Cheiro de queimado.
@@ -47,7 +47,7 @@ Participam desta história:
 - Paramos na Estação Lucy.
 - Andando pelo deserto, vão ficando mais favelado.
 - Tentamos nos disfarçar de normais. Disforce falhou.
-- Breve combate. Mark e Cypher resolveram tudo.
+- Breve combate. Mark e Cifer resolveram tudo.
 - Encontramos com Trela, usando o Bill, um dos ladrões que desistiu de lutar. Trocamos informações pela promessa de entregar o cérebro do Vor.
 - Ao Norte no Deserto, acesso ao lab secreto. Senha 1234.
 - Bill foi de bode expiatório, terminou sugado por um tentáculo.

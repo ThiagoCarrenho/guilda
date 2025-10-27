@@ -3,7 +3,7 @@
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*
-*Grupo: [[Aventuras/Missão Hereditus/Cypher\|Cypher]] e [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]].*
+*Grupo: [[Aventuras/Missão Hereditus/Cifer\|Cifer]] e [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]].*
 
 **Raça:** Humano
 **Origem:** Student (Estudante)

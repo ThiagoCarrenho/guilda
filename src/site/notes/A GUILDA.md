@@ -48,7 +48,7 @@ Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]
 
 ### Missão Hereditus
 
-Em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Missão Hereditus/Cypher\|Cypher]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Missão Hereditus/Oraskin\|Oraskin]]) em uma missão espacial em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], numa busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
+Em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Missão Hereditus/Cifer\|Cifer]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Missão Hereditus/Oraskin\|Oraskin]]) em uma missão espacial em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], numa busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
 
 ### Guerra Artoniana
 

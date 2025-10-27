@@ -10,7 +10,12 @@
 **Classe:** Ladino
 **Divindade:** Valkaria
 
+![bruto.jpg](/img/user/Aventuras/Conflito%20das%20%C3%81guas/bruto.jpg)
+
 ---
 #### Descrição
 - Extraplanar, onde segue a Lei do Mais Forte
 - Busca paz e outras maneiras de resolver problemas
+
+#### Ficha
+![bruto_page-0001.jpg](/img/user/Aventuras/Conflito%20das%20%C3%81guas/bruto_page-0001.jpg)

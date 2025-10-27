@@ -10,6 +10,19 @@
 - **Origem** Detetive: Consumido por encontrar um grupo (Guilda Neor) que percorre por Opath destruindo bibliotecas e conhecimento
 - **Classe:** Especialista
 - **Trilha:** Magitech
+- 4 Pontos de Sombra gastos
+- 1 Teste de Morte falhado
+
+![nitro.jpg](/img/user/Aventuras/Conto%20de%20Bela%20Passagem/nitro.jpg)
+
+#### Atributos
+- FOR 0
+- DES 2
+- CON 0
+- INT 1
+- SAB 1
+- CAR 2
+
 ### Descrição
 - Caçador de recompensas de pessoas
 - Armas de fogo elétricas

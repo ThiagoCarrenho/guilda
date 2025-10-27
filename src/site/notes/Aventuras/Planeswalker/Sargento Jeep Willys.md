@@ -12,3 +12,6 @@
 ---
 #### Ficha
 ![Willys_page-0001.jpg](/img/user/Aventuras/Planeswalker/Willys_page-0001.jpg)![Willys_page-0002.jpg](/img/user/Aventuras/Planeswalker/Willys_page-0002.jpg)
+
+---
+![JeepWillys_page-0001.jpg](/img/user/Aventuras/Planeswalker/JeepWillys_page-0001.jpg)

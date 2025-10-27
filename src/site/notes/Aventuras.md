@@ -36,7 +36,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Nível dos Personagens**: 1 -> 2;
 **Descrição:** Busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
 **Personagens e Jogadores:**
-- [[Aventuras/Missão Hereditus/Cypher\|Cypher]] o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Missão Hereditus/Cifer\|Cifer]] o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---

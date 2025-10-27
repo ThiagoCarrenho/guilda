@@ -7,3 +7,7 @@
 
 **Raça:** Qareen
 **Classe:** Clérigo
+
+---
+#### Ficha
+![niala_page-0001.jpg](/img/user/Aventuras/Passos%20de%20Lava/niala_page-0001.jpg)

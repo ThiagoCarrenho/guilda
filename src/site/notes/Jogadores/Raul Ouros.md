@@ -23,7 +23,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
 - [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
-- [[Aventuras/Missão Hereditus/Cypher\|Cypher]], o alienígena lagarto sniper de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+- [[Aventuras/Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/Guerra Artoniana/Nagi\|Nagi]], o flecheiro de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
 - [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]], o nerd elemental de [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];
