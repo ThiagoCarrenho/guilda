@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/Ideias Futuras/","created":"2025-10-27T18:09:50.965-03:00"}
 ---
 
-# Ideias Futuras
-
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
 A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e, de forma alguma, representa prioridade.
 
