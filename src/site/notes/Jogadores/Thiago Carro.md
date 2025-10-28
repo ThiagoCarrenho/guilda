@@ -10,8 +10,6 @@ E graças ao [[Jogadores/Raul Teixeira\|Raul Teixeira]], amigo de [[Jogadores/Da
 
 É Mestre de [[Sistemas/Tormenta20\|Tormenta20]] e [[Sistemas/Skyfall RPG\|Skyfall RPG]], tendo como gênero favorito a Alta Fantasia (High Fantasy).
 
-Opa.
-
 Quando joga, prefere classes de suporte, principalmente Clérigo e Ladino. Seus personagens costumam ter nomes de carro e usar itens na cabeça.
 
 Sua aventura criada favorita fora [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], e os seus personagens prediletos são, em ordem, [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]], [[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], [[Aventuras/Posto de Troca Baixa Vila de Lena/Daw'Kruzar\|Daw'Kruzar]], [[Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos\|Opala Seis Canecos]] e [[Aventuras/Passos de Lava/Elvo Korres\|Elvo Korres]].

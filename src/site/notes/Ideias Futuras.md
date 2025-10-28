@@ -3,7 +3,7 @@
 ---
 
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
-A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e, de forma alguma, representa prioridade.
+A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e, de forma alguma, representa prioridade.
 
 --- 
 #### \#001 C.A.O. o Campeonato Arcanum de Opath
