@@ -38,18 +38,20 @@ A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e,
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Descrição:** Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros...
 ---
+#### \#005 Loop Temporal
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Nível:** 5;
+- **Descrição:** Bem-vindos a Pequena Colina! Uma das maiores comunidades Hynne, com cerca de 2000 seres a poucos dias de Valkarya. Outrora um ponto de encontro para viajantes vindos do sul, ela se perdeu e nunca mais foi encontrada desde o dia do Cerco a Valkarya. Até hoje! Vocês, aventureiros, trombam com a vila, e descobrem que ela está em um eternop loop temporal com raízes divinas. Apenas um contrato com um Hynne suspeito mascarado pode libertá-los desse loop e salvar os habitantes da cidade...
+- **Observação:** Cuidado, spoilers no Atlas, página 60.
+---
 #### \#006 Indiana Jones e os Caçadores do Tesouro Perdido
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- **Descrição:** Contratados por um pesquisador da Academia Arcana, os aventureiros devem encontrar um artefato perdido num local selvagem. Cuidado! Puristas também o procuram!
----
-#### \#007 Além das Estrelas
-- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
-- **Sistema:** A Definir;
-- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- **Detalhes:** Conhecendo novos sistemas;
-- **Descrição:** Aventureiros e exploradores viajando por galáxias. A G.U.I.L.D.A. vai continuar sua expansão espacial, conhecendo novos mundos e novos sistemas. Vamos definir um sistema espacial mais épico como [[The Expanse\|The Expanse]] ou [[Traveller\|Traveller]], subir numa nave, e preencher o Vazio de emoção.
+- **Nível:** 5
+- **Descrição:** Contratados por um professor de história da magia da Academia Arcana, os aventureiros devem encontrar um artefato mágico perdido. Entretanto, Puristas também o procuram! A aventura envolverá exploração de lugares selvagens e batalhas contra Puristas
 ---
 #### \#008 Prisioneiros ou Jantar?
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
