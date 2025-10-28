@@ -6,7 +6,7 @@ Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis fut
 A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e, de forma alguma, representa prioridade.
 
 --- 
-#### \#001 C.A.O., o Campeonato Arcanum de Opath
+#### \#001 C.A.O. o Campeonato Arcanum de Opath
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Skyfall RPG\|Skyfall RPG]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
