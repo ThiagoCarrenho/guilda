@@ -29,7 +29,6 @@ Conhecedor exímio das regras dos jogos e "otimizador" de fichas.
 Mestre de Tormenta20, D&D 5e e Cyberpunk RED.
 - **Mesa mestrada predileta:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]?;
 - **Personagem predileto:** [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]?;
-- **NPC favorito:** Kobo;
 - **Atualmente jogando**;
 ### Gabriel Carrenho
 [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] é irmão de [[Jogadores/Thiago Carro\|Thiago Carro]]. Católico.

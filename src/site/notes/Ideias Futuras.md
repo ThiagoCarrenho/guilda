@@ -71,4 +71,62 @@ A numeração e ordem das aventuras é feita de acordo com a nossa kembrança e,
 - **Detalhes:** Personagens Heroicos;
 - **Descrição:** Há um mundo que regrediu a um período de guerras, e vive guerreando eternamente com tecnologias da 2ª Guerra Mundial. Mas há algo diferente: não são mais homens que puxam o gatilho - Mortos-Vivos e Zumbis são quem levam os inimigos a uma segunda ou terceira morte. Nesse caos, uma zumbi fêmea contrata os aventureiros para buscar e resgatar seu namorado no fronte de guerra, no meio das trincheiras.
 ---
+#### \#011 Vestígios do Silêncio
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[The Expanse\|The Expanse]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** 3 sessões + sessão 0 - podendo expandir;
+- **Gênero:** Hard Sci-fi;
+- **Descrição:** Um asteroide interestelar se aproxima do Sistema Solar, e exploradores são contratados pela colônia de Marte para investigá-lo quanto à presença de recursos. Scanners indicam um grande depósito de minérios, mas a inteligência marciana aponta que os Terráqueos também terão interesse em explorá-lo, e se precisar, lutarão por ele. Embarque nessa missão que vai envolver exploração e mistérios até então ocultos.
+---
+#### \#012 Nas Entranhas de Tiberus
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 3;
+- **Detalhes:** 2 sessões;
+- **Descrição:** Acontecimentos inesperados da Tormenta na capital do Império de Tauron fazem com que médias extremas sejam tomadas e grupos de aventureiros são convocados para adentrar locais perigosos e recuperar informações ou itens importantes. Apenas os mais corajosos (ou loucos) aceitariam essa missão.
+---
+#### \#013 O Apartamento
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 1-2;
+- **Detalhes:** 2 sessões + sessão 0;
+- **Descrição:** Mais um novo dia na mega cidade de "Nova São Paulo", e os personagens chegam de mudança para seus novos apartamentos, por coincidência todos no mesmo prédio, eles acabam se conhecendo e o resto é historia.
+- **Informação:** Adaptação para one-shot em um cenário mais brasileiro, mas as mudanças são poucas.
+---
+#### \#014 O Mistério do Baile de Inverno
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 3;
+- **Detalhes:** 2 sessões;
+- **Descrição:** Em um baile de gala em um grande povoado, coisas inesperadas irão acontecer. Um mistério surgirá e respostas precisarão ser encontradas. Convenientemente, um grupo de aventureiros estava desfrutando desse momento de festa.
+---
+#### \#015 A Caravana Perdida em Petrynia
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 3;
+- **Detalhes:** 2 sessões;
+- **Descrição:** Uma caravana se perde nas planícies empoeiradas de Petrynia e acaba em uma cidade de foras da lei que muitos duvidam da existência, mas parece que ela existe mesmo. É possível sair de um lugar assim? A que preço?
+---
+#### \#016 Preparativos para o Sckharal
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 3-4;
+- **Detalhes:** 4 sessões;
+- **Descrição:** Um dia antes do Sckharal pessoas não bem vindas são avistas em Ghallistryx, mas a as autoridades oficiais não podem utilizar os meios oficias para lidar com eles pois isso pode chegar aos ouvidos de Sckhar e ter terríveis consequências aos que falharam anteriormente em resolver a situação, logo um grupo de aventureiros deverá resolver estes problemas de formas mais discretas.
+---
+#### \#017 Cabana do Mago
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 3;
+- **Detalhes:** 2 sessões;
+- **Descrição:** A vários anos atrás um mago fez algum pacto com um ser superior, somente agora o preço por tal pacto foi cobrado, e sua esposa e filhas procuram aventureiros para trazer o mago de volta.
+- **Curiosidade:**  Aventura inspirada por uma música.
+---
 *Entre outras aventuras...*
