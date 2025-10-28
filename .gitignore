@@ -11,3 +11,7 @@ src/site/styles/_theme.*.css
 .cache
 _site/
 **/.DS_Store
+
+# Ignore only the Digital Garden plugin's config (contains tokens)
+/obsidian-vaoults/GUILDA/.obsidian/plugins/obsidian-digital-garden/data.json
+

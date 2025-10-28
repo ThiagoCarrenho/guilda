@@ -20,7 +20,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 ---
 
-![grupo.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
+![grupo.jpg](../img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
 *Grupo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*
 
 ---

@@ -1,0 +1,82 @@
+---
+dg-publish: true
+---
+**Mestre:** [[Thiago Carro]];
+**Sistema:**  [[Tormenta20]];
+**Tamanho:** One-shot;
+**Data de Jogo:** 22/07/2025-30/07/2025;
+**Sessões:** 2 online
+**Nível dos Personagens**: 1 -> 2;
+
+Nesta história, um dos grupos de aventureiros mais estranho que já existiu investiga acontecimentos estranhos na Mansão do Capitão Varnost, relacionado com energias necróticas e o Deus Menor das Profundezas.
+Participam desta história:
+- [[Carlos Morrow]], o feiticeiro atormentado devoto de Yrr'thulu de [[Raul Teixeira]];
+- [[Kurozumi Rattakage]], o rato ninja fissurado em queijo de [[Gabriel Carrenho]];
+- [[Mik-Asa]], o coco (literalmente) de [[Raul Ouros]];
+- [[Phalássios Dolofónos]], o renascido de outro mundo de [[Miguel de Maria]];
+
+![[grupo.jpg]]
+![[Vila do Mirante.png]]
+![[acd7bdcf-4ef7-47ee-a327-45f85621179f.png]]
+
+---
+#### Prólogo
+- Em um mundo repleto de perigos, onde monstros emergem das profundezas, magos colossais invocam meteoros por capricho e a própria realidade pode ser dilacerada pela Tormenta, encontrar um lugar seguro é um luxo raro.
+- Porto Varnost é essa exceção.
+- Cravada no Pontal do Pirata Morto, nas Repúblicas Livres de Sambúrdia, essa cidade portuária serve de escala para turistas a caminho de Collarthan e Balneário Zannar, e também como refúgio para viajantes antes de se aventurarem pelas costas selvagens de Aslothia ou das Montanhas Sanguinárias.
+- Mas o que protege esse lugar? A resposta é um nome lendário: Capitão Varnost.
+- Pouco se sabe sobre como esse velho lobo-do-mar afastou piratas, monstros marinhos e ameaças arcanas da região. O fato é que ninguém ousa perturbar os arredores de sua cidade. Com o tempo, Varnost se retirou para uma mansão nas colinas próximas, onde passou a velhice em paz, contemplando o oceano do alto de um mirante que se tornou ponto turístico — e berço de uma vila pacata, lar de marinheiros aposentados, caçadores e reclusos.
+- Até que a tranquilidade terminou.
+- Nos últimos dias, uma luz permaneceu acesa sem parar na janela da velha mansão. Por uma semana inteira ela brilhou — e então se apagou. Na noite seguinte, ruídos misteriosos vieram do jardim. No dia seguinte, nada de anormal foi visto. Mas essa última noite foi diferente: os sons foram altos, constantes... perturbadores.
+- Hoje, ao nascer do sol, os habitantes da Vila do Mirante se reúnem. Uns falam em fugir ladeira abaixo até Porto Varnost. Outros, em resistir. E entre eles, um grupo peculiar se destaca — dispostos a descobrir o que está acontecendo no Jardim do Capitão Varnost.
+#### Sessão 01 (22/07/2025) - Invadindo a Mansão
+- A vila se reúne em torno de uma fonte, e, no meio da troca de palavras, a fonte começa a falar: “eu posso ajudar, mas preciso de mais corajosos”.
+- O povo se entreolha, um começa a apontar o outro, dizendo que o outro deveria ir, até que apontam para um pescador, que acena positivamente: Carlos Morrow. Ao olhar com mais cuidado, notam-se no meio da veste amarela, da barba branca que indica a idade avançada e o chapéu coco, pedaços de tentáculos, é estranho, mas aceitável, ainda mais para um herói.
+- Apontam para outro lugar, para uma criatura assustadora, e assim que a população nota esse personagem, abrem espaço, com um pouco de medo. Parece um homem, mas tem uma natureza sombria emanando dele. Uma mandíbula de tubarão em volta do pescoço, um arsenal nas costas. Ele se apresenta como Phalássios, renascido do oceano.
+- Ainda buscavam mais integrantes para a missão, 2 eram muito pouco, até que alguém oferece uma premiação: uma roda de queijo especial produzido apenas na vila. Neste instante, salta das árvores próximas uma figura muito caricata. Um ninja. Um rato ninja. “Se tem queijo na parada, eu sou a pessoa certa!”
+- “Três auxiliares são o suficiente?” - diz um local à fonte. Nesse instante um coco sai rolando, cria braços e pernas e diz: “Vocês três são o suficiente?” aos outros aventureiros, que acenam positivamente.
+- O seleto grupo de rato ninja, humano corrompido, anjo tenebroso e coco com membros decide então ir até a Mansão do Capitão Varnost. Se encaminham direto para a casa, deixando o jardim para outro momento.
+- A porta está trancada, mas Kurozumi, o rato, faz parecer como se a tranca não fosse nada e abre-a sem problemas. A cena é um corredor de entrada bem enfeitado, limpo, belo, que leva a um hall iluminado pela luz do dia, com estatuetas e duas escadas que levam ao andar superior. Tudo muito belo, se não por marcas de sangue no chão, fazendo um rastro até uma sala separada.
+- Mais uma vez o ninja abre a porta e começam a investigar: um corpo, do que parece ser o zelador, falecido a poucos dias, com marcas de ataques de cimitarra, mordidas e socos, e, pelo que Mik, o coco, enxerga, uma energia necrótica emana do corpo.
+- A investigação prossegue, e encontram outro corpo na cozinha, com as mesmas marcas - o cozinheiro também foi uma vítima. Uns começam a desconfiar dos outros, mordidas animalescas, e um rato na sala, espíritos ruins e um meio anjo de Tenebra na sala.
+- O grupo se divide para acelerar o processo, encontram salas da casa em perfeito estado, mostrando que as mortes ocorreram há pouco tempo, encontram uma sala com diversas obras de arte, e jóias, de onde podem pegar para si um espólio.
+- O nezumi, sabendo da fama do capitão e da cidade, procura por queijo, e o encontra na dispensa. Ele acha também uma sala de pintura, com pinturas estranhas de um polvo gigante, naufragios e terrores marítimos, até ver um queijo sendo furado por tentáculos, ficando nitidamente abalado com a visão que teve.
+- No piso superior, Phalássios viu uma porta quebrada, entrou no local e encontrou mais uma poça de sangue e um corpo morto, dessa vez de uma jovem, bem vestida. Nela não haviam sinais de ataques de cimitarra. Além disso, um conjunto de notas foi por ele visto. Neste breve diário ele lê como foram os últimos dias da jovem. Ela diz que o pai estava próximo de morrer, e acendeu diversas velas em seu local de estudos, depois ouviu gritos do zelador e do cozinheiro, trancou-se em seu quarto, ouviu batidas à porta, mas não abriu, nos dias decorrentes, ouviu passos. Diz ainda que tentou gritar, abrir a janela, acenar para alguém fora da mansão, mas nada funcionava. As noites foram piorando, e, nas últimas páginas escritas, ela diz que ele estava batendo com força a porta, e torcia para que ela não se abrisse, até que a grafia fica garranchosa, desesperada, e nada mais é escrito.
+- Inicialmente ele esconde as notas, crendo que os companheiros investigadores dele desconfiariam a partir destas notas.
+- Phalássios avisa o grupo que achou um corpo, logo em seguida o ninja sobe as escadas, mas os outros demoram a descer, impaciente, ele desce e vê uma cena intrigante…
+- Enquanto o guerreiro vasculhava o andar superior, o pescador viu a pintura que o ninja encontrara anteriormente. E a visão do polvo mecheu com sua cabeça. Ele sabe quem é aquela criatura. Afinal, foi ela a responsável por seu naufrágio. Ele se vê em algumas das imagens, é tomado por elas, fica, visivelmente, hipnotizado pela imagem que vê. Não é só um medo que tomaria uma pessoa normal, como fez com Kurozumi, mas toma-o por inteiro. 
+- O Mik vê essa cena, também é chamado pela imagem, mas consegue resistir à hipnose e ao medo, e busca tirar o amigo dessa situação. Para isso ele o cutuca de diferentes modos, mas nada funciona. Então ele decide gerar dor no companheiro, e com a mais leves da estocadas de uma adaga, tira Morrow do transe.
+- É então que chega Phalássios, e, vendo a imagem de sua divindade, se ajoelha de uma forma violenta, quase mostrando os papeis que escondera. Depois de uma breve oração ele convoca os parceiros de investigação para subirem verem o corpo.
+- E é novamente ignorado: a dupla vai para uma sala ao lado, que não haviam entrado, e encontram uma estátua do mesmo monstro: é Yrr’thulu, deus das Profundezas, o deus a quem Phalassius serve.
+- Só de ver aquela imagem, os dois exploradores começam a agir estranho, ambos se sentem num naufrágio, o homem retornado se joga aos pés da estátua e a segura com toda sua força, e seu corpo é jogado por forças misteriosas de um lado para o outro, o coco humanóide, por sua vez, sai voando, batendo na parede, no teto, no chão, ricocheteando em todos os cantos.
+- O nezumi desce ver o que está acontecendo, e fica assustado com a imagem do polvo. Finalmente, com um pouco de violência, acordam os aliados hipnotizados.
+- Sobem, finalmente, aos quartos, começando por onde o Phalássios disse ter encontrado um corpo morto, e lá ele estava. Nos outros quartos do segundo andar, pouco foi visto.
+- Até que chegam num escritório, cheio de informações pessoais. Lá conhecem a família do Capitão Varnost, sua falecida esposa, e que a moça encontrada no outro quarto era sua filha. Após maior investigação, notam um livro distinto, a partir da visão mística do duende. Ao abrí-lo, as páginas estava em branco, se não pela primeira, que dizia: “fale meu nome”. O pescador e o coco sabiam qual era o nome a ser dito - Yrr’thullu, mas tinham medo, então pediram ao ninja que o fizesse. Após dito, as palavras apareceram… mas em línguas estranhas. A habilidade de ler línguas estranhas permite ao feiticeiro compreender o livro: um diário. Neste compreendem um pouco da aventura do Capitão, que fizera um pacto com a criatura, de proteção, desde que este entregasse seu corpo e sua alma às profundezas.
+- Temendo o que haveria na última sala - a sala em que a luz estava acesa, mas se apagara - o ninja tenta andar pelos telhados, mas, tomado por medo, falha em seu ofício, sendo salvo pelo coco.
+- A noite está caindo, e o algoz se sente mais forte. Ele também se sente mais confiante nos aliados e mostra os papéis que escondera na sala da moça, mostrando como foram os últimos dias de sua vida.
+- Se separam e entram dois de cada lado, esperando um monstro que matara os outros habitantes da casa, mas, ao entrar, encontram apenas o corpo inerte do Capitão Varnost. Investigam as velas, a sala, e tudo que ali há, sem tocar no corpo, descobrem que as luzes acesas retardavam algum efeito, mas nenhuma informação realmente nova.
+- Ao mexerem no corpo, notam uma forte energia negativa, e muitas marcas de combate… nenhum ataque levado. Ele segura uma caixa, abrem-na com cuidado.
+- Então um vento forte empoeirado sai de dentro da caixa, o céu fecha de nuvens e tempestade, começa a chover, ouvem barulhos estranhos, e então o corpo de Varnost começa a se erguer.
+- O feiticeiro pega um papel dentro da caixa, lê-o com a magia “Compreensão”, e nele diz - que o corpo do marinheiro retorne às profundezas.
+- Atacam o zumbi do capitão que se ergue, não o deixando levantar, matando-o antes que pudesse fazer alguma coisa. A fim de causar confusão, o suraggel ataca o nezumi, e este, amedrontado, pula da janela, caindo no chão e ficando desacordado.
+- O pescador faz o mesmo, mas apesar da dolorosa queda, se mantém em pé.
+- Saindo do quarto, notam que o corpo da filha também se erguera como morto-vivo, e ia atacá-los, correm, descendo as escadas, onde vêem mais dois zumbis, dos corpos anteriormente investigados, que partem para o ataque, acertando alguns golpes.
+- No caminho, o coco vê, pela janela, um polvo gigante, o próprio Yrr’thullu, se erguendo no mar e vindo na direção do Porto, e fica abalado, o medo toma conta de sua mente.
+- Finalmente, alcançam a porta e saem da casa, chegando ao jardim.
+- Se encontram então Mik saindo da porta, Phalássios correndo um pouco atrás, carregando o corpo do Capitão Varnost, Kurozumi caído espatifado no chão, e Morrow cambaleando até o jardim. No jardim é possível enxergar uma movimentação distinta, e compreendem os barulhos ouvidos pela vila - os mortos começam a se levantar, e é hora de correr de esqueletos.
+#### Sessão 02 (30/07/2025) - Servos de Yrr’thullu
+- Antes de começar a batalhar com os esqueleto, o coco se recorda dos itens que pegou na sala de obras de arte, eram 5 frascos, um deles uma granada vermelha, os outros todos poções e loções, nas cores vermelha, azul, azul e branco. Com sua visão mística, ele acredita que a poção vermelha é capaz de curar seu amigo. Derrama, então, um pouco do líquido na boca do rato, que realmente acorda! Entretanto, acorda um pouco fraco… pois um membro do Clã do Queijo Sombrio deve apenas consumir queijo, e essa poção não estava embebida em queijo.
+- O combate então se inicia, com os esqueletos vindo atacar, uns tacando ossos de seus próprios corpos, outros usando-os como adagas.
+- O combate se mostra mais difícil que aparentava, pois, por mais que surpreendentemente fáceis de matar, a sua resistência a itens cortantes e perfurantes se mostrou alta. Mik deixou um deles ofuscado, mas que rapidamente morreu na mão dos aliados. Adagas e espadas pouco fizeram, o ninja lançou shurikens que passaram pelo corpo dos inimigos sem ferí-los, o nascido em Sombria pegava a coluna de um esqueleto e jogava no outro, atacando dois ao mesmo tempo, mas, o que melhor funcionou foram as Piranhas Fantasmagóricas de Morrow. O feiticeiro possuía uma temática aquática em suas conjurações, e as Setas Infalíveis por Talude criadas tornaram-se peixes em suas mãos.
+- Em um osso lançado, o nezumi novamente foi derrubado, e, após o combate, reerguido pelo coco, novamente.
+- O grupo rapidamente recuperou as energias, o coco tomou umas de suas poções (uma que trouxera consigo, pois não sabia o que as que achara faziam), e planejaram roubar a carroça de alguém.
+- Foi então que o resto do grupo notou a criatura no oceano, Phalássios sentiu a vontade de sua divindade de levar o corpo que carregava ao mar, Kurozumi resistiu ao chamado da criatura, mas Morrow foi compelido a fazê-lo.
+- Mik, com muita destreza e silêncio, foi à vila, que estava em caos por conta do medo, e furtou uma carroça. Colocaram o corpo nela e desceram em altíssima velocidade. O coco sabia pilotar, por incrível que pareça.
+- Chegando na cidade, o caos instaurado. Precisavam abrir espaço, Os três maiores foram para a ponta do barco e começaram a gritar para colocar medo na população. Funcionou. Eles abriram espaço para a carroça.
+- Mais a frente, uma barricada de oficiais, que faziam o povo evacuar a cidade, o coco então se disfarçou magicamente de policial e gritou para abrirem passagem. Deixaram então a carroça passar, mas depois notaram que aquilo é uma farsa, e com um grito de “Peguem eles!”, a carroça começou a ser perseguida.
+- O pequenino Mik então acelerou, e, vendo que iam bater num encosto com uma escada para as docas, todos pularam da carroça, essa se espatifou e o corpo de Varnost foi lançado ao mar.
+- Kurozumi e Morrow conseguiram sair em segurança, Mik se jogou bem mal, e acabou batendo em uma quina, rachando parte de seu casco, mas ainda consciente, Phalássios apanhou muito, e uma queda de mal jeito o deixou praticamente desacordado.
+- Eles esperavam uma resposta do polvo, mas esta demorou a vir. Os policiais chegaram e começaram a segurar para prender os aventureiros.
+- Foi então que um barulho foi por todos ouvido, Yrr’thullu olhou para os aventureiros, e assim que o corpo de Varnost atingiu as profundezas, ele recuou. Nesse olhar, eles ouviram em sua mente “Obrigado, meus servos!” De fato… o paladino algoz era seu servo, o pescador estava em dúvidas de qual divindade servia, o coco não ligava muito, mas conhecia o deus das Profundezas, mas o rato humanóide acabara de conhecê-lo, e pensava muito mais em um pedaço de queijo do que no serviço a uma divindade das profundezas do oceano.
+- Vendo que salvaram o dia, os oficiais fizeram vista grossa, fingiram que os aventureiros nada fizeram, e levaram Phalássios para uma enfermaria.
+- No caminho, eles ainda conversam sobre voltar para buscar espólios e o queijo que o rato encontrou na casa e o outro pedaço que havia de recompensa. O fato é que eles nunca se esquecerão do serviço que fizeram a Yrr’thullu, deus das Profundezas, no dia em que pisaram no jardim do Capitão Varnost.
