@@ -36,7 +36,7 @@ Lista dos personagens que marcaram a história da GUILDA:
 - Maior guerreiro: [[Jogadores/Miguel de Maria\|Miguel de Maria]] - 1 câncer vencido;
 - Mestre mais carnificeiro: [[Jogadores/Raul Teixeira\|Raul Teixeira]] - 5 mortos;
 - Jogador mais combeiro: [[Jogadores/Raul Ouros\|Raul Ouros]];
-- Jogador com maior número de anões: [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] e [[Jogadores/Thiago Carro\|Thiago Carro]] - 2 anões;
+- Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões (o Zé Mané do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões);
 - Jogador com mais personagens usando apetrechos de cabeça: [[Jogadores/Thiago Carro\|Thiago Carro]];
 - Pet com maior número de aparições: "Lobinho", de [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];,
 - Sistema mais jogado - [[Sistemas/Tormenta20\|Tormenta20]];
