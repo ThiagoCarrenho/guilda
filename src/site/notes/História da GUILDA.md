@@ -97,7 +97,7 @@ A GUILDA  ainda se aventurou em uma aventura breve mestrada por [[Jogadores/Thi
 
 ### Um guerreiro fora das mesas
 
-Então nós recebemos a difícil notícia de uma batalha fora das mesas, na qual o nosso integrante [[Jogadores/Miguel de Maria\|Miguel de Maria]] estava lutando contra um câncer, do qual ele se saiu vitorioso, mas logo em seguida, foi atacado novamente pela doença e luta contra ela atualmente. (Atualizado em Outubro de 2025).
+Então nós recebemos a difícil notícia de uma batalha fora das mesas, na qual o nosso integrante [[Jogadores/Miguel de Maria\|Miguel de Maria]] estava lutando contra um câncer, do qual ele se saiu vitorioso, mas logo em seguida, foi atacado novamente, mas dessa vez não teve a mesma felicidade. Miguel se despediu deste mundo no dia 21/10/2025. Ficam as nossas preces à Deus por sua alma e pelo conforto de seus familiares.
 
 ### Explorando sistemas
 
