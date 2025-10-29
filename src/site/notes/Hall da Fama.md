@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/Hall da Fama/","created":"2025-10-16T09:56:09.981-03:00"}
 ---
 
----
-# Hall da Fama
 ### Personagens
 
 Lista dos personagens que marcaram a história da GUILDA:
