@@ -19,6 +19,8 @@ Para ver nossas próximas possíveis histórias, acesse [[Ideias Futuras\|Ideias
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
+![unnamed-irmandade.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/unnamed-irmandade.jpg)
+*Grupo de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 
 ![grupo.jpg](/img/user/Aventuras/Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
 *Grupo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*

@@ -17,9 +17,10 @@
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
-![Pasted image 20251017180819.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/Pasted%20image%2020251017180819.jpg)
+![unnamed-irmandade.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/unnamed-irmandade.jpg)
 
 ---
+![Pasted image 20251017180819.jpg](/img/user/Aventuras/Irmandade%20do%20Martelo/Pasted%20image%2020251017180819.jpg)
 ## Breve História de Khalmyrthaal
 
 A muito tempo, alguns vilarejos muito próximos uns dos outros sofriam com uma terrível seca e com uma terra infértil para o plantio, os moradores desses vilarejos então pediram aos deuses que enviassem chuvas para tornar as terras mais férteis, eles pediram por mais de um ano, mas ninguém os atendeu.
@@ -71,15 +72,16 @@ Afetada por diversas intercorrências, o grupo não conseguiu se unir, então o 
 ## Sessão 1 (20/10/2025) - Salve o Rei sob a Montanha
 
 A história começa num cenário de destruição, corpos mortos em combate, todos nobres, num salão real no qual o rei os havia reunido, e foram atacados. Na parede, escrito com sangue, há a frase:
+
 =="O Caminho dos Ventos espera os filhos da pedra".==
 
 Nota-se então um dos cadáveres se mexendo, e, decomposto em menos de algumas horas, vemos que o corpo de Bóra Quebratudo já se tornou apenas esqueleto, e este se levanta. Ele não lembra de nada de sua vida, mas ve suas antigas roupas, e seu nome escrito nela.
 
 Incrivelmente, ele tem barba, pois a barba de um anão sai diretamente de seu crânio. Pega um osso de um dos cadáveres ao lado - o fêmur de seu pai - e sai do local em busca do Caminho dos Ventos.
 
-Após o ataque, a maior parte dos anões fugiu para o reino de Eldoria, que, quando soube da notícia do ataque, enviou um exército aos outros dois reinos da aliança: Vaeloria e Nerya. Chega, então, cerca de 7 dias depois, uma comitiva com a Rainha Seravalen (de Vaeloria), reino de cavaleiros, Rainha Miralen (de Nerya) e o Sempre Observado de Oggetor, Erwin Merek, goblin com roupa de humano, mesmo sem ter sido ativamente convidado para a ocasião.
+Após o ataque, a maior parte dos anões fugiu para o reino de Eldoria, que, quando soube da notícia do ataque, enviou um exército aos outros dois reinos da aliança: Vaeloria e Nerya. Chega, então, cerca de 7 dias depois, uma comitiva com a ==Rainha Seravalen== (de Vaeloria), reino de cavaleiros, ==Rainha Miralen== (de Nerya) e o ==Sempre Observado de Oggetor==, Erwin Merek, goblin com roupa de humano, mesmo sem ter sido ativamente convidado para a ocasião.
 
-As rainhas chegam pilhadas com a guerra e o goblin oferece ajuda, além destes, chega também Cedric Mapafeito, clérigo do deus dos mapas, que já chega falando: "Vocês vão precisar de um clérigo dos mapas, pois o de vocês faleceu em combate. É necessario orar para o deus dos mapas, para pedir um caminho a Cartemir", e Aleric, rei de Eldoria, pede calma, pois nem mesmo havia contado aos anões sobre a comitiva que deveria ser formada.
+As rainhas chegam pilhadas com a guerra e o goblin oferece ajuda, além destes, chega também ==Cedric Mapafeito==, clérigo do deus dos mapas, que já chega falando: "Vocês vão precisar de um clérigo dos mapas, pois o de vocês faleceu em combate. É necessario orar para o deus dos mapas, para pedir um caminho a Cartemir", e ==Aleric==, rei de Eldoria, pede calma, pois nem mesmo havia contado aos anões sobre a comitiva que deveria ser formada.
 
 O primeiro ponto que precisam resolver é um rei, pois o trono de Thargrum está vacante. Bóra, o esqueleto, chega durante essa discussão, e é apontado para o cargo, pois tem "sangue nobre", e rapidamente se tornou ósteon, os deuses tem algo para ele, mas ele de nada lembra, não sabe nem o nome de seu próprio reino. Um outro se candidata, Zsim, um explorador de ruínas e caçador de tesouros. Aleric, rei de Eldoria, conhecendo o povo do reino irmão, ainda pede para o incansável Fusca, que outrora fora nomeado para o Conselho - e se tivesse aceitado, seria outro corpo inerte no reino de Thargrum, mas este não quer trabalho de gente que fica sentado e se recusa a se candidatar.
 
@@ -107,3 +109,54 @@ Cedric se despede dos aventureiros e volta a sua terra natal. Agora, o grupo for
 Tudo isso e mais um pouco (como tretas políticas e batalhas em trens), no próximo episódio da Irmandade do Martelo.
 
 ---
+## Sessão 2 (31/10/2025) - Reunião Diplomática da Realeza
+
+Após receber a notícia que viajariam par o reino dos inventores, o grupo conseguiu uma noite de estadia, e, graças ao Rei, conseguiram passagem gratuita, num vagão especial para nobreza, que tinha poucos bancos bons e um monte ruim.
+
+Pouco tempo depois, entram dois soldados robôs, dizendo não haver nenhum rei naquele vagão, e, dado que o trio é devoto da guerra, resolveram o conflito por meio de um combate. Antes mesmo de poderem desferir golpes naqueles equipamentos de defesa, entra em cena ==Torven Brillfaer== (ou melhor, Machado de Assis).
+
+Torven mandou os robôs pararem e eles obedeceram, afinal era rei de Gearholt. O kliren fez ainda um discurso breve, mas os guerreiros não queriam abaixar seus martelos e machados, em especial o teimoso ciborgue. Torven entendeu o intuito daqueles anões, e deixou-os terminar o trabalho. O rei Zsim se apresentou e, embora não estivesse ainda cadastrado como rei no "sistema" de defesa, pediu a Torven um exemplar destes construtos.
+
+Chegaram à cidade, feita de anéis concêntricos, com longas avenidas, parecendo uma engrenagem. No entro há a Cidadela do Aço. À noite, a cidade é viva, parecendo um relógio em movimento. O ar é quente. O trio vai direto ao centro da cidade, numa sala onde ocorreria a reunião. Está vazia, chegaram antes que qualquer outro nobre, e nem a sala está totalmente arrumada.
+
+Diversas cadeiras para os reis e seus nobres, dispostas ao redor de uma bancada em "U" e um palanque no outro lado. Atrás da melhor cadeira, uma estátua com um homem com asas mecânicas, e, ao fundo da sala, 5 portas, com placas que indicavam: Biblioteca, Salão dos Antigos Reis, Templo a Cartemir, Sala dos Burocratas e Oficina Real.
+
+Inicialmente, Bóra e Fusca decidem aguardar, mas quando Zsim começa a vascular as salas, ambos se dirigem à Oficina. Fusca tenta então mexer nas ferramentas, a fim de aprimorar sua arma de fogo, e instantaneamente é *injustamente* atacado por uma gárgula, então deixa as coisas no lugar e para de mexer. Eles vão então até o rei, para avisá-lo que não deve mexer em nada, pois a gárgula atacaria.
+
+Encontram Zsim no Templo, após olhar as outras salas e não ver nada de útil. Nesta, o nobre explorador sabe que há algum segredo na mesa. Graças ao conhecimento religioso do esqueleto, eles acham uma peça de um puzzle para se colocar na mesa, é um recorte do mapa de Khalmyrthaal, o reino de Gearholt, e sabem onde colocar. Eles acham outras peças, mas, para saberem exatamente onde colocá-las, decidem consultar algum mapa disponível na biblioteca... se isso fosse possível.
+
+Um vento misterioso vem da porta do Templo quando tentam sair, forte o suficiente para empurrá-los para trás, fraco o suficiente para manter todos os objetos no lugar. Claramente, algo divino de Cartemir. Forçados a ficarem ali dentro, tentam chamar a gárgula para ajudar, mas ela entra, nada auxilia, e sai, sem sofrer as consequências do vento.
+
+É então que Zsim e Bóra focam mais na busca das peças e na lembrança da geografia do mundo. E depois de um tempo rezando e forçando a memória, o grupo consegue montar o puzzle... mas falta uma peça: Thargrum.
+
+Não a encontrando em lugar nenhum, o clérigo começa a empurrar o rei, Fusca acha engraçado e ajuda, e, quando conseguem colocar o rei sobre a mesa, o quebra-cabeça fica completo, e o grupo se sente mais forte.
+
+O vento se dissipa, e quando saem da sala, veem que o salão já está arrumado para a reunião, encontrando o seu lugar à mesa. Chegam os outros reis:
+
+- ==Elyndra== de Silvaram, meia-elfa;
+- Melarien, já conhecida;
+- Aleric, de Eldoria;
+- Algum reizinho atlético;
+- ==Kael Dravos==, do reino inimigo dos anões, se veste como guerreiro;
+- ==Arken Solem==, hynne feliz e agradável;
+- Seravalen;
+- ==Gardor Fioferro==, goblin Sempre Observado de Oggetor;
+- ==Noctara==, rainha de Umbraen
+
+Entra então um homem idoso de meia estatura, ==Marnel Tinteiro Senfim==, escrivão, para dar início à sessão dos Reinos Unidos de Gearholt. Dentre as informações de abertura da sessão, ele fala para não tocar mais no assunto da torta (mas ninguém responde "Que torta?").
+
+Chegam então alguns anões para darem testemunho do que viram e passaram em Thargrum, e o que passam é, principalmente, que os inimigos são ==*Monstros Vermelhos*==. A discussão não tem fim, é um bate-boca danado e ninguém se entende. Zsim tenta entender o que fazer naquele caos, Bóra fica sempre atento para defender seu rei do que for necessário, e Fusca luta bravamente contra o sono - e falha miseravelmente.
+
+No meio disso tudo, Zsim nota não haver nenhuma guarda, avisa Aleric e acorda Fusca, que grita para que todos ouçam. Notando isso, Torven entra em parafuso: "Eu destaquei mais de 20 guerreiros para essa reunião, onde estão?"
+
+Pouco tempo depois, uma das paredes se quebra, e entra um soldado de vermelho, que olha primeiro para os anões, que estavam perto. Vendo que era ofensivo, os anões se levantam para o combate. Kael também se prepara, mas vendo que os alvos eram de Thargrum, prefere não entrar na briga. Os outros reis ficam apenas estáticos de pavor.
+
+O combate se desenrola, o soldado é forte, difícil de ferir, com camadas e camadas de armadura, e parece bem durão. Após diversas magias de suporte do clérigo, ataques nada clássicos do guerreiro, e poderes de caça do explorador, o trio consegue derrotar a ameaça.
+
+Vendo que só eles se mobilizaram, Bóra fica irritado, pois nenhum dos outros reinos se pôs à defesa ou ao auxílio deles. Nota também que algo puxa sua memória, já viu aquela armadura no local onde nasceu - aquele salão onde houve a chacina de anões.
+
+Zsim nota o símbolo de Oggetor na armadura, mas Bóra tem uma visão melhor e mostra que fora forjada.
+
+Então é que chegam, atrasados, os soldados de Gearholt, mas nada mais precisam fazer. Na confusão, o buraco dos olhos do esqueleto ainda puderam notar uma figura encapuzada, sombria, fugindo da sala, que não fora vista por mais ninguém.
+
+Quem é esse soldado? A quem serve? É o mesmo que atacou Thargrum? Como os reis e os anões vão reagir? Tudo isso (e muito mais) na próxima aventura da Irmandade do Martelo.

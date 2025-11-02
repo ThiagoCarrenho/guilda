@@ -10,3 +10,5 @@
 **Origem:** Ladrão de Túmulos
 
 O novo Rei de Thargrum!
+
+![WhatsApp Image 2025-10-31 at 18.17.59.jpeg](/img/user/Aventuras/Irmandade%20do%20Martelo/WhatsApp%20Image%202025-10-31%20at%2018.17.59.jpeg)

@@ -13,3 +13,4 @@
 Não tem sangue real, mas tem cálcio real.
 Morto no ataque, renasceu como Ósteon e usa o osso daquele que fora seu pai em vida como arma de combate.
 
+![b8628e65-42f6-428b-b1e2-5a9031f104c8.jpeg](/img/user/Aventuras/Irmandade%20do%20Martelo/b8628e65-42f6-428b-b1e2-5a9031f104c8.jpeg)
