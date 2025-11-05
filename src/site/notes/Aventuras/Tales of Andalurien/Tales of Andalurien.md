@@ -24,7 +24,6 @@
 ### Notas do Mestre
 
 ![notes-tales.jpeg](/img/user/Aventuras/Tales%20of%20Andalurien/notes-tales.jpeg)
-![[Finduilas Menélian.pdf]]
 
 ---
 #### Sessão 01 (15/04/2020)
