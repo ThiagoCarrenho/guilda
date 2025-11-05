@@ -21,6 +21,12 @@
 ![Token Luisão 1.png](/img/user/Aventuras/Tales%20of%20Andalurien/Token%20Luis%C3%A3o%201.png)
 
 ---
+### Notas do Mestre
+
+![notes-tales.jpeg](/img/user/Aventuras/Tales%20of%20Andalurien/notes-tales.jpeg)
+![[Finduilas Menélian.pdf]]
+
+---
 #### Sessão 01 (15/04/2020)
 - Recompensa altíssima por um humano de capuz escondido na floresta, fui pra lá pegar o mané, apareceu um elfo e um anão, depois umas almas penadas, e agora estamos presos numa caverna, pois fora dela tem um perigo estranho de bichinhos, preciso interrogar pra entender o humano e tirar informação dele (pode ser útil ao Comando, já que o preço pela cabeça dele é alto). Ezequiel se juntou a nós, parece um anão legal, prometi levá-lo de volta pra casa.
 #### Sessão 02 (27/04/2020)
