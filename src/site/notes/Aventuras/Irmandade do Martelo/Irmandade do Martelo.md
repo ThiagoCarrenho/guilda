@@ -7,7 +7,7 @@
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 1 online;
+**Sessões:** 2 online (+ Sessão 0);
 **Nível dos Personagens**: 3;
 
 **Descrição:** Anões guerream pela irmandade.
