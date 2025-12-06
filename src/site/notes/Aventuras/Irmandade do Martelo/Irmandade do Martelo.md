@@ -160,3 +160,6 @@ Zsim nota o símbolo de Oggetor na armadura, mas Bóra tem uma visão melhor e m
 Então é que chegam, atrasados, os soldados de Gearholt, mas nada mais precisam fazer. Na confusão, o buraco dos olhos do esqueleto ainda puderam notar uma figura encapuzada, sombria, fugindo da sala, que não fora vista por mais ninguém.
 
 Quem é esse soldado? A quem serve? É o mesmo que atacou Thargrum? Como os reis e os anões vão reagir? Tudo isso (e muito mais) na próxima aventura da Irmandade do Martelo.
+
+---
+## Sessão 3 (19/11/2025) - 
