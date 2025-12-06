@@ -125,4 +125,4 @@ Participam desta história:
 #### Sessão 04 (??/12/2025) - A Cabeça do Dr. Vor
 - Marc será o próximo a agir, tendo Oraskin avisado a ele que o drone poderia voltar para salvá-lo dos soldados a sua volta.
 - Oraskin terá sucesso automático em desarmar o dispositivo, sua próxima ação.
-- Os soltados têm Defesa 12 e PV <= 11.
+- Os soltados têm Defesa 12 e PV $\leq$ 11.
