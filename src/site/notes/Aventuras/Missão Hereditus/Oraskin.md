@@ -10,6 +10,7 @@
 **Classe:** Psychic (Psiônico)
 
 ![Oraskin.png](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Oraskin.png)
+![Oraskin-Moleque.jpeg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Oraskin-Moleque.jpeg)
 
 ### História
 Oraskin, o pequenino, pouco sabe sobre sua própria história, não sabe que seu verdadeiro nome é Bev Greatwall, que é de família nobre, neto do chefe de uma grande empresa de espaçonaves, a GWM. Desde suas primeiras memórias é chamado de ORA-Skin-O3. Operation Recovery Arena for Skin treatment - Adept O3.

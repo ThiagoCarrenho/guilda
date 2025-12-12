@@ -13,7 +13,15 @@ Nesta história, os aventureiros entram numa busca pelo cientista maligno Dr. Vo
 Participam desta história:
 - [[Aventuras/Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]]
+- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
+![Cifer.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Cifer.jpg)
+*[[Aventuras/Missão Hereditus/Cifer\|Cifer]]*
+![Marc Rogers.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Marc%20Rogers.jpg)
+*[[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]*
+![Oraskin-Moleque.jpeg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Oraskin-Moleque.jpeg)
+*[[Aventuras/Missão Hereditus/Oraskin\|Oraskin]]*
+
+---
 
 ![Panfleto Velho encontrado na nave_page-0001.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0001.jpg)
 ![Panfleto Velho encontrado na nave_page-0002.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0002.jpg)
@@ -37,8 +45,10 @@ Participam desta história:
 - Colocamos máscaras de gás. Local tem uma toxina. Cheiro de queimado.
 - Arquitetura quadrada, fria. Local muito regrado, militar.
 - Comandante Joric 50 anos, 4 braços, loiro.
+![Joric.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Joric.jpg)
+*Joric*
 - Ir atrás de um antigo geneticista do Governo. Dr. Kaele Vor. Faz experimentos proibidos com tecnologia pretech. O "cabeçudo" tem uma mente grande, foi se proteger com a Irmandade e encontrou essa tecnologia e tá fazendo besteira com ela. Confiscar tudo.
-- Ir até o Mercado de Ferragem. Procurar por Trela - Negra, 40 anos, magra, fumante, muito.
+- Ir até o Mercado de Ferragem. Procurar por Thrella - Negra, 40 anos, magra, fumante, muito.
 - Alta chance de morte.
 - Recompensa: Quitar a nave mais uns bônus.
 - Oraskin tirou uma foto com o presidente de Csina.
@@ -47,11 +57,15 @@ Participam desta história:
 - Paramos na Estação Lucy.
 - Andando pelo deserto, vão ficando mais favelado.
 - Tentamos nos disfarçar de normais. Disforce falhou.
-- Breve combate. Marc e Cifer resolveram tudo.
-- Encontramos com Trela, usando o Bill, um dos ladrões que desistiu de lutar. Trocamos informações pela promessa de entregar o cérebro do Vor.
+- Breve combate contra Bill e capangas. Marc e Cifer resolveram tudo.
+![Bill.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Bill.jpg)
+*Bill*
+- Encontramos com Thrella (imagem abaixo), usando o Bill, um dos ladrões que desistiu de lutar. Trocamos informações pela promessa de entregar o cérebro do Vor.
 - Ao Norte no Deserto, acesso ao lab secreto. Senha 1234.
 - Bill foi de bode expiatório, terminou sugado por um tentáculo.
 - Subimos de nível: 1 -> 2.
+![Thrella.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Thrella.jpg)
+*Thrella*
 #### Sessão 02 (24/10/2025) - Invadindo o Laboratório
 - Pós morte do Bill, o grupo decidiu o que iria fazer.
 - Marc Roger decide mandar um drone observador, e este tem a imagem em sua própria mente, os dois do grupo aguardam, porque o anão não fala nada para os companheiros. 

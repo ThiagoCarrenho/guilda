@@ -5,6 +5,8 @@
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*
 *Grupo: [[Aventuras/Missão Hereditus/Cifer\|Cifer]] e [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]].*
 
+![Marc Rogers.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Marc%20Rogers.jpg)
+
 **Raça:** Humano
 **Origem:** 
 **Classe:** 

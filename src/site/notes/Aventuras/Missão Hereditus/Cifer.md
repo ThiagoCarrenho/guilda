@@ -5,6 +5,8 @@
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*
 *Grupo: [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]] e [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]].*
 
+![Cifer.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/Cifer.jpg)
+
 **Raça:** Alienígena
 **Origem:** 
 **Classe:** 
