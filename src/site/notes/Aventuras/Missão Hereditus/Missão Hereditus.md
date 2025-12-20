@@ -153,7 +153,9 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 - Por ironia do destino, isso nem era necessário, seu tiro foi responsável pelo seu primeiro assassinato, e a última morte do combate.
 
 **Pós-Combate**
-_ _ Com o último inimigo derrotado, o Dr. Vor, que estava irritando o grupo durante todo o combate, parabeniza os invasores por destruir os seus experimentos vivos, e os convida a andar por uma porta
+&emsp; Com o último inimigo derrotado, o Dr. Vor, que estava irritando o grupo durante todo o combate, parabeniza os invasores por destruir os seus experimentos vivos, e os convida a andar por um portal que se abrira em direção ao núcleo de energia psiônica no centro do laboratório.
+&emsp; O lagarto desce pelas paredes, e o pequeno pede carona à criança, que se teletransporta até Marc e teletransporta de novo para onde estão as câmaras com experimento ativo.
+
 
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
 *Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
