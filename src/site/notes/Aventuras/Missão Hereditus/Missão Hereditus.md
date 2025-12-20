@@ -171,14 +171,14 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 &emsp; - Eu não estou entendendo mais nada - diz Marc, enquanto olha para o corpo do Bill dentro da câmara.
 &emsp; - Acho que entendi. - Responde Cifer - Oraskin, por algum acaso, o Capiel não poderia ver o que acontece quando a gente passa por aquele portal?
 &emsp; "Tá bom". Oraskin senta com pernas cruzadas, põe dois dedos na cabeça e, depois de um tempo usando seus poderes psiônicos. É quando nota que, ao passar pela porta, não seria recebido a tiros, armadilhas, entre outros perigos. Pelo contrário, ele viu um paraíso, paisagens belíssimas, por onde andava.
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
+&emsp; "Tudo certo, Capiel me disse que é bem bonito. Vamos lá." Os companheiros não confiaram muito na criança, pareceu bem falsa a reação dele, mas seguiram.
+&emsp; Ao entrar pelo portal, sim, Oraskin viu justamente o que seu poder de Oráculo lhe havia apresentado, mas foi somente ele. Os outros viam-se num corredor escuro, apenas reconhecendo os outros a seu redor. Não sabiam onde pisavam, o que havia ao seu lado, e o que havia pelo corredor, e a criança seguia maravilhada.
+&emsp; Talvez um pensamento de descrença frente ao jovem e à tal voz de "Capiel" tenha passado pela mente dos dois aventureiros, seria Oraskin um agente duplo ou um traidor? Por que tamanho maravilhamento diante do vazio? Por que mentiria quando a sua visão? E teria ele mesmo visto algo?
+&emsp; A resposta disso é algo que eles não seriam capazes de descobrir, nem mesmo o psiônico: era um caminho "escavado" pelo espaço metadimensional. Por isso que Oraskin, que possui metapsionismo, enxergava coisas que os companheiros não-psiônicos não enxergavam.
+&emsp; O caminho seguiu, e eles se viram todos no espaço, caminhando num chão inexistente. Estrelas, sistemas solares e nebulosas eram vistos ao longe.
+&emsp; O caminho se encerrou... numa sala. Um escritório. Havia uma escrivaninha e uma poltrona de costas.
+&emsp; A ideia do suspense era boa, mas o tamanho daquela cabeça já indicava quem estaria do outro lado - Dr. Vor. 
+&emsp; Ou se preferir, "o cabeçudo", como Marc e Oraskin já adotavam como apelido. 
 &emsp; 
 &emsp; 
 &emsp; 
