@@ -135,8 +135,24 @@ Participam desta história:
 - Tendo isso aprendido, ele se prepara para desativar com sucesso, e fala ao Marc que pode levar seu drone de volta, porque o controlador está em apuros com três soldados tentando arrancar sua máscara e criar buracos de laser no seu corpo.
 - Vendo que sua armadilha afetou para melhor o grupo, que eles estão próximos de desarmar os três dispositivos que a controla, e que os seus soldados têm sido... inúteis, Dr. Vor põe mais uma carta no tabuleiro, uma não, quatro.
 - Um cilindro de líquido verde que alimentava os seis tanques estoura, e de dentro do cilindro saem quatro mutantes completos, estágio final do experimento ao qual Bill está sendo submetido. Para piorar, estão imediatamente atrás de Cifer, que prefere atacar a distância.
-- Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso, a armadilha, antes que essa os transforme em monstros? E se o fizerem, escaparão das mãos da meia dúzia de soldados que ainda resta, e dos recém-libertos mutantes? E ainda se o conseguirem, terão forças para lidar com o próprio Dr. Vor? Em breve, teremos os resultados finais da **Missão Hereditus**.
-#### Sessão 04 (??/12/2025) - A Cabeça do Dr. Vor
-- Marc será o próximo a agir, tendo Oraskin avisado a ele que o drone poderia voltar para salvá-lo dos soldados a sua volta.
-- Oraskin terá sucesso automático em desarmar o dispositivo, sua próxima ação.
-- Os soltados têm Defesa 12 e PV $\leq$ 11.
+Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso, a armadilha, antes que essa os transforme em monstros? E se o fizerem, escaparão das mãos da meia dúzia de soldados que ainda resta, e dos recém-libertos mutantes? E ainda se o conseguirem, terão forças para lidar com o próprio Dr. Vor? Em breve, teremos os resultados finais da **Missão Hereditus**.
+#### Sessão 04 (19/12/2025) - A Cabeça do Dr. Vor
+**COMBATE**
+- O combate prossegue, Marc traz seu drone para o mais próximo possível para ele lhe ajudar na luta pela sobrevivência, o que ele faz encerrando com a vida de mais um dos soldados.
+- Na área das câmaras com corpos em transformação, Cifer falha em desativar seu dispositivo, e, vendo-se cercado por um soldado e quatro recém-liberados zumbis transformados, sobe pelas paredes, em direção ao andar superior. Os soldados se esquecem da ordem do Dr. Vor e voltam a atirar, mas não conseguem muita coisa.
+- Oraskin, sabendo como deve ser feita a desativação, faz com que o segundo dispositivo pare de funcionar, e, por sua sorte, está suficientemente longe de inimigos.
+- Mais tiros de todos os lados, soldados caindo após o lagarto alienígena criar buracos em sua cabeça. Na confusão, Marc tem sua máscara retirada, e começa a sufocar com a toxina que entra em seu corpo.
+- Notando que o companheiro atirador não foi capaz de desativar o último ponto, Oraskin se teletransporta até lá e faz a sequência de desativação, já que agora conhece o modo correto de fazê-lo, mas, quando se vira, nota o problema no qual se meteu: um dos inimigos atiradores, e dois dos montros experimentos se encontram ao redor dele... a criança tem só o tempo suficiente para suspirar um "Oh-ou" antes de levar um soco na cara e uma facada na barriga.
+- Com o último dispositivo desativado, a armadilha para de funcionar, e Marc recupera a respiração. Um alívio antes de mais combate.
+- Perto do engenheiro, seu drone atira nos soldados que o encurralam na saída do elevador, e estes respondem com mais tiros, derrubando o mecanismo voados.
+- Enquanto Cifer mantém sua postura de exército, empilhando acertos e mortes de inimigos, Oraskin acerta seu primeiro tiro - no susto, e logo em seguida, se teletransporta para perto do lagarto, afinal, é o único que se desfez dos inimigos por perto de si.
+- Dois dos zumbis chegam bem perto do Marc, que se encontra em perigo considerável, mas o apaixonado por explosões tem cartas na manga: saca seu recém consertado drone - o Kamikaze - que faz muito bem seu trabalho, destruindo, com suas bombas, o soldado e os dois dos zumbis que lhe atacavam. O ar já estava descontaminado por um tempo, mas, desde o começo do combate, foi o primeiro momento que ele conseguiu, de fato, respirar.
+- Não tendo tempo hábil para recarregar a sniper, Cifer usa seu revolver para derrubar o último soldado que ainda ameaçava à distância. Restam apenas dois zumbis, que precisam subir as escadas, que estão relativamente longe.
+- No meio tempo, Oraskin usa seus poderes biopsiônicos para fechar os buracos das feridas em si e no parceiro atirados, este que usa o tempo de respiro para recarregar sua ara principal. Quem não dá descanso é Marc, que envia seu robô para uma nova bomba nos dois últimos vivos - mas não é suficiente para finalizar o combate, antes de trazê-lo de volta para recarregar.
+- Quando Oraskin dá uma espiadinha pela parede atrás da qual se esconde, e vê os inimigos se aproximando, vai avisar o aliado, mas... cadê o Cifer? Ele descobre quando ou ve o disparo, leva um susto, e um dos corpos caem. No susto, ele dá um tiro e se teletransporta para o andar debaixo, na expectativa de se colocar distante, na caminhada, do último zumbi.
+- Por ironia do destino, isso nem era necessário, seu tiro foi responsável pelo seu primeiro assassinato, e a última morte do combate.
+**Pós-Combate**
+- Com o último inimigo derrotado, 
+
+![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
+*Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
