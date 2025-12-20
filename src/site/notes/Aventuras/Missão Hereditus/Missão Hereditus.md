@@ -155,7 +155,56 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 **Pós-Combate**
 &emsp; Com o último inimigo derrotado, o Dr. Vor, que estava irritando o grupo durante todo o combate, parabeniza os invasores por destruir os seus experimentos vivos, e os convida a andar por um portal que se abrira em direção ao núcleo de energia psiônica no centro do laboratório.
 &emsp; O lagarto desce pelas paredes, e o pequeno pede carona à criança, que se teletransporta até Marc e teletransporta de novo para onde estão as câmaras com experimento ativo.
-
+&emsp; - Vai, agora dá uma olhada nesses negócios estranhos - Oraskin aponta para as câmaras com corpos - não quero ter que matar todo mundo de novo.
+&emsp; - Cale a boca, moleque, que você não matou ninguém - responde Marc, enquanto pega os destroços do Ninja, seu drone destruído em combate.
+&emsp; - Ele matou um. E desativou os dispositivos. Verifique as câmaras.
+&emsp; Objetivo como sempre, Cifer defende o menino. Marc depois vai buscar entender o funcionamento, enquanto murmura "matei sei lá quantos com minhas bombas, desativei um dispositivo, enquanto o moleque brincava de desaparecer."
+&emsp; O trabalho de Marc, no entanto, não dá resultado, ele tenta socar para quebrar o vidro, mas acaba machucando a própria mão. Para mostrar que o rapaz foi imbecil na escolha, Oraskin mostra que tem uma faca a Cifer, que responde mostrando uma faca laser, fazendo com que a criança ficasse com vergonha do seu equipamento.
+&emsp; - Aliás, Oraskin, como você desativou, até onde sei, você não tem conhecimento de programação e equipamentos tecnológicos.
+&emsp; - Ah, nem eu sei direito, foi o Capiel quem me ensinou.
+&emsp; - A "voz" na sua cabeça? E como ele sabia?
+&emsp; - Ele disse que viu o drone resolvendo, e me ensinou a repetir.
+&emsp; - Não entendo, ele é como um fantasma, que viu o drone desativando o outro dispositivo enquanto você estava aqui ainda?
+&emsp; - Nããão, ele viu o drone resolvendo o dispositivo lá longe e me mostrou como fazer.
+&emsp; - Mas foi você ou o drone que desativou ele?
+&emsp; - Eu.
+&emsp; - Eu não estou entendendo mais nada - diz Marc, enquanto olha para o corpo do Bill dentro da câmara.
+&emsp; - Acho que entendi. - Responde Cifer - Oraskin, por algum acaso, o Capiel não poderia ver o que acontece quando a gente passa por aquele portal?
+&emsp; "Tá bom". Oraskin senta com pernas cruzadas, põe dois dedos na cabeça e, depois de um tempo usando seus poderes psiônicos. É quando nota que, ao passar pela porta, não seria recebido a tiros, armadilhas, entre outros perigos. Pelo contrário, ele viu um paraíso, paisagens belíssimas, por onde andava.
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
+&emsp; 
 
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
 *Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
