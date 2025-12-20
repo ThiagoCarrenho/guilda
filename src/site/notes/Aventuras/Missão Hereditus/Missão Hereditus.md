@@ -151,8 +151,9 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 - No meio tempo, Oraskin usa seus poderes biopsiônicos para fechar os buracos das feridas em si e no parceiro atirados, este que usa o tempo de respiro para recarregar sua ara principal. Quem não dá descanso é Marc, que envia seu robô para uma nova bomba nos dois últimos vivos - mas não é suficiente para finalizar o combate, antes de trazê-lo de volta para recarregar.
 - Quando Oraskin dá uma espiadinha pela parede atrás da qual se esconde, e vê os inimigos se aproximando, vai avisar o aliado, mas... cadê o Cifer? Ele descobre quando ou ve o disparo, leva um susto, e um dos corpos caem. No susto, ele dá um tiro e se teletransporta para o andar debaixo, na expectativa de se colocar distante, na caminhada, do último zumbi.
 - Por ironia do destino, isso nem era necessário, seu tiro foi responsável pelo seu primeiro assassinato, e a última morte do combate.
+
 **Pós-Combate**
-- Com o último inimigo derrotado, 
+_ _ Com o último inimigo derrotado, o Dr. Vor, que estava irritando o grupo durante todo o combate, parabeniza os invasores por destruir os seus experimentos vivos, e os convida a andar por uma porta
 
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
 *Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
