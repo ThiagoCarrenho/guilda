@@ -177,34 +177,58 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 &emsp; A resposta disso é algo que eles não seriam capazes de descobrir, nem mesmo o psiônico: era um caminho "escavado" pelo espaço metadimensional. Por isso que Oraskin, que possui metapsionismo, enxergava coisas que os companheiros não-psiônicos não enxergavam.
 &emsp; O caminho seguiu, e eles se viram todos no espaço, caminhando num chão inexistente. Estrelas, sistemas solares e nebulosas eram vistos ao longe.
 &emsp; O caminho se encerrou... numa sala. Um escritório. Havia uma escrivaninha e uma poltrona de costas.
-&emsp; A ideia do suspense era boa, mas o tamanho daquela cabeça já indicava quem estaria do outro lado - Dr. Vor. 
-&emsp; Ou se preferir, "o cabeçudo", como Marc e Oraskin já adotavam como apelido. 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
-&emsp; 
+&emsp; A ideia do suspense era boa, mas o tamanho daquela cabeça já indicava quem estaria do outro lado - Dr. Vor. Ou, se preferir, "o cabeçudo", como Marc e Oraskin já adotavam como apelido. 
+&emsp; - Bem vindos ao meu escritório, aventureiros - a recepção, na verdade, foi bem alegre - vocês acabaram com toda as pessoas que trabalhavam no meu laboratório, parabéns!
+&emsp; Ninguém estava entendendo muito bem se era real ou irônico.
+&emsp; - Bom, deixe-me contar um pouco da minha história..., e sim, eu leio sua mente, Marc, e a resposta é "verde".
+&emsp; - Merda, ele acertou.
+&emsp; Antes mesmo de conseguir explicar suas ideias, o pesquisador fora atrapalhado por comentários dos pequenos.
+&emsp; - Será que ele coloca as suas roupas pelas pernas? Não deve passar pela cabeça. - Nota Oraskin.
+&emsp; - Deve ser por isso que ele usa jaleco. - Responde Marc.
+&emsp; - Ela já usou algum chapéu?
+&emsp; - Só se comprou por metro.
+&emsp; As piadinhas quanto ao tamanho proporcional da cabeça continuaram, e o rapaz não conseguia prosseguir contando sua história. 
+&emsp; - Crianças, calem a boca, vamos terminar nossa missão. - Cifer já estava sem paciência com os dois.
+&emsp; - É... obrigado, Cifer. Bom, por onde eu começo... Quando eu era pequeno... não, voltei muito... Joric! Joric era meu grande amigo!
+&emsp; - Qual a cor favorita dele? - Pergunta Oraskin, mas logo se cala, dado o olhar que recebeu do lagartão.
+&emsp; - Acho que vermelho, mas não vem ao caso...
+&emsp; Ele continuou a história de sua vida, e sua parceria militar com o comandante. Como encontrou esse esconderijo repleto de tecnologia pretech. Como se desentendeu com ele, como começou suas pesquisas.
+&emsp; De modo geral, disse que Joric era extremamente voltado à guerra, queria destruir aqueles que eram contra o seu planeta. Sabia dos problemas que o planeta tinha, mas quer derrotar a Irmandade, que os atacam por não serem humanos "puros"
+&emsp; - De fato, vocês são bem estranhos... - disse Oraskin.
+&emsp; - Você é pior, fala sozinho, seu olho brilha! - responde Marc.
+&emsp; - Vocês são bem estranhos. - complementa Cifer.
+&emsp; - Você é verde! - em unissom respondem os pequenos.
+&emsp; - É, vocês são bem estranhos, mas não do nosso jeito. Todos aqui nascem com mutações por conta da toxina que permeia nosso planeta. Eu estive do lado sortudo, a modificação que ela me deu foi boa, por mais que resultem nas inúmeras piadas que vocês me contaram. Mas a maioria das pessoas sofrem, e muito. Uma quantia morre por conta delas antes mesmo de atingir a maioridade, e ainda que sobrevivam, não conseguem ter uma vida que vocês considerariam "normal".
+&emsp; - E o que isso tem a ver com a chacina que você comete?
+&emsp; - Eu estou atrás da cura, e estou bem próximo!
+&emsp; - Quão próximo?
+&emsp; - Em uns dois ou três meses eu consigo. Farei com que todas as pessoas possam ter uma vida comum!
+&emsp; - E quantas vidas custaram? - Como sempre, objetivo o lagarto.
+&emsp; - Contando com as que vocês mataram... 150.
+&emsp; - O Bill é o 151?
+&emsp; - Sim.
+&emsp; - Um morto para cada Pokémon. - Comenta Marc.
+&emsp; - O que é isto?
+&emsp; - É do meu planeta, você não entenderia.
+&emsp; Duvidando que ele estaria sendo sincero, Cifer faz ele tomar um Truth Serum, que impediria ele de mentir. Ele faz uma brincadeirinha, fingindo derrubar, mas toma de fato a droga, e repete todo o texto novamente, provando estar sendo sincero.
+&emsp; Os heróis então pontuam entre si o que precisam: Querem quitar a nave que "compraram", na verdade eles acham que o Bruce, piloto, deixou eles na mão. Levou eles para fazer a missão e espera que os aventureiros paguem por sua nave. Além disso prometeram levar o cérebro do Vor para Thrella, em troca de uma informação praticamente inútil que receberam. A missão recebida de Joric era a de entregar os dados da pesquisa para o exército.
+&emsp; - A gente pode ficar aqui por um tempo. Vão achar que a gente falhou na missão, morremos, e pronto! Aí depois que ele resolver o problema, vamos em paz para a nossa casa... que saudade daquele bar sujo... - lamenta a criança.
+&emsp; - Então, eu tenho uma ideia melhor.
+&emsp; - Qual, Cifer?
+&emsp; - Dr. Vor, nós acreditamos que esteja fazendo algo mais correto que Joric. Concordo que, de vez em quando, descumprir a ordens superiores do exército seja o caminho correto. - Este foi o máximo que Cifer contou de sua história pessoal. - Entretanto, para nós é muito mais fácil terminar as missões que temos que ajudá-lo. 
+&emsp; - O que eu precisaria contribuir?
+&emsp; - Uma nave! Com explosivos e armas! - Pede Marc.
+&emsp; - Sejamos sinceros, Marc, a nossa nave não tinha isso. Precisamos quitar nossa nave, ou de uma nova, afinal, nem sei se aquela era nossa mesmo. - Corrige o líder do grupo.
+&emsp; - Eu consigo dar-lhes uma nave, não é das melhores, mas é boa.
+&emsp; - Ótimo. O segundo pedido é bem específico: precisamos de uma cópia fiel do seu cérebro.
+&emsp; - Vocês falaram com a Thrella, não é mesmo? Ai, ai. Sim, eu consigo, mas vai levar um tempo.
+&emsp; - Bom, e o último, e principal, precisamos de dados falsos que Joric confie.
+&emsp; - Fácil.
+&emsp; Assim o grupo aceitou a proposta do cientista maluco. Ainda um pouco desconfiado, mas Joric não ofereceu nada além de dinheiro, coisa que Vor também ofereceu. Bom, as 151 vidas "sacrificadas", acontece, quando questionado, Vor disse que a maioria dessas vidas eram voluntárias, pessoas que estiveram do lado azarado da sorte, e preferiam dar suas vidas na esperança de que um dia os outros não sofressem do mesmo mal, do que viver com a doença. Claro, alguns não são voluntários, mas um "mal necessário" aos olhos do cientista.
+&emsp; Seria muito mais útil se o cientista convencesse os invasores antes deles assassinarem toda a sua força trabalhadora.
+&emsp; Um tempo depois, com o cérebro e os dados prontos, o entregaram a Thrella, e os dados ao Joric, pegaram a nave que ganharam e partiram com a promessa de voltar.
+&emsp; Finalizamos a aventura viajando na nave. A missão Hereditus foi finalizada, mas não concluída. Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
+&emsp; Só descobriremos na próxima aventura, quando voltarmos para ver os desdobramentos de **Missão Hereditus**.
 
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
 *Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
