@@ -152,7 +152,7 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 - Quando Oraskin dá uma espiadinha pela parede atrás da qual se esconde, e vê os inimigos se aproximando, vai avisar o aliado, mas... cadê o Cifer? Ele descobre quando ou ve o disparo, leva um susto, e um dos corpos caem. No susto, ele dá um tiro e se teletransporta para o andar debaixo, na expectativa de se colocar distante, na caminhada, do último zumbi.
 - Por ironia do destino, isso nem era necessário, seu tiro foi responsável pelo seu primeiro assassinato, e a última morte do combate.
 
-**Pós-Combate**
+**PÓS-COMBATE**
 &emsp; Com o último inimigo derrotado, o Dr. Vor, que estava irritando o grupo durante todo o combate, parabeniza os invasores por destruir os seus experimentos vivos, e os convida a andar por um portal que se abrira em direção ao núcleo de energia psiônica no centro do laboratório.
 &emsp; O lagarto desce pelas paredes, e o pequeno pede carona à criança, que se teletransporta até Marc e teletransporta de novo para onde estão as câmaras com experimento ativo.
 &emsp; - Vai, agora dá uma olhada nesses negócios estranhos - Oraskin aponta para as câmaras com corpos - não quero ter que matar todo mundo de novo.
@@ -227,7 +227,7 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 &emsp; Assim o grupo aceitou a proposta do cientista maluco. Ainda um pouco desconfiado, mas Joric não ofereceu nada além de dinheiro, coisa que Vor também ofereceu. Bom, as 151 vidas "sacrificadas", acontece, quando questionado, Vor disse que a maioria dessas vidas eram voluntárias, pessoas que estiveram do lado azarado da sorte, e preferiam dar suas vidas na esperança de que um dia os outros não sofressem do mesmo mal, do que viver com a doença. Claro, alguns não são voluntários, mas um "mal necessário" aos olhos do cientista.
 &emsp; Seria muito mais útil se o cientista convencesse os invasores antes deles assassinarem toda a sua força trabalhadora.
 &emsp; Um tempo depois, com o cérebro e os dados prontos, o entregaram a Thrella, e os dados ao Joric, pegaram a nave que ganharam e partiram com a promessa de voltar.
-&emsp; Finalizamos a aventura viajando na nave. A missão Hereditus foi finalizada, mas não concluída. Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
+&emsp; Finalizamos a aventura viajando na nave. A missão Hereditus foi finalizada, Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?mas não concluída. 
 &emsp; Só descobriremos na próxima aventura, quando voltarmos para ver os desdobramentos de **Missão Hereditus**.
 
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)

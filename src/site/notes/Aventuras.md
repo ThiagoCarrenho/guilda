@@ -11,13 +11,27 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores\|Mestres e Jogadores]]
 Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 
 ---
+### O Sumiço de Mike
+**Nome da Aventura:** [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+**Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+**Sistema:** [[Sistemas/Mothership\|Mothership]];
+**Tamanho:** One-Shot;
+**Data de Jogo:** 30/01/2026-Hoje;
+**Sessões:** 1 online;
+**Nível dos Personagens**: 1;
+**Descrição:** Tripulantes de uma nave espacial chegam ao seu destino para entregar suprimentos, recarregar a nave de minérios e buscar Mike, como pedido pelos contratantes da Companhia Nakata. Mas... cadê o Mike?
+**Personagens e Jogadores:**
+- [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado de [[Jogadores/Raul Ouros\|Raul Ouros]];
+
+---
 ### Irmandade do Martelo
 **Nome da Aventura:** [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 **Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 0 online;
+**Sessões:** 3 online;
 **Nível dos Personagens**: 3;
 **Descrição:** Anões guerream pela irmandade.
 **Personagens e Jogadores:**
@@ -25,20 +39,6 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
----
-### Missão Hereditus
-**Nome da Aventura:** [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
-**Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-**Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
-**Tamanho:** Aventura breve;
-**Data de Jogo:** 06/10/2025-Hoje;
-**Sessões:** 1 online (+sessão zero)
-**Nível dos Personagens**: 1 -> 2;
-**Descrição:** Busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
-**Personagens e Jogadores:**
-- [[Aventuras/Missão Hereditus/Cifer\|Cifer]] o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---
 ### Guerra Artoniana
 **Nome da Aventura:** [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
@@ -57,6 +57,20 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
 - † [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
 - † [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
+---
+### Missão Hereditus
+**Nome da Aventura:** [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+**Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+**Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
+**Tamanho:** Aventura breve;
+**Data de Jogo:** 06/10/2025-19/12/2025;
+**Sessões:** 4 online (+sessão zero)
+**Nível dos Personagens**: 1 -> 2;
+**Descrição:** Busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
+**Personagens e Jogadores:**
+- [[Aventuras/Missão Hereditus/Cifer\|Cifer]] o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---
 ### Carga de Chromo Vermelho
 **Nome da Aventura:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];

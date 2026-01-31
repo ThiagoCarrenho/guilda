@@ -43,13 +43,13 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 ---
 ## Aventuras em Andamento
 
+### Sumiço de Mike
+
+Em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Sumiço de Mike/San Holo\|San Holo]]) em uma missão de horror espacial em [[Sistemas/Mothership\|Mothership]], onde os tripulantes da Tempestade procuram por Mike para completar sua missão e retornar à casa, mas acabam encontrando outras coisas.
+
 ### Irmandade do Martelo
 
 Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
-
-### Missão Hereditus
-
-Em [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Missão Hereditus/Cifer\|Cifer]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]) e [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Missão Hereditus/Oraskin\|Oraskin]]) em uma missão espacial em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], numa busca pelo cientista maligno Dr. Vor, que faz experimentos proibidos no mundo de Csina.
 
 ### Guerra Artoniana
 
@@ -58,6 +58,8 @@ Em [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [
 ---
 ## Galeria
 
+![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
+*O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
 *Final da Aventura I de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
 

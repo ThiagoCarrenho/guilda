@@ -9,7 +9,7 @@ Graças ao RPG, amigo também de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]
 Amigo também de [[Jogadores/Fabiano Meloni\|Fabiano Meloni]] e [[Jogadores/George\|George]].
 Comemorou um de seus aniversários com uma mesa: [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]]!
 
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Sistemas/Stars Without Numbers\|Stars Without Numbers]] e [[Sistemas/Storyteller\|Storyteller]].
+Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], [[Sistemas/Mothership\|Mothership]] e [[Sistemas/Storyteller\|Storyteller]].
 
 *Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]], que inclusive recebeu uma narração própria feita pelo Schaeppi ([áudio](https://drive.google.com/file/d/1FjmLCcTHwXyPyMaUy-qTsLRTikviWwPv/view?usp=drivesdk)) e está canonicamente no cenário de Tormenta20, pelo livro [Contra a Tempestade](https://jamboeditora.com.br/produto/contra-a-tempestade/). A mesa favorita que ele mestrou foi: [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], num cenário próprio por ele criado.
 
@@ -18,6 +18,7 @@ Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Si
 ---
 ## Mestre
 Enquanto Mestre, Raul conduziu as seguintes aventuras:
+- [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]]: One-Shot de horror espacial em [[Sistemas/Mothership\|Mothership]];
 - [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]]: Aventura breve sci-fi de busca em [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica em [[Sistemas/Tormenta20\|Tormenta20]]; 
 - [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]]: One-shot de caçada em [[Sistemas/Tormenta20\|Tormenta20]]; 

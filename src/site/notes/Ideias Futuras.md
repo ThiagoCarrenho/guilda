@@ -36,12 +36,6 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- **Descrição:** Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros se encontram em um eterno loop temporal e devem investigar uma cena de crime e solucioná-lo para sair do loop. Os aventureiros...
----
-#### \#005 Loop Temporal
-- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
-- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
-- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Nível:** 5;
 - **Descrição:** Bem-vindos a Pequena Colina! Uma das maiores comunidades Hynne, com cerca de 2000 seres a poucos dias de Valkarya. Outrora um ponto de encontro para viajantes vindos do sul, ela se perdeu e nunca mais foi encontrada desde o dia do Cerco a Valkarya. Até hoje! Vocês, aventureiros, trombam com a vila, e descobrem que ela está em um eternop loop temporal com raízes divinas. Apenas um contrato com um Hynne suspeito mascarado pode libertá-los desse loop e salvar os habitantes da cidade...
 - **Observação:** Cuidado, spoilers no Atlas, página 60.
@@ -130,5 +124,12 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** 2 sessões;
 - **Descrição:** A vários anos atrás um mago fez algum pacto com um ser superior, somente agora o preço por tal pacto foi cobrado, e sua esposa e filhas procuram aventureiros para trazer o mago de volta.
 - **Curiosidade:**  Aventura inspirada por uma música.
+---
+#### \#018 Missão Hereditus II: O Retorno. O inimigo agora é outro. Eletric Bugaloo.
+- **Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Nível:** 3;
+- **Detalhes:** Mini-Aventura;
+- **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
 ---
 *Entre outras aventuras...*

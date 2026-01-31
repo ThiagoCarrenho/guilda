@@ -109,8 +109,10 @@ Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
+Pouco depois, no início de 2026, experimentamos um pouco do horror de [[Sistemas/Mothership\|Mothership]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
+
 Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões.
 
 ### O Futuro
  
-Esse texto foi escrito no final de 2025, enquanto a GUILDA joga [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.
+Esse texto foi atualizado no início de 2025, enquanto a GUILDA joga [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], testa o sistema [[Sistemas/Mothership\|Mothership]] em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.

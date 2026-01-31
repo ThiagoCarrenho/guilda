@@ -163,3 +163,4 @@ Quem é esse soldado? A quem serve? É o mesmo que atacou Thargrum? Como os reis
 
 ---
 ## Sessão 3 (19/11/2025) - 
+Aconteceu muita coisa, mas a gente não lembra :(
