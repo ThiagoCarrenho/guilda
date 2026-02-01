@@ -31,18 +31,16 @@ Do lado esquerdo, San Holo, um rapaz maduro com porte físico de militar, careca
 Da outra câmara, se levanta gritando assustado: "Você esqueceu o lubrificante!" - ele não estava tendo um sonho muito bom. É um operário, usa um uniforme da companhia, uma tag militar numa corrente no pescoço - memórias de seu passado - que mesmo antes de se levantar, coloca o seu boné, que o relembra das origens, nele a frase lema da qual muita piada já foi feita: "Não esqueça de lubrificar". É o piloto Luiser Crunar Toyota, ou, como prefere ser chamado, "LC".
 
 Antes mesmo que troquem olhares ou palavras, a Inteligência Artificial da nave, com uma voz robótica feminina, alerta:
-"Vocês passaram... trinta e quatro... dias dormindo. Já estamos na dependência espacial de Ypsilon 14. Por favor, tomem seus postos, o piloto automático será desativado em cinco minutos. Completem a missão."
+*"Vocês passaram... trinta e quatro... dias dormindo. Já estamos na dependência espacial de Ypsilon 14. Por favor, tomem seus postos, o piloto automático será desativado em cinco minutos. Completem a missão."*
 
 "Ótimo", reclama o piloto, "nem mesmo acordamos e já tem trabalho pra fazer".
-
 "Bom dia pra você também, LC" responde o ex-militar.
 
 San vai para seu lugar de copiloto, com sua arma no coldre, enquanto LC assume a direção da nave, não lembrando da missão, ele checa o painel, e lê:
+==Missão: Entregar carga de suprimentos para a Mineradora Nakata em Ypsilon 14.==
+==Missões Adicionais: Carregar nave de minérios e retornar com Mike a bordo.==
 
-Missão: Entregar carga de suprimentos para a Mineradora Nakata em Ypsilon 14.
-Missões Adicionais: Carregar nave de minérios e retornar com Mike a bordo.
-
-Ele murmura "espero que esse Mike seja gente fina..." enquanto aterrissa a nave. O começo do trabalho é bem feito, mas o cansaço o atinge e ele esquece de um ou dois passos de pouso, que acontece de forma turbulenta, ferindo levemente os tripulantes. "Foi mal aí" ele comenta ao parceiro, que só acena negativamente.
+Ele murmura "espero que esse Mike seja gente fina..." enquanto aterrissa a nave. O começo do trabalho é bem feito, mas o cansaço o atinge e ele esquece de um ou dois passos de pouso, que acontece de forma turbulenta, ferindo levemente os tripulantes, e quase fazendo bater em outra nave atracada na mineradora. "Foi mal aí" ele comenta ao parceiro, que só acena negativamente.
 
 O piloto então toma o comunicador: "Câmbio... é... nave Tempestade pousada, aguardando liberação para atracar. Câmbio... Aliás, aqui é o Piloto Toyota. Câmbio." Depois de um tempo sem resposta ele contata novamente: "Câmbio. Tem alguém aí? Tenho trabalho para fazer. Libera logo a atracagem. Câmbio."
 

@@ -41,4 +41,4 @@ Venceu a criatura e retornou para reconstruir a Vila, se tornando um herói loca
 ---
 #### Ficha
 
-![[Opala.pdf]]
+<iframe src="/img/user/Aventuras/Minas%20Perdidas%20de%20Phandelvier/Opala.pdf" width="100%" height="900px" title="Opala.pdf" style="border:1px solid #ccc;"></iframe>
