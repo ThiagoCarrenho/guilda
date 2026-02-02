@@ -60,7 +60,8 @@ Noutro lado há um corredor que leva para os quartos pessoais, há também uma �
 "Como assim? Tu não consegue ignorar esse passo aí pelo computador? Era um objetivo adicional. O principal era descarregar os suprimentos, que a gente trouxe e os dois ali estão fazendo, como um extra vocês podem carregar a nave de minério que a gente leva de volta, e se der a gente leva o Mike."
 "É o sistema da Corporação." - Sonya completa dando de ombros.
 "Que porcaria. Pelo menos tem um café nesse lugar?"
-"Tem no refeitório, no fim do corredor à esquerda."
+"Tem no refeitório, no fim do corredor à esquerda. À direita ficam os chuveiros."
+"Intactos, eu presumo." - Sussura para si mesmo LC. San ouve e dá uma risada, ambos pensando no cheiro forte que exalava de Kantaro.
 
 Irritados com a informação, os dois seguem para o refeitório, que, de fato, tem duas garrafas térmicas, uma delas está com a tampa aberta, pelo jeito, quem ficou à noite esqueceu de fechar, então LC abre a segunda e, ao colocar no copo, percebe que está vazia - e esbraveja novamente, pega uma cerveja em sua mochila, e senta à mesa, aguardando a descarga e carga da nave, e o tal do Mike aparecer. San não tinha muita escolha e foi no café gelado mesmo.
 
@@ -127,28 +128,53 @@ Quando abrem a porta para sair, aparece Rie, uma mulher que dorme no quarto ao l
 "Aí, eu não sei o que é que vocês estão fazendo, to aqui pra julgar ninguém, vocês podem extravazar como quiserem, mas faz mais baixo, por favor, tá me atrapalhando, morô?"
 "Não, não é nada" - responde envergonhado o San.
 
+Quando chegam no quarto do Mike, eles veem LC muito mal escondido, depois de ouvir o barulhão da queda do San, ele se colocou atrás de alguma mobília, não querendo ser tomado como culpado. O ex-militar entrega escondido a pistola para seu companheiro, afinal a sua já se encontra em seu coldre, e explica de novo sua teoria da fuga pelo teto do Mike, e sobe novamente, seu amigo tenta subir, mas cai, se machucando no processo.
 
+Chegando numa parte mais escura da tubulação, San Holo pede uma fonte de luz, e Rosa arranja um isqueiro com Rie - ainda que não esteja 100% convencida que o recém-chegado estivesse de olho nela, a pequena probabilidade de ele estar sendo verdadeiro e estar ativamente fazendo alguma coisa para achar o Mike faz com que ela confie nele.
 
-Discussão sobre subri, LC não consegue, duas vezes. Pega um isqueiro com a fumante e
+Andando mais a frente na tubulação, San encontra uma fita sem nenhuma gravação, depois se depara com um vulto, que aos poucos vai se aproximando. A tensão cresce. O vulto se aproxima e pula na direção do homem, que se assusta levemente. Por sorte, era só um gato. O mesmo gato vai na direção do quarto do Mike, e, saindo pelo teto, assusta LC, que cai pela segunda vez tentando subir na tubulação.
 
-san anda pela area de ventilação
+San chega até uma parte maior, com uma tela - é uma segunda tela do computador que Rosa usa, com um painel de controle que avisa ==*Menu Especial Crítico*==, e duas naves conectadas: Tempestade e Heracles. Lá de cima, ele nota que o elevador foi usado novamente, mas ninguém subiu, e consegue ouvir uma forte discussão que seu amigo tem com a capitã...
 
-elevador volta vazio, morgan
+Depois de ser derrubado pela segunda vez, LC Toyota desiste de tentar subir à tubulação, e tenta uma brecha para mexer no computador central. Assim se desloca até o centro da mineradora, e pergunta para a Sonya:
+"Alguma novidade do Mike?"
+"Nada ainda."
+"E você não vai fazer nada?"
+"Não posso, como expliquei para a Rosa precisamos esperar o prazo mínimo antes de tomar as medidas de procura da Corporação."
+"É, mas eu preciso voltar para casa, e rápido. Preciso da grana, e não posso ficar esperando muito tempo. Se eu partir agora, ao chegar em casa, terei um ou dois dias antes de partir de novo. Se ficar esperando seu prazo burocrático, eu fico um dia a mais aqui, e você sabe que a companhia não vai pagar" - "sei..." confirma ela - "e eu perco minha próxima viagem, perdendo ainda mais dinheiro e reputação."
+"Tá, eu entendo, mas eu não posso fazer nada... olha, daqui a pouco o Morgan volta e carrega a sua nave, e duas das tarefas estarão cumpridas, vamos pensar assim?"
 
-depois eu encho o saco da sonya, que não ta fazendo nada de util, "mando" ela sair e ir fazer alguma coisa 
+Pouco tempo depois da resposta, o elevador que San ouvira chega, mas chega vazio.
+"O cara mandou o elevador subir e esqueceu de entrar, vamos mandar descer de novo" - sugere Toyota.
+"Não tem como... precisa estar dentro do elevador para acionar..." - responde Sonya, preocupada e confusa, mas mantendo a pose de calma.
+"Mas pera lá! Se não tem como, como que o elevador subiu?" - LC aumenta o tom.
+Sonya não responde.
+"Agora o negócio tá ficando feio. Dois da sua dúzia de empregados seus sumiram, um deles do nada e outro dentro da mina, e você tá tranquila? O elevador subiu de maneira misteriosa, e você via continuar obedecendo as regras do regimento? Que que tá acontecendo?"
+"Nada. Não está acontecendo nada! O elevador deve ter dado algum problema, o Morgan está lá embaixo preparando a carga de minérios, e o Mike está em algum canto, fugindo do trabalho. Se há algum problema aqui, é a irresponsabilidade dele!"
+"Nada é o que você está fazendo! Sendo uma inútil sentada nesse computador, resolvendo nada, enquanto perde um a um seus subordinados. Que péssima líder!"
+"Me respeite que sou eu quem manda aqui! Ninguém sumiu, ninguém desapareceu." 
 
-paineld de controlr: 
-menu especial crítico
-duas naves conectada - tempestade e Hercules
+Sonya se levanta irritada e vai até o refeitório ver os outros funcionários. Ela passa pela Rosa limpando a sujeira feita pelo San, vê a porta aberta do Mike, sabe que algo de errado está acontecendo, mas segue em frente.
 
-Ultimos relatorios maik e sonya - alguns dias ele encontrou uma coisa estranha nos interiores da mina - material pegajoso amarelo, "goo" - e depois começou a agir estranho, isolado. Mais cedo ele estava tomando banho e o chuveiro quebrou. Está caótico e nervoso
+Enquanto isso, Toyota usa suas habilidades com computadores para procurar os arquivos e logs mais recentes, assim como maiores informações sobre Mike. Nessa rápida busca, encontra que Mike encontrou recentemente uma coisa estranha nos interiores da mina - um material pegajoso amarelo, "goo" - e depois começou a agir estranho, cada vez mais isolado. Num dos relatórios ela coloca que ele estava tomando banho e o chuveiro quebrou. Nos últimos dias ele está caótico e nervoso. LC também encontra informações sobre a outra nave atracada, Heracles, cujo capitão é o Dr. Giovanni, que veio com uma missão especial da Companhia, e age de forma superior aos outros, mas, desde que chegou, ficou isolado, e não aparece a alguns dias. A nave está trancada e sem nenhuma forma de acesso.
 
-Dr. Giovanni, capitão da Hércules, chegou, mas ficou isolado, não aparece a alguns dias, nave perdida
+É então quando ele ouve os passos da capitã voltando, fecha rapidamente as abas que abrira, e vira de costas para o computador, fingindo apenas ser um folgado que se aproveitou da cadeira vazia. E Sonya chega acompanhada do Kantaro, e, a fim de não levantar suspeitas, LC diz primeiro:
+"Mais alguém sumiu?"
+"Não. Ashraf e Dana estão comendo no refeitório. Quer dizer, se alguém sumiu, é seu amigo, cadê ele?"
+"Banheiro. Eu falei para não tomar aquele café gelado."
+"Ele não vai aparecer não?"
+"Senhora, eu não ando grudado nele não. Cagar ele caga sozinho, você não quer que eu abre a porta e interrompa ele?"
+"Claro que não, é só ir até a porta e chamar."
 
-chega ela e o kantaro
+Nisto LC se põe a andar para o quarto, a fim de chamar o San, mas quando nota que a Sonya está vindo atrás, ele muda o caminho para o banheiro, para sustentar a mentira, depois que ela foi para o refeitório, ele pensa em algo para chamar o amigo sem chamar a atenção e grita: "Pastel de queijo!", e sai antes de ser notado.
 
-Maik deveria ter cuidado da horta, mas as plantas estão morrendo
+Enquanto isso, depois de ouvir a discussão, San Holo voltou a andar pelas tubulação, para os caminhos onde não explorara. Ele encontrou outra fita, mas esta está com uma gravação, além disso, ele chegou até a ventilação de uma horta particular, onde ele conseguiu ver as plantas mal cuidadas e morrendo, e uma escala, que mostraria que o responsável pelo cuidado nessa semana seria o Mike.
 
-eu to frightened
+É quando ouve o grito que ele então desce dos caminhos do teto, e encontra com Toyota na central da mineração pergunta se tem pastel de queijo mesmo, LC nega, e diz que precisava de um jeito para chamá-lo, e por meio de um comentário desnecessário de "deu descarga" do amigo, San percebe que a mentira é que ele estava no banheiro.
+
+Então San pergunta se teria como tocar a fita que ele achou... "no banheiro". Se reúnem LC, San, Rosa e Sonya ao redor do computador, ouvem a fita e é uma voz, a de Mike, que diz:
+==_Aqui é o Mike. Eu não… eu não tô bem, alguma coisa tá errada. A água… eu não sei… eu não posso ficar aqui em cima por muito tempo. Eu quebrei o chuveiro, falei pra Sonya que foi um acidente, mas… é a água, eu acho que ele não gosta da água… eu vou voltar pra mina. Eu preciso de silêncio. Oh Deus, eu não sei… por favor, me conserta… eu não… eu não… eu não sei o que tá acontecendo._==
+
+Depois disso, um pouco mais preocupados...
 
 ![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
