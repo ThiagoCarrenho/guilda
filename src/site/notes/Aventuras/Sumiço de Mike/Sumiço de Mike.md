@@ -171,10 +171,53 @@ Nisto LC se põe a andar para o quarto, a fim de chamar o San, mas quando nota q
 Enquanto isso, depois de ouvir a discussão, San Holo voltou a andar pelas tubulação, para os caminhos onde não explorara. Ele encontrou outra fita, mas esta está com uma gravação, além disso, ele chegou até a ventilação de uma horta particular, onde ele conseguiu ver as plantas mal cuidadas e morrendo, e uma escala, que mostraria que o responsável pelo cuidado nessa semana seria o Mike.
 
 É quando ouve o grito que ele então desce dos caminhos do teto, e encontra com Toyota na central da mineração pergunta se tem pastel de queijo mesmo, LC nega, e diz que precisava de um jeito para chamá-lo, e por meio de um comentário desnecessário de "deu descarga" do amigo, San percebe que a mentira é que ele estava no banheiro.
+"Alguém viu um gato por aí?"
+"Eu vi, ele me deu um susto que me derrubou" - responde LC.
+"É a Princesa, gatinha do Morgan, ela era de rua e ele pegou para cuidar" - complementa Sonya.
 
 Então San pergunta se teria como tocar a fita que ele achou... "no banheiro". Se reúnem LC, San, Rosa e Sonya ao redor do computador, ouvem a fita e é uma voz, a de Mike, que diz:
 ==_Aqui é o Mike. Eu não… eu não tô bem, alguma coisa tá errada. A água… eu não sei… eu não posso ficar aqui em cima por muito tempo. Eu quebrei o chuveiro, falei pra Sonya que foi um acidente, mas… é a água, eu acho que ele não gosta da água… eu vou voltar pra mina. Eu preciso de silêncio. Oh Deus, eu não sei… por favor, me conserta… eu não… eu não… eu não sei o que tá acontecendo._==
 
-Depois disso, um pouco mais preocupados...
+Depois disso, um pouco mais preocupados, todos notam que o problema que está acotecendo é grave, e perigoso.
+"O que é que está acontecendo?" - Pergunta, começando a ter medo, LC.
+"Repito: nada! Ele só estava estranho, e ainda quebrou nosso chuveiro. Ele estava agindo estranho, pode ser que estava só doente."
+"Mais alguém teve problema com o chuveiro?" - San faz a pergunta e LC olha fixamente para o Kantaro, o sujeito de mal cheiro, mas depois disfarça.
+"Não, San." - responde a Sonya.
+"E a outra nave ali? Por que esse tal de Giovanni não sai?" - Indaga San.
+"Eu sei lá, nem conheço direito esse cara."
+"Já são dois amigos e funcionários seus que desaparecem, e você não tem o mínimo de empatia por eles? Nem teme pela sua segurança? Ou que seja de trabalho, você não liga de ter funcionários a menos? Vamos nos reunir no refeitório, temos que fazer alguma coisa" - ordena San.
+"Precisa mesmo? Eu já falei, está tudo sob controle? Ou vocês viram algo que eu não vi?" - ela começa a suspeitar dos dois.
+"Eu vi uma gosma amarela no refeitório..." - mentira de LC, que buscava apenas notar se isso causaria desconforto nos olhos da capitã, que, de fato, se assusta um pouco, mas mantém a compostura - "... mas deve ser só maionese com mostarda que caiu do pão de alguém."
+
+San Holo toma a liderança e manda Sonya reunir todos no refeitório, para tomarem providências: Dana e Ashraf já estavam por lá; Rosa terminava de limpar seu quarto; Rie estava... relaxando; Jerome saiu do banho recentemente; Kantaro estava encostado depois de fazer o seu trabalho de descarregamento. Enquanto ela chamava os outros integrantes, LC atrasou o passo e sussurrou para San o que tinha visto no computador.
+
+Entretanto, ao chegarem no refeitório, duas tigelas de cereal inacabadas em cima da mesa, mas nem sinal de Dana e Ashraf. Então LC provoca:
+"E aí, Sonya, menos dois"
+"Eles devem ter ido trabalhar..."
+"Achei que tivessem regras de limpeza no local, eles nem acabaram de comer, nem lavaram as coisas que usaram, deixaram tudo jogado. Isso é normal por aqui?"
+"Não, não é!" - Interrompe Rosa - "e não me venha com mentirinhas de novo, Sonya, a gente precisa fazer alguma coisa, e trazer de volta o Mike! ... E também os outros que desapareceram."
+
+Sonya estava respondendo que ninguém havia desaparecido, reafirmando seu ponto de vista, quando passa a Princesa, que vai até o corredor, e começa a agir de forma agressiva, como se estivesse vendo uma ameaça. San e LC sacam suas armas e vão andando cuidadosamente, e, quando abrem seu campo de visão... não veem nada, a gata parece estar confundindo.
+
+Quando estão para baixar a guarda, a gata começa a flutuar, e aos poucos, vai desaparecendo, na frente de San e LC. O ex-militar mantém a compostura, mas o piloto entra em pânico e fica amedrontado, e ambos não conseguem tomar ação alguma de imediato.
 
 ![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
+
+---
+
+### Situação Atual
+#### Estão no refeitório:
+- LC Toyota;
+- San Holo;
+- Sonya - líder corporativa, defendendo a todo custo que nada está acontecendo;
+- Jerome - animado, apaixonado por batatinhas, que tomou banho agora;
+- Kantaro - carregador de mal odor e perfil russo e forte;
+- Rie - usuária de alucinógenos;
+- Rosa - perfumada que sofre o sumiço de Mike;
+#### Não se sabe a localidade:
+- Mike - o objetivo, visto pela última vez em seu quarto, deve ter usado a tubulação para fugir escondido, e estava com medo de água;
+- Morgan - carregador baixinho que desceu no elevador, deve estar na mina;
+- Ashraf - desapareceu no refeitório, comendo cereal;
+- Dana - desapareceu no refeitório, comendo cereal;
+- Princesa - a gatinha sumiu no ar na frente dos jogadores, no corredor;
+- Dr. Giovanni - capitão da nave Heracles, está nela trancado com a senha de admin;
