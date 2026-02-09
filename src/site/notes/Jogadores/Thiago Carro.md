@@ -45,5 +45,5 @@ Eis os aventureiros que foram criados e interpretados pelo Thiago, em parêntese
 - [[Aventuras/Segredos Profundos/Desconhecido-Thiago-001\|Desconhecido-Thiago-001]] de [[Aventuras/Segredos Profundos/Segredos Profundos\|Segredos Profundos]];
 - [[Aventuras/Planeswalker/Sargento Jeep Willys\|Sargento Jeep Willys]] (Jeep Willys), o comandante de [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]];
 - [[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]] (Porsche Cayenne), o amigo de Venatão em [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
-- [[Aventuras/Ataque à Ilha do Forte/Capitão Boina Cinza\|Capitão Boina Cinza]], o capitão do Garciano II em [[Aventuras/Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]];
+- [[Aventuras/Ataque à Ilha do Forte/Capitão Boina Cinza\|Capitão Boina Cinza]] (não tem nome associado, mas tem navio), o capitão do Garciano II em [[Aventuras/Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]];
 - [[Aventuras/Andalurien/Fordinho\|Fordinho]] (Ford), o mecânico de carroças em [[Aventuras/Andalurien/Andalurien\|Andalurien]];
