@@ -5,8 +5,8 @@
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 **Sistema:**  [[Sistemas/Mothership\|Mothership]];
 **Tamanho:** One-Shot;
-**Data de Jogo:** 30/01/2025-Hoje;
-**Sessões:** 1 online;
+**Data de Jogo:** 30/01/2026-06/02/2026;
+**Sessões:** 2 online;
 **Nível dos Personagens**: 1;
 
 Vocês foram enviados pela corporação Nakata para um trabalho de rotina na base mineradora Ypsilon 14 em um asteroide remoto. Após atracar, a tripulação descobre que um dos trabalhadores desapareceu. 

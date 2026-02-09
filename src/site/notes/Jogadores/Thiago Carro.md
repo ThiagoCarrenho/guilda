@@ -25,25 +25,25 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 - [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]]: Aventura breve solo em [[Sistemas/Tormenta20\|Tormenta20]];
 ---
 ## Personagens
-Eis os aventureiros que foram criados e interpretados pelo Thiago:
-- † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
-- [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
-- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
-- [[Aventuras/Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], o nobre filantropo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
-- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]], o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
-- [[Aventuras/A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]], o clérigo surfista em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
-- [[Aventuras/Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]], o piromaníaco filho de dragão em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
-- [[Aventuras/Posto de Troca Baixa Vila de Lena/Daw'Kruzar\|Daw'Kruzar]], o guardião da luz em [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];
-- [[Aventuras/Passos de Lava/Elvo Korres\|Elvo Korres]], o harpia de [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]];
-- [[Aventuras/Conflito das Águas/Drozd\|Drozd]], o troglodita selvagem de [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]];
-- [[Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos\|Opala Seis Canecos]], o vingador de Tesla em [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]];
-- [[Aventuras/Começo da Guilda/Mil Vozes\|Mil Vozes]], o bardo das mil vozes de [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
-- [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]], o ranzinza da floresta em [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]];
-- † [[Aventuras/Ascenção do Deus Dragão/Raiden\|Raiden]], o filho do trovão de [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], morto em combate;
-- [[Aventuras/Invasão ao Vulcão Negro/Ka Ulerc\|Ka Ulerc]], o ladrão tristonho de [[Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]];
+Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
+- † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+- [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+- [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]] (GWM Ora 03 Skin), o pirralho espacial psiônico de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+- [[Aventuras/Guerra Artoniana/Deora II\|Deora II]] (Hot Wheels Deora II), o amigo enganador dos deuses de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
+- † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] (1952 Alfa Romeo 6C 2500 GT Villa d'Este Cabriolet by Touring), o nobre filantropo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
+- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
+- [[Aventuras/A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]] (HMS Dreadnought - navio), o clérigo surfista em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
+- [[Aventuras/Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]] (Nissan Skyline), o piromaníaco filho de dragão em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
+- [[Aventuras/Posto de Troca Baixa Vila de Lena/Daw'Kruzar\|Daw'Kruzar]] (Toyota Land Cruiser), o guardião da luz em [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];
+- [[Aventuras/Passos de Lava/Elvo Korres\|Elvo Korres]] (ELVO (Hellenic Vehicle Industry)), o harpia de [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]];
+- [[Aventuras/Conflito das Águas/Drozd\|Drozd]] ('Drozd' Amphbious Vehicle), o troglodita selvagem de [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]];
+- [[Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos\|Opala Seis Canecos]] (Chevrolet Opala), o vingador de Tesla em [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]];
+- [[Aventuras/Começo da Guilda/Mil Vozes\|Mil Vozes]] (Nome Verdadeiro: Suzuki Grand Vitara - Suzuki Grand Vitara), o bardo das mil vozes de [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
+- [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] (Cadillac Escalade), o ranzinza da floresta em [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]];
+- † [[Aventuras/Ascenção do Deus Dragão/Raiden\|Raiden]] (Nome Verdadeiro: Jacievlo - JAC iEV40), o filho do trovão de [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], morto em combate;
+- [[Aventuras/Invasão ao Vulcão Negro/Ka Ulerc\|Ka Ulerc]] (Ford Ka), o ladrão tristonho de [[Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]];
 - [[Aventuras/Segredos Profundos/Desconhecido-Thiago-001\|Desconhecido-Thiago-001]] de [[Aventuras/Segredos Profundos/Segredos Profundos\|Segredos Profundos]];
-- [[Aventuras/Planeswalker/Sargento Jeep Willys\|Sargento Jeep Willys]], o comandante de [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]];
-- [[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão em [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
+- [[Aventuras/Planeswalker/Sargento Jeep Willys\|Sargento Jeep Willys]] (Jeep Willys), o comandante de [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]];
+- [[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]] (Porsche Cayenne), o amigo de Venatão em [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
 - [[Aventuras/Ataque à Ilha do Forte/Capitão Boina Cinza\|Capitão Boina Cinza]], o capitão do Garciano II em [[Aventuras/Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]];
-- [[Aventuras/Andalurien/Fordinho\|Fordinho]], o mecânico de carroças em [[Aventuras/Andalurien/Andalurien\|Andalurien]];
+- [[Aventuras/Andalurien/Fordinho\|Fordinho]] (Ford), o mecânico de carroças em [[Aventuras/Andalurien/Andalurien\|Andalurien]];
