@@ -32,7 +32,7 @@ Lista dos personagens que marcaram a história da GUILDA:
     * [[Aventuras/Segredos Profundos/Desconhecido-Rennó-001\|Desconhecido-Rennó-001]] - [[Jogadores/Mateus Rennó\|Mateus Rennó]];
 ### Estatísticas Marcantes
 - Maior guerreiro: [[Jogadores/Miguel de Maria\|Miguel de Maria]] - 1 câncer vencido;
-- Mestre mais carnificeiro: [[Jogadores/Raul Teixeira\|Raul Teixeira]] - 5 mortos;
+- Mestre mais carnificeiro: [[Jogadores/Raul Teixeira\|Raul Teixeira]] - 7 mortos;
 - Jogador mais combeiro: [[Jogadores/Raul Ouros\|Raul Ouros]];
 - Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões (o Zé Mané do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões);
 - Jogador com mais personagens usando apetrechos de cabeça: [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -46,3 +46,5 @@ Aqui jazem os personagens que tiveram sua história interrompida.
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] ([[Jogadores/Miguel de Maria\|Miguel de Maria]]) - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] ([[Jogadores/Laura\|Laura]]) - [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- † [[Aventuras/Sumiço de Mike/San Holo\|San Holo]] ([[Jogadores/Raul Ouros\|Raul Ouros]]) - [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];

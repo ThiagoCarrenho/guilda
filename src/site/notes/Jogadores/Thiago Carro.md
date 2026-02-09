@@ -26,7 +26,7 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago:
-- [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+- † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];

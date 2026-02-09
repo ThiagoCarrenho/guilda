@@ -22,7 +22,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
-- [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+- † [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/Guerra Artoniana/Nagi\|Nagi]], o flecheiro de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];

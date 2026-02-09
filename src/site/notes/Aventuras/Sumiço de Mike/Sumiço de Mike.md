@@ -24,7 +24,7 @@ _[[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]]_
 _[[Aventuras/Sumiço de Mike/San Holo\|San Holo]]_
 
 ---
-## Sessão 1 (30/01/2025) - Onde está o Mike?
+## Sessão 1 (30/01/2026) - Onde está o Mike?
 A aventura começa em um dos compartimentos de uma aeronave, onde vemos duas câmaras de ar. Elas se abrem, descompressurizam, e de cada uma delas se levanta um homem.
 
 Do lado esquerdo, San Holo, um rapaz maduro com porte físico de militar, careca, que utiliza um suspensório com um símbolo de um átomo, dado o estado da vestimenta, o homem já passou por muitas histórias. Ele se levanta, bocejando, enquanto vê seu colega lutando contra o sono para acordar. 
@@ -200,12 +200,7 @@ Entretanto, ao chegarem no refeitório, duas tigelas de cereal inacabadas em cim
 Sonya estava respondendo que ninguém havia desaparecido, reafirmando seu ponto de vista, quando passa a Princesa, que vai até o corredor, e começa a agir de forma agressiva, como se estivesse vendo uma ameaça. San e LC sacam suas armas e vão andando cuidadosamente, e, quando abrem seu campo de visão... não veem nada, a gata parece estar confundindo.
 
 Quando estão para baixar a guarda, a gata começa a flutuar, e aos poucos, vai desaparecendo, na frente de San e LC. O ex-militar mantém a compostura, mas o piloto entra em pânico e fica amedrontado, e ambos não conseguem tomar ação alguma de imediato.
-
-![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
-
----
-
-### Situação Atual
+### Situação
 #### Estão no refeitório:
 - LC Toyota;
 - San Holo;
@@ -221,3 +216,18 @@ Quando estão para baixar a guarda, a gata começa a flutuar, e aos poucos, vai 
 - Dana - desapareceu no refeitório, comendo cereal;
 - Princesa - a gatinha sumiu no ar na frente dos jogadores, no corredor;
 - Dr. Giovanni - capitão da nave Heracles, está nela trancado com a senha de admin;
+
+![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
+
+---
+## Sessão 2 (06/02/2026) - Onde está o Mike?
+Dou um tiro, falho miseravelmente
+Em panico, tomo cerveja
+San espera algo aparecer para atirar, mas nada acontece
+Sonya diz que vai procurar algumas
+tocamos a fita pra galera
+rosa ficou preocupada
+começo a sentir meio zonzo pelas bebidas
+kantaro viu a gosma
+pensamos em pegar agua pra se defender
+garrafas e 
