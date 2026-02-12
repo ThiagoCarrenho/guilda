@@ -150,4 +150,27 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** One-Shot;
 - **Descrição:** Rolaremos personagens aleatórios, e a partir daí chegamos a uma missão estranha.
 ---
+#### \#997 One-Shot do Carro.
+- **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
+- **Nível:** 1 (ou maior);
+- **Detalhes:** One-Shot;
+- **Descrição:** Qualquer.
+---
+#### \#998 One-Shot do Ouros.
+- **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
+- **Sistema:** A definir;
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Nível:** 1 (ou maior);
+- **Detalhes:** One-Shot;
+- **Descrição:** Qualquer.
+---
+#### \#999 One-Shot do Raul.
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Sistemas/Mothership\|Mothership]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Descrição:** Qualquer.
+---
 *Entre outras aventuras...*
