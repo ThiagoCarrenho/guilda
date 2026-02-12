@@ -126,6 +126,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Curiosidade:**  Aventura inspirada por uma música.
 ---
 #### \#017 Missão Hereditus II: O Retorno. O inimigo agora é outro. Eletric Bugaloo.
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Nível:** 3;
@@ -133,6 +134,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
 ---
 #### \#018 Mensageiros da Floresta Negra.
+- **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Daggerheart\|Daggerheart]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
 - **Nível:** 1;
@@ -141,6 +143,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Curiosidade:** Sistema novo!
 ---
 #### \#019 Aleatório.
+- **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
 - **Nível:** 1;
