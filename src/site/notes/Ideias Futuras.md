@@ -47,27 +47,27 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Nível:** 5
 - **Descrição:** Contratados por um professor de história da magia da Academia Arcana, os aventureiros devem encontrar um artefato mágico perdido. Entretanto, Puristas também o procuram! A aventura envolverá exploração de lugares selvagens e batalhas contra Puristas
 ---
-#### \#008 Prisioneiros ou Jantar?
+#### \#007 Prisioneiros ou Jantar?
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Alien RPG\|Alien RPG]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Detalhes:** Terror/Horror espacial;
 - **Descrição:** Algo deu errado. Os exploradores já deveriam ter retornado ao seu planeta de origem. Mas ainda não saíram da base. Não há mais sinal. Zero contato com qualquer outro tipo de vida. Ou quase zero... talvez algo tenha se mexido nas sombras.
 - ---
-#### \#009 Pretech Vivo
+#### \#008 Pretech Vivo
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Descrição:** Aparentemente, algo enorme sobreviveu ao Silêncio, feito por mãos humanas com tecnologia perdida para todas as outras civilizações, e os aventureiros podem vir a controlá-lo. Embarque conosco numa aventura com viagem espacial... e MECHAS!
 ---
-#### \#010 Amor Podre e Baleado
+#### \#009 Amor Podre e Baleado
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Detalhes:** Personagens Heroicos;
 - **Descrição:** Há um mundo que regrediu a um período de guerras, e vive guerreando eternamente com tecnologias da 2ª Guerra Mundial. Mas há algo diferente: não são mais homens que puxam o gatilho - Mortos-Vivos e Zumbis são quem levam os inimigos a uma segunda ou terceira morte. Nesse caos, uma zumbi fêmea contrata os aventureiros para buscar e resgatar seu namorado no fronte de guerra, no meio das trincheiras.
 ---
-#### \#011 Vestígios do Silêncio
+#### \#010 Vestígios do Silêncio
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[The Expanse\|The Expanse]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -75,7 +75,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Gênero:** Hard Sci-fi;
 - **Descrição:** Um asteroide interestelar se aproxima do Sistema Solar, e exploradores são contratados pela colônia de Marte para investigá-lo quanto à presença de recursos. Scanners indicam um grande depósito de minérios, mas a inteligência marciana aponta que os Terráqueos também terão interesse em explorá-lo, e se precisar, lutarão por ele. Embarque nessa missão que vai envolver exploração e mistérios até então ocultos.
 ---
-#### \#012 Nas Entranhas de Tiberus
+#### \#011 Nas Entranhas de Tiberus
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -83,7 +83,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** 2 sessões;
 - **Descrição:** Acontecimentos inesperados da Tormenta na capital do Império de Tauron fazem com que médias extremas sejam tomadas e grupos de aventureiros são convocados para adentrar locais perigosos e recuperar informações ou itens importantes. Apenas os mais corajosos (ou loucos) aceitariam essa missão.
 ---
-#### \#013 O Apartamento
+#### \#012 O Apartamento
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -92,7 +92,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Descrição:** Mais um novo dia na mega cidade de "Nova São Paulo", e os personagens chegam de mudança para seus novos apartamentos, por coincidência todos no mesmo prédio, eles acabam se conhecendo e o resto é historia.
 - **Informação:** Adaptação para one-shot em um cenário mais brasileiro, mas as mudanças são poucas.
 ---
-#### \#014 O Mistério do Baile de Inverno
+#### \#013 O Mistério do Baile de Inverno
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -100,7 +100,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** 2 sessões;
 - **Descrição:** Em um baile de gala em um grande povoado, coisas inesperadas irão acontecer. Um mistério surgirá e respostas precisarão ser encontradas. Convenientemente, um grupo de aventureiros estava desfrutando desse momento de festa.
 ---
-#### \#015 A Caravana Perdida em Petrynia
+#### \#014 A Caravana Perdida em Petrynia
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -108,7 +108,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** 2 sessões;
 - **Descrição:** Uma caravana se perde nas planícies empoeiradas de Petrynia e acaba em uma cidade de foras da lei que muitos duvidam da existência, mas parece que ela existe mesmo. É possível sair de um lugar assim? A que preço?
 ---
-#### \#016 Preparativos para o Sckharal
+#### \#015 Preparativos para o Sckharal
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -116,7 +116,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** 4 sessões;
 - **Descrição:** Um dia antes do Sckharal pessoas não bem vindas são avistas em Ghallistryx, mas a as autoridades oficiais não podem utilizar os meios oficias para lidar com eles pois isso pode chegar aos ouvidos de Sckhar e ter terríveis consequências aos que falharam anteriormente em resolver a situação, logo um grupo de aventureiros deverá resolver estes problemas de formas mais discretas.
 ---
-#### \#017 Cabana do Mago
+#### \#016 Cabana do Mago
 - **Ideia de [[Jogadores/Raul Ouros\|Raul Ouros]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -125,11 +125,26 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Descrição:** A vários anos atrás um mago fez algum pacto com um ser superior, somente agora o preço por tal pacto foi cobrado, e sua esposa e filhas procuram aventureiros para trazer o mago de volta.
 - **Curiosidade:**  Aventura inspirada por uma música.
 ---
-#### \#018 Missão Hereditus II: O Retorno. O inimigo agora é outro. Eletric Bugaloo.
+#### \#017 Missão Hereditus II: O Retorno. O inimigo agora é outro. Eletric Bugaloo.
 - **Sistema:** [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Nível:** 3;
 - **Detalhes:** Mini-Aventura;
 - **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
+---
+#### \#018 Mensageiros da Floresta Negra.
+- **Sistema:** [[Daggerheart\|Daggerheart]];
+- **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
+- **Nível:** 1;
+- **Detalhes:** One-Shot do Kit Introdutório;
+- **Descrição:** *Marlowe Fairwind*, a mão direita do Rei Emeris, é uma feiticeira que reuniu seus aliados mais confiáveis para levar um importante pacote até Calada, um vilarejo localizado na antiga Floresta Negra. É uma caixa grande, pesada e selada por magia, destinada à Arcanista do Fogo Branco. Vocês receberam um mapa, uma carruagem e a promessa de recompensa após o retorno.
+- **Curiosidade:** Sistema novo!
+---
+#### \#019 Aleatório.
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
+- **Nível:** 1;
+- **Detalhes:** One-Shot;
+- **Descrição:** Rolaremos personagens aleatórios, e a partir daí chegamos a uma missão estranha.
 ---
 *Entre outras aventuras...*
