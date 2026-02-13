@@ -284,10 +284,52 @@ Então partem para descer à mina, atrás desse equipamento, e, enquanto colocam
 "Você é burro?" - Pergunta Rosa.
 "Que foi? Se o bixo tentar me morder, ele vai achar água!"
 "Dê um passo."
-LC tenta dar um passo, mas a veste está muito pesada. Envergonhado, ele tenta recuperar a água, mas depois de derramar no balde, percebe que p
+LC tenta dar um passo, mas a veste está muito pesada. Envergonhado, ele tenta recuperar a água, mas depois de derramar no balde, percebe que perdeu metade dele no processo.
 
-==Descida para a mina para buscar um furador industrial, as garrafas estouram, cena em que LC perde metade da água enchendo a própria vestimenta com ela, encontramos restos do corpo do mike, mas nem sinal do seu cartão, Rie é puxada para atrás enquanto o grupo avança, vemos uma gosma, ignoramos e seguimos pelo mesmo caminho, sem muito explorar==
+"Ei, San, toma um pouco disso aqui" - Rosa joga um frasco de adrenalina para o rapaz ferido - "vai te ajudar."
+"Sei muito bem como isso funciona. Vamos nessa!"
 
-==subimos e executamos o plano, LC usa a furadeira para quebrar a porta, abre a própria nave e todos entram.==
+Quando descem à mina, além da falha de energia, que até os recém chegados já se acostumaram, começam a se aproximar do vácuo, e, com isso, as garrafas estouram, e a água do balde começa a borbulhar e evaporar... e assim, a ideia foi pelo ralo.
+Aos poucos, o escuro total tomou a visão do grupo, que acendeu a fraca lanterna do equipamento.
 
-==LC falha em ligar rapidamente a nave, tenta pedir a IA que ligue para a central permitindo a ligação, mas há um tempo de espera de 11h, então tenta ligar forçadamente, mas a IA o avisa que isso seria ferir as regras da Corporação, podendo acarretar em multas, prisão e até mesmo morte.==
+A primeira coisa que enxergam é uma carga pesada de minério, o que Morgan fora buscar, deixada ao lado do elevador. O grupo segue para onde apontar estar a máquina, no caminho, encontram restos da roupa que claramente pertenceu a Mike, mas nenhum sinal de que ele estaria vivo. Enquanto olhavam os retalhos rasgados de roupa, um grito: Rie estava sendo puxada para trás, e por mais que tentaram correr atrás, ela rapidamente desaparece da visão fraca das lanternas.
+
+Ainda mais unidos, seguem, tomam o maquinário de perfuração, e retornam pelo mesmo caminho, ignorando todas as outras bifurcações. Antes de chegarem ao elevador, uma gosma amarela aparece no caminho, LC chega a quase pisar nela, mas consegue se esquivar a tempo, e todos a evitam.
+
+Voltam o andar superior, e, antes de executarem o plano, LC comenta:
+"Será que a gente não prendeu a criatura lá embaixo?"
+"Como assim?"
+"Ela pegou a Rie, e nós subimos, ela não subiu com a gente... da outra vez ela tinha subido no elevador 'vazio' depois do Morgan descer."
+"Quem te garante que ela não subiu com a gente? O bixo é invisível e silencioso. E quem disse que é só um bixo? Será que a Sonya não virou outro desse daí depois de ter sido pega?"
+O pessoal se entreolha com medo. A sugestão de LC seria ótima, o bixo ficou lá na mina, e nós aqui em cima... mas e se San estiver certo? E se forem mais de um exemplares?
+
+LC então não perde tempo, toma um shot de adrenalina que mantinha consigo e se prepara para quebrar a porta de despressurização, e o faz bem, pois sabe utilizar bem esses equipamentos industriais, e está, ele próprio, cheio de energia.
+Ele quebra a porta, abre a porta de sua nave, todos entram, e fecha a porta logo em seguida. Aparentemente seguros.
+
+"Agora é contigo, LC, liga essa nave aí" - comenta San.
+Ele se dirige até a cabine de controle da nave e faz o procedimento padrão..
+*"Favor inserir cartão de Mike para dar partida à nave. Tripulante Mike não se encontra dentro da nave."* - A IA da nave confirma o que Sonya disse, que a missão secundária era, também, necessária.
+"Mike foi morto e não temos o seu cartão. A missão foi um fracasso, ligar a nave sem o cartão de Mike."
+*"Este procedimento não é possível. Favor inserir cartão de Mike para dar partida à nave."*
+"Pois informe à Central da Corporação que o cartão de Mike não existe mais e que precisamos partir o quanto antes possível, para ninguém mais morrer."
+*"Entendido! Mensagem enviada com sucesso! Expectativa de recebimento e retorno de... onze... horas. Favor aguardar.*
+
+"Onze horas? Não vamos estar vivos em onze horas!" - Exclama, com medo, Jerome.
+LC nem responde mais à IA ou aos companheiros. Está cheio de adrenalina tentando encontrar alguma brecha no sistema que o permita ligar a aeronave. Depois de um tempo batendo nos botões a IA fala seguidas vezes:
+*"O código de segurança da Corporação não lhe dá acesso a essa área."*
+Ele continua até receber uma mensagem quase diferente:
+*"O código de segurança da Corporação não lhe dá acesso a essa área. A persistência perante os avisos acarretará em consequências contra o piloto."*
+"ISSO! Diga a Central com estas palavras que estou tentando burlar o sistema de segurança, por não possuir o cartão do Mike, que foi morto, a fim de ligar a nave de forma forçada antes que nós também sejamos mortos."
+*"Auto-denúncia realizada com sucesso. É necessário informar que este tipo de atitude pode acarretar em consequências graves, como multas, demissão, prisão ou morte. A resposta da Central chegará em... onze... horas."*
+"Que merda!" - Exclama LC, mas antes que possa resmungar mais, a porta que fechava os sobreviventes na área de controle se abre.
+
+Todos olham assustados para trás, e veem uma situação bem desagradável: um homem, com um jaleco branco, bem encurvado, andando rastejando sem levantar os pés.... inteiramente coberto de gosma amarela, que saem por seus olhos, nariz e boca.
+Antes que alguém consiga fazer algo, o homem corre até o San e lhe dá uma mordida, que, por muito pouco, não lhe acerta a jugular, mas cai para o braço.
+Depois de alguns tiros de LC, Jerome e San, o homem se desfaz em uma poça de gosma amarela.
+
+San olha para o próprio braço e antes que consiga limpar, vê seu corpo absorvendo aquela gosma. Ele sabe, está contaminado, e terminará sua vida do mesmo jeito que aquele rapaz.
+
+O rapaz, em questão, é o Dr. Giovanni. Não se sabe como ele entrou na nave, mas foi ali que morreu. San, sabendo do seu fim, se dispõe a limpar tudo, e diz que terá cuidado para não se contaminar (mesmo já sabendo estar contaminado). Ele também se sente um bocado mais forte, um novo sinal da contaminação.
+
+Quando as coisas se acalmam, cada um toma um lugar na nave, e ficam conversando entre si, tentando ignorar o problema que se apresenta, ou se segurando numa falsa segurança de que a nave vai ligar e todos serão salvos.
+Enquanto isso, 
