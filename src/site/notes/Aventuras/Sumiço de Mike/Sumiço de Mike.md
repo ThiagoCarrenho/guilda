@@ -220,14 +220,74 @@ Quando estão para baixar a guarda, a gata começa a flutuar, e aos poucos, vai 
 ![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
 
 ---
-## Sessão 2 (06/02/2026) - Onde está o Mike?
-Dou um tiro, falho miseravelmente
-Em panico, tomo cerveja
-San espera algo aparecer para atirar, mas nada acontece
-Sonya diz que vai procurar algumas
-tocamos a fita pra galera
-rosa ficou preocupada
-começo a sentir meio zonzo pelas bebidas
-kantaro viu a gosma
-pensamos em pegar agua pra se defender
-garrafas e 
+## Sessão 2 (06/02/2026) - Salve-se quem puder!
+Com o desaparecimento da Princesa, Toyota entrou em pânico e deu um tiro no vazio, Saan, de forma mais inteligente, espera enxergar alguma coisa para atirar... mas ninguém aparece. LC volta para o refeitório bem assustado, toma outra de suas cervejas e diz para o pessoal reunido:
+"Olha, galera, o negócio tá feio: tem alguma coisa fazendo as pessoas desaparecerem."
+"O que aconteceu? Que barulho de tiro foi esse? Quem está aí?" - perguntam, assustados.
+"A gata do Morgan, Princesa, certo? Então, ela estava ariçada, como se estivesse vendo algum perigo, mas não tinha nada, aí ela começou a flutuar e desapareceu no ar" - chega falando San, com mais calma.
+"Gatos correm. Ela deve ter ido a frente. Como assim flutua e desaparece?" - Comenta, com sarcasmo a Sonya.
+"Eu sei muito bem o que vi, e não foi uma gata correndo."
+
+Os outros sobreviventes não estavam confiando totalmente nos recém-chegados, mas estavam amedrontados com o sumiço dos companheiros. Sonya, por sua vez, via dois transportadores fazendo baderna na sua base de mineração por conta de um simples atraso de um trabalhador.
+"Olha, vocês façam o que quiserem, eu preciso checar algumas coisas no banheiro antes de voltar a preencher os relatórios para enviar para a Corporação."
+"NÃO, NÃO VÁ! A pior coisa que um pode fazer agora é ficar soz... Quer saber? Vá! E não volta mais. Por sua conta em risco."
+
+LC anuncia a tragédia, mas Sonya ignora e vai sozinha ao banheiro. Então San toma a frente:
+"Galera, agora a gente vai ter que ficar junto, e ir junto para todos os lugares."
+"Tá San, mas o que que a gente faz?"
+"Vamos dar um fora daqui, de algum jeito."
+"E...Eu tenho uma... pistola... debaixo do colchão" - com medo, afirma Jerome. 
+"Vamos lá pegar. Alguém tem mais alguma arma, ou qualquer coisa para se defender?"
+"Ô San, cê lembra o que o Mike disse? Aparentemente a criatura não gosta de água" - complementa LC.
+"O QUÊ? VOCÊS ACHARAM O MIKE?" - Rosa se enche de esperança.
+"Vocês não ouviram a fita? Espera um pouco, deixa eu tocar."
+
+Depois de tocada a fita, o pessoal realmente fica preocupado.
+"É... o Mike tá estranho... ele não é assim. Até a voz está diferente!" - Rosa se preocupa ainda mais.
+"Eu preciso saber... alguém viu e entrou em contato com uma gosma amarela?" - Pergunta LC.
+Khantaro esconde o olhar, mas LC percebe que ele esteve em contato com a gosma.
+"Onde estava?"
+"Oi? O quê?"
+"A gosma, onde estava?"
+"É... lá embaixo, na mina. Tem umas espalhadas. Mas eu não mexi nelas não!" - Afirma defensivamente antes de voltar para sua postura fria clássica.
+
+San muda o assunto e volta para o principal:
+"Vamos encher o que tiver aqui de água. Garrafas? Baldes? Potes grandes? O que tiver."
+"Tem umas garrafas e potes aqui, San" - Rie pega alguns itens nos armários do refeitório - "e tem uns baldes lá pro banheiro."
+"Tem balões aqui?" - A pergunta de San Holo gera um breve silêncio.
+"Então... a gente não costuma comemorar aniversário por aqui..." - responde Rosa.
+"E preservativos?" - A segunda perguta gera um silêncio ainda maior.
+Novamente Khantaro foge o olhar, e percebendo que foi notado, pergunta:
+"Para quê?"
+"Fazer de balões de água, como granadas."
+"Ah... eu tenho algumas."
+
+Então o pessoal começa a passar junto de sala por sala, depois de encherem as garrafas, pegando itens pessoais, armas improvisadas, além da arma de fogo do Jerome, que ficou com ele por LC e San já terem as suas, e dos preservativos de Khantaro.
+Ao chegarem no banheiro, não encontraram a Sonya. Depois de minuciosa investigação, San encontra um pouco de sangue, e Rie confirma que é sangue recente, além de um rasgo do uniforme que ela usava.
+"Agora acreditam que temos um grande problema, certo?" - A pergunta de LC e o aceno de todos com a cabeça mostra que a ficha caiu.
+
+Com baldes cheios, vem a dúvida: o que fazer? LC então conta um pouco do que viu no computador, e depois de mexer nele novamente, não consegue encontrar novas informações. San por outro lado sobe na tubulação próximo do centro da mineração, dessa vez utilizando uma escada. Ao subir, mexe na central de comando lá de cima, mas não consegue ativar nada, então sente um frio na espinha e corre, rastejando, de volta para onde o pessoal está reunido. No caminho sente algo tentando puxá-lo e agarrá-lo, joga então um pouco de água, o que parece suficiente para afugentar a criatura e deixá-lo em segurança... só que com alguns arranhões.
+
+Vendo o rapaz com as vestes rasgadas, um medo ainda maior toma os sobreviventes.
+"Você está bem? Conseguiu ver ele?" - Exclama, preocupado, LC.
+"Tô vivo, né? É o que importa. Não dá pra ver ele, é invisível. Pelo menos a água funcionou."
+"E agora, qual o plano?" - Pergunta Jerome.
+"Fugir, o plano é fugir. A gente abre a porta aqui, de descompressão, depois o LC abre a nave e a gente foge junto."
+"Eu? Não dou certeza de ligar a nave. E se o bicho entrar lá?"
+"Não vai. Confia, LC, vai dar certo."
+"Desculpa ser um estraga-prazeres, mas só a Sonya e o Mike podem abrir essa porta aqui..." - adiciona Rosa.
+"Mas essa aqui dá pra quebrar, não dá não? Vocês não tem equipamento pra furar pedra lá embaixo?"
+"A furadeira é gigantesca, a base inteira, na verdade, é a furadeira... mas tem uma menor sim, só não sei se dá conta."
+"Ótimo. Vamos colocar as roupas de astronauta ali e descer pra mina."
+
+Então partem para descer à mina, atrás desse equipamento, e, enquanto colocam suas roupas LC tem a brilhante ideia de colocar água em sua vestimenta.
+"Você é burro?" - Pergunta Rosa.
+"Que foi? Se o bixo tentar me morder, ele vai achar água!"
+"Dê um passo."
+LC tenta dar um passo, mas a veste está muito pesada. Envergonhado, ele tenta recuperar a água, mas depois de derramar no balde, percebe que p
+
+==Descida para a mina para buscar um furador industrial, as garrafas estouram, cena em que LC perde metade da água enchendo a própria vestimenta com ela, encontramos restos do corpo do mike, mas nem sinal do seu cartão, Rie é puxada para atrás enquanto o grupo avança, vemos uma gosma, ignoramos e seguimos pelo mesmo caminho, sem muito explorar==
+
+==subimos e executamos o plano, LC usa a furadeira para quebrar a porta, abre a própria nave e todos entram.==
+
+==LC falha em ligar rapidamente a nave, tenta pedir a IA que ligue para a central permitindo a ligação, mas há um tempo de espera de 11h, então tenta ligar forçadamente, mas a IA o avisa que isso seria ferir as regras da Corporação, podendo acarretar em multas, prisão e até mesmo morte.==

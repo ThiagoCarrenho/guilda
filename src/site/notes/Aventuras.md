@@ -11,20 +11,6 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores\|Mestres e Jogadores]]
 Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 
 ---
-### O Sumiço de Mike
-**Nome da Aventura:** [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
-**Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-**Sistema:** [[Sistemas/Mothership\|Mothership]];
-**Tamanho:** One-Shot;
-**Data de Jogo:** 30/01/2026-Hoje;
-**Sessões:** 1 online;
-**Nível dos Personagens**: 1;
-**Descrição:** Tripulantes de uma nave espacial chegam ao seu destino para entregar suprimentos, recarregar a nave de minérios e buscar Mike, como pedido pelos contratantes da Companhia Nakata. Mas... cadê o Mike?
-**Personagens e Jogadores:**
-- [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado de [[Jogadores/Raul Ouros\|Raul Ouros]];
-
----
 ### Irmandade do Martelo
 **Nome da Aventura:** [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 **Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
@@ -38,7 +24,6 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
-
 ---
 ### Guerra Artoniana
 **Nome da Aventura:** [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
@@ -57,6 +42,19 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
 - † [[Aventuras/Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
 - † [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
+---
+### O Sumiço de Mike
+**Nome da Aventura:** [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+**Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+**Sistema:** [[Sistemas/Mothership\|Mothership]];
+**Tamanho:** One-Shot;
+**Data de Jogo:** 30/01/2026-06/02/2026;
+**Sessões:** 2 online;
+**Nível dos Personagens**: 1;
+**Descrição:** Tripulantes de uma nave espacial chegam ao seu destino para entregar suprimentos, recarregar a nave de minérios e buscar Mike, como pedido pelos contratantes da Companhia Nakata. Mas... cadê o Mike?
+**Personagens e Jogadores:**
+- † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- † [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado de [[Jogadores/Raul Ouros\|Raul Ouros]];
 ---
 ### Missão Hereditus
 **Nome da Aventura:** [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];

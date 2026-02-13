@@ -38,8 +38,8 @@ Tem anão como sua raça preferida, e gosta de inventores e criativos.
 - **Atualmente jogando**;
 ### Miguel de Maria
 [[Jogadores/Miguel de Maria\|Miguel de Maria]] é católico, pai de família, e um guerreiro da vida real.
-- **Personagem predileto:** [[Aventuras/Guerra Artoniana/Harcos\|Harcos]]?
-- **Atualmente jogando**;
+- **Personagem predileto:** [[Aventuras/Guerra Artoniana/Harcos\|Harcos]];
+- Encerrou sua aventura na Terra.
 ### Laura
 [[Jogadores/Laura\|Laura]] é irmã de [[Jogadores/Raul Teixeira\|Raul Teixeira]].
 - **Personagem predileto:** [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]]?;

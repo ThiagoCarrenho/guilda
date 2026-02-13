@@ -36,7 +36,7 @@ Lista dos personagens que marcaram a história da GUILDA:
 - Jogador mais combeiro: [[Jogadores/Raul Ouros\|Raul Ouros]];
 - Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões (o Zé Mané do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões);
 - Jogador com mais personagens usando apetrechos de cabeça: [[Jogadores/Thiago Carro\|Thiago Carro]];
-- Pet com maior número de aparições: "Lobinho", de [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];,
+- Pet com maior número de aparições: "Lobinho", de [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
 - Sistema mais jogado - [[Sistemas/Tormenta20\|Tormenta20]];
 ### Cemitério
 Aqui jazem os personagens que tiveram sua história interrompida.

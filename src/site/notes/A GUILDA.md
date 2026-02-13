@@ -43,10 +43,6 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 ---
 ## Aventuras em Andamento
 
-### Sumiço de Mike
-
-Em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Sumiço de Mike/San Holo\|San Holo]]) em uma missão de horror espacial em [[Sistemas/Mothership\|Mothership]], onde os tripulantes da Tempestade procuram por Mike para completar sua missão e retornar à casa, mas acabam encontrando outras coisas.
-
 ### Irmandade do Martelo
 
 Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
