@@ -175,48 +175,51 @@ O grupo então retorna a Thargrum para investigar o que acontecera na cidade e c
 Chegaram ao Salão Real, onde o ataque deve ter começado. Ao lado dela, na sala do Rei, há uma carta sobre a mesa que diz:
 	*Sua Barbaridade, Rei Durak...*
 
-Na carta, se nota que parte das minerações foram roubadas, e, por esta ocasião, o Rei Durak convocou reunião com os , e, no meio dela, surgiram os monstros que mataram tudo
-- Barba Rala, clérigo de Cartemir e Sszzaas, sentado no trono
-- Surgem autômatos, um deles fala que um outro reino fora atacado com sucesso.
-- Zsim tem a intuição que, se lutarem, a morte é certa.
+Na carta, se nota que parte das minerações foram roubadas, e, por esta ocasião, o Rei Durak convocou reunião com os líderes anões, e, no meio dela, surgiram os monstros que a todos mataram.
+
+Saindo da Sala do Rei, o grupo nota uma figura sentada no trono, é Barba Rala, clérigo de Cartemir... e de Sszzaas, dizendo que o Deus das Traições o permitiu uma dupla devoção a fim de causar a maior traição de toda a história do Reino.
+Em seguida, diante de uma irritação máxima dos anões, principalmente do ranzinza Fusca, surgem autômatos, os mesmos que destruíram o Reino, e um deles fala que um outro reino fora atacado com sucesso, e Barba Rela pede para que estes não permitam que o trio de anões impeça os planos. Zsim tem a intuição que, se lutarem, a morte é certa.
 
 ---
 ## Sessão 4 (13/02/2026) - A Arte da Guerra
 *The Art of War*
-- Barba Rala entra dentro do turno
-- "O caminho dos ventos aguiarda o retorno"
-- A fuga seria a melhor opção, ainda que custe perder thargrum
-- Sou o primeiro alvo de ataque
-- Saraivada de golpes pesados
-- "Vamos atacar?" "Bóra, Bóra"
-- Bóra comanda a galera, mas erra seu ataque
-- Fusca dá tudo de si, mas a sorte não o acompanha, e seus ataques são extremamente errados (Dois erros críticos seguidos)
-- Zsim é o primeiro a acertar, e se reposicio
-- Kael, Rei de Volkar: "Eudoria foi tomada, estes são os responsáveis" "Apenas mate esses robôs insolentes que destruiram nosso reino"
-- Que chega auxiliando
-- Bóra conjura Ben~]ao
-- Ataques que finalmente funcionam
-- Fusca está com fumaça saindo de tanta raiva
-- Zsim desmoraliza e marca como presa
-- KAel mata o que está flanqueando com Fusca,
-- Soco de Arsenal
-- Ataque de armas
-- Os robozes se comunicam, mas o ciborgue do Fusca intercepta "estou recebendo informações do chefe"
-- Mais dois ataques pesados do Fusca
-- Outro ataque no Bóra, mas o corte passa por dentro do vácuo dos ossos do rapaz
-- Zsim passa num teste de diplomacia e deixa pasmo o Brawar
-- Kael ataca forte
-- O Kishin me acerta, mas vale mais a pena levar o dano do que gastar energia para defender
-- "O Chefe precisa da nossa presença urgente"
-- "Eles vão recuar, não permitam!"
-- Mais dois ataques, mas o adversário segue de pe
-- São 5 no total, 1 caído (Brawar), 1 fugindo (Armeiro de Tenebra), 1 pasmo (Brawar), 1 bem capenga (Armeiro de Tenebra), 1 atacando (Kishin)
-- Zsim tenta argumentar que não vale a pena lutar, mas não funciona, o Brawar des-pasmifica, e pode voltar a agir, então ele volta a atacar
-- O Bóra me cura
-- OS dois que estão perto de nós diz que estão fracos e avisam que os outros devem voltar ao mestre.
-- O que estava guardando a entrada do túnel, e não agira até então, que ataa o teto, e a sala começa a desmoronar, ficando dois dos inimigos como isca para ficarmos por lá - o armeiro que havia levado 4 golpes ou mais
-- Mato esse cara  e saio correndo, Bóra também corre, Kael fica para matar o útlimo sobrevivente.
-- Corrida de todo mundo parra fora, ainda dou um tiro e arremesso uma machadinha
-- A sala desmorona e o Brawar morre lá dentro
-- Lá fora está mais escuro que o normal
-- Diversos passos metálicos próximos ao portão de entrada de Thargrum
+
+- ==Barba Rala entra dentro do turno==
+- =="O caminho dos ventos aguiarda o retorno"==
+- ==A fuga seria a melhor opção, ainda que custe perder thargrum==
+- ==Sou o primeiro alvo de ataque==
+- ==Saraivada de golpes pesados==
+- =="Vamos atacar?" "Bóra, Bóra"==
+- ==Bóra comanda a galera, mas erra seu ataque==
+- ==Fusca dá tudo de si, mas a sorte não o acompanha, e seus ataques são extremamente errados (Dois erros críticos seguidos)==
+- ==Zsim é o primeiro a acertar, e se reposicio==
+- ==Kael, Rei de Volkar: "Eudoria foi tomada, estes são os responsáveis" "Apenas mate esses robôs insolentes que destruiram nosso reino"==
+- ==Que chega auxiliando==
+- ==Bóra conjura Ben~]ao==
+- ==Ataques que finalmente funcionam==
+- ==Fusca está com fumaça saindo de tanta raiva==
+- ==Zsim desmoraliza e marca como presa==
+- ==KAel mata o que está flanqueando com Fusca,==
+- ==Soco de Arsenal==
+- ==Ataque de armas==
+- ==Os robozes se comunicam, mas o ciborgue do Fusca intercepta "estou recebendo informações do chefe"==
+- ==Mais dois ataques pesados do Fusca==
+- ==Outro ataque no Bóra, mas o corte passa por dentro do vácuo dos ossos do rapaz==
+- ==Zsim passa num teste de diplomacia e deixa pasmo o Brawar==
+- ==Kael ataca forte==
+- ==O Kishin me acerta, mas vale mais a pena levar o dano do que gastar energia para defender==
+- =="O Chefe precisa da nossa presença urgente"==
+- =="Eles vão recuar, não permitam!"==
+- ==Mais dois ataques, mas o adversário segue de pe==
+- ==São 5 no total, 1 caído (Brawar), 1 fugindo (Armeiro de Tenebra), 1 pasmo (Brawar), 1 bem capenga (Armeiro de Tenebra), 1 atacando (Kishin)==
+- ==Zsim tenta argumentar que não vale a pena lutar, mas não funciona, o Brawar des-pasmifica, e pode voltar a agir, então ele volta a atacar==
+- ==O Bóra me cura==
+- ==OS dois que estão perto de nós diz que estão fracos e avisam que os outros devem voltar ao mestre.==
+- ==O que estava guardando a entrada do túnel, e não agira até então, que ataa o teto, e a sala começa a desmoronar, ficando dois dos inimigos como isca para ficarmos por lá - o armeiro que havia levado 4 golpes ou mais==
+- ==Mato esse cara  e saio correndo, Bóra também corre, Kael fica para matar o útlimo sobrevivente.==
+- ==Corrida de todo mundo parra fora, ainda dou um tiro e arremesso uma machadinha==
+- ==A sala desmorona e o Brawar morre lá dentro==
+- ==Lá fora está mais escuro que o normal==
+- ==Diversos passos metálicos próximos ao portão de entrada de Thargrum==
+#### Resumo
+Esta sessão se resume a um longo combate, no qual os heróis começam sofrendo diversos golpes pesados, mas, aos poucos, com muita teimosia de Fusca, magias de combate de Bóra, e um misto de estratégia e boas palavras do Rei Zsim, somados a uma ajuda providencial surpresa de Kael Dravos, Rei de Volkar, conseguem virar o lado do combate. No final, após receberem uma mensagem de que era necessária a presença deles em outro lugar, os construtos fogem pelo túnel, mas não antes de destruir o resto do Salão Real, fazendo-o desmoronar sobre os anões, que fogem a tempo. Findado o combate, três dos seis construtos faleceram, dois pelas mãos dos anões e de Kael, um que, próximo também da morte, usou o resto de suas forças para assegurar que os anões não entrariam no túnel, por onde os três construtos restantes fugiram. Ah, a teimosia de Fusca fez que ele perdesse seu martelinho de arremesso.
