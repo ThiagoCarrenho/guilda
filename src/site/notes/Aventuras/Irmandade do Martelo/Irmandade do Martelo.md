@@ -184,42 +184,61 @@ Em seguida, diante de uma irritação máxima dos anões, principalmente do ranz
 ## Sessão 4 (13/02/2026) - A Arte da Guerra
 *The Art of War*
 
-- ==Barba Rala entra dentro do turno==
-- =="O caminho dos ventos aguiarda o retorno"==
-- ==A fuga seria a melhor opção, ainda que custe perder thargrum==
-- ==Sou o primeiro alvo de ataque==
-- ==Saraivada de golpes pesados==
-- =="Vamos atacar?" "Bóra, Bóra"==
-- ==Bóra comanda a galera, mas erra seu ataque==
-- ==Fusca dá tudo de si, mas a sorte não o acompanha, e seus ataques são extremamente errados (Dois erros críticos seguidos)==
-- ==Zsim é o primeiro a acertar, e se reposicio==
-- ==Kael, Rei de Volkar: "Eudoria foi tomada, estes são os responsáveis" "Apenas mate esses robôs insolentes que destruiram nosso reino"==
-- ==Que chega auxiliando==
-- ==Bóra conjura Ben~]ao==
-- ==Ataques que finalmente funcionam==
-- ==Fusca está com fumaça saindo de tanta raiva==
-- ==Zsim desmoraliza e marca como presa==
-- ==KAel mata o que está flanqueando com Fusca,==
-- ==Soco de Arsenal==
-- ==Ataque de armas==
-- ==Os robozes se comunicam, mas o ciborgue do Fusca intercepta "estou recebendo informações do chefe"==
-- ==Mais dois ataques pesados do Fusca==
-- ==Outro ataque no Bóra, mas o corte passa por dentro do vácuo dos ossos do rapaz==
-- ==Zsim passa num teste de diplomacia e deixa pasmo o Brawar==
-- ==Kael ataca forte==
-- ==O Kishin me acerta, mas vale mais a pena levar o dano do que gastar energia para defender==
-- =="O Chefe precisa da nossa presença urgente"==
-- =="Eles vão recuar, não permitam!"==
-- ==Mais dois ataques, mas o adversário segue de pe==
-- ==São 5 no total, 1 caído (Brawar), 1 fugindo (Armeiro de Tenebra), 1 pasmo (Brawar), 1 bem capenga (Armeiro de Tenebra), 1 atacando (Kishin)==
-- ==Zsim tenta argumentar que não vale a pena lutar, mas não funciona, o Brawar des-pasmifica, e pode voltar a agir, então ele volta a atacar==
-- ==O Bóra me cura==
-- ==OS dois que estão perto de nós diz que estão fracos e avisam que os outros devem voltar ao mestre.==
-- ==O que estava guardando a entrada do túnel, e não agira até então, que ataa o teto, e a sala começa a desmoronar, ficando dois dos inimigos como isca para ficarmos por lá - o armeiro que havia levado 4 golpes ou mais==
-- ==Mato esse cara  e saio correndo, Bóra também corre, Kael fica para matar o útlimo sobrevivente.==
-- ==Corrida de todo mundo parra fora, ainda dou um tiro e arremesso uma machadinha==
-- ==A sala desmorona e o Brawar morre lá dentro==
-- ==Lá fora está mais escuro que o normal==
-- ==Diversos passos metálicos próximos ao portão de entrada de Thargrum==
+"Bom, senhores, é isso. Tenho mais reinos a conquistar. Meus companheiros, não permitam que estes anões estraguem meu plano!"
+Barba Rala finaliza seu discurso e entra em um túnel. Um dos seis construtos se põe ao lado do túnel, para impedir a entrada dos quais a entrada era proibida, este é um Armeiro de Tenebra. Há um outro Armeiro que vai ao combate, além deles, dois Kishins e dois Brawar, sendo que estes últimos carregam um pouco de vida anã dentro de si.
+
+A frase escrita na parede ressoa na mente de Bóra: *"O Caminho dos Ventos espera os filhos da pedra"... o que poderia significar?*
+O Rei sabe que existem poucas chances de sobrevivência na batalha, que a fuga seria a melhor opção, mesmo que custe perder Thargrum, mas está disposto a lutar. O teimoso lutaria ainda que o sucesso fosse impossível.
+
+Os inimigos chegam ao ataque, alvejando em primeiro lugar Fusca, mas todos os anões já se preparam com o Sangue de Ferro que o Deus da Guerra lhes concede. O ciborgue tem seus meios de defesa, e, no meio de muita fumaça que ele solta, seus movimentos rápidos diminuem significativamente a quantidade de dano que receberia.
+
+Em seguida, o esqueleto indaga:
+"A gente ataca?"
+"Bóra logo Bóra!" - responde Fusca.
+Então Bóra invoca sua habilidade estratégica, e comanda os anões ao ataque, mas ele mesmo, erra o seu. O Chassi-de-Aço, por sua vez, está meio enferrujado, e erra seus dois possíveis ataques. Zsim não deixa barato e tira um pouco de sarro do companheiro:
+"Se não tem óleo debaixo do Fusca, é porque não tem óleo dentro dele."
+O que deixa o ciborgue anão ainda mais focado nos golpes.
+
+Depois de erros de outros adversários, é o Rei o primeiro a acertar um golpe nos construtos, e logo em seguida ordena um reposicionamento dos anões, e se coloca dentro do Salão do Rei.
+Os ataques dos adversários seguem a acertar, obrigando Fusca a gastar mais esforço se defendendo do que atacando.
+
+Se a traição veio de onde menos se espera, no Clérigo Barba Rala, anão muito considerado por muitos, a ajuda também veio. Kael Dravos, Rei de Volkar, inimigo dos anões.
+"Eldoria foi tomada! Estes são os responsáveis? Onde está o Rei dos Anões?"
+De fato, Zsim estava numa sala ao lado, fora da visão de Kael. É Fusca quem o responde:
+"Apenas mate esses robôs insolentes que destruíram nosso reino!"
+E Kael se põe em combate ao lado dos anões.
+
+Um dos Kishins age com sobrecarga sobre si mesmo, ampliando sua capacidade de destruir, mas se ferindo no caminho. Com uma prece à Guerra, o Bóra Quebratudo fortalece os companheiros - o que funciona bem. Graças a isso e à habilidade tática do grupo, Fusca acerta, finalmente, um ataque. Este que, em seguida, seria derrubado por Kael, em seu primeiro golpe na batalha.
+
+Enquanto isso, os construtos se distribuíram no campo de batalha e acertavam também Bóra, mas não conseguiram tirar sangue do Rei, que, vendo a situação, usou suas palavras para desmoralizar os inimigos, enfraquecendo suas ações, e escolhe um dos Brawar como sua presa.
+
+O combate segue com Fusca sendo o principal alvo dos adversários - é também quem chama mais os golpes, segurando uma martelada com seu próprio martelo, mas é Bóra quem chama a força de seu deus para dar um Soco de Arsenal, que fere, mas é segurado pelo construto.
+
+Em seguida, o Armeiro que se colocava ao lado do túnel fala uma mensagem codificada para os seus aliados, e a natureza 'meio-robótica' de Fusca lhe permite entender que "o chefe está entrando em contato."
+
+O combate de machados, marretas e martelos prossegue, só que o Rei usa outras armas: é pelas palavras que convence, momentaneamente, um dos Brawar a largar o combate:
+"Você é um de nós! Também está sendo traído. Não vê a gravidade de suas ações?"
+
+Kael e sua lança, em outro ponto do combate, seguem fazendo os construtos sangrarem óleo.
+Bóra energiza seu símbolo da Guerra e aprimora as palavras do seu Rei.
+Com mais dois ataques, Fusca põe fim ao segundo Kishin, que já havia sido atacado por Kael.
+
+Mesmo com o auxílio do clérigo, Zsim não é capaz de convencer o Brawar a largar as armas, e, com uma segunda mensagem, também interceptada por Fusca, ele volta ao combate: "O chefe precisa de nós, vamos! Com urgência."
+Diante dessas palavras, o Armeiro de Tenebra convoca os construtos a fugir, mas Fusca responde:
+"Eles vão fugir, não permitam! Acabem com eles!"
+Responde também com ação, desferindo dois golpes no Armeiro que não estava passando as mensagens.
+
+Diante disso, o Armeiro recém atacado corre na direção do túnel. O Brawar que estava em combate atrás dele. O outro Brawar, que havia sido atordoado pelas palavras de Zsim, corre até Fusca e lhe ataca. O último a agir é o Armeiro ao lado do túnel, que ativa sua sobrecarga e atira um raio em direção ao teto, que começa a desmoronar, e pula dentro do túnel.
+
+O combate não é mais contra os construtos, é pela sua vida!
+
+Zsim é o primeiro a bater perna, chamando todos para deixarem a sala. Fusca desfere dois ataques contra o Brawar ao seu lado, mas mesmo sem conseguir derrotá-lo, sai em direção à porta, e, antes que Bóra conseguisse agir, este mesmo Brawar pisoteia o chão, derrubando o esqueleto e o ferindo.
+
+Mais uma mensagem é decodificada pelo ciborgue: este Brawar está fraco, e se sacrificará para que os heróis não cheguem ao túnel, e, de fato, eles se põe a fugir.
+Kael ainda confere um último golpe, antes de partir em disparada, e o clérigo usa toda sua força para não ser pego pelas pedras que começam a cair do teto.
+
+Ainda em fuga, Fusca não desiste de matar o último inimigo em vista, e saca sua pistola para ferí-lo, e, depois de perceber que não foi suficiente para matar, lança seu martelo leve em sua direção... sua teimosia o fez perder a arma... e por nada! O ataque não matou, e o Brawar morreu logo em seguida com a queda das pedras sobre si.
+
+Bóra e Kael conseguem sair da sala a tempo... mas quando todos se dão conta do que ocorre do lado de fora, um medo começa a consumí-los: está escuro, muito escuro, mais do que noite em tempestade. E o barulho que ouvem é de passos pesados. Passos metálicos na direção do portão de Thargrum. 
 #### Resumo
 Esta sessão se resume a um longo combate, no qual os heróis começam sofrendo diversos golpes pesados, mas, aos poucos, com muita teimosia de Fusca, magias de combate de Bóra, e um misto de estratégia e boas palavras do Rei Zsim, somados a uma ajuda providencial surpresa de Kael Dravos, Rei de Volkar, conseguem virar o lado do combate. No final, após receberem uma mensagem de que era necessária a presença deles em outro lugar, os construtos fogem pelo túnel, mas não antes de destruir o resto do Salão Real, fazendo-o desmoronar sobre os anões, que fogem a tempo. Findado o combate, três dos seis construtos faleceram, dois pelas mãos dos anões e de Kael, um que, próximo também da morte, usou o resto de suas forças para assegurar que os anões não entrariam no túnel, por onde os três construtos restantes fugiram. Ah, a teimosia de Fusca fez que ele perdesse seu martelinho de arremesso.
