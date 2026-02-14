@@ -8,7 +8,7 @@
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
 **Sessões:** 4 online (+ Sessão 0);
-**Nível dos Personagens**: 3-6;
+**Nível dos Personagens**: 3-7;
 
 **Descrição:** Anões guerream pela irmandade.
 
@@ -69,7 +69,8 @@ Agora todos os refugiados estão no salão do reino de Eldoria, o Rei Alaric est
 Afetada por diversas intercorrências, o grupo não conseguiu se unir, então o mestre explicou para o Thiago um pouco sobre o mundo que estava planejando, e sobre a história do começo da aventura.
 
 ---
-## Sessão 1 (20/10/2025) - Salve o Rei sob a Montanha
+## Sessão 1 (20/10/2025) - Salve o Rei sob a Montanha 
+*Hail The King Under The Mountain.*
 
 A história começa num cenário de destruição, corpos mortos em combate, todos nobres, num salão real no qual o rei os havia reunido, e foram atacados. Na parede, escrito com sangue, há a frase:
 
@@ -110,6 +111,7 @@ Tudo isso e mais um pouco (como tretas políticas e batalhas em trens), no próx
 
 ---
 ## Sessão 2 (31/10/2025) - Legado da Forja
+*Legacy of the Forge*
 
 Após receber a notícia que viajariam par o reino dos inventores, o grupo conseguiu uma noite de estadia, e, graças ao Rei, conseguiram passagem gratuita, num vagão especial para nobreza, que tinha poucos bancos bons e um monte ruim.
 
@@ -163,18 +165,24 @@ Quem é esse soldado? A quem serve? É o mesmo que atacou Thargrum? Como os reis
 
 ---
 ## Sessão 3 (19/11/2025) - Lá e De Volta Outra Vez
-- Bóra Quebratudo vê pela primeira vez os Caminhos de Cartemir, que são "atalhos" pelo Reino
-- Vamos a Thargrum para investigar
-- Exploração breve da cidade
-- Carta em cima da mesa: "Sua Barbaridade Rei..."
-- Parte das minerações foram roubadas
-- Rei Durak convocou reunião, e, no meio dela, surgiram os monstros que mataram tudo
+*There and Back Again*
+*Faltaram anotações dessa sessão, segue um breve resumo.*
+
+Após o ataque, Bóra, se sentindo abençoado por Cartemir, vê pela primeira vez os "Caminhos de Cartemir", que servem de atalhos para cruzar o Reino.
+
+O grupo então retorna a Thargrum para investigar o que acontecera na cidade e como foi o ataque. Exploraram tudo o que podiam na cidade, mas não encontraram nenhuma informação adicional sobre como ocorreu o ataque. Apenas a visão devastadora de uma cidade destruída pela guerra.
+
+Chegaram ao Salão Real, onde o ataque deve ter começado. Ao lado dela, na sala do Rei, há uma carta sobre a mesa que diz:
+	*Sua Barbaridade, Rei Durak...*
+
+Na carta, se nota que parte das minerações foram roubadas, e, por esta ocasião, o Rei Durak convocou reunião com os , e, no meio dela, surgiram os monstros que mataram tudo
 - Barba Rala, clérigo de Cartemir e Sszzaas, sentado no trono
 - Surgem autômatos, um deles fala que um outro reino fora atacado com sucesso.
 - Zsim tem a intuição que, se lutarem, a morte é certa.
 
 ---
 ## Sessão 4 (13/02/2026) - A Arte da Guerra
+*The Art of War*
 - Barba Rala entra dentro do turno
 - "O caminho dos ventos aguiarda o retorno"
 - A fuga seria a melhor opção, ainda que custe perder thargrum
