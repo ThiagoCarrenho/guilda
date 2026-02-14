@@ -332,4 +332,44 @@ San olha para o próprio braço e antes que consiga limpar, vê seu corpo absorv
 O rapaz, em questão, é o Dr. Giovanni. Não se sabe como ele entrou na nave, mas foi ali que morreu. San, sabendo do seu fim, se dispõe a limpar tudo, e diz que terá cuidado para não se contaminar (mesmo já sabendo estar contaminado). Ele também se sente um bocado mais forte, um novo sinal da contaminação.
 
 Quando as coisas se acalmam, cada um toma um lugar na nave, e ficam conversando entre si, tentando ignorar o problema que se apresenta, ou se segurando numa falsa segurança de que a nave vai ligar e todos serão salvos.
-Enquanto isso, 
+Enquanto isso, LC tentava iniciar a nave de todos os jeitos possíveis. Passou um longo tempo ainda tentado, mas sabia que uma hora conseguiria.
+
+Mas a sua concentração foi interrompida por tosse, muita tosse. Era Khantaro. Uma tosse desumana e ininterrupta. Rosa e Jerome meio que ignoraram, mas LC não. Com arma carregada foi até ele e ordenou:
+"Saia da nave. Antes que você contamine mais alguém ou fique que nem aquele cientista. Vamos, saia da minha nave."
+"Você está louco? *(Tosse)* Tira essa arma da minha cara!"
+"Ou você sai, ou eu atiro!"
+"É só uma tosse!"
+
+LC dá o primeiro disparo e Khantaro pula nele para batê-lo. Jerome tenta defender o amigo de trabalho e tenta atirar contra LC. San também chega na confusão.
+Depois de acertar um disparo, o sangue que sai de Khantaro é misturado com muita gosma.
+"Convencido agora? Não atire em mim!"
+"Eu... é... eu... sei lá cara. O Khantaro é tão legal..." - Jerome fica confuso e para de atirar, mas logo começa a correr.
+
+Acontece que todos viram um pino de granada sendo retirado, era San, que se jogava a Khantaro para exploodir os dois, mesmo dentro da nave. Jerome e Rosa correm para um lado. LC corre para o outro. San e Khantaro se empurravam, e tiravam um a granada da mão do outro, até que ela explodiu.
+Nesta explosão, LC e San se feriram levemente, mas Khantaro caiu desacordado.
+Vendo o contaminado no chão, LC desfere pontapés até que tenha certeza que nenhum outro movimento fará. Ele cedeu à loucura. Quando cai em si, nota a monstruosidade que fez, ele corre até o local de pilotagem da nave e cai no chão, catatônico, ficando imóvel por alguns longos minutos.
+
+San Holo sabe que seu fim se aproxima, mas não quer que este mal se propague. Mais uma vez, limpa os restos mortais e atira a gosma para fora da nave. Depois, checa o estado de saúde do piloto e nota que apesar do combate físico, ele não está contaminado. Ele sabe que na nave tem quatro sobreviventes, e só ele sabe quem é o único prestes a morrer: ele mesmo.
+
+Assim, ele auxilia no cuidado de LC até que este recobre a consciência. Quando isto ocorre, ele junta todos próximo da porta e diz:
+"Rosa, Jerome... e LC. O dia de hoje foi bem pesado, mas acho que vencemos o mal... quase por completo. Perdemos amigos para um mal invisível, e é a hora também da minha partida. Eu sei que estou contaminado. Sei que essa porcaria de gosma entrou em meu corpo, me sinto ainda mais forte, logo começarei a tossir, e ficarei como ficou o cara de jaleco - pura gosma. Então eu também preciso sair. Ficarei do lado de fora, e darei minha vida se encontrar mais algum perigo. Até lá, não abram a porta, nem mesmo para mim."
+
+Com esta sentida despedida, San sai da nave, e fecham, pela última vez, a porta da nave.
+"Então somos nós, certo? Os sobreviventes?" - Pergunta Rosa, mas não obtém resposta. Todos estão muito entristecidos.
+"Essa porcaria vai voar, uma hora ou outra." - Se encoraja LC, enquanto se dirige ao seu posto de piloto.
+
+Passam-se mais uma ou duas horas quando ele realmente atinge seu objetivo, e com um grito esperançoso diz que conseguiu. Olha uma última vez para a mineradora, e enxerga seu amigo, que lhe acena uma última vez.
+
+A história, em si, se encerraria ali.
+
+Mas não foi o que aconteceu.
+
+Os sentidos aventureiros de San Holo não o deixariam ficar sem explorar o que restou. Assim ele partiu, adentrou na nave Heracles, descobriu que o Dr. Giovanni era responsável por investigar a tal gosma amarela e suas propriedades, mas teve o fim da contaminação. Dentre os estudos que viu, notou que ele acreditava que a gosma não teria relação nenhuma com o desaparecimento de Mike - onde ele errou - e descobriu também um óculos de visão termal, que teria sido muito útil para enfrentar a criatura invisível.
+
+Depois foi explorar os outros salões de pedra da mina, e, no meio das muitas sujeiras de mineração e poeira do próprio asteróide, encontrou um local repleto de gosma amarela, com um casulo aberto.
+
+Mesmo assim, tendo tudo investigado e a todo tempo usando o óculos... não chegou a encontrar a criatura invisível.
+
+Até que perdeu o restante das suas forças, caiu no chão, e se desfez em uma poça de gosma amarela.
+
+Enquanto isso, na nave, LC ajeita todas as coisas para que o vôo
