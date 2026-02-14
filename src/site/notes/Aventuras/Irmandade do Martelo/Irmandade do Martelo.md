@@ -7,8 +7,8 @@
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 2 online (+ Sessão 0);
-**Nível dos Personagens**: 3;
+**Sessões:** 4 online (+ Sessão 0);
+**Nível dos Personagens**: 3-6;
 
 **Descrição:** Anões guerream pela irmandade.
 
@@ -109,7 +109,7 @@ Cedric se despede dos aventureiros e volta a sua terra natal. Agora, o grupo for
 Tudo isso e mais um pouco (como tretas políticas e batalhas em trens), no próximo episódio da Irmandade do Martelo.
 
 ---
-## Sessão 2 (31/10/2025) - Reunião Diplomática da Realeza
+## Sessão 2 (31/10/2025) - Legado da Forja
 
 Após receber a notícia que viajariam par o reino dos inventores, o grupo conseguiu uma noite de estadia, e, graças ao Rei, conseguiram passagem gratuita, num vagão especial para nobreza, que tinha poucos bancos bons e um monte ruim.
 
@@ -162,5 +162,53 @@ Então é que chegam, atrasados, os soldados de Gearholt, mas nada mais precisam
 Quem é esse soldado? A quem serve? É o mesmo que atacou Thargrum? Como os reis e os anões vão reagir? Tudo isso (e muito mais) na próxima aventura da Irmandade do Martelo.
 
 ---
-## Sessão 3 (19/11/2025) - 
-Aconteceu muita coisa, mas a gente não lembra :(
+## Sessão 3 (19/11/2025) - Lá e De Volta Outra Vez
+- Bóra Quebratudo vê pela primeira vez os Caminhos de Cartemir, que são "atalhos" pelo Reino
+- Vamos a Thargrum para investigar
+- Exploração breve da cidade
+- Carta em cima da mesa: "Sua Barbaridade Rei..."
+- Parte das minerações foram roubadas
+- Rei Durak convocou reunião, e, no meio dela, surgiram os monstros que mataram tudo
+- Barba Rala, clérigo de Cartemir e Sszzaas, sentado no trono
+- Surgem autômatos, um deles fala que um outro reino fora atacado com sucesso.
+- Zsim tem a intuição que, se lutarem, a morte é certa.
+
+---
+## Sessão 4 (13/02/2026) - A Arte da Guerra
+- Barba Rala entra dentro do turno
+- "O caminho dos ventos aguiarda o retorno"
+- A fuga seria a melhor opção, ainda que custe perder thargrum
+- Sou o primeiro alvo de ataque
+- Saraivada de golpes pesados
+- "Vamos atacar?" "Bóra, Bóra"
+- Bóra comanda a galera, mas erra seu ataque
+- Fusca dá tudo de si, mas a sorte não o acompanha, e seus ataques são extremamente errados (Dois erros críticos seguidos)
+- Zsim é o primeiro a acertar, e se reposicio
+- Kael, Rei de Volkar: "Eudoria foi tomada, estes são os responsáveis" "Apenas mate esses robôs insolentes que destruiram nosso reino"
+- Que chega auxiliando
+- Bóra conjura Ben~]ao
+- Ataques que finalmente funcionam
+- Fusca está com fumaça saindo de tanta raiva
+- Zsim desmoraliza e marca como presa
+- KAel mata o que está flanqueando com Fusca,
+- Soco de Arsenal
+- Ataque de armas
+- Os robozes se comunicam, mas o ciborgue do Fusca intercepta "estou recebendo informações do chefe"
+- Mais dois ataques pesados do Fusca
+- Outro ataque no Bóra, mas o corte passa por dentro do vácuo dos ossos do rapaz
+- Zsim passa num teste de diplomacia e deixa pasmo o Brawar
+- Kael ataca forte
+- O Kishin me acerta, mas vale mais a pena levar o dano do que gastar energia para defender
+- "O Chefe precisa da nossa presença urgente"
+- "Eles vão recuar, não permitam!"
+- Mais dois ataques, mas o adversário segue de pe
+- São 5 no total, 1 caído (Brawar), 1 fugindo (Armeiro de Tenebra), 1 pasmo (Brawar), 1 bem capenga (Armeiro de Tenebra), 1 atacando (Kishin)
+- Zsim tenta argumentar que não vale a pena lutar, mas não funciona, o Brawar des-pasmifica, e pode voltar a agir, então ele volta a atacar
+- O Bóra me cura
+- OS dois que estão perto de nós diz que estão fracos e avisam que os outros devem voltar ao mestre.
+- O que estava guardando a entrada do túnel, e não agira até então, que ataa o teto, e a sala começa a desmoronar, ficando dois dos inimigos como isca para ficarmos por lá - o armeiro que havia levado 4 golpes ou mais
+- Mato esse cara  e saio correndo, Bóra também corre, Kael fica para matar o útlimo sobrevivente.
+- Corrida de todo mundo parra fora, ainda dou um tiro e arremesso uma machadinha
+- A sala desmorona e o Brawar morre lá dentro
+- Lá fora está mais escuro que o normal
+- Diversos passos metálicos próximos ao portão de entrada de Thargrum

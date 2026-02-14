@@ -372,4 +372,11 @@ Mesmo assim, tendo tudo investigado e a todo tempo usando o óculos... não cheg
 
 Até que perdeu o restante das suas forças, caiu no chão, e se desfez em uma poça de gosma amarela.
 
-Enquanto isso, na nave, LC ajeita todas as coisas para que o vôo
+Enquanto isso, na nave, LC ajeita todas as coisas para que o vôo aconteça com tranquilidade; Quando tudo está nos conformes, ele vê que Rosa já entrou na capsula de descanço, e já dorme, ele se senta na borda da capsula, e está mexendo com uma faca, esculpindo na sua tag, com seu nome e de seu irmão, o símbolo de um átomo, em memória de San Holo, o que carregará sempre consigo.
+
+LC se senta na capsula e vê Jerome caminhando, então avisa:
+"É bom descansar, o dia foi pesado."
+"Já vou já, deixa só eu pegar mais umas batatinhas."
+Toyota fecha sua própria capsula e entra em sono profundo.
+
+Jerome vai à dispensa, abre um pacote de batatinhas e começa a comer. Então sente um calafrio na espinha, e antes que consiga dar um próxima mordida, é abocanhado pelo vazio.

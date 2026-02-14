@@ -17,8 +17,8 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 3 online;
-**Nível dos Personagens**: 3;
+**Sessões:** 4 online;
+**Nível dos Personagens**: 3-7;
 **Descrição:** Anões guerream pela irmandade.
 **Personagens e Jogadores:**
 - [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
