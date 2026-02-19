@@ -133,7 +133,7 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** Mini-Aventura;
 - **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
 ---
-#### \#018 Mensageiros da Floresta Negra.
+#### \#018 Mensageiros da Floresta Negra
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Daggerheart\|Daggerheart]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -142,13 +142,34 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Descrição:** *Marlowe Fairwind*, a mão direita do Rei Emeris, é uma feiticeira que reuniu seus aliados mais confiáveis para levar um importante pacote até Calada, um vilarejo localizado na antiga Floresta Negra. É uma caixa grande, pesada e selada por magia, destinada à Arcanista do Fogo Branco. Vocês receberam um mapa, uma carruagem e a promessa de recompensa após o retorno.
 - **Curiosidade:** Sistema novo!
 ---
-#### \#019 Aleatório.
+#### \#019 Aleatório
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
 - **Nível:** 1;
 - **Detalhes:** One-Shot;
 - **Descrição:** Rolaremos personagens aleatórios, e a partir daí chegamos a uma missão estranha.
+---
+#### \#020 Investigação Noir
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Trail of Cthullu\|Trail of Cthullu]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Descrição:** Período entre guerras ou pós 2ª Guerra, de detetives sujos e moralmente cinzas.
+---
+#### \#021 Sabotagem em Encélado
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Sistemas/Mothership\|Mothership]] - a princípio;
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Descrição:** Vocês fazem parte de uma tripulação enviada em um foguete clandestino do russo Grupo RB para sabotar uma expedição da NASA que foi a Encélado à procura de vida nos seus oceanos.
+---
+#### \#022 As Montanhas de Passo Dyatlov
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Call of Cthullu\|Call of Cthullu]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Descrição:** Investigadores particulares chegam ao Passo Dyatlov, norte da União Soviética, em meados dos anos 60 para seguir uma pista que pode ajudar a descobrir o destino de nove jovens desaparecidos nas montanhas geladas do norte da União Soviética.
 ---
 #### \#997 One-Shot do Carro.
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
