@@ -34,7 +34,12 @@ Lista dos personagens que marcaram a história da GUILDA:
 - Maior guerreiro: [[Jogadores/Miguel de Maria\|Miguel de Maria]] - 1 câncer vencido;
 - Mestre mais carnificeiro: [[Jogadores/Raul Teixeira\|Raul Teixeira]] - 7 mortos;
 - Jogador mais combeiro: [[Jogadores/Raul Ouros\|Raul Ouros]];
-- Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões (o Zé Mané do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões);
+- Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões ([[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] e [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]);
+	- [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões ([[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]);
+- Jogador com maior número de personagens baixinhos: [[Jogadores/Thiago Carro\|Thiago Carro]] - 8 ([[Aventuras/Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], [[Aventuras/Invasão ao Vulcão Negro/Ka Ulerc\|Ka Ulerc]], [[Aventuras/Minas Perdidas de Phandelvier/Opala Seis Canecos\|Opala Seis Canecos]], [[Aventuras/Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]], [[Aventuras/Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]], [[Aventuras/Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]] e [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]);
+	- [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 4 baixinhos ([[Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]], [[Aventuras/Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]]);
+- Jogador com maior porcentagem de personagens baixinhos: [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] - 100%;
+	- É... aqui não dá pros 38% do [[Jogadores/Thiago Carro\|Thiago Carro]] competir...
 - Jogador com mais personagens usando apetrechos de cabeça: [[Jogadores/Thiago Carro\|Thiago Carro]];
 - Pet com maior número de aparições: "Lobinho", de [[Aventuras/Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
 - Sistema mais jogado - [[Sistemas/Tormenta20\|Tormenta20]];

@@ -244,7 +244,7 @@ Bóra e Kael conseguem sair da sala a tempo... mas quando todos se dão conta do
 Esta sessão se resume a um longo combate, no qual os heróis começam sofrendo diversos golpes pesados, mas, aos poucos, com muita teimosia de Fusca, magias de combate de Bóra, e um misto de estratégia e boas palavras do Rei Zsim, somados a uma ajuda providencial surpresa de Kael Dravos, Rei de Volkar, conseguem virar o lado do combate. No final, após receberem uma mensagem de que era necessária a presença deles em outro lugar, os construtos fogem pelo túnel, mas não antes de destruir o resto do Salão Real, fazendo-o desmoronar sobre os anões, que fogem a tempo. Findado o combate, três dos seis construtos faleceram, dois pelas mãos dos anões e de Kael, um que, próximo também da morte, usou o resto de suas forças para assegurar que os anões não entrariam no túnel, por onde os três construtos restantes fugiram. Ah, a teimosia de Fusca fez que ele perdesse seu martelinho de arremesso.
 
 ---
-## Sessão 4 (20/02/2026) - Minerar, Minerar, Minerar
+## Sessão 5 (20/02/2026) - Minerar, Minerar, Minerar
 *Mine, Mine, Mine*
 
 Kael Dravos se põe a andar na direção do portão, e enquanto Fusca e Zsim discutoem o que fazer, Bóra profana o chão e recupera totalmente sua vitalidade.
@@ -280,6 +280,7 @@ Vemos apenas a sombra de uma coisa gigante na entrada da sala
 espada bastarda atroz, dinheiro, escudo pesado reforçado e uma armadura...
 
 "só um necromante traria vida"
+"Eu já sou ladrão de túmulos, nesse caso eu nem preciso abrir caixão"
 
 Depois de uma semana eu seria proficiente
 
@@ -304,13 +305,18 @@ Depois chegamos a um ponto onde a passagem é mais complicada, metade dela está
 Seguimos reto até encontrar um trilho, que parte dali para o caminho da direita, de onde ouvimos um pouco de barulho natural do rangir do metal, enquanto do outro, bem escuro, nenhum barulho ecoa
 
 Bóra sugere usarmos os carrinhos, e Fusca põe um carrinho nos trilhos e partem. Param em uma abertura, na qual o trilho segue reto num caminho central.
-Ali o Rei tenta criar uma despistagem, dando a entender que tomamos um dos caminhos laterais, como o da direita era curto e sem saída, fingimos que fomos pelo da esquerda com o carrinho, mas seguimos reto, a pé, pela trilha.
+Ali o Rei tenta criar uma despistagem, dando a entender que tomamos um dos caminhos laterais, como o da direita era curto e sem saída, fingimos que fomos pelo da esquerda com o carrinho, mas seguimos reto, a pé, pela trilha. Seguindo pelo caminho, colocamos, a mando de Zsim, baús no meio do caminho
 
-| nº  |         Origem          |           Destino            | Caminhos |    Escolha     |
-| :-: | :---------------------: | :--------------------------: | :------: | :------------: |
-|  1  |         Entrada         |       Sala das Cordas        |    3     |   2 - centro   |
-|  2  |     Sala das Cordas     |          Alquímicos          |    1     |   1 - único    |
-|  3  |       Alquímicos        |             Baús             |    1     |   1 - único    |
-|  4  |          Baús           |    Desmoronamento Parcial    |    1     |   1 - único    |
-|  5  | Desmoronamento Parcial  |   Ponto Final dos Trilhos    |    1     |   1 - único    |
-|  6  | Ponto Final dos Trilhos | Bifurcação das Falsas Pistas |    3     | 2 - com trilho |
+Sala com símbolo quebrado de Cartemir, com uma descida maior abaixo dele, onde encerramos o  jogo do dia.
+#### Resumo
+O que começou com uma re-exploração do centro da cidade, em busca de suprimentos e essência de mana, se tornou em uma exploração das minas, em busca de armadilha aos golens... e mais essência de mana. De fato, após perceberem o tamanho da ameaça que se aproxima - diversos golens e construtos grandes - os anões, cansados do combate recente, tomaram a iniciativa de despistar e tentar depois emboscar tais criaturas, que finalizaram com a vida de Kael Dravos (cujos itens foram rapidamente tomados pelos heróis). Na mina, uma barricada feita, logo na entrada, já teve sua destruição, a segunda, com fogos alquímicos, ainda está de pé. Em um outro ponto, foram criadas pistas falsas, como se tivessem tomado um caminho diferente do que seguir os trilhos (que se encontram com baús para gerar acidentes). Se encontram agora mirando um símbolo de Cartemir quebrado, e tentando entender que caminho devem seguir.
+
+| nº  |            Origem            |            Destino            | Caminhos |    Escolha     |                                   Observação                                    |
+| :-: | :--------------------------: | :---------------------------: | :------: | :------------: | :-----------------------------------------------------------------------------: |
+|  1  |           Entrada            |        Sala das Cordas        |    3     |   2 - centro   |                         1ª Barricada (já ultrapassada)                          |
+|  2  |       Sala das Cordas        |          Alquímicos           |    1     |   1 - único    |                   2ª Barricada - Armadilha com Fogo Alquímico                   |
+|  3  |          Alquímicos          |             Baús              |    1     |   1 - único    |                                                                                 |
+|  4  |             Baús             |    Desmoronamento Parcial     |    1     |   1 - único    |                                                                                 |
+|  5  |    Desmoronamento Parcial    |    Ponto Final dos Trilhos    |    1     |   1 - único    |                                                                                 |
+|  6  |   Ponto Final dos Trilhos    | Bifurcação das Falsas Pistas  |    3     | 2 - com trilho |                         Carrinho para andar mais rápido                         |
+|  7  | Bifurcação das Falsas Pistas | Símbolo de Cartermir quebrado |    1     |                | Criamos pistas de ir para a esquerda na e colocamos baús no trilho pelo caminho |
