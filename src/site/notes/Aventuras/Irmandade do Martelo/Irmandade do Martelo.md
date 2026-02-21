@@ -239,6 +239,78 @@ Kael ainda confere um último golpe, antes de partir em disparada, e o clérigo 
 
 Ainda em fuga, Fusca não desiste de matar o último inimigo em vista, e saca sua pistola para ferí-lo, e, depois de perceber que não foi suficiente para matar, lança seu martelo leve em sua direção... sua teimosia o fez perder a arma... e por nada! O ataque não matou, e o Brawar morreu logo em seguida com a queda das pedras sobre si.
 
-Bóra e Kael conseguem sair da sala a tempo... mas quando todos se dão conta do que ocorre do lado de fora, um medo começa a consumí-los: está escuro, muito escuro, mais do que noite em tempestade. E o barulho que ouvem é de passos pesados. Passos metálicos na direção do portão de Thargrum. 
+Bóra e Kael conseguem sair da sala a tempo... mas quando todos se dão conta do que ocorre do lado de fora, um medo começa a consumí-los: está escuro, muito escuro, mais do que noite em tempestade. E o barulho que ouvem é de passos pesados. Passos metálicos na direção do portão de Thargrum.
 #### Resumo
 Esta sessão se resume a um longo combate, no qual os heróis começam sofrendo diversos golpes pesados, mas, aos poucos, com muita teimosia de Fusca, magias de combate de Bóra, e um misto de estratégia e boas palavras do Rei Zsim, somados a uma ajuda providencial surpresa de Kael Dravos, Rei de Volkar, conseguem virar o lado do combate. No final, após receberem uma mensagem de que era necessária a presença deles em outro lugar, os construtos fogem pelo túnel, mas não antes de destruir o resto do Salão Real, fazendo-o desmoronar sobre os anões, que fogem a tempo. Findado o combate, três dos seis construtos faleceram, dois pelas mãos dos anões e de Kael, um que, próximo também da morte, usou o resto de suas forças para assegurar que os anões não entrariam no túnel, por onde os três construtos restantes fugiram. Ah, a teimosia de Fusca fez que ele perdesse seu martelinho de arremesso.
+
+---
+## Sessão 4 (20/02/2026) - Minerar, Minerar, Minerar
+*Mine, Mine, Mine*
+
+Kael Dravos se põe a andar na direção do portão, e enquanto Fusca e Zsim discutoem o que fazer, Bóra profana o chão e recupera totalmente sua vitalidade.
+
+5~10 minutos
+
+Encontro 1 essencia de mana na taverna
+
+Come comidas simples
+osteon lenbra de comer biscoitos, sqn
+
+3 facas de cozinha
+
++1 essencia no restaurante
+X-Magia - 1d2
+
+Zsim encontra outros lanches
+
+peguei 3 facões na cozinha
+
+fomos ao templo, visão mística de Cartemir de um mapa, que apresenta Thargrum,
+
+Zsim busca uma segunda saída, vendo o mapa sabe que as minas são caminhos longos, tortuosos, ramificações grandes, e Fusca completa com sua sabedoria do tempo de trabalho, sabendo que seria um labirinto
+
+Fusca lembra que na casa do "pai" do Bóra Quebratudo deve ter uma picareta melhorada, mas não daria tempo de ir e voltar
+
+Ouvimos um barulho
+
+Vimos que o barulho foi kael arremessado do outro lado da cidade, e se encontra morto
+
+Vemos apenas a sombra de uma coisa gigante na entrada da sala
+
+espada bastarda atroz, dinheiro, escudo pesado reforçado e uma armadura...
+
+"só um necromante traria vida"
+
+Depois de uma semana eu seria proficiente
+
+Vemos algumas grandes sombras que fazem o som de uma marcha metálica
+
+O som ecoa por todo a cidade esculpida na pedra, são golens e autômatos, maiores que um humano normal
+
+Zsim tem a intuição de que é possível despistar os golens pelas minas e Bóra complementa dizendo que podemos pegar um a um.
+
+Corremos rápido para as minas, não arrisco passar na casa do pai do Kael
+
+Pego uma picareta simples na entrada das minas
+
+Zsim tenta criar uma "armadilha  - alerta", que auxilie a identificar onde os inimigos se situam e dificulta a progressão.
+
+Começamos um labirinto, primeiro, 3 caminhos, seguimos o central, que era maior, e o primeiro a ser feito na pedra. Numa sala seguinte, pegamos algumas cordas para seguir adiante, por um caminho único, até um estande com itens diversos de escavação, onde pegamos essências de mana, um fogo alquímico, e o rei prepara uma armadilha com os outros alquímicos de fogo
+
+Depoiis, nos baús adiante, o guerreiro usa alguns bálsamos restauradores para ficar com sua vitalidade completa, e, nisto, encontra mais essências, que divide com o clérigo
+
+Depois chegamos a um ponto onde a passagem é mais complicada, metade dela está destruída, e será de difícil acesso para serer maiores, um desmoronamento parcial
+
+Seguimos reto até encontrar um trilho, que parte dali para o caminho da direita, de onde ouvimos um pouco de barulho natural do rangir do metal, enquanto do outro, bem escuro, nenhum barulho ecoa
+
+Bóra sugere usarmos os carrinhos, e Fusca põe um carrinho nos trilhos e partem. Param em uma abertura, na qual o trilho segue reto num caminho central.
+Ali o Rei tenta criar uma despistagem, dando a entender que tomamos um dos caminhos laterais, como o da direita era curto e sem saída, fingimos que fomos pelo da esquerda com o carrinho, mas seguimos reto, a pé, pela trilha.
+
+| nº  |         Origem          |           Destino            | Caminhos |    Escolha     |
+| :-: | :---------------------: | :--------------------------: | :------: | :------------: |
+|  1  |         Entrada         |       Sala das Cordas        |    3     |   2 - centro   |
+|  2  |     Sala das Cordas     |          Alquímicos          |    1     |   1 - único    |
+|  3  |       Alquímicos        |             Baús             |    1     |   1 - único    |
+|  4  |          Baús           |    Desmoronamento Parcial    |    1     |   1 - único    |
+|  5  | Desmoronamento Parcial  |   Ponto Final dos Trilhos    |    1     |   1 - único    |
+|  6  | Ponto Final dos Trilhos | Bifurcação das Falsas Pistas |    3     | 2 - com trilho |
