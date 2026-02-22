@@ -247,67 +247,50 @@ Esta sessão se resume a um longo combate, no qual os heróis começam sofrendo 
 ## Sessão 5 (20/02/2026) - Minerar, Minerar, Minerar
 *Mine, Mine, Mine*
 
-Kael Dravos se põe a andar na direção do portão, e enquanto Fusca e Zsim discutoem o que fazer, Bóra profana o chão e recupera totalmente sua vitalidade.
+Mediante o barulho dos passos, Kael Dravos se põe a andar na direção do portão, e enquanto Fusca e Zsim discutem o melhor plano de ação, Bóra começa a usar palavras abissais (que aprendera enquanto morto) e profana o chão, posteriormente recuperando totalmente sua vitalidade... morta.
 
-5~10 minutos
+Os heróis sabem que tais passos chegaram até eles de 5 a 10 minutos, eles então se põem a procurar algo que lhes recupere a energia - e assim começa a caça por essências de mana. Encontraram uma na taverna e tentaram se alimentar um pouco.
+"Que saudade de comer esses biscoitinhos." - diz Bóra, olhando para um pote cheio de bolachinas de bar.
+"Você se lembra do sabor?"
+"Na verdade não. Mas deve ser gostoso."
 
-Encontro 1 essencia de mana na taverna
+Fusca pega três facões na cozinha para arremessar, se necessário, e seguem todos para um restaurante próximo, na busca de mais essências., Fusca encontra um, além de um lanche velho e gelado chamado X-Magia. Vendo que essências de manas eram usadas na sua composição, e, sendo imune a envenenamento, ele comeu o lanche, e ainda mostrou para o amigo Zsim, que encontrou outras 3 unidades na cozinhaa.
 
-Come comidas simples
-osteon lenbra de comer biscoitos, sqn
+Havia tempo para mais uma visita, então o grupo se dirigiu ao Templo de Cartemir, buscando respostas, isto é, um norte para o que devem fazer, e receberam visão mística de Cartemir de um mapa, que apresenta Thargrum, seus caminhos e estradas cavadas no interior da montanha.
+Zsim busca uma segunda saída, e, vendo o mapa, sabe que as minas são caminhos longos, tortuosos, ramificações grandes, e Fusca complementa com sua sabedoria do tempo de trabalho, sabendo que seria um labirinto para aqueles que não sabe para onde vão - para não anões.
 
-3 facas de cozinha
+Olhando para Bóra, o guerreiro também se recorda de seu pai: Haldrek Quebratudo que sendo o responsável pela mineração de Thargrum, com certeza possui uma picareta especial, superior - e, como o guerreiro se especializa em golpes diferentes com armas especiais, um item dessa nobreza não seria nada mal. Entretanto, a casa se encontra longe de onde estao, em um bairro próximo à mina.
 
-+1 essencia no restaurante
-X-Magia - 1d2
+Neste momento o grupo se assusta com um estrondo vindo do centro da vila, um impacto muito forte, mas sem explosão. Ao saírem do templo, se deparam com o corpo morto de Kael Dravos, que fora arremessado como se não tivesse peso algum, de um lado a outro da cidade, e, na direção do portão. veem apenas a sombra de uma coisa gigante na entrada da sala.
 
-Zsim encontra outros lanches
+O Rei corre até o rei morto, e pensa:
+"Eu roubei muitos túmulos, nesse caso eu nem preciso abrir caixão."
+E vendo a situação do corpo, é nítido que só um necromante daria vida ao rei. Zsim chega até ele e consegue pegar alguns tibares, um escudo pesado reforçado, mas não daria tempo de retirar a armadura. A lança que ele usara no último combate se quebrou em dois pedaços no vôo, e está longe, mas ele carrega uma espada bastarda atroz, que, quando Zsim põe a mão, Fusca põe a mão antes e diz: "Deixa essa comigo."
 
-peguei 3 facões na cozinha
+*==Nota==: Fusca sabe usar uma espada bastarda desde que use as duas mãos, mas graças ao seu domínio excêntrico com armas superiores, após uma semana com esforço diário, o uso será possível com uma única mão.*
 
-fomos ao templo, visão mística de Cartemir de um mapa, que apresenta Thargrum,
+A escuridão que toma o ambiente é não natural, e a sombra, na verdade, são de diversas criaturas, construtos e golens, em marcha metálica que ecoa por toda a montanha. Cada unidade é, pelo menos, maior que um homem, anda mais de uma anão.
 
-Zsim busca uma segunda saída, vendo o mapa sabe que as minas são caminhos longos, tortuosos, ramificações grandes, e Fusca completa com sua sabedoria do tempo de trabalho, sabendo que seria um labirinto
+O grupo, formado por devotos da Guerra, deve propor combate, mas a estratégia sempre é bem vinda. Nisto, o Rei Zsim tem a intuição de que é possível despistar os golens pelas minas, e Bóra, clérigo de Arsenal, vai além: separando os adversários nos caminhos da mina transformará um combate quase impossível em diversos combates menores, todos possíveis.
+Vale lembrar que não estão totalmente preparados para um embate, minutos depois de gastarem suas forças no Salão Real de Thargrum - muitas outras essências de mana seriam necessárias.
 
-Fusca lembra que na casa do "pai" do Bóra Quebratudo deve ter uma picareta melhorada, mas não daria tempo de ir e voltar
+Os anões então correm para a mina, com a bênção de Cartemir e o conhecimento de sua casa, conseguem uma vantagem diante das criaturas de metal. Fusca pondera a visita à casa dos Quebratudo, mas o tempo ficaria muito justo - não vale a pena o risco.
 
-Ouvimos um barulho
+Chegam então às minas, e começa o labirinto: na entrada, existem diversos equipamentos e vestimentas de mineração, onde Fusca troca um facão por uma picareta. O Rei, estrategista, cria uma "armadilha  - alarme", que atrase os golens e auxilie a identificar onde os inimigos.
 
-Vimos que o barulho foi kael arremessado do outro lado da cidade, e se encontra morto
+A primeira decisão se dá por 3 caminhos, e o grupo escolhe o caminho central, o mais velho e com maior ramificação. Numa sala seguinte, Bóra e Zsim tomam algumas cordas para seguir adiante, por um caminho único, até um estande com, novamente, itens diversos de escavação, onde se encontram também itens alquímicos, no qual o grupo encontra algumas das desejadas essências de mana, o guerreiro toma também um fogo alquímico, e o rei prepara uma armadilha com os outros alquímicos de fogo.
 
-Vemos apenas a sombra de uma coisa gigante na entrada da sala
+Depois, nos baús adiante, Fusca nota que pode recuperar um pouco d vida sem gasto de poderes mágicos, por meio de alguns bálsamos restauradores encontrados nos baús para ficar com sua vitalidade completa, e, nisto, encontra mais essências, que divide com o clérigo (a fim de receber curas futuras).
 
-espada bastarda atroz, dinheiro, escudo pesado reforçado e uma armadura...
-
-"só um necromante traria vida"
-"Eu já sou ladrão de túmulos, nesse caso eu nem preciso abrir caixão"
-
-Depois de uma semana eu seria proficiente
-
-Vemos algumas grandes sombras que fazem o som de uma marcha metálica
-
-O som ecoa por todo a cidade esculpida na pedra, são golens e autômatos, maiores que um humano normal
-
-Zsim tem a intuição de que é possível despistar os golens pelas minas e Bóra complementa dizendo que podemos pegar um a um.
-
-Corremos rápido para as minas, não arrisco passar na casa do pai do Kael
-
-Pego uma picareta simples na entrada das minas
-
-Zsim tenta criar uma "armadilha  - alerta", que auxilie a identificar onde os inimigos se situam e dificulta a progressão.
-
-Começamos um labirinto, primeiro, 3 caminhos, seguimos o central, que era maior, e o primeiro a ser feito na pedra. Numa sala seguinte, pegamos algumas cordas para seguir adiante, por um caminho único, até um estande com itens diversos de escavação, onde pegamos essências de mana, um fogo alquímico, e o rei prepara uma armadilha com os outros alquímicos de fogo
-
-Depoiis, nos baús adiante, o guerreiro usa alguns bálsamos restauradores para ficar com sua vitalidade completa, e, nisto, encontra mais essências, que divide com o clérigo
-
-Depois chegamos a um ponto onde a passagem é mais complicada, metade dela está destruída, e será de difícil acesso para serer maiores, um desmoronamento parcial
-
-Seguimos reto até encontrar um trilho, que parte dali para o caminho da direita, de onde ouvimos um pouco de barulho natural do rangir do metal, enquanto do outro, bem escuro, nenhum barulho ecoa
+Em seguida, os anões chegam a um ponto onde a passagem é mais complicada, metade dela está destruída, e será de difícil acesso para serer maiores,  um desmoronamento parcial. Decidem seguir reto, até encontrarem um trilho, que parte dali para o caminho da direita, de onde ouvimos um pouco de barulho natural do rangir do metal, enquanto do outro, bem escuro, nenhum barulho ecoa.
 
 Bóra sugere usarmos os carrinhos, e Fusca põe um carrinho nos trilhos e partem. Param em uma abertura, na qual o trilho segue reto num caminho central.
-Ali o Rei tenta criar uma despistagem, dando a entender que tomamos um dos caminhos laterais, como o da direita era curto e sem saída, fingimos que fomos pelo da esquerda com o carrinho, mas seguimos reto, a pé, pela trilha. Seguindo pelo caminho, colocamos, a mando de Zsim, baús no meio do caminho
+Ali o Rei tenta criar uma despistagem, dando a entender que tomamos um dos caminhos laterais, e, como o da direita era curto e sem saída, fingimos que fomos pelo da esquerda com o carrinho, mas seguimos reto, a pé, pela trilha.
 
-Sala com símbolo quebrado de Cartemir, com uma descida maior abaixo dele, onde encerramos o  jogo do dia.
+Mais adiante, a mando de Zsim, os anões colocam alguns baús no meio do caminho, para que, se vierem com algum carrinho, tenham sua progressão dificultada.
+Tal caminho encontra seu fim em uma sala com um símbolo de Cartemir, quebrado ao meio, com uma descida maior abaixo dele.
+
+A investigação de tal símbolo, a continuidade da exploração dos caminhos da mina, e o possível embate com os construtos se dará em breve, conforme continuarmos a acompanhar a Irmandade do Martelo.
 #### Resumo
 O que começou com uma re-exploração do centro da cidade, em busca de suprimentos e essência de mana, se tornou em uma exploração das minas, em busca de armadilha aos golens... e mais essência de mana. De fato, após perceberem o tamanho da ameaça que se aproxima - diversos golens e construtos grandes - os anões, cansados do combate recente, tomaram a iniciativa de despistar e tentar depois emboscar tais criaturas, que finalizaram com a vida de Kael Dravos (cujos itens foram rapidamente tomados pelos heróis). Na mina, uma barricada feita, logo na entrada, já teve sua destruição, a segunda, com fogos alquímicos, ainda está de pé. Em um outro ponto, foram criadas pistas falsas, como se tivessem tomado um caminho diferente do que seguir os trilhos (que se encontram com baús para gerar acidentes). Se encontram agora mirando um símbolo de Cartemir quebrado, e tentando entender que caminho devem seguir.
 
