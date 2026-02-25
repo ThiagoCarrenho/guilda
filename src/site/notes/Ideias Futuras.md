@@ -171,6 +171,14 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** One-Shot;
 - **Descrição:** Investigadores particulares chegam ao Passo Dyatlov, norte da União Soviética, em meados dos anos 60 para seguir uma pista que pode ajudar a descobrir o destino de nove jovens desaparecidos nas montanhas geladas do norte da União Soviética.
 ---
+#### \#023 - Uai, Lobisomem Existe?
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** A definir;
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Temática:** Investigativo, sem horror ou sobrenatural em demasia.
+- **Descrição:** Interior de Minas, anos 80. É tempo de Quaresma, e começam a aparecer relatos de animais sumindo e outros devorados em circunstâncias estranhas. Com o sumiço de uma criança, a coisa fica preocupante, e os moradores alegam que o lobisomem está a solta. A polícia nao descobriu nada, nem encontrou a criança ou os animais. Os jogadores são um grupo independente de moradores (policial, fazendeiro, caminhoneiro, etc) que resolvem investigar e por um fim a esse mistério.
+---
 #### \#997 One-Shot do Carro.
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];

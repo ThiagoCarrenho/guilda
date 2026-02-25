@@ -40,7 +40,7 @@ Sendo um anão com humor altamente desagradável, a primeira ação de Fusca, ao
 
 Na reunião dos líderes de Khalmyrtaal, Fusca sofre uma grande injustiça e é atacado covardemente por uma gárgula, que não tinha motivos suficientes para ferir o anão. Nessa mesma reunião ele dorme, em meio às palavras políticas e burocráticas que lá foram proferidas.
 
-No combate contra os construtos, no Salão Real de Thargrum, sua teimosia fez com que ele perdesse sua arma secundária: um Martelo Leve Certeiro.
+No combate contra os construtos, no Salão Real de Thargrum, sua teimosia fez com que ele perdesse sua arma secundária: um **Martelo Leve Certeiro**. Em seguida ele conseguiu algo bem maior: a **Espada Bastarda Cruel** de Kael Dravos, que ele aprenderá a usar com maestria em uma semana.
 
 Seu ponto mais forte, é, sem dúvidas, o combate, e tendo já entrado em guerra contra diferentes adversários, ele já pôs o fim a algumas vidas:
 - 3 - Todos os três ladrões de mapas no Lago dos Ventos;
@@ -88,7 +88,7 @@ Seu ponto mais forte, é, sem dúvidas, o combate, e tendo já entrado em guerra
 **Poder de Guerreiro nv. 8:** Aumento de Atributo - Força.
 #### Equipamento
 **Armadura:** Couro Batido Ajustado e *Peças Metálicas*.
-**Armas (Ordem de Prioridade):** Martelo de Guerra Certeiro, ~~Martelo Leve Certeiro~~, Machado Anão Cruel, Pistola, Machado de Lenha, Espada Longa, Picaretas, Adagas (Facões de cozinha).
+**Armas (Ordem de Prioridade):** Martelo de Guerra Certeiro, ~~Martelo Leve Certeiro~~, Machado Anão Cruel, Espada Bastarda Cruel, Pistola, Machado de Lenha, Espada Longa, Picaretas, Adagas (Facões de cozinha).
 **Alquímicos:** Bomba, Ácido, Fogo Alquímico, Bálsamo Restaurador.
 **Vestidos:** Sapato de Camurça.
 **Instrumentos:** Instrumentos de Armeiro.
