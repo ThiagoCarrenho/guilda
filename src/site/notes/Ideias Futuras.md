@@ -5,6 +5,21 @@
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
 A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e, de forma alguma, representa prioridade.
 
+A prioridade, na verdade, é próxima (mas não exatamente) a:
+1. Finalizar as aventuras em andamento:
+	* [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+2. Jogar a **Origem da GUILDA** (#024), por [[Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
+3. Mesa de Investigação / Terror possivelmente em sistema novo por [[Jogadores/Raul Teixeira\|Raul Teixeira]], como **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Missão Hereditus II** (#017) - continuação de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], **Investigação Noir** (#020), **Sabotagem em Encélado** (#021), **As Montanhas de Passo Dyatlov** (#022) e **- Uai, Lobisomem Existe?** (#023);
+4. Mesa Presencial na casa do [[Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
+5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
+	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001), **Aleatório** (#019);
+6. Outras Aventuras:
+	* [[Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006);
+	* [[Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
+	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#025);
+
 --- 
 #### \#001 C.A.O. o Campeonato Arcanum de Opath
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
@@ -178,6 +193,23 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 - **Detalhes:** One-Shot;
 - **Temática:** Investigativo, sem horror ou sobrenatural em demasia.
 - **Descrição:** Interior de Minas, anos 80. É tempo de Quaresma, e começam a aparecer relatos de animais sumindo e outros devorados em circunstâncias estranhas. Com o sumiço de uma criança, a coisa fica preocupante, e os moradores alegam que o lobisomem está a solta. A polícia nao descobriu nada, nem encontrou a criança ou os animais. Os jogadores são um grupo independente de moradores (policial, fazendeiro, caminhoneiro, etc) que resolvem investigar e por um fim a esse mistério.
+---
+#### \#024 - Origem da Guilda
+- **Ideia de Todos**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+- **Detalhes:** Aventura Breve;
+- **Curiosidade:** Oficialização da GUILDA em Arton;
+- **Descrição:** No ano de 1817 os aventureiros, por diferentes motivos recebem um convite para irem até Vectora para saber mais detalhes e possivelmente participar de uma expedição.
+---
+#### \#025 - Sangue na Torre do Relógio
+- **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
+- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+- **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
+- **Nível:** A definir;
+- **Detalhes:** Aventura Breve; 
+- **Curiosidade:** Inspirada pelo jogo de tabuleiro *Blood on The Clocktower*;
+- **Descrição:** Os aventureiros recebem a notícia de três mortes ocorridas numa pequena vila vizinha, e decidem ir até lá para resolver o problema. As mortes claramente não são por causas naturais, mas podem ter sido assassinato, monstros, ou forças sobrenaturais. Os personagens precisarão ganhar a confiança dos membros da cidade, entender quem mente e quem fala a verdade, investigar a verdadeira causa das mortes e resolver o problema.
 ---
 #### \#997 One-Shot do Carro.
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
