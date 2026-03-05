@@ -15,3 +15,7 @@
 - [[Aventuras/Começo da Guilda/Atlas\|Atlas]], de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Começo da Guilda/Galakrimm\|Galakrimm]] de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/Começo da Guilda/Mil Vozes\|Mil Vozes]], o bardo das Mil Vozes de [[Jogadores/Thiago Carro\|Thiago Carro]];
+
+Essa aventura teve uma sessão, a qual não lembramos o que houve, após isso, foi descontinuada.
+
+A ideia foi retomada em [[Origem da GUILDA\|Origem da GUILDA]], com outros personagens e outra história.
