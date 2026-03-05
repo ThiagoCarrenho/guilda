@@ -13,10 +13,11 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 4. Mesa Presencial na casa do [[Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
 5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
 	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001), **Aleatório** (#019);
 6. Outras Aventuras:
 	* [[Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
-	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Missão Hereditus II** (#017) - continuação de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], **Investigação Noir** (#020), **Sabotagem em Encélado** (#021), **Uai, Lobisomem Existe?** (#023);
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#020), **Sabotagem em Encélado** (#021), **Uai, Lobisomem Existe?** (#023);
 	* [[Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#025);
 
