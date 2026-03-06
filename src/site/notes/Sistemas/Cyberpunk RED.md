@@ -3,7 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]: One-shot de roubo por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]]: One-shot de roubo por [[Jogadores/Raul Ouros\|Raul Ouros]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. 
 
 ---

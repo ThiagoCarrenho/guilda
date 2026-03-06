@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","created":"2025-10-13T17:42:13.422-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00"}
 ---
 
 # Aventuras
@@ -71,7 +71,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---
 ### Carga de Chromo Vermelho
-**Nome da Aventura:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
+**Nome da Aventura:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]];
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
 **Sistema:**  [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 **Tamanho:** One-shot;

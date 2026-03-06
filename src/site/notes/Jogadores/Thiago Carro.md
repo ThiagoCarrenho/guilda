@@ -31,7 +31,7 @@ Eis os aventureiros que foram criados e interpretados pelo Thiago, em parêntese
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]] (GWM Ora 03 Skin), o pirralho espacial psiônico de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/Guerra Artoniana/Deora II\|Deora II]] (Hot Wheels Deora II), o amigo enganador dos deuses de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] (1952 Alfa Romeo 6C 2500 GT Villa d'Este Cabriolet by Touring), o nobre filantropo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
-- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
+- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]];
 - [[Aventuras/A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]] (HMS Dreadnought - navio), o clérigo surfista em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
 - [[Aventuras/Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]] (Nissan Skyline), o piromaníaco filho de dragão em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
 - [[Aventuras/Posto de Troca Baixa Vila de Lena/Daw'Kruzar\|Daw'Kruzar]] (Toyota Land Cruiser), o guardião da luz em [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];

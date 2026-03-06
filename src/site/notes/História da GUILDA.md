@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","created":"2025-10-16T09:52:13.337-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -105,7 +105,7 @@ Na curiosidade de conhecer novos sistemas, o grupo adentrou um conjunto de breve
 
 O primeiro, antes mesmo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] e [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], foi [[Sistemas/Skyfall RPG\|Skyfall RPG]], no qual [[Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]] para os dois amigos.
 
-Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário.
+Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário.
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
