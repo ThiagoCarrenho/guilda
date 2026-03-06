@@ -12,6 +12,7 @@ Lista dos personagens que marcaram a história da GUILDA:
 - [[Aventuras/Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]] - o primeiro herói canônico, incluído em um livro oficial;
 - [[Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]] - Responsável pela pior piada: "Uma antena no meu rádio";
 - [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], [[Aventuras/Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], [[Aventuras/Jardim do Capitão Varnost/Carlos Morrow\|Carlos Morrow]], [[Aventuras/Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]] - grupo mais estranho, formado por um coco, um rato ninja fissurado em queijo, um pescador renascido que tem metade do corpo de tentáculos e um celestial da dimensão da deusa da noite, devoto das profundezas;
+- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] - o  mais sortudo - passou uma aventura inteira, difícil e de combate, sem tomar um mísero dano;
 - Os personagens favoritos de cada um (ordem alfabética):
     * [[Aventuras/Tales of Andalurien/Belega\|Belega]] - [[Jogadores/Franciane\|Franciane]];
     * [[Aventuras/Conflito das Águas/Bruto\|Bruto]] - [[Jogadores/George\|George]];
