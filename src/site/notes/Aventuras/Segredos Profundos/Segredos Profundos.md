@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Segredos Profundos/Segredos Profundos/","pinned":true,"created":"2025-10-14T10:30:49.477-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Segredos Profundos/Segredos Profundos/","pinned":true,"noteIcon":"","created":"2025-10-14T10:30:49.477-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

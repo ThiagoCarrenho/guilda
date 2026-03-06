@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço/","created":"2025-10-17T18:09:06.414-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço/","noteIcon":"","created":"2025-10-17T18:09:06.414-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
