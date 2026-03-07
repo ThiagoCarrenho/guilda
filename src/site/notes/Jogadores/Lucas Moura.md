@@ -8,12 +8,12 @@ Amigo de faculdade de [[Jogadores/Raul Teixeira\|Raul Teixeira]], e de faculdade
 
 Quando começou a jogar, era da Física, mas mudou pro lado bom da Força com o passar do tempo.
 
-**Personagem predileto:** [[Aventuras/Tales of Andalurien/Luisão\|Luisão]].
+**Personagem predileto:** [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]].
 
-Ainda está na GUILDA, mas não jogou nenhum jogo desde [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]].
+Ainda está na GUILDA, mas não jogou nenhum jogo desde [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]].
 
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Lucas:
-- [[Aventuras/A Caçada Maior/Baklev\|Baklev]], o Caçador de [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]];
-- [[Aventuras/Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
+- [[Aventuras/96 A Caçada Maior/Baklev\|Baklev]], o Caçador de [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]];
+- [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];

@@ -8,31 +8,31 @@ Graças ao RPG, amigo também de [[Jogadores/Miguel de Maria\|Miguel de Maria]],
 Conhecedor exímio das regras dos jogos e "otimizador" de fichas.
 Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]] e [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].
 
-*Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]. A mesa favorita que ele mestrou foi: [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]].
+*Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/83 Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]. A mesa favorita que ele mestrou foi: [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]].
 
 **Jogador e Mestre ativo da GUILDA**
 
 ---
 ## Mestre
 Enquanto Mestre, Raul conduziu as seguintes aventuras:
-- [[Aventuras/Pay Day/Pay Day\|Pay Day]]: One-shot de resgate de grana em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
-- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]: One-shot de roubo em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
-- [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada em [[Sistemas/Tormenta20\|Tormenta20]];
-- [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]]: Aventura longa completa em [[Sistemas/D&D 5e\|D&D 5e]];
-- [[Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]]: One-Shot de invasão em [[Sistemas/Tormenta20\|Tormenta20]]; 
+- [[Aventuras/00 Pay Day/Pay Day\|Pay Day]]: One-shot de resgate de grana em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]: One-shot de roubo em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- [[Aventuras/86 Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada em [[Sistemas/Tormenta20\|Tormenta20]];
+- [[Aventuras/89 Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]]: Aventura longa completa em [[Sistemas/D&D 5e\|D&D 5e]];
+- [[Aventuras/92 Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]]: One-Shot de invasão em [[Sistemas/Tormenta20\|Tormenta20]]; 
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
-- † [[Aventuras/Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
-- [[Aventuras/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
-- [[Aventuras/Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
-- [[Aventuras/Guerra Artoniana/Nagi\|Nagi]], o flecheiro de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
-- [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]], o nerd elemental de [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];
-- [[Aventuras/A Voz das Marés/Victor\|Victor]], o paladino de [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
-- [[Aventuras/Caçada nas Sanguinárias/Atriox\|Atriox]], de [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
-- [[Aventuras/Passos de Lava/Mushu Misashi\|Mushu Misashi]] de [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]];
-- [[Aventuras/Conflito das Águas/Tomas\|Tomas]], de [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]];
-- [[Aventuras/Começo da Guilda/Atlas\|Atlas]], de [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
-- [[Aventuras/Ascenção do Deus Dragão/Mond\|Mond]], de [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]];
-- [[Aventuras/Planeswalker/Baltazar Blake\|Baltazar Blake]], de [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]];
+- † [[Aventuras/79 Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
+- [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+- [[Aventuras/80 Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+- [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]], o flecheiro de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
+- [[Aventuras/82 Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
+- [[Aventuras/83 Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]], o nerd elemental de [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];
+- [[Aventuras/84 A Voz das Marés/Victor\|Victor]], o paladino de [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
+- [[Aventuras/85 Caçada nas Sanguinárias/Atriox\|Atriox]], de [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
+- [[Aventuras/87 Passos de Lava/Mushu Misashi\|Mushu Misashi]] de [[Aventuras/87 Passos de Lava/Passos de Lava\|Passos de Lava]];
+- [[Aventuras/88 Conflito das Águas/Tomas\|Tomas]], de [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]];
+- [[Aventuras/90 Começo da Guilda/Atlas\|Atlas]], de [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
+- [[Aventuras/91 Ascenção do Deus Dragão/Mond\|Mond]], de [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]];
+- [[Aventuras/95 Planeswalker/Baltazar Blake\|Baltazar Blake]], de [[Aventuras/95 Planeswalker/Planeswalker\|Planeswalker]];

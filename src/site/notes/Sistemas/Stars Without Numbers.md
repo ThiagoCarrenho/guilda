@@ -3,7 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]]: Aventura breve sci-fi de busca por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]]: Aventura breve sci-fi de busca por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---

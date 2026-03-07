@@ -7,19 +7,19 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 
 A prioridade, na verdade, é próxima (mas não exatamente) a:
 1. Finalizar as aventuras em andamento:
-	* [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-2. Jogar a **Origem da GUILDA** (#024), por [[Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
+	* [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+2. Jogar a **Origem da GUILDA** (#024), por [[Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
 3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#022);
 4. Mesa Presencial na casa do [[Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
 5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
-	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
-	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001), **Aleatório** (#019);
 6. Outras Aventuras:
 	* [[Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
 	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#020), **Sabotagem em Encélado** (#021), **Uai, Lobisomem Existe?** (#023);
 	* [[Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
-	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#025);
+	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#025);
 
 --- 
 #### \#001 C.A.O. o Campeonato Arcanum de Opath
@@ -34,13 +34,13 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
-- **Descrição:** Após um grupo de aventureiros que procuravam decifrar as [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]] se perder no meio do Inferno Verde da ilha que veio diretamente do mundo de Lena, a Deusa da Vida, novos aventureiros aceitaram o chamado para entender o que é que acontece naquele vulcão adormecido e o que os antigos Eiradaan escondiam. Tudo isso, é claro, enquanto enfrentam dinossauros colossais, chuvas torrenciais e outras coisas bem pouco urbanas.
+- **Descrição:** Após um grupo de aventureiros que procuravam decifrar as [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]] se perder no meio do Inferno Verde da ilha que veio diretamente do mundo de Lena, a Deusa da Vida, novos aventureiros aceitaram o chamado para entender o que é que acontece naquele vulcão adormecido e o que os antigos Eiradaan escondiam. Tudo isso, é claro, enquanto enfrentam dinossauros colossais, chuvas torrenciais e outras coisas bem pouco urbanas.
 ---
 #### \#003 Maravilhas de Vaporia
 - **Ideia de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- **Descrição:** Dos mesmos criadores de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], voltaremos a Khalmyrthaal para entender os mistérios que envolvem a ilha de Oggetor, e quem é o seu Sempre Observado.
+- **Descrição:** Dos mesmos criadores de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], voltaremos a Khalmyrthaal para entender os mistérios que envolvem a ilha de Oggetor, e quem é o seu Sempre Observado.
 ---
 #### \#004 Uma Aventura 100% Normal
 - **Ideia de [[Jogadores/Laura\|Laura]]**;
@@ -147,7 +147,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Nível:** 3;
 - **Detalhes:** Mini-Aventura;
-- **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
+- **Descrição:** As ações dos heróis em Csina, na [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
 ---
 #### \#018 Mensageiros da Floresta Negra
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;

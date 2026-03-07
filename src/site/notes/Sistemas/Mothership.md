@@ -3,7 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]]: One-Shot de horror espacial por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]]: One-Shot de horror espacial por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---

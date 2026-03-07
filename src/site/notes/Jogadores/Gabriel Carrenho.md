@@ -9,17 +9,17 @@ Seus personagens são, em geral, anões e rabugentos, e sempre têm algum ponto 
 
 Mestre de [[Sistemas/Tormenta20\|Tormenta20]].
 
-Aventura favorita criada fora [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e o personagem predileto foi [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?.
+Aventura favorita criada fora [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e o personagem predileto foi [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?.
 
 ---
 ## Mestre
 Enquanto Mestre, Gabriel conduziu as seguintes aventuras:
-- [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões em [[Sistemas/Tormenta20\|Tormenta20]];
+- [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões em [[Sistemas/Tormenta20\|Tormenta20]];
 
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Gabriel:
-- [[Aventuras/Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
-- [[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], o anão mercador de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], o rato ninja fissurado em queijo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
-- [[Aventuras/Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]], o esqueleto com o rádio no braço de [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
+- [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
+- [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], o anão mercador de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
+- [[Aventuras/82 Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], o rato ninja fissurado em queijo de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
+- [[Aventuras/85 Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]], o esqueleto com o rádio no braço de [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];

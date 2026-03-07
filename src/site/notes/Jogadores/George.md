@@ -4,11 +4,11 @@
 
 Amigo de [[Jogadores/Raul Teixeira\|Raul Teixeira]].
 
-**Personagem predileto:** [[Aventuras/Conflito das Águas/Bruto\|Bruto]];
+**Personagem predileto:** [[Aventuras/88 Conflito das Águas/Bruto\|Bruto]];
 
-Jogou apenas a aventura [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]].
+Jogou apenas a aventura [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]].
 
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo George:
-- [[Aventuras/Conflito das Águas/Bruto\|Bruto]], de [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]];
+- [[Aventuras/88 Conflito das Águas/Bruto\|Bruto]], de [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]];

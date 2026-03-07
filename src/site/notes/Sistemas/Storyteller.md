@@ -3,7 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]]: One-Shot de combate tático por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]]: One-Shot de combate tático por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---

@@ -3,7 +3,7 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]]: Aventura breve de investigação por [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]]: Aventura breve de investigação por [[Jogadores/Thiago Carro\|Thiago Carro]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. 
 
 ---

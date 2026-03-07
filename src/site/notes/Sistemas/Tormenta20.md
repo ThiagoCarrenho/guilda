@@ -3,21 +3,21 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões por [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
-- [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]]: One-shot de caçada por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
-- [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]]: One-shot de caçada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada por [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Passos de Lava/Passos de Lava\|Passos de Lava]]: One-shot de resgate por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]]: Aventura descontinuada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Começo da Guilda/Começo da Guilda\|Começo da Guilda]]: Aventura descontinuada por [[Jogadores/Jozsef\|Jozsef]];
-- [[Aventuras/Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]]: Aventura completa descontinuada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]]: One-shot de invasão por [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Segredos Profundos/Segredos Profundos\|Segredos Profundos]]: One-shot por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]]: Aventura longa de exploração descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]]; 
-- [[Aventuras/Planeswalker/Planeswalker\|Planeswalker]]: Aventura descontinuada de viagem interplanar por [[Jogadores/Plínio\|Plínio]];
-- [[Aventuras/A Caçada Maior/A Caçada Maior\|A Caçada Maior]]: Aventura breve solo descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões por [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
+- [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]]: One-shot de caçada por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
+- [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]]: One-shot de caçada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/86 Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/87 Passos de Lava/Passos de Lava\|Passos de Lava]]: One-shot de resgate por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]]: Aventura descontinuada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]]: Aventura descontinuada por [[Jogadores/Jozsef\|Jozsef]];
+- [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]]: Aventura completa descontinuada por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/92 Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]]: One-shot de invasão por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/93 Segredos Profundos/Segredos Profundos\|Segredos Profundos]]: One-shot por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]]: Aventura longa de exploração descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]]; 
+- [[Aventuras/95 Planeswalker/Planeswalker\|Planeswalker]]: Aventura descontinuada de viagem interplanar por [[Jogadores/Plínio\|Plínio]];
+- [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]]: Aventura breve solo descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]];
 
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. Os conteúdos do jogo estão disponíveis em [Drive Tormenta]([Tormenta](https://drive.google.com/drive/folders/1wZ7dGUeqo4DvPIx0kRTtoohh4Kuihe11) e é possível ver com maior detalhe o mapa e montar fichas aleatórias em [Fichas de Nimb](https://fichasdenimb.com.br/#/).
 

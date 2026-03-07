@@ -11,5 +11,5 @@ Graças ao RPG e a igreja, amigo de [[Jogadores/Thiago Carro\|Thiago Carro]], [[
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Miguel:
-- † [[Aventuras/Guerra Artoniana/Harcos\|Harcos]], a lâmina escondida de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
+- † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], a lâmina escondida de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
+- [[Aventuras/82 Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];

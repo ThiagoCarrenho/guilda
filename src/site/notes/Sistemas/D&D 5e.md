@@ -3,8 +3,8 @@
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]]: Aventura longa completa por [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]]: Aventura longa de resgate de artefatos divinos por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/89 Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]]: Aventura longa completa por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]]: Aventura longa de resgate de artefatos divinos por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---
