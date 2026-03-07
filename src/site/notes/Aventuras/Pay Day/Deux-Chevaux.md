@@ -7,14 +7,14 @@
 
 **Role:** MedTech.
 
-![token2CV.png](/img/user/token2CV.png)
+![token2CV.png](/img/user/Aventuras/Pay%20Day/token2CV.png)
 
 ---
 ### Background
 
 *História goes here*
 
-![Deux-Chevaux2.jpg](/img/user/Deux-Chevaux2.jpg)
+![Deux-Chevaux2.jpg](/img/user/Aventuras/Pay%20Day/Deux-Chevaux2.jpg)
 
 ---
 ### Construção de Ficha
