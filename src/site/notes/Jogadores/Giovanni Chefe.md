@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Giovanni Chefe/","noteIcon":"","created":"2025-10-14T10:42:12.349-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Giovanni Chefe/","created":"2025-10-14T10:42:12.349-03:00"}
 ---
 
 Santista e Engenheiro Eletricista (acho), e amigo de ensino médio de [[Jogadores/Thiago Carro\|Thiago Carro]].

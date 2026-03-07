@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","noteIcon":"","created":"2025-10-13T17:42:06.572-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00"}
 ---
 
 Católico, irmão de [[Jogadores/Thiago Carro\|Thiago Carro]] e, graças ao irmão e ao RPG, amigo de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]], [[Jogadores/Raul Teixeira\|Raul Teixeira]], [[Jogadores/Raul Ouros\|Raul Ouros]], [[Jogadores/Miguel de Maria\|Miguel de Maria]] e [[Jogadores/Laura\|Laura]].

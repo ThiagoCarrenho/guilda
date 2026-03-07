@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"noteIcon":"","created":"2025-10-27T18:09:50.965-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00"}
 ---
 
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.

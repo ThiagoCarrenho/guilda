@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho/","pinned":true,"noteIcon":"","created":"2025-10-13T17:42:08.912-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho/","pinned":true,"created":"2025-10-13T17:42:08.912-03:00"}
 ---
 
-[[Sistemas/Cyberpunk RED\|Cyberpunk RED]]
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
-**Sistema:**  Cyberpunk RED;
+**Sistema:** [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 **Tamanho:** One-shot;
 **Data de Jogo:** 29/08/2025-10/10/2025;
 **Sessões:** 3 online

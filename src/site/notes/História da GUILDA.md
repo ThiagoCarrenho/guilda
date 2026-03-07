@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"noteIcon":"","created":"2025-10-16T09:52:13.337-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -105,7 +105,7 @@ Na curiosidade de conhecer novos sistemas, o grupo adentrou um conjunto de breve
 
 O primeiro, antes mesmo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] e [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], foi [[Sistemas/Skyfall RPG\|Skyfall RPG]], no qual [[Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]] para os dois amigos.
 
-Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário.
+Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário. Em março de 2026, repetiria a dose com [[Aventuras/Pay Day/Pay Day\|Pay Day]].
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
@@ -115,4 +115,4 @@ Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel C
 
 ### O Futuro
  
-Esse texto foi atualizado no início de 2025, enquanto a GUILDA joga [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], testa o sistema [[Sistemas/Mothership\|Mothership]] em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.
+Esse texto foi atualizado no início de 2026, enquanto a GUILDA joga [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] e [[Aventuras/Pay Day/Pay Day\|Pay Day]], e aguarda a nova sessão de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Conto de Bela Passagem/Leo Gekodd/","noteIcon":"","created":"2025-10-13T17:42:10.966-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Conto de Bela Passagem/Leo Gekodd/","created":"2025-10-13T17:42:10.966-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]], no sistema [[Sistemas/Skyfall RPG\|Skyfall RPG]].*

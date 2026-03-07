@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Sumiço de Mike/San Holo/","noteIcon":"","created":"2026-01-31T14:18:11.061-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Sumiço de Mike/San Holo/","created":"2026-01-31T14:18:11.061-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], no sistema [[Sistemas/Mothership\|Mothership]].*

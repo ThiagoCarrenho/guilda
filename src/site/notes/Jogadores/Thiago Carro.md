@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","noteIcon":"","created":"2025-10-13T17:42:08.670-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -26,12 +26,13 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
+- [[Aventuras/Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/Pay Day/Pay Day\|Pay Day]];
 - † [[Aventuras/Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]] (GWM Ora 03 Skin), o pirralho espacial psiônico de [[Aventuras/Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/Guerra Artoniana/Deora II\|Deora II]] (Hot Wheels Deora II), o amigo enganador dos deuses de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - † [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] (1952 Alfa Romeo 6C 2500 GT Villa d'Este Cabriolet by Touring), o nobre filantropo de [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
-- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]];
+- [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
 - [[Aventuras/A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]] (HMS Dreadnought - navio), o clérigo surfista em [[Aventuras/A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
 - [[Aventuras/Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]] (Nissan Skyline), o piromaníaco filho de dragão em [[Aventuras/Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];
 - [[Aventuras/Posto de Troca Baixa Vila de Lena/Daw'Kruzar\|Daw'Kruzar]] (Toyota Land Cruiser), o guardião da luz em [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Viska/","noteIcon":"","created":"2025-10-14T11:08:02.302-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Viska/","created":"2025-10-14T11:08:02.302-03:00"}
 ---
 
 Amigo de [[Jogadores/Plínio\|Plínio]].

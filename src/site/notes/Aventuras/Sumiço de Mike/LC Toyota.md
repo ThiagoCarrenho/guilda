@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Sumiço de Mike/LC Toyota/","noteIcon":"","created":"2026-01-31T14:10:49.515-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Sumiço de Mike/LC Toyota/","created":"2026-01-31T14:10:49.515-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], no sistema [[Sistemas/Mothership\|Mothership]].*

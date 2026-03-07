@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Minas Perdidas de Phandelvier/Xiao Li/","noteIcon":"","created":"2025-10-13T18:28:13.188-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Minas Perdidas de Phandelvier/Xiao Li/","created":"2025-10-13T18:28:13.188-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]], no sistema [[Sistemas/D&D 5e\|D&D 5e]] .*

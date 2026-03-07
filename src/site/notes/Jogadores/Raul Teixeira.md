@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","noteIcon":"","created":"2025-10-13T17:42:08.635-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00"}
 ---
 
 Noivo da [[Jogadores/Daniela\|Daniela]], irmão da [[Jogadores/Laura\|Laura]], primo de [[Jogadores/Jozsef\|Jozsef]] e padrinho de casamento de [[Jogadores/Thiago Carro\|Thiago Carro]] e Fernanda.
@@ -33,8 +33,9 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
+- [[Aventuras/Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* em [[Aventuras/Pay Day/Pay Day\|Pay Day]];
 - [[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
-- [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], o tira em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]];
+- [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], o tira em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
 - [[Aventuras/Jardim do Capitão Varnost/Carlos Morrow\|Carlos Morrow]], o feiticeiro atormentado devoto de Yrr'thulu de [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];
 - [[Aventuras/Conto de Bela Passagem/Nitro Tolueno\|Nitro Tolueno]], o detetive magictecnológico de [[Aventuras/Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]];
 - [[Aventuras/Posto de Troca Baixa Vila de Lena/Johnny Festeiro\|Johnny Festeiro]], o festeiro de [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]];

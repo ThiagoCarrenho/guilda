@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Conflito das Águas/Anastasia/","noteIcon":"","created":"2025-10-13T17:42:08.738-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Conflito das Águas/Anastasia/","created":"2025-10-13T17:42:08.738-03:00"}
 ---
 
 *Personagem de [[Jogadores/Plínio\|Plínio]] em [[Aventuras/Conflito das Águas/Conflito das Águas\|Conflito das Águas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

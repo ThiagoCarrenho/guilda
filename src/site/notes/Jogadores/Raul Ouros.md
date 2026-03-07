@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","noteIcon":"","created":"2025-10-13T17:42:08.737-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00"}
 ---
 
 Amigo de ensino médio de [[Jogadores/Raul Teixeira\|Raul Teixeira]] - formando a dupla dos 'Raulzes'.
@@ -8,14 +8,15 @@ Graças ao RPG, amigo também de [[Jogadores/Miguel de Maria\|Miguel de Maria]],
 Conhecedor exímio das regras dos jogos e "otimizador" de fichas.
 Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]] e [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].
 
-*Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]. A mesa favorita que ele mestrou foi: [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]].
+*Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]. A mesa favorita que ele mestrou foi: [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]].
 
 **Jogador e Mestre ativo da GUILDA**
 
 ---
 ## Mestre
 Enquanto Mestre, Raul conduziu as seguintes aventuras:
-- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]]: One-shot de roubo em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- [[Aventuras/Pay Day/Pay Day\|Pay Day]]: One-shot de resgate de grana em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]: One-shot de roubo em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 - [[Aventuras/Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]]: Aventura longa completa em [[Sistemas/D&D 5e\|D&D 5e]];
 - [[Aventuras/Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]]: One-Shot de invasão em [[Sistemas/Tormenta20\|Tormenta20]]; 

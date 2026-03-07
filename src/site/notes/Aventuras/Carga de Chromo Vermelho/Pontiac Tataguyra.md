@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra/","noteIcon":"","created":"2025-10-13T17:42:08.770-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra/","created":"2025-10-13T17:42:08.770-03:00"}
 ---
 
-*Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
+*Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
 *Grupo:  [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]].
 
 **Role:** Nomad
@@ -13,13 +13,15 @@
 ![Pontiac-Tataguyra.png](/img/user/Aventuras/Carga%20de%20Chromo%20Vermelho/Pontiac-Tataguyra.png)
 
 ---
-Nome: Pontiac Tataguyra
+#### Informação
 
-Função: Nômade (Família Tataguyra)
+**Nome:** Pontiac Tataguyra
 
-Idade: Mais de 50 anos, carrega suas marcas como medalhas de batalha.
+**Role:** Nômade (Família Tataguyra)
 
-Histórico:
+**Idade:** Mais de 50 anos, carrega suas marcas como medalhas de batalha.
+
+#### Histórico:
 
 Ex-ferroviário da MRS Corp, Pontiac conduzia trens gigantes que cortavam o coração agrícola da América do Sul, levando alimento para o mundo inteiro. O trabalho era pesado, o salário vergonhoso e, quando veio a “reestruturação” corporativa, foi jogado fora como sucata velha.
 
@@ -27,38 +29,38 @@ Sem nada a perder e com a família passando necessidade, entrou para a Família 
 
 Hoje, ele ataca comboios agrícolas corporativos com precisão cirúrgica: pega comida o suficiente para alimentar a família, vende o excedente no mercado clandestino a preço justo e desaparece antes que a segurança consiga travar o GPS.
 
-Relações:
+#### Relações:
 
-Santana Tataguyra e Kadett Tataguyra - esposa e filho, abandonaram o sobrenome para se tornar Tataguyra.
+**Santana Tataguyra e Kadett Tataguyra** - esposa e filho, abandonaram o sobrenome para se tornar Tataguyra.
 
-Ravik Tataguyra - amigo de longa data, fez parte do mesmo grupo de trabalho que Pontiac, Nox e Kael, até o acidente acontecer, serem despedidos juntos, e se juntarem Ravik e Pontiac, para viverem nas estradas.
+**Ravik Tataguyra** - amigo de longa data, fez parte do mesmo grupo de trabalho que Pontiac, Nox e Kael, até o acidente acontecer, serem despedidos juntos, e se juntarem Ravik e Pontiac, para viverem nas estradas.
 
-Nox NOSNeon - Responsável pelo acidente, criou um pack rival - NOS Neon - para competir e mostrar superioridade.
+**Nox NOSNeon** - Responsável pelo acidente, criou um pack rival - NOS Neon - para competir e mostrar superioridade.
 
-Agnônio de Vapor e Luz - seu antigo gerente, tem raiva de si por conta da resposta ao acidente, contrata policiais corruptos para lhe caçar. Agora, se os Tataguyra encontrarem-no... não sobrará vapor, luz ou pó nesse corpo.
+**Agnônio de Vapor e Luz** - seu antigo gerente, tem raiva de si por conta da resposta ao acidente, contrata policiais corruptos para lhe caçar. Agora, se os Tataguyra encontrarem-no... não sobrará vapor, luz ou pó nesse corpo.
 
-O Acidente: Trabalhando Pontiac, Ravik, Nox e Kael nos trilhos, a serviço da MRS sob gerência de Agnônio, um deles enxerga a oportunidade de mudar de vida, sair do salário insuficiente, e tenta executar, em silêncio, seu plano, tentando puxar o tapete dos colegas. Entretanto, Nox comete uma falha brutal e mata, de forma bem cruel, Kael. Os outros colegas não conseguiram se segurar, e atacaram o assassino, com tudo que tinham ao alcance. A raiva passou dos limites, quebraram muito do trabalho que faziam, gerando uma pausa nas entregas da empresa. Como resposta, Agnônio tirou deles tudo que tinha, e que, se tivessem, tiraria mais, para pagar o que quebraram.
+**Xaci** - Apaixonado por velocidade, e um pouco mais - fez parte dos Tataguyra por pouco tempo, pois tentou algo diferente com Santana, e foi expulso quando descoberto.
+#### O Acidente
+Trabalhando Pontiac, Ravik, Nox e Kael nos trilhos, a serviço da MRS sob gerência de Agnônio, um deles enxerga a oportunidade de mudar de vida, sair do salário insuficiente, e tenta executar, em silêncio, seu plano, tentando puxar o tapete dos colegas. Entretanto, Nox comete uma falha brutal e mata, de forma bem cruel, Kael. Os outros colegas não conseguiram se segurar, e atacaram o assassino, com tudo que tinham ao alcance. A raiva passou dos limites, quebraram muito do trabalho que faziam, gerando uma pausa nas entregas da empresa. Como resposta, Agnônio tirou deles tudo que tinha, e que, se tivessem, tiraria mais, para pagar o que quebraram.
 
-Xaci - Apaixonado por velocidade, e um pouco mais - fez parte dos Tataguyra por pouco tempo, pois tentou algo diferente com Santana, e foi expulso quando descoberto.
-
-Aparência:
+#### Aparência
 
 Rosto marcado pelo sol e pelo vento, cabelos grisalhos saindo por baixo de um velho chapéu de cowboy de seus tempos na MRS — lembrança de uma vida que ficou para trás. Olhos cinza-aceso, sempre atentos.
 
 Veste uma jaqueta de couro preta com detalhes em amarelo-ouro, combinando com a fênix que estampa o capô de seu carro. Botas empoeiradas, cinto de couro com coldres para ferramentas e armadura leve por baixo completam o visual. Mesmo parado, parece pronto para pisar no acelerador.
 
-Veículo:
+#### Veículo
 
 Sua maior paixão é o “Firebird” — um muscle car preto modificado, com decalques dourados de fênix, motor V8 turbinado, armas ocultas, carroceria reforçada e compartimentos secretos. Nas mãos de Pontiac, ele não é só um carro — é um manifesto.
 
-Personalidade:
+#### Personalidade
 
 Carrancudo, sarcástico e leal até o fim. Pontiac fala pouco, mas cada palavra é um freio de mão puxado na hora certa. Vê a velocidade como liberdade e a rebeldia como obrigação.
 
-Frase de efeito:
+#### Frase de efeito
 
 "Dos dias mais claros às noites mais escuras, a velocidade vai fazer você se sentir vivo."
 
-Boato:
+#### Boato
 
 Sussurrado nas estradas de terra e nos bares iluminados por neon — Pontiac já teria escapado de um comboio de segurança corporativo por três dias seguidos, cruzando três fronteiras, sem parar para dormir. Dizem que fez isso com um tiro no ombro, meio motor destruído… e ainda entregou a carga no horário.

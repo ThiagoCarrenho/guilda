@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Cyberpunk RED/","noteIcon":"","created":"2025-10-13T17:42:06.444-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Cyberpunk RED/","created":"2025-10-13T17:42:06.444-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]]: One-shot de roubo por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]: One-shot de roubo por [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Pay Day/Pay Day\|Pay Day]]: One-shot de resgate de grana por [[Jogadores/Raul Ouros\|Raul Ouros]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. 
 
 ---

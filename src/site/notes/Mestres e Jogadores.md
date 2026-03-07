@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"noteIcon":"","created":"2025-10-14T12:03:39.305-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"created":"2025-10-14T12:03:39.305-03:00"}
 ---
 
 Para conhecer mais dos sistemas apresentados, acesse [[Sistemas\|Sistemas]].
@@ -27,7 +27,7 @@ Mestre de Tormenta20, D&D 5e, Stars Without Numbers e Storyteller.
 [[Jogadores/Raul Ouros\|Raul Ouros]] é um dos mestres e jogadores mais presentes nas mesas.
 Conhecedor exímio das regras dos jogos e "otimizador" de fichas.
 Mestre de Tormenta20, D&D 5e e Cyberpunk RED.
-- **Mesa mestrada predileta:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]]?;
+- **Mesa mestrada predileta:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]]?;
 - **Personagem predileto:** [[Aventuras/Conto de Bela Passagem/Leo Gekodd\|Leo Gekodd]]?;
 - **Atualmente jogando**;
 ### Gabriel Carrenho

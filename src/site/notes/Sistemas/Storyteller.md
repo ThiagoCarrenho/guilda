@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Storyteller/","noteIcon":"","created":"2025-10-13T19:21:29.633-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Storyteller/","created":"2025-10-13T19:21:29.633-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"noteIcon":"","created":"2025-10-13T17:42:13.422-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00"}
 ---
 
 # Aventuras
@@ -11,13 +11,26 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores\|Mestres e Jogadores]]
 Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 
 ---
+### Pay Day
+**Nome da Aventura:** [[Aventuras/Pay Day/Pay Day\|Pay Day]];
+**Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
+**Sistema:**  [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+**Tamanho:** One-shot;
+**Data de Jogo:** 06/03/2026-Hoje;
+**Sessões:** 1 online;
+**Rank dos Personagens**: 4;
+**Descrição:** Nesta história, os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
+**Personagens e Jogadores:**
+- [[Aventuras/Pay Day/Deux-Chevaux\|Deux-Chevaux]], o francês lavandeiro de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+---
 ### Irmandade do Martelo
 **Nome da Aventura:** [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 **Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura breve;
 **Data de Jogo:** 17/10/2025-Hoje;
-**Sessões:** 4 online;
+**Sessões:** 5 online;
 **Nível dos Personagens**: 3-7;
 **Descrição:** Anões guerream pela irmandade.
 **Personagens e Jogadores:**
@@ -71,7 +84,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---
 ### Carga de Chromo Vermelho
-**Nome da Aventura:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho]];
+**Nome da Aventura:** [[Aventuras/Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
 **Sistema:**  [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 **Tamanho:** One-shot;
@@ -81,7 +94,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Descrição:** Nesta história, os aventureiros devem resgatar uma carga roubada, em transporte num trem.
 **Personagens e Jogadores:**
 - [[Aventuras/Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]], o cowboy do futuro de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], de [[Jogadores/Raul Teixeira\|Raul Teixeira]]
+- [[Aventuras/Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 ---
 ### Jardim do Capitão Varnost
 **Nome da Aventura:** [[Aventuras/Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];

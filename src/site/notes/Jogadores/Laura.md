@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Laura/","noteIcon":"","created":"2025-10-13T17:42:06.665-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Laura/","created":"2025-10-13T17:42:06.665-03:00"}
 ---
 
 Irmã de [[Jogadores/Raul Teixeira\|Raul Teixeira]], prima de [[Jogadores/Jozsef\|Jozsef]] e cunhada da [[Jogadores/Daniela\|Daniela]].

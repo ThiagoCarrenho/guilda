@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-10-13T17:42:13.348-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00"}
 ---
 
 # A GUILDA
@@ -48,6 +48,10 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 Em [[Aventuras/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
 
+### Pay Day
+
+Em [[Aventuras/Pay Day/Pay Day\|Pay Day]], o Mestre [[Jogadores/Raul Ouros\|Raul Ouros]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Pay Day/Deux-Chevaux\|Deux-Chevaux]]) e [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Pay Day/Luke Nevermore\|Luke Nevermore]]) em uma missão de resgate em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]], na qual os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
+
 ### Guerra Artoniana
 
 Em [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/Guerra Artoniana/Alfa Romeu\|Alfa Romeu]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]),  [[Jogadores/Laura\|Laura]] ([[Aventuras/Guerra Artoniana/Mya\|Mya]] e a falecida [[Aventuras/Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
@@ -55,6 +59,8 @@ Em [[Aventuras/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [
 ---
 ## Galeria
 
+![2CV e Luke.jpg](/img/user/Aventuras/Pay%20Day/2CV%20e%20Luke.jpg)
+*A caminho do pagamento*, da Aventura [[Aventuras/Pay Day/Pay Day\|Pay Day]].
 ![Image-LC-e-San.png](/img/user/Aventuras/Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
 *O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
 ![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
