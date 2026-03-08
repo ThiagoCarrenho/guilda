@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Baklev/","created":"2025-10-16T13:57:01.860-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Baklev/","created":"2025-10-16T13:57:01.860-03:00","updated":"2025-10-16T14:14:41.632-03:00"}
 ---
 
 *Personagem solo de [[Jogadores/Lucas Moura\|Lucas Moura]] em [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

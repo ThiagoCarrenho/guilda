@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Galakrimm/","created":"2025-10-13T18:36:21.901-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Galakrimm/","created":"2025-10-13T18:36:21.901-03:00","updated":"2025-10-15T18:08:12.802-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]], no sistema [[Sistemas/Tormenta20\|Tormenta20]] .*

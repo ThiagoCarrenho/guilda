@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana/","pinned":true,"created":"2025-10-14T10:44:59.309-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana/","pinned":true,"created":"2025-10-14T10:44:59.309-03:00","updated":"2026-03-06T19:02:12.223-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

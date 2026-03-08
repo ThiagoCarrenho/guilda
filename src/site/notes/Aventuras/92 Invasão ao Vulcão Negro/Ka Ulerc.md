@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Ka Ulerc/","created":"2025-10-14T10:22:36.291-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Ka Ulerc/","created":"2025-10-14T10:22:36.291-03:00","updated":"2025-10-24T12:47:37.332-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/92 Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Lucas Moura/","created":"2025-10-14T11:21:22.116-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Lucas Moura/","created":"2025-10-14T11:21:22.116-03:00","updated":"2025-10-16T13:56:55.608-03:00"}
 ---
 
 Católico, Bacharel em Matemática Aplicada (futuro Mestre) e fissurado por Star Wars.

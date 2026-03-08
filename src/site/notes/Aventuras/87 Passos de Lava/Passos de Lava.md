@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/87 Passos de Lava/Passos de Lava/","pinned":true,"created":"2025-10-13T17:42:15.114-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/87 Passos de Lava/Passos de Lava/","pinned":true,"created":"2025-10-13T17:42:15.114-03:00","updated":"2026-03-06T19:02:34.152-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Daniela/","created":"2025-10-13T17:42:06.406-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Daniela/","created":"2025-10-13T17:42:06.406-03:00","updated":"2025-10-16T13:03:06.178-03:00"}
 ---
 
 Noiva de [[Jogadores/Raul Teixeira\|Raul Teixeira]], o que faz dela cunhada da [[Jogadores/Laura\|Laura]].

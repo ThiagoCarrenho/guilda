@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00","updated":"2025-10-16T12:10:32.035-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Miguel de Maria\|Miguel de Maria]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

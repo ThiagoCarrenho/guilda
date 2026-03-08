@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte/","pinned":true,"created":"2025-10-14T11:36:18.789-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte/","pinned":true,"created":"2025-10-14T11:36:18.789-03:00","updated":"2026-03-06T19:01:14.760-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

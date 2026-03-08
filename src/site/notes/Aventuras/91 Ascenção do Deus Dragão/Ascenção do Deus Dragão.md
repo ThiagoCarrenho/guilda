@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão/","pinned":true,"created":"2025-10-13T19:37:55.293-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão/","pinned":true,"created":"2025-10-13T19:37:55.293-03:00","updated":"2026-03-06T19:00:28.004-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

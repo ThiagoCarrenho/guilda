@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-08T15:17:40.982-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -82,27 +82,66 @@ Depois de passarem por um contâiner, já fora do alcance dos emboscadores, Luke
 
 No que um dos policiais ia falando, Nevermore não tomou cuidado, e fez sua keytar bater em uma viga de ferro, soltando um som alto. Com esse som, ficou claro que os dois ficaram esperando e estavam ouvindo a conversa, e isso sanaria a confusão dos tiras - a armadilha falhou, era hora de trocação de tiros.
 
+Entretanto, antes que o primeiro disparo fosse feito, houve uma explosão, e Deux, que agiu de forma veloz, foi o primeiro a ver a cena: os quatro policiais corruptos - sim, o encapuzado também era um tira - caídos no chão com ferimentos graves, após serem atingidos por uma granada, lançada por, ninguém mais, ninguém menos, que Déesse, acompanhado por uma moça jovem, que parece estar procurando por alguém com o olhar.
+Vendo que Amanda era a menos ferida dos quatro, o francês dispara contra ela, encerrando sua vida, e, em seguida, aproveitando que Bryan estava no chão, é Luke quem finaliza uma segunda vida. Notando que a moça estava olhando para ele, Nevermore aproveita para dar uma piscadinha para a jovem.
 
-treta
-armas
+\- Chegou na hora certa, hein, Déesse! - Agradeceu Luke.
+\- Agradeça a essa moça aqui, ela me viu andando e me disse que o "músico mais gato" estava sendo assaltado, eu imaginei que estivesse em período.
 
+No que Déesse responde, todos notam a presença de uma moça bem jovem com roupas curtas, bastante atrativa para o olhar da maioria dos homens.  "Oie!", diz ela, olhando fixamente para Luke, que responde com outra piscadinha, derretendo seu coração.
 
-armazém tech togheter
+\- *Oui*, *oui*, chegou na 'horra' certa, meu amigo, mas 'prreciso' resolver algo mais - diz o farmacêutico, pisando em cima de um dos dois policiais vivos agonizando, caminhando em direção de onde ouvira o barulho, mais cedo.
 
-2345
+Ao chegar no armário, o abre e encontra Lazio, amarrado, amordaçado, tendo o seu braço mecânico sido retirado violentamente, e a outra mão com todos os dedos quebrados.
+\- Obrigado, meus amigos, sabia que não me deixariam morrer.
+\- Que *merde*! O que aconteceu com nosso 'dinheirro'?
+\- O caminhão foi interceptado, fomos emboscados, e perdemos a grana.
+\- Pelo menos ninguém se machucou - complementa Luke.
+\- O Lazio me 'parrece' bem machucado - Deux-Chevaux trata rapidamente do fixer, mas complementa que será necessário que ele busque um tratamento longo em um hospital.
+\- Mas ele quem fez a besteira, ele merece.
 
-5 policiais corruptos e o patrão
+No que os personagens se põem em direção aos dois últimos policiais, um deles usa suas últimas forças para pedir ajuda:
+\- Espera! Me ajudem, eu sei onde está o caminhão de vocês - a voz está fraca, mas é a chance que ele tem de viver.
+\- Pois desembuche! - Luke já saca um bastão de beisebol, com sua assinatura gravada em roxo, intimidando o polícia.
+\- O caminhão tá com o chefe, umas ruas ali para... *AAHH* - um grito de dor o impede de continuar a fala - me ajudem, eu vou morrer!
+\- Não tá querendo falar, não é? Oh frança, se eu der uma atacadinha nele ele morre?
+\- Se você 'soprrar', ele morre.
+\- Dá um help pra ele aí!
+\- *Merde*, eu ajudo - Deux faz um tratamento rápido no rapaz, mas não a ponto de estabilizá-lo, mas apenas tirou a dor que lhe impedia de falar.
+\- Obrigado - agradece, achando estar longe da morte - eles estão ali há duas ruas, no armazém Tech Togheter. A senha para entrar é '2345'.
+\- Original, hein? Mas me diz: eles quem? Vamos, fale antes que eu use meu 'analgésico' - diz apontando para o bastão.
+\- O chefe, pô, calma aí... é o chefe... e mais quatro ou... cinco... dos nossos... - a voz vai ficando fraca, os olhos pesados - e também tem... uma... outra... coisa... - e desfalece.
+\- Ei, você, você sabe o que seu amigo ia falar? - Dessa vez Luke aponta o taco para o último policial vivo, e abre uma latinha de refrigerante. Tudo de fora bem cênica, para impressionar ainda mais a sua fã.
+\- Sei sim... é uma metralhadora automática... mas a gente não aprendeu a mexer... me dá um golinho disso aí!
+\- O último desejo de um homem! Pega um pouco.
+Luke joga a latinha, o policial pega, e toma uns goles... que rapidamente vazam do seu tronco destruído pela bomba. Ao ver a cena ocorrendo em si mesmo, o  rapaz entra em pânico e as emoções o fazem desmaiar e falecer.
 
-1 vhp pra cada
+Depois do papo, eles vêm o que de útil conseguem pegar dos policiais. Encontram, de útil, dinheiro e 4 Very Heavy Pistols, Luke, Deux e Déesse pegam cada um uma, e a última, como Lazio não tem como utilizar no momento, deixam com a menina, como recompensa pela ajuda.
+\- Hum... Lukão - se refere de maneira carinhosa ao músico - você poderia autografar minha pistola?
+\- Claro, você tem caneta aí?
+\- Tenho três, até da sua cor preferida!
+\- Bora de roxo então! - E autografa a arma.
+\- Aproveitando, assina aqui minha camisa - aponta bem sobre os peitos.
+\- Tá feito!
+\- E aqui, na minha saia, pode ser?
+\- Aham!
+\- Assina também minha cal...
+\- Opa, opa, isso eu autografo daqui a pouco.
 
-binóculo
-analisador de químicos
-sintetizador de drum
-tinta que brilha no escuro
+\- Que *merde*, tem lugar no seu carro, Déesse, porque a van não vai voltar 'parra' casa.
+\- Tranquilo, mano, eu deixo o Lazio no hospital e te levo lá.
 
+Depois eles olham ver o que tinha na maleta - era um binóculo, um analisador de químicos, um sintetizador de bateria e uma tinta que brilha no escuro.
+\- Essa tinta aí eu já tenho, me vê o binóculo e o sintetizador - pede Luke, já com o braço sobre os ombros da fã.
+\- Sem 'prroblema'.... Désse, cospe aqui.
+Deux aponta para o analisador, Déesse cospe, e o aparelho indica 'tiopental', comumente utilizado na droga 'Veritas', um soro da verdade, que nem o próprio sabe a origem. O francês, claro, não perde a oportunidade de envergonhar o amigo:
+\- Você 'lembrra' quando 'trropeçou' no meio de todo mundo e derrubou o café em você mesmo?
+\- Pô, aquele dia foi tenso, me queimei todo e ainda fui zoado por isso por mais uns anos.
+\- E quando levou 'chifrre' da 'loirrinha' no cinema?
+\- Puts, aquela menina me machucou legal, só porque o Jerome era mais bonito, ainda falou que era melhor que eu na cama.
+\- Já deu a brincadeira, né, Deux-Chevaux? - Interrompe, Lazio.
+\- *Oui*, *oui* - concorda, gargalhando.
 
-
-analise de salive
-tiopental
-anestesia para hipnose
-soro da verdade????
+\- Quando vamos atrás da grana? - Pergunta Déesse sobre o verdadeiro objetivo.
+\- Amanhã a gente vê isso, arranjei um trabalho mais importante essa noite - comenta Luke, enquanto dá uma namorada na sua fã.
+\- Que *merde*.

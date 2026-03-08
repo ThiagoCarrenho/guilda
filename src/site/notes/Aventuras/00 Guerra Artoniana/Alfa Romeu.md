@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeu/","created":"2025-10-13T17:42:11.369-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeu/","created":"2025-10-13T17:42:11.369-03:00","updated":"2025-10-16T12:18:30.822-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

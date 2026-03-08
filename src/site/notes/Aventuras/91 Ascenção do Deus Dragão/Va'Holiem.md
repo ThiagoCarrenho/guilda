@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Va'Holiem/","created":"2025-10-13T19:55:29.092-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Va'Holiem/","created":"2025-10-13T19:55:29.092-03:00","updated":"2025-10-15T18:07:36.539-03:00"}
 ---
 
 *Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

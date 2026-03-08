@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Nagi/","created":"2025-10-13T17:42:13.169-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Nagi/","created":"2025-10-13T17:42:13.169-03:00","updated":"2025-10-15T18:09:07.093-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

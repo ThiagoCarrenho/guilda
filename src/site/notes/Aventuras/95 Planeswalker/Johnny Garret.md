@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/95 Planeswalker/Johnny Garret/","created":"2025-10-14T11:09:53.091-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/95 Planeswalker/Johnny Garret/","created":"2025-10-14T11:09:53.091-03:00","updated":"2025-10-15T18:10:28.756-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/95 Planeswalker/Planeswalker\|Planeswalker]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

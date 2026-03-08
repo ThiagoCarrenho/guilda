@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Mya/","created":"2025-10-13T17:42:12.975-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Mya/","created":"2025-10-13T17:42:12.975-03:00","updated":"2025-10-15T18:09:03.738-03:00"}
 ---
 
 *Personagem de [[Jogadores/Laura\|Laura]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

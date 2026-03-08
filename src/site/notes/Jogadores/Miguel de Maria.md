@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Miguel de Maria/","created":"2025-10-13T17:42:06.550-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Miguel de Maria/","created":"2025-10-13T17:42:06.550-03:00","updated":"2025-10-24T11:30:50.747-03:00"}
 ---
 
 Católico, pai de família e guerreiro da vida real.

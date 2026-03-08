@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Matuz/","created":"2025-10-14T10:52:33.765-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Matuz/","created":"2025-10-14T10:52:33.765-03:00","updated":"2026-03-06T20:54:02.148-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Começo da Guilda/","pinned":true,"created":"2025-10-13T18:35:24.204-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Começo da Guilda/","pinned":true,"created":"2025-10-13T18:35:24.204-03:00","updated":"2026-03-06T19:01:30.613-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Jozsef\|Jozsef]];

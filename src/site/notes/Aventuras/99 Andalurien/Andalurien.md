@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Andalurien/","pinned":true,"created":"2025-10-14T11:40:58.896-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Andalurien/","pinned":true,"created":"2025-10-14T11:40:58.896-03:00","updated":"2026-03-06T19:00:19.837-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

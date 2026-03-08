@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Miirphys/","created":"2025-10-13T19:43:43.415-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Miirphys/","created":"2025-10-13T19:43:43.415-03:00","updated":"2025-10-15T18:07:26.584-03:00"}
 ---
 
 *Personagem de [[Jogadores/Fabiano Meloni\|Fabiano Meloni]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

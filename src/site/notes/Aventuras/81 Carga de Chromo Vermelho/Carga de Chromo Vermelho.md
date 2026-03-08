@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho/","pinned":true,"created":"2025-10-13T17:42:08.912-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho/","pinned":true,"created":"2025-10-13T17:42:08.912-03:00","updated":"2026-03-07T17:25:27.645-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-03-07T17:40:05.626-03:00"}
 ---
 
 Amigo de ensino médio de [[Jogadores/Raul Teixeira\|Raul Teixeira]] - formando a dupla dos 'Raulzes'.

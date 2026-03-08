@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Mothership/","created":"2026-01-31T13:37:27.329-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Mothership/","created":"2026-01-31T13:37:27.329-03:00","updated":"2026-01-31T13:52:10.632-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

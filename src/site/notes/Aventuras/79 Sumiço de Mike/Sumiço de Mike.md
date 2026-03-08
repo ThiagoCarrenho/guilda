@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/79 Sumiço de Mike/Sumiço de Mike/","pinned":true,"created":"2026-01-31T13:37:02.886-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/79 Sumiço de Mike/Sumiço de Mike/","pinned":true,"created":"2026-01-31T13:37:02.886-03:00","updated":"2026-03-06T19:03:00.925-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

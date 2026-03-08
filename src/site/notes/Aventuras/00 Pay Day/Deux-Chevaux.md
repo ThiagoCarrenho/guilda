@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00","updated":"2026-03-07T18:52:03.760-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*

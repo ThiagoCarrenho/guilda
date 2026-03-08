@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Riujin Maru/","created":"2025-10-13T17:42:11.426-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Riujin Maru/","created":"2025-10-13T17:42:11.426-03:00","updated":"2025-10-15T18:08:47.829-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Plínio\|Plínio]] em [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]], no sistema [[Sistemas/Skyfall RPG\|Skyfall RPG]].*

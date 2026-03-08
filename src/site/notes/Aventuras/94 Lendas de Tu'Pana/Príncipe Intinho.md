@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Príncipe Intinho/","created":"2025-10-14T10:54:09.288-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Príncipe Intinho/","created":"2025-10-14T10:54:09.288-03:00","updated":"2025-10-16T14:11:57.400-03:00"}
 ---
 
 *Personagem de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

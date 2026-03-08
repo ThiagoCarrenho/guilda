@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/84 A Voz das Marés/Mera/","created":"2025-10-13T17:42:11.018-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/84 A Voz das Marés/Mera/","created":"2025-10-13T17:42:11.018-03:00","updated":"2025-10-16T13:14:32.078-03:00"}
 ---
 
 *Personagem de [[Jogadores/Daniela\|Daniela]] em [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00"}
+{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-07T18:53:43.296-03:00"}
 ---
 
 ### Personagens

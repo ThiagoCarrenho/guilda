@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Skrull/","created":"2025-10-15T10:25:02.857-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Skrull/","created":"2025-10-15T10:25:02.857-03:00","updated":"2026-03-06T20:56:09.949-03:00"}
 ---
 
 *Personagem solo de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias/","pinned":true,"created":"2025-10-13T17:42:08.761-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias/","pinned":true,"created":"2025-10-13T17:42:08.761-03:00","updated":"2026-03-06T19:01:20.088-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];

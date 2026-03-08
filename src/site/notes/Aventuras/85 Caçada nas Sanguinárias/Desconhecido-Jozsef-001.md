@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Desconhecido-Jozsef-001/","created":"2025-10-13T17:42:08.666-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Desconhecido-Jozsef-001/","created":"2025-10-13T17:42:08.666-03:00","updated":"2025-10-15T18:07:50.369-03:00"}
 ---
 
 *Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

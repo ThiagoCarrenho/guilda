@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2025-10-17T18:10:21.515-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

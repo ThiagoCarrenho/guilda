@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Raiden/","created":"2025-10-13T19:51:36.825-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Raiden/","created":"2025-10-13T19:51:36.825-03:00","updated":"2025-10-24T13:52:53.208-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

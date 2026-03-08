@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Bóra Quebratudo/","created":"2025-10-17T18:09:21.903-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Bóra Quebratudo/","created":"2025-10-17T18:09:21.903-03:00","updated":"2025-11-02T12:02:36.089-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

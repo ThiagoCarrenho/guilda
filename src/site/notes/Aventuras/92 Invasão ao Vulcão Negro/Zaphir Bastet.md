@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Zaphir Bastet/","created":"2025-10-14T10:25:20.025-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Zaphir Bastet/","created":"2025-10-14T10:25:20.025-03:00","updated":"2025-10-15T18:09:24.393-03:00"}
 ---
 
 *Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/92 Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

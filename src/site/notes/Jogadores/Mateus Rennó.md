@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Mateus Rennó/","created":"2025-10-14T10:28:51.948-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Mateus Rennó/","created":"2025-10-14T10:28:51.948-03:00","updated":"2025-10-15T18:06:06.515-03:00"}
 ---
 
 Católico e Mestre em Física, além de músico.

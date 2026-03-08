@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza/","created":"2025-10-14T11:36:45.724-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza/","created":"2025-10-14T11:36:45.724-03:00","updated":"2025-10-16T11:11:13.377-03:00"}
 ---
 
 *Personagem solo de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]], no sistema [[Sistemas/Storyteller\|Storyteller]].*

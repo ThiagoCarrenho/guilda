@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Lin Lang/","created":"2025-10-13T19:50:01.742-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Lin Lang/","created":"2025-10-13T19:50:01.742-03:00","updated":"2025-10-15T18:07:23.631-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Plínio\|Plínio]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
