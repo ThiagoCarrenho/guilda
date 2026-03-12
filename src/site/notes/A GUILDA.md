@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-07T18:52:47.631-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-12T00:57:33.426-03:00"}
 ---
 
 # A GUILDA
@@ -24,22 +24,33 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 ---
 ## Links Úteis
-#### Imagens de personagem
-- HeroForge: https://www.heroforge.com/
-- Criador de Tokens: http://rolladvantage.com/tokenstamp/
-#### Gerador de mapa:
-* https://watabou.github.io/
-* https://www.dungeonscrawl.com/
-* https://inkarnate.com/
-* https://jandjheydorn.com/nortantis
-* https://www.mipui.net/
-* https://azgaar.github.io/Fantasy-Map-Generator/
-* https://hexfriend.net/
-* https://davesmapper.com/ (Dungeon)
-* https://deepnight.net/tools/rpg-map/
-#### Plataformas de jogo
-- Roll20: https://roll20.net/welcome
-- OwlBear: https://www.owlbear.rodeo/
+#### Plataformas de Jogo
+- OwlBear: https://www.owlbear.rodeo/ - simples e rápido... e gratuito;
+- Roll20: https://roll20.net/welcome - quase completo, mas gratuito;
+#### Imagens de Personagem
+- HeroForge: https://www.heroforge.com/ - criador de miniaturas 3D;
+- Rerrol: https://reroll.co/ - pixel art simples;
+- TokenStamp: http://rolladvantage.com/tokenstamp/ - tokens de personagens;
+#### Construção de Personagem
+- Fantasy Name Generators: https://www.fantasynamegenerators.com/ - gerador de nomes para personagens, locais, e até mesmo puzzles!
+- Fast Character: https://fastcharacter.com/ - Fichas rápidas e/ou aleatórias para [[Sistemas/D&D 5e\|D&D 5e]];
+- Fichas de Nimb: https://fichasdenimb.com.br/#/ - Fichas rápidas e/ou aleatórias para [[Sistemas/Tormenta20\|Tormenta20]];
+#### Gerador de Mapa:
+- Azgaar (gerador mapa-mundis): https://azgaar.github.io/Fantasy-Map-Generator/ - gera um mundo aleatório;
+* Dave's Mapper (dungeon): https://davesmapper.com/ - completo, sem ser complexo;
+* DeepNight (dungeon): https://deepnight.net/tools/rpg-map/ - rápido e intuitivo;
+* Dungeon Scrawl (apenas dungeon): https://www.dungeonscrawl.com/ - intuitivo e fácil de usar, conecta com o Roll20;
+* HexFriend (grid hexagonal): https://hexfriend.net/ - rápido e intuitivo;
+* Inkarnate: https://inkarnate.com/ - completo, mas complexo;
+* J. & J. Heydorn (generator): https://jandjheydorn.com/nortantis - útil e quebra um galho;
+* Mipui (grids): https://www.mipui.net/ - rápido e intuitivo;
+* Procgen Arcana (generator): https://watabou.github.io/ - útil e quebra um galho;
+#### Outros
+- AnyDice: https://anydice.com/  - calculadora de probabilidade de dados;
+- Fichas de Nimb: https://fichasdenimb.com.br - Gerador de ameaças, rolador de recompensas e itens mágicos, mapa interativo, entre outros usos para [[Sistemas/Tormenta20\|Tormenta20]];
+- Kobold Fight Club: https://koboldplus.club/ - calculadora de balanço de encontro em [[Sistemas/D&D 5e\|D&D 5e]];
+- Obsidian: https://obsidian.md/ - wiki para organizar suas ideias e aventuras (ou um site exatamente igual a este);
+- The Homebrewery: https://homebrewery.naturalcrit.com/ - permite formatação de textos como o formato do [[Sistemas/D&D 5e\|D&D 5e]];
 
 ---
 ## Aventuras em Andamento
