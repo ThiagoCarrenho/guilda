@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-07T18:53:02.371-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-14T14:06:53.398-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -7,6 +7,13 @@ Para conhecer as pessoas citadas, acesse [[Mestres e Jogadores\|Mestres e Jogado
 Para conhecer mais das aventuras jogadas, acesse [[Aventuras\|Aventuras]].
 Para conhecer os sistemas dessas aventuras, acesse [[Sistemas\|Sistemas]].
 Mas, principalmente, acesse [[Hall da Fama\|Hall da Fama]] para ver algumas estatísticas interessantes.
+
+Claro, aqui contamos a história dos amigos que formam a GUILDA e participam dos jogos, mas, quanto a personagens, alguns estão **oficialmente** no grupo, outros nós apenas consideramos.
+
+---
+# Heróis da GUILDA
+### Fundadores
+A GUILDA teve uma tentativa fracassada de fundação em [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]], mas há esperança de conseguirmos fundá-la em [[Origem da GUILDA\|Origem da GUILDA]]. Quando a aventura for jogada, incluiremos aqui os devidos fundadores.
 
 ---
 # História da GUILDA
@@ -105,14 +112,20 @@ Na curiosidade de conhecer novos sistemas, o grupo adentrou um conjunto de breve
 
 O primeiro, antes mesmo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] e [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], foi [[Sistemas/Skyfall RPG\|Skyfall RPG]], no qual [[Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]] para os dois amigos.
 
-Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário. Em março de 2026, repetiria a dose com [[Aventuras/00 Pay Day/Pay Day\|Pay Day]].
+Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], mestrada por [[Jogadores/Raul Ouros\|Raul Ouros]], um expert no cenário.
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
-Pouco depois, no início de 2026, experimentamos um pouco do horror de [[Sistemas/Mothership\|Mothership]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
-
 Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões.
+
+### One-Shots para reposição
+
+Muitas vezes, o grupo não consegue se reunir por completo. Assim, ao invés de jogar a aventura principal do momento, o grupo opta por uma one-shot de reposição.
+
+Por exemplo, no início de 2026, a GUILDA tem como aventura principal a [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e, presencialmente, aguarda por [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas, quando Gabriel não pôde jogar, [[Jogadores/Raul Teixeira\|Raul Teixeira]] trouxe um sistema novo, de horror, o [[Sistemas/Mothership\|Mothership]], com a aventura [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]], numa impossibilidade seguinte, foir [[Jogadores/Raul Ouros\|Raul Ouros]] que se pôs a mestrar [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], marcando um reencontro do grupo com [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].
+
+Numa outra oportunidade, foi Raul Teixeira quem não pôde jogar, e [[Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] em [[Sistemas/Tormenta20\|Tormenta20]], que, mais importante que a aventura em si, trouxe uma mecânica de criação aleatória de personagens de primeiro nível.
 
 ### O Futuro
  
-Esse texto foi atualizado no início de 2026, enquanto a GUILDA joga [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] e [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], e aguarda a nova sessão de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.
+Esse texto foi atualizado no início de 2026, enquanto a GUILDA joga [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], [[Aventuras/00 Pay Day/Pay Day\|Pay Day]] e [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], e aguarda a nova sessão de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-07T17:51:10.521-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-14T13:54:10.183-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -19,6 +19,7 @@ Sua aventura criada favorita fora [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'
 ---
 ## Mestre
 Enquanto Mestre, Thiago conduziu as seguintes aventuras:
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]: One-Shot de fuga em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural na Mansão do Capitão Varnost em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]]: Aventura breve de investigação em [[Sistemas/Skyfall RPG\|Skyfall RPG]];
 - [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]]: Aventura longa descontinuada de exploração em [[Sistemas/Tormenta20\|Tormenta20]];
@@ -26,6 +27,7 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
+- [[Biga\|Biga]] (Biga), o servo dos Silva em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - [[Aventuras/00 Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]];
 - † [[Aventuras/79 Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];

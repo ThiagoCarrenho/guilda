@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-07T19:07:10.385-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-14T14:08:15.130-03:00"}
 ---
 
 # Aventuras
@@ -10,6 +10,23 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores\|Mestres e Jogadores]]
 
 Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 
+---
+### Aleatoriamente Presos por Puristas
+**Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
+**Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
+**Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+**Tamanho:** One-Shot;
+**Data de Jogo:** 13/03/2026-Hoje;
+**Sessões:** 1 online;
+**Nível dos Personagens**: 1;
+**Descrição:** Personagens montados de forma aleatória se encontram presos por puristas. O que fazer?
+**Curiosidade:** Modelo de criação aleatória de personagens nível 1 em [[Sistemas/Tormenta20\|Tormenta20]].
+**Personagens e Jogadores:**
+- [[Biga\|Biga]], Servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 ---
 ### Pay Day
 **Nome da Aventura:** [[Aventuras/00 Pay Day/Pay Day\|Pay Day]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-07T18:53:28.030-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-14T13:48:03.696-03:00"}
 ---
 
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
@@ -8,18 +8,21 @@ A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e,
 A prioridade, na verdade, é próxima (mas não exatamente) a:
 1. Finalizar as aventuras em andamento:
 	* [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-2. Jogar a **Origem da GUILDA** (#024), por [[Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
-3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#022);
+	* [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - [[Jogadores/Raul Teixeira\|Raul Teixeira]], presencialmente;
+	* [[Aventuras/00 Pay Day/Pay Day\|Pay Day]] - [[Jogadores/Raul Ouros\|Raul Ouros]], one-shot com Raul Teixeira e Thiago;
+	* [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] - [[Jogadores/Thiago Carro\|Thiago Carro]], one-shot com Gabriel e Raul Ouros;
+2. Jogar a **Origem da GUILDA** (#023), por [[Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]];
+3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#021);
 4. Mesa Presencial na casa do [[Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
 5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
 	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
-	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001), **Aleatório** (#019);
+	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001);
 6. Outras Aventuras:
 	* [[Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
-	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#020), **Sabotagem em Encélado** (#021), **Uai, Lobisomem Existe?** (#023);
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#019), **Sabotagem em Encélado** (#020), **Uai, Lobisomem Existe?** (#022);
 	* [[Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
-	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#025);
+	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#024);
 
 --- 
 #### \#001 C.A.O. o Campeonato Arcanum de Opath
@@ -158,36 +161,28 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Descrição:** *Marlowe Fairwind*, a mão direita do Rei Emeris, é uma feiticeira que reuniu seus aliados mais confiáveis para levar um importante pacote até Calada, um vilarejo localizado na antiga Floresta Negra. É uma caixa grande, pesada e selada por magia, destinada à Arcanista do Fogo Branco. Vocês receberam um mapa, uma carruagem e a promessa de recompensa após o retorno.
 - **Curiosidade:** Sistema novo!
 ---
-#### \#019 Aleatório
-- **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
-- **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
-- **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
-- **Nível:** 1;
-- **Detalhes:** One-Shot;
-- **Descrição:** Rolaremos personagens aleatórios, e a partir daí chegamos a uma missão estranha.
----
-#### \#020 Investigação Noir
+#### \#019 Investigação Noir
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Trail of Cthullu\|Trail of Cthullu]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Detalhes:** One-Shot;
 - **Descrição:** Período entre guerras ou pós 2ª Guerra, de detetives sujos e moralmente cinzas.
 ---
-#### \#021 Sabotagem em Encélado
+#### \#020 Sabotagem em Encélado
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Sistemas/Mothership\|Mothership]] - a princípio;
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Detalhes:** One-Shot;
 - **Descrição:** Vocês fazem parte de uma tripulação enviada em um foguete clandestino do russo Grupo RB para sabotar uma expedição da NASA que foi a Encélado à procura de vida nos seus oceanos.
 ---
-#### \#022 As Montanhas de Passo Dyatlov
+#### \#021 As Montanhas de Passo Dyatlov
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** [[Call of Cthullu\|Call of Cthullu]];
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Detalhes:** One-Shot;
 - **Descrição:** Investigadores particulares chegam ao Passo Dyatlov, norte da União Soviética, em meados dos anos 60 para seguir uma pista que pode ajudar a descobrir o destino de nove jovens desaparecidos nas montanhas geladas do norte da União Soviética.
 ---
-#### \#023 - Uai, Lobisomem Existe?
+#### \#022 - Uai, Lobisomem Existe?
 - **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
 - **Sistema:** A definir;
 - **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -195,7 +190,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Temática:** Investigativo, sem horror ou sobrenatural em demasia.
 - **Descrição:** Interior de Minas, anos 80. É tempo de Quaresma, e começam a aparecer relatos de animais sumindo e outros devorados em circunstâncias estranhas. Com o sumiço de uma criança, a coisa fica preocupante, e os moradores alegam que o lobisomem está a solta. A polícia nao descobriu nada, nem encontrou a criança ou os animais. Os jogadores são um grupo independente de moradores (policial, fazendeiro, caminhoneiro, etc) que resolvem investigar e por um fim a esse mistério.
 ---
-#### \#024 - Origem da Guilda
+#### \#023 - Origem da Guilda
 - **Ideia de Todos**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -203,7 +198,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Curiosidade:** Oficialização da GUILDA em Arton;
 - **Descrição:** No ano de 1817 os aventureiros, por diferentes motivos recebem um convite para irem até Vectora para saber mais detalhes e possivelmente participar de uma expedição.
 ---
-#### \#025 - Sangue na Torre do Relógio
+#### \#024 - Sangue na Torre do Relógio
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

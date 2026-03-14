@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-07T18:53:43.296-03:00"}
+{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-14T13:52:20.411-03:00"}
 ---
 
 ### Personagens
@@ -38,9 +38,9 @@ Lista dos personagens que marcaram a história da GUILDA:
 - Jogador com maior número de anões: [[Jogadores/Thiago Carro\|Thiago Carro]] - 3 anões ([[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], [[Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] e [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]);
 	- [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 2 anões ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]]);
 - Jogador com maior número de personagens baixinhos: [[Jogadores/Thiago Carro\|Thiago Carro]] - 8 ([[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], [[Aventuras/92 Invasão ao Vulcão Negro/Ka Ulerc\|Ka Ulerc]], [[Aventuras/89 Minas Perdidas de Phandelvier/Opala Seis Canecos\|Opala Seis Canecos]], [[Aventuras/85 Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]], [[Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]], [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/80 Missão Hereditus/Oraskin\|Oraskin]] e [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]);
-	- [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 4 baixinhos ([[Aventuras/85 Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]], [[Aventuras/82 Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]]);
+	- [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem só 6 baixinhos ([[Aventuras/85 Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]], [[Aventuras/82 Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]], [[Sir. Galabriel\|Sir. Galabriel]] e [[Thiagrel\|Thiagrel]]);
 - Jogador com maior porcentagem de personagens baixinhos: [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] - 100%;
-	- É... aqui não dá pros 38% do [[Jogadores/Thiago Carro\|Thiago Carro]] competir...
+	- É... aqui não dá pros 35% do [[Jogadores/Thiago Carro\|Thiago Carro]] competir...
 - Jogador com mais personagens usando apetrechos de cabeça: [[Jogadores/Thiago Carro\|Thiago Carro]];
 - Pet com maior número de aparições: "Lobinho", de [[Aventuras/94 Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
 - Sistema mais jogado - [[Sistemas/Tormenta20\|Tormenta20]];

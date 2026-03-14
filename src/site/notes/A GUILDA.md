@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-12T00:57:33.426-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-14T13:59:43.556-03:00"}
 ---
 
 # A GUILDA
@@ -62,6 +62,10 @@ Em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martel
 ### Pay Day
 
 Em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], o Mestre [[Jogadores/Raul Ouros\|Raul Ouros]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Pay Day/Deux-Chevaux\|Deux-Chevaux]]) e [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/00 Pay Day/Luke Nevermore\|Luke Nevermore]]) em uma missão de resgate em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]], na qual os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
+
+### Aleatoriamente Presos por Puristas
+
+Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Biga\|Biga]]) e os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Jack O'Vapor\|Jack O'Vapor]] e [[Ryan Jones\|Ryan Jones]]) e [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Sir. Galabriel\|Sir. Galabriel]] e [[Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
 
 ### Guerra Artoniana
 

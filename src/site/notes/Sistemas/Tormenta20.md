@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2025-10-17T18:10:21.515-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2026-03-14T13:53:26.145-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]: One-Shot de fuga por [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões por [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica por [[Jogadores/Raul Teixeira\|Raul Teixeira]]; 
 - [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Jogadores/Thiago Carro\|Thiago Carro]];
