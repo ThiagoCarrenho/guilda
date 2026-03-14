@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-14T14:58:41.789-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-14T15:10:31.462-03:00"}
 ---
 
 ## Lista de Personagens construídos aleatoriamente
@@ -20,6 +20,7 @@ Tomemos, por exemplo, a construção de [[Biga\|Biga]]. Cada atributo precisa qu
 - INT 0 (11 = 3+4+4, 2);
 - SAB -1 (9 = 2+3+4, 1);
 - CAR 3 (16 = 5+5+6, 3);
+
 Note que a soma desses atributos é igual a 3, assim, substituímos o menor valor por uma nova rolagem até que some 7, nisto:
 - Substituímos DES -2 por -1 (9 = 1+3+5, 1), totalizando soma 4;
 - Substituímos DES -1 por 1 (12 = 2+4+6, 1), totalizando soma 6;
