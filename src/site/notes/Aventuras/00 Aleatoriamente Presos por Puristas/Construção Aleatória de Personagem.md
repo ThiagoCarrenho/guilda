@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-14T14:53:10.006-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-14T14:58:41.789-03:00"}
 ---
 
 ## Lista de Personagens construídos aleatoriamente
@@ -49,6 +49,7 @@ Role 3d6 e veja a tabela abaixo.
 |   16    | Raça Rara                             |
 |   17    | Escolha sua categoria                 |
 |   18    | ESCOLHA SUA RAÇA!                     |
+
 A chance de Raça Comum é 57,86%, a de Raça Extra é 28,23%, e a de Raça Rara é de apenas 11,58% (o restante é dos efeitos especiais de escolha).
 ### Raça Comum
 Role 1d10 para determinar a raça na tabela abaixo.
@@ -65,6 +66,7 @@ Role 1d10 para determinar a raça na tabela abaixo.
 |    8     | Elfo                                                      |
 |    9     | Escolha sua Raça Comum!                                   |
 |    10    | Escolha sua Raça Comum! Ou escolha rolar em outra tabela! |
+
 Novamente excluindo os casos especiais, temos que a chance de cada raça ser escolhida é de 10%.
 ### Raça Extra
 Role 1d12 para determinar a raça na tabela abaixo.
@@ -83,6 +85,7 @@ Role 1d12 para determinar a raça na tabela abaixo.
 | 10       | Medusa                                                    |
 | 11       | Escolha sua Raça Extra!                                   |
 | 12       | Escolha sua Raça Extra! Ou escolha rolar em outra tabela! |
+
 A chance de obter cada uma das raças extras é de 8,33%.
 Ou seja, a chance de obter um Suraggel é de 2,35% (28,23% \* 8,33%), e a chance de obter dois Surragel é de míseros 0,055%!
 ### Raça Rara
@@ -126,6 +129,7 @@ Role 2d6 ordenado (ou, se preferir, 1d6\*10 + 1d6) e determine sua raça na tabe
 | 64           | Galokk                                              |
 | 65           | Trog                                                |
 | 66           | Que Sorte! Escolha sua Raça, entre qualquer uma!!!! |
+
 A chance de cada uma dessas raças sair é de 2,78%!
 ### Construindo o Biga
 A nossa rolagem de 3d6 foi 8 = 2+2+4, logo, Biga é de uma raça comum. Ao rolar 1d10, obtendo o resultado 3, temos então que nosso herói é um Minotauro!
