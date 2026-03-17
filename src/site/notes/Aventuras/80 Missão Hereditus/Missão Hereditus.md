@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-17T16:59:46.034-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-17T17:46:32.013-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 **Sistema:**  [[Sistemas/Stars Without Numbers\|Stars Without Numbers]];
 **Tamanho:** Aventura breve;
-**Data de Jogo:** 06/10/2025-Hoje;
+**Data de Jogo:** 06/10/2025-19/12/2025;
 **Sessões:** 1 online (+sessão zero)
 **Nível dos Personagens**: 1 -> 2;
 
