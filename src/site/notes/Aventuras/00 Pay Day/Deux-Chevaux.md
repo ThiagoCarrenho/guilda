@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00","updated":"2026-03-17T17:04:32.816-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00","updated":"2026-03-17T18:23:38.577-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
@@ -125,3 +125,8 @@ Chegando na cidade mais caótica, se aliou a Lazio, um fixer local, auxiliando-o
 	- Glow Paint
 	- Medtech Bag
 	- Leisurewear: Footwear, Bottoms x3, Top x5
+- **Cyberware**
+	- Biomonitor
+	- Cibereye
+	- Nasal Filters
+	- TeleOptics
