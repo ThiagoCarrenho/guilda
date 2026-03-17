@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-03-17T11:18:31.455-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-03-17T20:42:08.152-03:00"}
 ---
 
 Católico, irmão de [[Jogadores/Thiago Carro\|Thiago Carro]] e, graças ao irmão e ao RPG, amigo de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]], [[Jogadores/Raul Teixeira\|Raul Teixeira]], [[Jogadores/Raul Ouros\|Raul Ouros]], [[Jogadores/Miguel de Maria\|Miguel de Maria]] e [[Jogadores/Laura\|Laura]].
@@ -19,6 +19,8 @@ Enquanto Mestre, Gabriel conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Gabriel:
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o bom, em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o flagelo dos bestas em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], o anão mercador de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - [[Aventuras/82 Jardim do Capitão Varnost/Kurozumi Rattakage\|Kurozumi Rattakage]], o rato ninja fissurado em queijo de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]];

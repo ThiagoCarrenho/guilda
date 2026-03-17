@@ -22,11 +22,11 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Descrição:** Personagens montados de forma aleatória se encontram presos por puristas. O que fazer?
 **Curiosidade:** Modelo de criação aleatória de personagens nível 1 em [[Sistemas/Tormenta20\|Tormenta20]].
 **Personagens e Jogadores:**
-- [[Biga\|Biga]], Servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]], Servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 ---
 ### Pay Day
 **Nome da Aventura:** [[Aventuras/00 Pay Day/Pay Day\|Pay Day]];

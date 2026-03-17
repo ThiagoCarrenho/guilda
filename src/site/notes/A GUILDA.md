@@ -65,7 +65,7 @@ Em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], o Mestre [[Jogadores/Raul Ouros\|R
 
 ### Aleatoriamente Presos por Puristas
 
-Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Biga\|Biga]]) e os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Jack O'Vapor\|Jack O'Vapor]] e [[Ryan Jones\|Ryan Jones]]) e [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Sir. Galabriel\|Sir. Galabriel]] e [[Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
+Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]]) e os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]] e [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]]) e [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]] e [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
 
 ### Guerra Artoniana
 

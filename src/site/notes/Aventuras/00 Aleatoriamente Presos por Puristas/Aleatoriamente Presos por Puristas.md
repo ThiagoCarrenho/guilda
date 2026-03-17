@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-14T14:23:05.545-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-17T20:41:40.729-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -13,11 +13,11 @@
 **Descrição:** Personagens montados de forma aleatória se encontram presos por puristas. O que fazer?
 
 **Personagens e Jogadores:**
-- [[Biga\|Biga]], Servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]], servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o fumaceiro de bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o pula-muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o flagelo dos bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 
 Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Sistemas/Modificações/Construção Aleatória de Personagem\|Construção Aleatória de Personagem]].
 

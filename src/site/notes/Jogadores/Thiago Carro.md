@@ -27,7 +27,7 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
-- [[Biga\|Biga]] (Biga), o servo dos Silva em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]] (Biga), o servo dos Silva em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - [[Aventuras/00 Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]];
 - † [[Aventuras/79 Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
