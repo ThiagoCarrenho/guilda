@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-14T14:08:15.130-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-17T11:27:30.019-03:00"}
 ---
 
 # Aventuras
@@ -50,6 +50,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Sessões:** 5 online;
 **Nível dos Personagens**: 3-7;
 **Descrição:** Anões guerream pela irmandade.
+**Cenário:** [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
 **Personagens e Jogadores:**
 - [[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -337,6 +338,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Sessões:** 31 online;
 **Nível dos Personagens**: 1->5;
 **Descrição:** Resgate de artefatos divinos para salvar o mundo.
+**Cenário:** [[Cenários Próprios/Andalurien\|Andalurien]].
 **Personagens e Jogadores:**
 - [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], de [[Jogadores/Franciane\|Franciane]];
 - [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão de [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -354,13 +356,14 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza\|Capitão Boina Cinza]], o capitão do Garciano II de [[Jogadores/Thiago Carro\|Thiago Carro]];
 ---
 ### Andalurien
-**Nome da Aventura:** [[Aventuras/99 Andalurien/Andalurien\|Andalurien]];
+**Nome da Aventura:** [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]];
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 **Sistema:**  Sem sistema;
 **Tamanho:** One-shot;
 **Data de Jogo:** Março/2020;
 **Sessões:** 1 presencial;
 **Descrição:** Só um encontro dos personagens.
+**Cenário:** [[Cenários Próprios/Andalurien\|Andalurien]].
 **Personagens e Jogadores:**
 - [[Aventuras/99 Andalurien/Fordinho\|Fordinho]], o mecânico de carroças de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - Alguns outros que não nos recordamos.

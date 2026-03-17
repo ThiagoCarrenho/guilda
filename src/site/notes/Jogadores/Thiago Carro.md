@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-14T13:54:10.183-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-17T11:22:41.095-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -49,4 +49,4 @@ Eis os aventureiros que foram criados e interpretados pelo Thiago, em parêntese
 - [[Aventuras/95 Planeswalker/Sargento Jeep Willys\|Sargento Jeep Willys]] (Jeep Willys), o comandante de [[Aventuras/95 Planeswalker/Planeswalker\|Planeswalker]];
 - [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]] (Porsche Cayenne), o amigo de Venatão em [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
 - [[Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza\|Capitão Boina Cinza]] (não tem nome associado, mas tem navio), o capitão do Garciano II em [[Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]];
-- [[Aventuras/99 Andalurien/Fordinho\|Fordinho]] (Ford), o mecânico de carroças em [[Aventuras/99 Andalurien/Andalurien\|Andalurien]];
+- [[Aventuras/99 Andalurien/Fordinho\|Fordinho]] (Ford), o mecânico de carroças em [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-14T14:06:53.398-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-17T11:28:36.795-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -22,7 +22,7 @@ A GUILDA teve uma tentativa fracassada de fundação em [[Aventuras/90 Começo d
 
 Assim foi que a GUILDA começou, com uma ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]] e [[Jogadores/Thiago Carro\|Thiago Carro]] jogarem juntos, enquanto voltavam de fretado da Unicamp para Campo Limpo Paulista. Ambos cursavam graduação em Matemática Aplicada e Computacional, sendo que Raul havia ingressado um ano antes no curso.
 
-A ideia do jogo já era conhecida, [[Jogadores/Thiago Carro\|Thiago Carro]] já consumia conteúdos do jogo e [[Jogadores/Raul Teixeira\|Raul Teixeira]] já contava histórias com amigos, durante os almoços. Acharam um pessoal que gostou da ideia e tentaram uma primeira mesa: *[[Aventuras/99 Andalurien/Andalurien\|Andalurien]].*
+A ideia do jogo já era conhecida, [[Jogadores/Thiago Carro\|Thiago Carro]] já consumia conteúdos do jogo e [[Jogadores/Raul Teixeira\|Raul Teixeira]] já contava histórias com amigos, durante os almoços. Acharam um pessoal que gostou da ideia e tentaram uma primeira mesa: *[[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]]*, uma tentativa de criação do cenário de [[Cenários Próprios/Andalurien\|Andalurien]].
 
 ### O Primeiro Jogo
 
@@ -32,7 +32,7 @@ Logo de cara, já se depararam com um problema do jogo: é difícil reunir a gal
 
 ### Andalurien: a Primeira Grande História
 
-Mas o desejo de jogar não parou. Acharam dois amigos da igreja que tinham a mesma vontade, e de novo tentaram fazer uma aventura. [[Jogadores/Lucas Moura\|Lucas Moura]], então estudante de Física (depois viria a se render a Matemática Aplicada com os amigos), trouxe sua primeira interpretação ao mundo: [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão, e [[Jogadores/Franciane\|Franciane]], que cursava Engenharia Mecânica, trouxe sua fixação pelos elfos de Tolkien em [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], que se uniram ao barbeiro [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]] na primeira grande história da GUILDA: [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], novamente, mestrada por [[Jogadores/Raul Teixeira\|Raul Teixeira]].
+Mas o desejo de jogar não parou. Acharam dois amigos da igreja que tinham a mesma vontade, e de novo tentaram fazer uma aventura. [[Jogadores/Lucas Moura\|Lucas Moura]], então estudante de Física (depois viria a se render a Matemática Aplicada com os amigos), trouxe sua primeira interpretação ao mundo: [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão, e [[Jogadores/Franciane\|Franciane]], que cursava Engenharia Mecânica, trouxe sua fixação pelos elfos de Tolkien em [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], que se uniram ao barbeiro [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]] na primeira grande história da GUILDA: [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], novamente, mestrada por [[Jogadores/Raul Teixeira\|Raul Teixeira]], retomando a criação do cenário de [[Cenários Próprios/Andalurien\|Andalurien]].
 
 Era 2020, veio a pandemia, e esse jogo fez o grupo se manter unido mesmo num período difícil de isolamento e medo. Foi quase um ano e meio de jogo, que começou sem sistema, apenas umas rolagens de dados que o mestre inventada, e depois se tornou [[Sistemas/D&D 5e\|D&D 5e]], totalizando 31 sessões! Um recorde difícil de ser batido.
 
@@ -48,7 +48,7 @@ Essa aventura foi marcada pelas estreias desses jogadores com os personagem [[Av
 
 ### Aventuras descontinuadas
 
-[[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]] foi a segunda aventura grande, no qual os aventureiros exploravam uma ilha natural, mas chegou um momento que não foi possível marcar a próxima sessão, e a aventura se desfez. E este foi um problema recorrente do começo da GUILDA, assim como [[Aventuras/99 Andalurien/Andalurien\|Andalurien]] e [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]].
+[[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]] foi a segunda aventura grande, no qual os aventureiros exploravam uma ilha natural, mas chegou um momento que não foi possível marcar a próxima sessão, e a aventura se desfez. E este foi um problema recorrente do começo da GUILDA, assim como [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]] e [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]].
 
 A próxima mesa também foi vítima disso, [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]]. Uma nova tentativa de aventura grande, que durou por quase um ano, mas foi descontinuada. A primeira mestragem do [[Jogadores/Raul Teixeira\|Raul Teixeira]] em Tormenta20 foi marcada também pelas primeiras mortes de personagem: [[Aventuras/91 Ascenção do Deus Dragão/Raiden\|Raiden]], de [[Jogadores/Thiago Carro\|Thiago Carro]], foi a primeira cova do cemitério de aventureiros, morto em uma batalha com um wyvern por conta de fogo amigo, a consequência mais severa que uma falha crítica em um ataque poderia ter. A morte nem foi tão trágica quanto parece, porque dela surgiu a existência de [[Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]], que até hoje é o personagem favorito do [[Jogadores/Thiago Carro\|Thiago Carro]].
 
@@ -116,7 +116,7 @@ Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].
 
-Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões.
+Além disso, tivemos um mestre novo num sistema conhecido, [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
 
 ### One-Shots para reposição
 

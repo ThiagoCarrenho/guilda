@@ -19,7 +19,7 @@
 - [[Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 
-Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Aventuras/00 Aleatoriamente Presos por Puristas/Construção Aleatória de Personagem\|Construção Aleatória de Personagem]].
+Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Sistemas/Modificações/Construção Aleatória de Personagem\|Construção Aleatória de Personagem]].
 
 ---
 ## Sessão 1 (13/03/2026) - Malditas Grades!

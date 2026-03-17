@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-02-21T00:03:28.887-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-03-17T11:18:31.455-03:00"}
 ---
 
 Católico, irmão de [[Jogadores/Thiago Carro\|Thiago Carro]] e, graças ao irmão e ao RPG, amigo de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]], [[Jogadores/Raul Teixeira\|Raul Teixeira]], [[Jogadores/Raul Ouros\|Raul Ouros]], [[Jogadores/Miguel de Maria\|Miguel de Maria]] e [[Jogadores/Laura\|Laura]].
@@ -7,7 +7,7 @@ Fã de Harry Potter, Star Wars, Senhor dos Anéis e de cultura nerd em geral.
 
 Seus personagens são, em geral, anões e rabugentos, e sempre têm algum ponto de criatividade ou invenção, trazendo a característica engenhosa do seu autor.
 
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]].
+Mestre de [[Sistemas/Tormenta20\|Tormenta20]]. Criador do cenário [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
 
 Aventura favorita criada fora [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e o personagem predileto foi [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?.
 

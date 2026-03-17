@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2026-03-14T13:53:26.145-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2026-03-17T11:18:14.751-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
@@ -19,8 +19,11 @@ Aventuras que utilizam este sistema:
 - [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]]: Aventura longa de exploração descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]]; 
 - [[Aventuras/95 Planeswalker/Planeswalker\|Planeswalker]]: Aventura descontinuada de viagem interplanar por [[Jogadores/Plínio\|Plínio]];
 - [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]]: Aventura breve solo descontinuada por [[Jogadores/Thiago Carro\|Thiago Carro]];
+Cenários criados neste sistema:
+- [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]], por [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 
-Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. Os conteúdos do jogo estão disponíveis em [Drive Tormenta]([Tormenta](https://drive.google.com/drive/folders/1wZ7dGUeqo4DvPIx0kRTtoohh4Kuihe11) e é possível ver com maior detalhe o mapa e montar fichas aleatórias em [Fichas de Nimb](https://fichasdenimb.com.br/#/).
+Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. É possível ver com maior detalhe o mapa e montar fichas aleatórias em [Fichas de Nimb](https://fichasdenimb.com.br/#/).
+Além disso, criamos um guia para montar personagens aleatórios: [[Sistemas/Modificações/Construção Aleatória de Personagem\|Construção Aleatória de Personagem]].
 
 ---
 ## Descrição

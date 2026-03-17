@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"created":"2025-10-14T12:03:39.305-03:00","updated":"2026-03-07T18:53:15.585-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"created":"2025-10-14T12:03:39.305-03:00","updated":"2026-03-17T11:29:00.861-03:00"}
 ---
 
 Para conhecer mais dos sistemas apresentados, acesse [[Sistemas\|Sistemas]].
@@ -21,6 +21,7 @@ Seus personagens costumam ter nomes de carro e usar itens na cabeça.
 [[Jogadores/Raul Teixeira\|Raul Teixeira]] é um dos mestres e jogadores mais presentes nas mesas, noivo da [[Jogadores/Daniela\|Daniela]] e irmão da [[Jogadores/Laura\|Laura]].
 Mestre de Tormenta20, D&D 5e, Stars Without Numbers e Storyteller.
 - **Mesa mestrada predileta:** [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]]?;
+- **Cenários criados**: [[Cenários Próprios/Andalurien\|Andalurien]];
 - **Personagem predileto:** [[Aventuras/89 Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]];
 - **Atualmente jogando**;
 ### Raul Ouros 
@@ -34,6 +35,7 @@ Mestre de Tormenta20, D&D 5e e Cyberpunk RED.
 [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] é irmão de [[Jogadores/Thiago Carro\|Thiago Carro]]. Católico.
 Tem anão como sua raça preferida, e gosta de inventores e criativos.
 - **Mesa mestrada predileta:** [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+- **Cenários criados:** [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]];
 - **Personagem predileto:** [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]?;
 - **Atualmente jogando**;
 ### Miguel de Maria

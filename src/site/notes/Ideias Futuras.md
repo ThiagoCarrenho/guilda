@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-14T13:48:03.696-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-17T11:21:13.383-03:00"}
 ---
 
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
@@ -15,7 +15,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#021);
 4. Mesa Presencial na casa do [[Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
 5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
-	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+	* [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] em [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]];
 	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001);
 6. Outras Aventuras:
@@ -43,7 +43,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Ideia de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- **Descrição:** Dos mesmos criadores de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], voltaremos a Khalmyrthaal para entender os mistérios que envolvem a ilha de Oggetor, e quem é o seu Sempre Observado.
+- **Descrição:** Dos mesmos criadores de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], voltaremos a [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]] para entender os mistérios que envolvem a ilha de Oggetor, e quem é o seu Sempre Observado.
 ---
 #### \#004 Uma Aventura 100% Normal
 - **Ideia de [[Jogadores/Laura\|Laura]]**;

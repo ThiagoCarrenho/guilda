@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/","pinned":true,"created":"2025-10-16T10:13:51.636-03:00","updated":"2026-03-07T18:53:19.056-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/","pinned":true,"created":"2025-10-16T10:13:51.636-03:00","updated":"2026-03-17T11:21:51.580-03:00"}
 ---
 
 # Sistemas
@@ -16,5 +16,5 @@ Além disso, para que o jogo aconteça, são necessários [[Mestres e Jogadores\
 #### Futuristas
 - [[Sistemas/Cyberpunk RED\|Cyberpunk RED]]
 - [[Sistemas/Stars Without Numbers\|Stars Without Numbers]]
-#### Horros Espacial
+#### Horror Espacial
 - [[Sistemas/Mothership\|Mothership]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-03-07T17:50:22.733-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-03-17T11:26:36.713-03:00"}
 ---
 
 Noivo da [[Jogadores/Daniela\|Daniela]], irmão da [[Jogadores/Laura\|Laura]], primo de [[Jogadores/Jozsef\|Jozsef]] e padrinho de casamento de [[Jogadores/Thiago Carro\|Thiago Carro]] e Fernanda.
@@ -9,7 +9,7 @@ Graças ao RPG, amigo também de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]
 Amigo também de [[Jogadores/Fabiano Meloni\|Fabiano Meloni]] e [[Jogadores/George\|George]].
 Comemorou um de seus aniversários com uma mesa: [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]]!
 
-Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], [[Sistemas/Mothership\|Mothership]] e [[Sistemas/Storyteller\|Storyteller]].
+Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]], [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], [[Sistemas/Mothership\|Mothership]] e [[Sistemas/Storyteller\|Storyteller]]. Criador do cenário [[Cenários Próprios/Andalurien\|Andalurien]].
 
 *Palpite do Thiago:* Seu personagem favorito fora [[Aventuras/89 Minas Perdidas de Phandelvier/Xiao Li\|Xiao Li]], que inclusive recebeu uma narração própria feita pelo Schaeppi ([áudio](https://drive.google.com/file/d/1FjmLCcTHwXyPyMaUy-qTsLRTikviWwPv/view?usp=drivesdk)) e está canonicamente no cenário de Tormenta20, pelo livro [Contra a Tempestade](https://jamboeditora.com.br/produto/contra-a-tempestade/). A mesa favorita que ele mestrou foi: [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], num cenário próprio por ele criado.
 
@@ -29,7 +29,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 - [[Aventuras/93 Segredos Profundos/Segredos Profundos\|Segredos Profundos]]: One-shot em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]]: Aventura longa de resgate de artefatos divinos em [[Sistemas/D&D 5e\|D&D 5e]];
 - [[Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]]: One-Shot de combate tático em [[Sistemas/Storyteller\|Storyteller]];
-- [[Aventuras/99 Andalurien/Andalurien\|Andalurien]]: One-Shot sem sistema;
+- [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]]: One-Shot sem sistema;
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:

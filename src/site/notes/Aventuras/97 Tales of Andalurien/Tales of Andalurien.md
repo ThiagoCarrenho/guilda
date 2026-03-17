@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Tales of Andalurien/","pinned":true,"created":"2025-10-14T11:23:13.960-03:00","updated":"2026-03-06T19:03:07.072-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Tales of Andalurien/","pinned":true,"created":"2025-10-14T11:23:13.960-03:00","updated":"2026-03-17T11:26:18.795-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -8,8 +8,8 @@
 **Data de Jogo:** 15/04/2020-24/09/2021;
 **Sessões:** 31 online;
 **Nível dos Personagens**: 1->5;
-
 **Descrição:** Resgate de artefatos divinos para salvar o mundo.
+**Cenário:** [[Cenários Próprios/Andalurien\|Andalurien]].
 
 **Personagens e Jogadores:**
 - [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], o/a elfo/a amnésico/a de [[Jogadores/Franciane\|Franciane]];
