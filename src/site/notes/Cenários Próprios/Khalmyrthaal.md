@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-17T11:23:13.939-03:00"}
+{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-17T11:37:25.504-03:00"}
 ---
 
 ## Descrição de Cenário
@@ -7,6 +7,10 @@
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Aventuras:**
 - [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+### Personagens do Cenario
+- [[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 ## Breve História de Khalmyrthaal
 
 A muito tempo, alguns vilarejos muito próximos uns dos outros sofriam com uma terrível seca e com uma terra infértil para o plantio, os moradores desses vilarejos então pediram aos deuses que enviassem chuvas para tornar as terras mais férteis, eles pediram por mais de um ano, mas ninguém os atendeu.
