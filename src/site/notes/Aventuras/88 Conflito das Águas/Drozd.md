@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Drozd/","created":"2025-10-13T17:42:08.724-03:00","updated":"2025-10-24T11:58:42.348-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Drozd/","created":"2025-10-13T17:42:08.724-03:00","updated":"2026-03-17T16:38:44.180-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,7 +10,7 @@
 **Classe:** Bárbaro
 **Divindade:** Megalokk
 
-![token_drozd.png](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/token_drozd.png)
+![z-Token-Drozd.png](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/z-Token-Drozd.png)
 
 ---
 #### Descrição
@@ -45,4 +45,4 @@
 
 ---
 #### Ficha
-![drozd_page-0001.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/drozd_page-0001.jpg)
+![z-Ficha-Drozd.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/z-Ficha-Drozd.jpg)

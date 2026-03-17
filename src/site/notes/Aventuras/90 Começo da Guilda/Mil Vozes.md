@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Mil Vozes/","created":"2025-10-13T18:36:33.473-03:00","updated":"2025-10-24T13:37:22.882-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/90 Começo da Guilda/Mil Vozes/","created":"2025-10-13T18:36:33.473-03:00","updated":"2026-03-17T16:36:11.825-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/90 Começo da Guilda/Começo da Guilda\|Começo da Guilda]], no sistema [[Sistemas/Tormenta20\|Tormenta20]] .*
@@ -11,7 +11,7 @@
 **Classe:** Bardo
 **Divindade:** “João Mais Longo” (Deus Menor que ele deve a vida)
 
-![milvozes-token.png](/img/user/Aventuras/90%20Come%C3%A7o%20da%20Guilda/milvozes-token.png)
+![z-Token-Mil_Vozes.png](/img/user/Aventuras/90%20Come%C3%A7o%20da%20Guilda/z-Token-Mil_Vozes.png)
 #### Descrição
 - Era um humano, foi ao mar como marujo, morreu em naufrágio quando foram atacados por uma criatura marítima 
 - A criatura, Longest John (“João Mais Longo”) poupou-lhe a vida para que difundisse seu nome, a fim de se tornar um Deus Menor
@@ -53,4 +53,4 @@ Diante disto, o agora tritão Mil Vozes voltou para a terra, e sua história fic
 
 ---
 #### Ficha
-![MilVozes_page-0001.jpg](/img/user/Aventuras/90%20Come%C3%A7o%20da%20Guilda/MilVozes_page-0001.jpg)
+![z-Ficha-Mil_Vozes.jpg](/img/user/Aventuras/90%20Come%C3%A7o%20da%20Guilda/z-Ficha-Mil_Vozes.jpg)

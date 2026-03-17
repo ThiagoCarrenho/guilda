@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Luke Nevermore/","created":"2026-03-07T17:58:17.913-03:00","updated":"2026-03-07T18:51:59.248-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Luke Nevermore/","created":"2026-03-07T17:58:17.913-03:00","updated":"2026-03-17T17:06:37.988-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
@@ -7,8 +7,8 @@
 
 **Role:** Rockerboy.
 
-![token-luke.png](/img/user/Aventuras/00%20Pay%20Day/token-luke.png)
+![z-Token-Luke_Nevermore.png](/img/user/Aventuras/00%20Pay%20Day/z-Token-Luke_Nevermore.png)
 ### Descrição
 - Estrela do pop/rock, com um cabelão e uma keytar (*cujo nome foi esquecido pelo redator*).
 
-![luke.jpeg](/img/user/Aventuras/00%20Pay%20Day/luke.jpeg)
+![z-Imagem-Luke_Nevermore.jpeg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-Luke_Nevermore.jpeg)

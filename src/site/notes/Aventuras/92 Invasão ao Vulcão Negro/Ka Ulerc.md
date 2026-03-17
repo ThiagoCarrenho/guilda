@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Ka Ulerc/","created":"2025-10-14T10:22:36.291-03:00","updated":"2025-10-24T12:47:37.332-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/92 Invasão ao Vulcão Negro/Ka Ulerc/","created":"2025-10-14T10:22:36.291-03:00","updated":"2026-03-17T16:20:05.255-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/92 Invasão ao Vulcão Negro/Invasão ao Vulcão Negro\|Invasão ao Vulcão Negro]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,7 +10,7 @@
 **Classe:** Ladino 7 Guerreiro 3
 **Divindade:** Hyninn
 
-![kaulerc.png](/img/user/Aventuras/92%20Invas%C3%A3o%20ao%20Vulc%C3%A3o%20Negro/kaulerc.png)
+![z-Token-Ka_Ulerc.png](/img/user/Aventuras/92%20Invas%C3%A3o%20ao%20Vulc%C3%A3o%20Negro/z-Token-Ka_Ulerc.png)
 #### Descrição
 - Se mescla de acordo com o ambiente
 - Passou a vida se escondendo
@@ -25,4 +25,4 @@ Desprovido de beleza, ele é uma figura até um tanto triste, diz ele que dava m
 
 ---
 #### Ficha
-![kaulerc_page-0001.jpg](/img/user/Aventuras/92%20Invas%C3%A3o%20ao%20Vulc%C3%A3o%20Negro/kaulerc_page-0001.jpg)
+![z-Ficha-Ka_Ulerc.jpg](/img/user/Aventuras/92%20Invas%C3%A3o%20ao%20Vulc%C3%A3o%20Negro/z-Ficha-Ka_Ulerc.jpg)

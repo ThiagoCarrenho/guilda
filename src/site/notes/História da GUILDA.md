@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-17T11:28:36.795-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-03-17T17:09:29.989-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -92,7 +92,7 @@ Nesse meio tempo foi hora de um dos jogadores (não personagem), subir de nível
 
 A vontade de jogar RPG presencial e de fazer uma aventura longa venceu, e iniciamos a [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], aventura pronta em [[Sistemas/Tormenta20\|Tormenta20]] (uma Jornada Heróica do primeiro ao último nível), e com narração do Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]], iniciamos a história contra a ameaça purista.
 
-Nesse jogo [[Jogadores/Miguel de Maria\|Miguel de Maria]] estreou com [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]. [[Jogadores/Laura\|Laura]], [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], [[Jogadores/Thiago Carro\|Thiago Carro]] e [[Jogadores/Raul Ouros\|Raul Ouros]] também jogaram, e, mais uma vez, [[Jogadores/Raul Teixeira\|Raul Teixeira]] foi responsável por findar a vida de alguns aventureiros. Numa batalha dificílima na segunda sessão, o nobre [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], a necromante [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] e o guerreiro [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] tiveram seu fim, e os sobreviventes [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] teriam que continuar a história com outros aventureiros, seriam eles [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e [[Aventuras/00 Guerra Artoniana/Mya\|Mya]].
+Nesse jogo [[Jogadores/Miguel de Maria\|Miguel de Maria]] estreou com [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]. [[Jogadores/Laura\|Laura]], [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], [[Jogadores/Thiago Carro\|Thiago Carro]] e [[Jogadores/Raul Ouros\|Raul Ouros]] também jogaram, e, mais uma vez, [[Jogadores/Raul Teixeira\|Raul Teixeira]] foi responsável por findar a vida de alguns aventureiros. Numa batalha dificílima na segunda sessão, o nobre [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], a necromante [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] e o guerreiro [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] tiveram seu fim, e os sobreviventes [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] teriam que continuar a história com outros aventureiros, seriam eles [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e [[Aventuras/00 Guerra Artoniana/Mya\|Mya]].
 
 ### O Grupo mais Exótico
 

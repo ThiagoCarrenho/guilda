@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Pontiac Tataguyra/","created":"2025-10-13T17:42:08.770-03:00","updated":"2026-03-07T17:53:56.872-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Pontiac Tataguyra/","created":"2025-10-13T17:42:08.770-03:00","updated":"2026-03-17T16:44:10.483-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
@@ -10,7 +10,7 @@
 - Velho alheio às novas tecnologias
 - Vive nas estradas com seu bando, os Tataguyra, e com seu carro, o Firebird
 
-![Pontiac-Tataguyra.png](/img/user/Aventuras/81%20Carga%20de%20Chromo%20Vermelho/Pontiac-Tataguyra.png)
+![z-Token-Pontiac_Tataguyra.png](/img/user/Aventuras/81%20Carga%20de%20Chromo%20Vermelho/z-Token-Pontiac_Tataguyra.png)
 
 ---
 #### Informação

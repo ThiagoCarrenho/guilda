@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-08T15:17:40.982-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-17T17:01:17.084-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -49,7 +49,7 @@ E desliga o telefone.
 Então saem para o novo destino, na van de Luke, que não só é bastante chamativa, como indica quem está dentro dela. Toda em tons de rouxo, e cheia de luzes, com a foto da própria estrela da música, com sua assinatura: $$\mathcal{Nevermore}$$
 Estacionam algumas quadras antes de chegar no local indicado, para que, se houver uma armadilha, não percam também a condução.
 
-![2CV e Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/2CV%20e%20Luke.jpg)
+![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
 *A caminho do pagamento*, da Aventura [[Aventuras/00 Pay Day/Pay Day\|Pay Day]].
 
 Ao chegarem no local indicado, tem apenas uma figura encapuzada com uma maleta em mãos. Ele vê as figuras roxas se aproximando, observa um pouco e fala:

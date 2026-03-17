@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Skrull/","created":"2025-10-15T10:25:02.857-03:00","updated":"2026-03-06T20:56:09.949-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/Skrull/","created":"2025-10-15T10:25:02.857-03:00","updated":"2026-03-17T13:01:18.766-03:00"}
 ---
 
 *Personagem solo de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/96 A Caçada Maior/A Caçada Maior\|A Caçada Maior]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,4 +9,4 @@
 **Classe:** Cavaleiro
 **Divindade:** Ragnar
 
-![token Skrull.png](/img/user/Aventuras/96%20A%20Ca%C3%A7ada%20Maior/token%20Skrull.png)
+![z-Token-Skrull.png](/img/user/Aventuras/96%20A%20Ca%C3%A7ada%20Maior/z-Token-Skrull.png)

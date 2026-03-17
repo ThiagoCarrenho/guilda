@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00","updated":"2026-03-08T16:44:51.054-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Deux-Chevaux/","created":"2026-03-07T17:54:12.532-03:00","updated":"2026-03-17T17:04:32.816-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*
@@ -7,7 +7,7 @@
 
 **Role:** MedTech.
 
-![token2CV.png](/img/user/Aventuras/00%20Pay%20Day/token2CV.png)
+![z-Token-Deux_Chevaux.png](/img/user/Aventuras/00%20Pay%20Day/z-Token-Deux_Chevaux.png)
 
 ---
 ### Background
@@ -30,7 +30,7 @@ Nesta fuga, ele teve a ajuda de Déesse, amigo que também tinha pendências com
 
 Chegando na cidade mais caótica, se aliou a Lazio, um fixer local, auxiliando-o em trabalhos sujos, mas também como uma fonte de produtos farmacêuticos de grande utilidade para todo tipo de sobrevivente na cidade. Neste conjunto de trabalho sujo, ele conta com a ajuda de [[Aventuras/00 Pay Day/Luke Nevermore\|Luke Nevermore]], uma estrela que, roubando toda fama par asi, pode ajudar a mantê-lo desconhecido, como só mais um *staff* do artista.
 
-![Deux-Chevaux2.jpg](/img/user/Aventuras/00%20Pay%20Day/Deux-Chevaux2.jpg)
+![z-Imagem-Deux_Chevaux.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-Deux_Chevaux.jpg)
 
 ---
 ### Construção de Ficha

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-03-06T19:01:45.409-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-03-17T17:09:29.050-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -15,7 +15,7 @@ Participam desta história:
 - [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/00 Guerra Artoniana/Mya\|Mya]] de [[Jogadores/Laura\|Laura]];
 - [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
 - † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
 

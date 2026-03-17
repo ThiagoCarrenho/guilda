@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Tales of Andalurien/","pinned":true,"created":"2025-10-14T11:23:13.960-03:00","updated":"2026-03-17T11:26:18.795-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Tales of Andalurien/","pinned":true,"created":"2025-10-14T11:23:13.960-03:00","updated":"2026-03-17T13:01:03.711-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -16,14 +16,14 @@
 - [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Jogadores/Lucas Moura\|Lucas Moura]];
 
-![Token Belega 1 1.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/Token%20Belega%201%201.png)
-![Token Cayenne 1.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/Token%20Cayenne%201.png)
-![Token Luisão 1.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/Token%20Luis%C3%A3o%201.png)
+![z-Token-Belega.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Token-Belega.png)
+![z-Token-Cayenne.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Token-Cayenne.png)
+![z-Token-Luisão.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Token-Luis%C3%A3o.png)
 
 ---
 ### Notas do Mestre
 
-![notes-tales.jpeg](/img/user/Aventuras/97%20Tales%20of%20Andalurien/notes-tales.jpeg)
+![z-Notas-Andalurien.jpeg](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Notas-Andalurien.jpeg)
 
 ---
 #### Sessão 01 (15/04/2020)

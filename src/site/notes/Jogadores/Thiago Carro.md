@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-17T11:22:41.095-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-03-17T17:09:30.154-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -33,7 +33,7 @@ Eis os aventureiros que foram criados e interpretados pelo Thiago, em parêntese
 - [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/80 Missão Hereditus/Oraskin\|Oraskin]] (GWM Ora 03 Skin), o pirralho espacial psiônico de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];
 - [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] (Hot Wheels Deora II), o amigo enganador dos deuses de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] (1952 Alfa Romeo 6C 2500 GT Villa d'Este Cabriolet by Touring), o nobre filantropo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]] (1952 Alfa Romeo 6C 2500 GT Villa d'Este Cabriolet by Touring), o nobre filantropo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], morto em batalha;
 - [[Aventuras/81 Carga de Chromo Vermelho/Pontiac Tataguyra\|Pontiac Tataguyra]] (Pontiac Firebird), o cowboy do futuro em [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]];
 - [[Aventuras/84 A Voz das Marés/Domaondas Dreadnought\|Domaondas Dreadnought]] (HMS Dreadnought - navio), o clérigo surfista em [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
 - [[Aventuras/85 Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]] (Nissan Skyline), o piromaníaco filho de dragão em [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Raiden/","created":"2025-10-13T19:51:36.825-03:00","updated":"2025-10-24T13:52:53.208-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Raiden/","created":"2025-10-13T19:51:36.825-03:00","updated":"2026-03-17T16:35:45.127-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -11,7 +11,7 @@ Não chegou a conhecer os sucessores [[Aventuras/91 Ascenção do Deus Dragão/E
 **Origem:** Guerreiro Escolhido (Homebrew)
 **Classe:** Bardo 3, Clérigo de Arsenal 2
 
-![Raiden_t.png](/img/user/Aventuras/91%20Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/Raiden_t.png)
+![z-Token-Raiden.png](/img/user/Aventuras/91%20Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/z-Token-Raiden.png)
 #### Descrição
 - Filho de um dragão elétrico, pedindo isso à Wynna, mas abandonado em frente a uma vila (Tabmok) quando percebe que não consegue cuidar de uma criança
 - Aprendeu a lutar com um chapéu que lhe foi entregue por um aventureiro que passou pela taverna do pai

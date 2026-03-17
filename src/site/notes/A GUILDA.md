@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-17T11:20:17.986-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-17T17:09:28.403-03:00"}
 ---
 
 # A GUILDA
@@ -19,7 +19,7 @@ Para ver nossas próximas possíveis histórias, acesse [[Ideias Futuras\|Ideias
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
-![unnamed-irmandade.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/unnamed-irmandade.jpg)
+![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 
 ---
@@ -69,18 +69,18 @@ Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por P
 
 ### Guerra Artoniana
 
-Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]),  [[Jogadores/Laura\|Laura]] ([[Aventuras/00 Guerra Artoniana/Mya\|Mya]] e a falecida [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
+Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]),  [[Jogadores/Laura\|Laura]] ([[Aventuras/00 Guerra Artoniana/Mya\|Mya]] e a falecida [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 
 ---
 ## Galeria
 
-![2CV e Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/2CV%20e%20Luke.jpg)
+![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
 *A caminho do pagamento*, da Aventura [[Aventuras/00 Pay Day/Pay Day\|Pay Day]].
-![Image-LC-e-San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
+![z-Imagem-LC_e_San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
 *O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
-![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
+![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
 *Final da Aventura I de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
 
-![grupo.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
+![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
 *Grupo de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*
 

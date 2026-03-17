@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/79 Sumiço de Mike/Sumiço de Mike/","pinned":true,"created":"2026-01-31T13:37:02.886-03:00","updated":"2026-03-06T19:03:00.925-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/79 Sumiço de Mike/Sumiço de Mike/","pinned":true,"created":"2026-01-31T13:37:02.886-03:00","updated":"2026-03-17T17:00:50.960-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -18,9 +18,9 @@ Participam desta história:
 - [[Aventuras/79 Sumiço de Mike/LC Toyota\|LC Toyota]], o piloto preguiçoso de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/79 Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
-![Image-LC-Toyota.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/Image-LC-Toyota.png)
+![z-Imagem-LC_Toyota.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_Toyota.png)
 _[[Aventuras/79 Sumiço de Mike/LC Toyota\|LC Toyota]]_
-![Image-San-Holo.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/Image-San-Holo.png)
+![z-Imagem-San_Holo.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-San_Holo.png)
 _[[Aventuras/79 Sumiço de Mike/San Holo\|San Holo]]_
 
 ---
@@ -217,7 +217,7 @@ Quando estão para baixar a guarda, a gata começa a flutuar, e aos poucos, vai 
 - Princesa - a gatinha sumiu no ar na frente dos jogadores, no corredor;
 - Dr. Giovanni - capitão da nave Heracles, está nela trancado com a senha de admin;
 
-![Image-LC-e-San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/Image-LC-e-San.png)
+![z-Imagem-LC_e_San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
 
 ---
 ## Sessão 2 (06/02/2026) - Salve-se quem puder!

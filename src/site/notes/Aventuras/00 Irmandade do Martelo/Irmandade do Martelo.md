@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-17T11:18:52.851-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-17T17:08:17.500-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
@@ -18,20 +18,20 @@
 - [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
 
-![unnamed-irmandade.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/unnamed-irmandade.jpg)
+![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 
 ---
-![Pasted image 20251017180819.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/Pasted%20image%2020251017180819.jpg)
+![z-Imagem-Rei_Eldoria.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Imagem-Rei_Eldoria.jpg)
 ## Prólogo
 
 Thargrum, reino dos anões, era próspero, principalmente junto de Eldoria, mas numa fatídica noite o reino foi atacado, o que muitos acreditavam ser impossível, pois o reino, escavado nas montanhas do norte, tinha acesso somente pelos portões nas montanhas. Alguns moradores e refugiados disseram que o ataque começou no centro do reino, no salão do rei onde esta tendo uma reunião com os anciãos, nessa reunião estava presente toda a corte, como Torim Marteloguia, o General, Hilda, Durin e Gundrim Marteloférreo, a Rainha e seus filhos, Brogan Barbarrala, o clérigo de Cartemir, Helga Curassangue, a médica principal do reino, Dain Fogo e Ferro, o chefe das forjas, Haldrek Quebratudo, chefe de minerações e diversos outros nobres e anões influentes, todos agora falecidos. o Rei Durak Merteloférreo ao notar o ataque assumiu posição de defesa e ele junto do exército iniciou uma contenção do ataque, possibilitando a fuga dos cidadãos para o reino amigo de Eldoria. O Rei, todos os nobres e aqueles que estavam no salão e todo o exército morreram no ataque. Thargrum está sem um rei, sem um lugar, sem seu chefes, sem sua fonte economica e sem seu clérigo de Cartemir, aquele que acima de todos poderia rogar por um novo caminho a se seguir.
 
 Agora todos os refugiados estão no salão do reino de Eldoria, o Rei Alaric está sentado em seu trono, ao seu lado um trono que um dia foi sinal de aliança está vazio.
 #### Brasão de Eldoria
-![Pasted image 20251017180722.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/Pasted%20image%2020251017180722.jpg)
+![z-Brasao-Eldoria.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Eldoria.jpg)
 
 #### Brasão de Thargrum
-![Pasted image 20251017180804.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/Pasted%20image%2020251017180804.jpg)
+![z-Brasao-Thargrum.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Thargrum.jpg)
 
 ---
 ## Quase-Sessão 0 (17/10/2025)

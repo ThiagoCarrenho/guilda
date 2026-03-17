@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre/","created":"2025-10-13T19:39:40.782-03:00","updated":"2025-10-24T13:51:44.524-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre/","created":"2025-10-13T19:39:40.782-03:00","updated":"2026-03-17T16:35:50.651-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -11,7 +11,7 @@
 **Classe:** Clérigo
 **Divindade:** Allihanna
 
-![Escallac token.png](/img/user/Aventuras/91%20Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/Escallac%20token.png)
+![z-Token-Escallac.png](/img/user/Aventuras/91%20Ascen%C3%A7%C3%A3o%20do%20Deus%20Drag%C3%A3o/z-Token-Escallac.png)
 #### Descrição
 - Anão idoso, devoto da natureza
 - Rabugento, mas disposto a ajudar, desde que isso ajude também a colocr as coisas em equilíbrios

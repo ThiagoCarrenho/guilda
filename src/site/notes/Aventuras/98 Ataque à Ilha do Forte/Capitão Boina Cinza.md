@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza/","created":"2025-10-14T11:36:45.724-03:00","updated":"2025-10-16T11:11:13.377-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/98 Ataque à Ilha do Forte/Capitão Boina Cinza/","created":"2025-10-14T11:36:45.724-03:00","updated":"2026-03-17T12:57:50.799-03:00"}
 ---
 
 *Personagem solo de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/98 Ataque à Ilha do Forte/Ataque à Ilha do Forte\|Ataque à Ilha do Forte]], no sistema [[Sistemas/Storyteller\|Storyteller]].*
@@ -17,7 +17,7 @@ Capitão do Garciano II
 
 ---
 
-![Ficha Manuel Ferreira ou Joao Ribeiro.jpg](/img/user/Aventuras/98%20Ataque%20%C3%A0%20Ilha%20do%20Forte/Ficha%20Manuel%20Ferreira%20ou%20Joao%20Ribeiro.jpg)
+![z-ficha_capitao_boina_cinza.jpg](/img/user/Aventuras/98%20Ataque%20%C3%A0%20Ilha%20do%20Forte/z-ficha_capitao_boina_cinza.jpg)
 
 ---
 ### Background

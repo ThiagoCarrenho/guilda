@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-17T11:27:30.019-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-03-17T17:09:28.594-03:00"}
 ---
 
 # Aventuras
@@ -70,7 +70,7 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 - [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/00 Guerra Artoniana/Mya\|Mya]] de [[Jogadores/Laura\|Laura]];
 - [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
 - † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
 ---

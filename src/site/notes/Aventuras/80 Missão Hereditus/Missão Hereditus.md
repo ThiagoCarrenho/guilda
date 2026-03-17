@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-06T19:02:25.308-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-17T16:59:46.034-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -14,17 +14,17 @@ Participam desta história:
 - [[Aventuras/80 Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]], o anão controlador de drones de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/80 Missão Hereditus/Oraskin\|Oraskin]], o pirralho espacial psiônico de [[Jogadores/Thiago Carro\|Thiago Carro]];
-![Cifer.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Cifer.jpg)
+![z-Imagem-Cifer.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cifer.jpg)
 *[[Aventuras/80 Missão Hereditus/Cifer\|Cifer]]*
-![Marc Rogers.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Marc%20Rogers.jpg)
+![z-Imagem-Marc_Rogers.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Marc_Rogers.jpg)
 *[[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]]*
-![Oraskin-Moleque.jpeg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Oraskin-Moleque.jpeg)
+![z-Imagem-Oraskin-Moleque.jpeg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Oraskin-Moleque.jpeg)
 *[[Aventuras/80 Missão Hereditus/Oraskin\|Oraskin]]*
 
 ---
 
-![Panfleto Velho encontrado na nave_page-0001.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0001.jpg)
-![Panfleto Velho encontrado na nave_page-0002.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Panfleto%20Velho%20encontrado%20na%20nave_page-0002.jpg)
+![z-Texto-Panfleto_Velho_Nave_1.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Texto-Panfleto_Velho_Nave_1.jpg)
+![z-Texto-Panfleto_Velho_Nave_2.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Texto-Panfleto_Velho_Nave_2.jpg)
 
 ---
 #### Sessão 00 (06/10/2025) - Criação de Personagens
@@ -45,7 +45,7 @@ Participam desta história:
 - Colocamos máscaras de gás. Local tem uma toxina. Cheiro de queimado.
 - Arquitetura quadrada, fria. Local muito regrado, militar.
 - Comandante Joric 50 anos, 4 braços, loiro.
-![Joric.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Joric.jpg)
+![z-Imagem-Joric.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Joric.jpg)
 *Joric*
 - Ir atrás de um antigo geneticista do Governo. Dr. Kaele Vor. Faz experimentos proibidos com tecnologia pretech. O "cabeçudo" tem uma mente grande, foi se proteger com a Irmandade e encontrou essa tecnologia e tá fazendo besteira com ela. Confiscar tudo.
 - Ir até o Mercado de Ferragem. Procurar por Thrella - Negra, 40 anos, magra, fumante, muito.
@@ -58,13 +58,13 @@ Participam desta história:
 - Andando pelo deserto, vão ficando mais favelado.
 - Tentamos nos disfarçar de normais. Disforce falhou.
 - Breve combate contra Bill e capangas. Marc e Cifer resolveram tudo.
-![Bill.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Bill.jpg)
+![z-Imagem-Bill.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Bill.jpg)
 *Bill*
 - Encontramos com Thrella (imagem abaixo), usando o Bill, um dos ladrões que desistiu de lutar. Trocamos informações pela promessa de entregar o cérebro do Vor.
 - Ao Norte no Deserto, acesso ao lab secreto. Senha 1234.
 - Bill foi de bode expiatório, terminou sugado por um tentáculo.
 - Subimos de nível: 1 -> 2.
-![Thrella.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Thrella.jpg)
+![z-Imagem-Thrella.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Thrella.jpg)
 *Thrella*
 #### Sessão 02 (24/10/2025) - Invadindo o Laboratório
 - Pós morte do Bill, o grupo decidiu o que iria fazer.
@@ -230,5 +230,5 @@ Serão os heróis capazes de lidar com a ameaça toda? Desativarão, com sucesso
 &emsp; Finalizamos a aventura viajando na nave. A missão Hereditus foi finalizada, Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?mas não concluída. 
 &emsp; Só descobriremos na próxima aventura, quando voltarmos para ver os desdobramentos de **Missão Hereditus**.
 
-![cena-final-av1-missaohereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/cena-final-av1-missaohereditus.jpg)
+![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
 *Final da Aventura I de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*

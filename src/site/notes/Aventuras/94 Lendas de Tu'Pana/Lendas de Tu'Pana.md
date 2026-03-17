@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana/","pinned":true,"created":"2025-10-14T10:44:59.309-03:00","updated":"2026-03-06T19:02:12.223-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana/","pinned":true,"created":"2025-10-14T10:44:59.309-03:00","updated":"2026-03-17T16:19:21.666-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -14,7 +14,7 @@
 - [[Aventuras/94 Lendas de Tu'Pana/Príncipe Intinho\|Príncipe Intinho]], de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]];
 - [[Aventuras/94 Lendas de Tu'Pana/Quasar\|Quasar]], de [[Jogadores/José Ernesto\|José Ernesto]];
 
-![Imagem1.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/Imagem1.png)
+![z-Grupo-Lendas_TuPana.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/z-Grupo-Lendas_TuPana.png)
 
 ---
 #### Sessão 01 - Taboão Dasserra

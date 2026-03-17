@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Cifer/","created":"2025-10-13T17:42:13.214-03:00","updated":"2025-12-12T20:31:35.564-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Cifer/","created":"2025-10-13T17:42:13.214-03:00","updated":"2026-03-17T16:59:18.830-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*
 *Grupo: [[Aventuras/80 Missão Hereditus/Marc Rogers\|Marc Rogers]] e [[Aventuras/80 Missão Hereditus/Oraskin\|Oraskin]].*
 
-![Cifer.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Cifer.jpg)
+![z-Imagem-Cifer.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cifer.jpg)
 
 **Raça:** Alienígena
 **Origem:** 

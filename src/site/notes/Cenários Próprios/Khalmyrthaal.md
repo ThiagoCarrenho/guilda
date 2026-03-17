@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-17T11:37:25.504-03:00"}
+{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-17T17:08:17.667-03:00"}
 ---
 
 ## Descrição de Cenário
@@ -20,7 +20,7 @@ Os moradores das mais variadas raças juntaram tudo o que tinham e saíram junto
 Durante algum tempo os moradores viajaram juntos ao clérigo, nesse caminho encontraram com alguns moradores sem casa, alguns migrantes e nômades, estes se juntaram a Cartemir. Após um longo percurso, via terra e mar, encontraram um novo continente, a este foi dado o nome Khalmyrthaal, a Terra Sagrada de Khalmyr. Os moradores contentes com o conhecimento de caminhos e habilidades cartográficas do clérico começaram a cultuar ele como o deus dos mapas, e assim Cartemir Aerthun se tornou um deus menor.
 O deus dos mapas gostaria que todos fossem uma única nação, mas os moradores não fizeram assim, cada um foi com o seu vilarejo, mesmo com muitos moradores misturados com outras raças, porém nenhum deles aceitou os nômades e aqueles que foram encontrados no caminho, assim um humano de nome desconhecido, citado como Jamais Observado levou eles para uma ilha cheia de vulcões ao nordeste do continente, chamou a ilha de Vaporia (6), pelo vapor expelido pelos vulcões e criou a cidade de Oggetor.
 
-![Pasted image 20251017180829.jpg](/img/user/Cen%C3%A1rios%20Pr%C3%B3prios/Pasted%20image%2020251017180829.jpg)
+![z-mapa-khalmyrthaal.jpg](/img/user/Cen%C3%A1rios%20Pr%C3%B3prios/z-mapa-khalmyrthaal.jpg)
 
 Os outros reinos são:
 1. **Thargrum**, o Reino dos Anões, atualmente governado por Durak Marteloférreo, sua economia gira em torno de mineração, forjas e fabricação de armas e amraduras;
@@ -39,9 +39,9 @@ Os outros reinos são:
 Esses reinos formam Khalmyrthaal, todos cultuam Cartemir Aerthun, e sua crença é fortificada pelo lago dos ventos (8), onde, desde que chegaram um rochedo forma uma rosa dos ventos no meio do lago.
 Cartemir proibiu por muito tempo que os habitantes tivessem contato com outros continentes, mas Oggetor, por motivos econômicos, sempre insistiu na abertura de Khalmythaal, e o deus dos mapas liberou após 1000 anos do continente, apenas quando garantiu que todos os reinos estivessem bem estabilizados e conseguiriam conter possíveis ameaças.
 
-![Pasted image 20251017180835.jpg](/img/user/Cen%C3%A1rios%20Pr%C3%B3prios/Pasted%20image%2020251017180835.jpg)
+![z-mapa-ilha_dos_ventos.jpg](/img/user/Cen%C3%A1rios%20Pr%C3%B3prios/z-mapa-ilha_dos_ventos.jpg)
 #### Brasão de Eldoria
-![Pasted image 20251017180722.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/Pasted%20image%2020251017180722.jpg)
+![z-Brasao-Eldoria.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Eldoria.jpg)
 
 #### Brasão de Thargrum
-![Pasted image 20251017180804.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/Pasted%20image%2020251017180804.jpg)
+![z-Brasao-Thargrum.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Thargrum.jpg)

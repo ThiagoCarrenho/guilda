@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Oraskin/","created":"2025-10-13T17:42:13.224-03:00","updated":"2025-12-12T20:24:43.898-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Oraskin/","created":"2025-10-13T17:42:13.224-03:00","updated":"2026-03-17T16:58:59.632-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*
@@ -9,8 +9,8 @@
 **Origem:** Student (Estudante)
 **Classe:** Psychic (Psiônico)
 
-![Oraskin.png](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Oraskin.png)
-![Oraskin-Moleque.jpeg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/Oraskin-Moleque.jpeg)
+![z-Token-Oraskin.png](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Token-Oraskin.png)
+![z-Imagem-Oraskin-Moleque.jpeg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Oraskin-Moleque.jpeg)
 
 ### História
 Oraskin, o pequenino, pouco sabe sobre sua própria história, não sabe que seu verdadeiro nome é Bev Greatwall, que é de família nobre, neto do chefe de uma grande empresa de espaçonaves, a GWM. Desde suas primeiras memórias é chamado de ORA-Skin-O3. Operation Recovery Arena for Skin treatment - Adept O3.

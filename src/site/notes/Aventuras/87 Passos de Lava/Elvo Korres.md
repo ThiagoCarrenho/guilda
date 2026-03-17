@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/87 Passos de Lava/Elvo Korres/","created":"2025-10-13T17:42:13.538-03:00","updated":"2025-10-24T13:50:16.706-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/87 Passos de Lava/Elvo Korres/","created":"2025-10-13T17:42:13.538-03:00","updated":"2026-03-17T16:39:01.710-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/87 Passos de Lava/Passos de Lava\|Passos de Lava]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,7 +9,7 @@
 **Origem:** Grumete Pirata
 **Classe:** Bucaneiro
 
-![elvo.png](/img/user/Aventuras/87%20Passos%20de%20Lava/elvo.png)
+![z-Token-Elvo.png](/img/user/Aventuras/87%20Passos%20de%20Lava/z-Token-Elvo.png)
 #### Descrição
 - Parte dos Ouro Molhado, viveu beira-mar, deixou a vida de pirata para a de aventureiro
 - Viajante portuário
@@ -38,4 +38,4 @@ Leve, esbelto, com um sorriso malicioso no rosto, usa um chapéu de palha que re
 ---
 #### Ficha
 
-![Elvo Korres_page-0001.jpg](/img/user/Aventuras/87%20Passos%20de%20Lava/Elvo%20Korres_page-0001.jpg)
+![z-Ficha-Elvo.jpg](/img/user/Aventuras/87%20Passos%20de%20Lava/z-Ficha-Elvo.jpg)

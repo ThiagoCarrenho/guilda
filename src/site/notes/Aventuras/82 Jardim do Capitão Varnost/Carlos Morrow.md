@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Carlos Morrow/","created":"2025-10-13T17:42:11.011-03:00","updated":"2025-10-16T15:59:22.472-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Carlos Morrow/","created":"2025-10-13T17:42:11.011-03:00","updated":"2026-03-17T16:42:40.301-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,7 +10,7 @@
 **Classe:** Arcanista Feiticeiro Linhagem Abençoada de Aharadakk 1
 **Divindade:** Em dúvida
 
-![morrow.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/morrow.png)
+![z-Token-Morrow.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Token-Morrow.png)
 #### Descrição
 - Pescador, morreu em naufrágio, mas foi revivido por um monstro-divindade das profundezas, Yrr’thulu 
 - Voltou com marcas, traz consigo uma pele mais parecida com peixe, e seu cabelo se transformou em tentáculos
@@ -20,4 +20,4 @@
 
 ---
 #### Ficha
-![morrow_page-0001.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/morrow_page-0001.jpg)
+![z-Ficha-Morrow.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Ficha-Morrow.jpg)

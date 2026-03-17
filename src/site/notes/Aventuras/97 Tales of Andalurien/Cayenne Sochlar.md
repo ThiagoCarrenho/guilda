@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Cayenne Sochlar/","created":"2025-10-14T11:30:13.351-03:00","updated":"2025-10-16T11:17:06.095-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Cayenne Sochlar/","created":"2025-10-14T11:30:13.351-03:00","updated":"2026-03-17T12:58:57.099-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], no sistema [[Sistemas/D&D 5e\|D&D 5e]].*
@@ -11,10 +11,10 @@
 
 #### Início
 
-![Cayenne Sochlar by Hero Forge token.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/Cayenne%20Sochlar%20by%20Hero%20Forge%20token.png)
+![z-Token-Cayenne.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Token-Cayenne.png)
 #### Fim
 
-![Cayenne Sochlar Batalha Final by Hero Forge token.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/Cayenne%20Sochlar%20Batalha%20Final%20by%20Hero%20Forge%20token.png)
+![z-Token-Cayenne_Batalha_Final.png](/img/user/Aventuras/97%20Tales%20of%20Andalurien/z-Token-Cayenne_Batalha_Final.png)
 #### Descrição
 - Bela barba e cabelo
 - Líder, intimidador

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Príncipe Intinho/","created":"2025-10-14T10:54:09.288-03:00","updated":"2025-10-16T14:11:57.400-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Príncipe Intinho/","created":"2025-10-14T10:54:09.288-03:00","updated":"2026-03-17T16:19:03.016-03:00"}
 ---
 
 *Personagem de [[Jogadores/Giovanni Chefe\|Giovanni Chefe]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -8,7 +8,7 @@
 **Raça:** Hynne
 **Classe:** Nobre
 
-![Intinho_token.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/Intinho_token.png)![IntinhoHF_token.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/IntinhoHF_token.png)
+![z-Token-Intinho.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/z-Token-Intinho.png)![z-Token-Intinho_HF.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/z-Token-Intinho_HF.png)
 
 #### Descrição
 - Criado em Galrasia, como divindade

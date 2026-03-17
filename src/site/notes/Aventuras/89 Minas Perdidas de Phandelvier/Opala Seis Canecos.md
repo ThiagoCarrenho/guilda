@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/89 Minas Perdidas de Phandelvier/Opala Seis Canecos/","created":"2025-10-13T18:26:43.163-03:00","updated":"2025-10-16T11:15:11.362-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/89 Minas Perdidas de Phandelvier/Opala Seis Canecos/","created":"2025-10-13T18:26:43.163-03:00","updated":"2026-03-17T16:38:02.728-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/89 Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier\|Minas Perdidas de Phandelvier]], no sistema [[Sistemas/D&D 5e\|D&D 5e]] .*
@@ -17,7 +17,7 @@
 - Viva numa vila no meio da montanha, que foi destruída pelo Tesla
 - Jurou destruir a criatura
 
-![Opala.png](/img/user/Aventuras/89%20Minas%20Perdidas%20de%20Phandelvier/Opala.png)
+![z-Token-Opala.png](/img/user/Aventuras/89%20Minas%20Perdidas%20de%20Phandelvier/z-Token-Opala.png)
 
 ---
 #### Background
@@ -41,4 +41,4 @@ Venceu a criatura e retornou para reconstruir a Vila, se tornando um herói loca
 ---
 #### Ficha
 
-<iframe src="/img/user/Aventuras/89%20Minas%20Perdidas%20de%20Phandelvier/Opala.pdf" width="100%" height="900px" title="Opala.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/Aventuras/89%20Minas%20Perdidas%20de%20Phandelvier/z-Ficha-Opala.pdf" width="100%" height="900px" title="z-Ficha-Opala.pdf" style="border:1px solid #ccc;"></iframe>

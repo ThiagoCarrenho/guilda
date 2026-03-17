@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Isriktas Skyline/","created":"2025-10-13T17:42:08.682-03:00","updated":"2025-10-16T13:11:39.724-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Isriktas Skyline/","created":"2025-10-13T17:42:08.682-03:00","updated":"2026-03-17T16:39:50.387-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,7 +9,7 @@
 **Origem:** Aristocrata
 **Classe:** Arcanista Feiticeiro de Linhagem Dracônica 6, Nobre 1
 
-![token com borda.png](/img/user/Aventuras/85%20Ca%C3%A7ada%20nas%20Sanguin%C3%A1rias/token%20com%20borda.png)
+![z-Token-Isriktas.png](/img/user/Aventuras/85%20Ca%C3%A7ada%20nas%20Sanguin%C3%A1rias/z-Token-Isriktas.png)
 #### Descrição
 - Criado por druidas no castelo de uma das filhas de Schkar 
 - Criado para ser um grande feiticeiro real

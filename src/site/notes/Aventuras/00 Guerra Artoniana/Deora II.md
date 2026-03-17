@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2025-10-16T12:31:08.144-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-03-17T17:09:48.711-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
 *Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Mya\|Mya]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
-Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
+Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
 
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
@@ -18,7 +18,7 @@ Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Rome
 - A pessoa mais boazinha do mundo
 - Usa uma roupa com os símbolos divinos de todas as divindades… ou quase isso
 
-![Deora_II_2_screenshot__1_-removebg-preview.png](/img/user/Aventuras/00%20Guerra%20Artoniana/Deora_II_2_screenshot__1_-removebg-preview.png)
+![z-Imagem-Deora_II.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Deora_II.png)
 
 ---
 #### Background

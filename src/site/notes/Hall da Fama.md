@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-14T13:52:20.411-03:00"}
+{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-17T17:09:29.833-03:00"}
 ---
 
 ### Personagens
@@ -49,7 +49,7 @@ Aqui jazem os personagens que tiveram sua história interrompida.
 *Não constam aqueles que morreram de velhice ou causas naturais, nem os aposentados ou aqueles que não tiveram a história finalizada. Apenas os que morreram durante os jogos.*
 - † [[Aventuras/91 Ascenção do Deus Dragão/Raiden\|Raiden]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/91 Ascenção do Deus Dragão/Lin Lang\|Lin Lang]] ([[Jogadores/Plínio\|Plínio]]) - [[Aventuras/91 Ascenção do Deus Dragão/Ascenção do Deus Dragão\|Ascenção do Deus Dragão]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeu\|Alfa Romeu]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] ([[Jogadores/Miguel de Maria\|Miguel de Maria]]) - [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] ([[Jogadores/Laura\|Laura]]) - [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
 - † [[Aventuras/79 Sumiço de Mike/LC Toyota\|LC Toyota]] ([[Jogadores/Thiago Carro\|Thiago Carro]]) - [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]] - morto pelas mãos de [[Jogadores/Raul Teixeira\|Raul Teixeira]];

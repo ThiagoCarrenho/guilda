@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/86 Posto de Troca Baixa Vila de Lena/Daw'Kruzar/","created":"2025-10-13T17:42:15.400-03:00","updated":"2025-10-24T13:15:21.499-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/86 Posto de Troca Baixa Vila de Lena/Daw'Kruzar/","created":"2025-10-13T17:42:15.400-03:00","updated":"2026-03-17T16:39:39.432-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/86 Posto de Troca Baixa Vila de Lena/Posto de Troca Baixa Vila de Lena\|Posto de Troca Baixa Vila de Lena]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,7 +10,7 @@
 **Classe:** Místico da Luz e do Fogo
 **Divindade:** Azgher
 
-![token_2.png](/img/user/Aventuras/86%20Posto%20de%20Troca%20Baixa%20Vila%20de%20Lena/token_2.png)
+![z-Token-Daw_Kruzar.png](/img/user/Aventuras/86%20Posto%20de%20Troca%20Baixa%20Vila%20de%20Lena/z-Token-Daw_Kruzar.png)
 #### Descrição
 - Geômetro de Tanna-Toh
 - Halak-Tur - Cidade do Deserto
@@ -46,4 +46,4 @@ Adaptado de Toyota Land Cruiser em árabe, utilizando no lugar de "Land", seu el
 
 ---
 #### Ficha
-![dawkruzar_page-0001.jpg](/img/user/Aventuras/86%20Posto%20de%20Troca%20Baixa%20Vila%20de%20Lena/dawkruzar_page-0001.jpg)
+![z-Ficha-Daw_Kruzar.jpg](/img/user/Aventuras/86%20Posto%20de%20Troca%20Baixa%20Vila%20de%20Lena/z-Ficha-Daw_Kruzar.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Nitro Tolueno/","created":"2025-10-13T17:42:11.183-03:00","updated":"2025-10-24T11:39:34.752-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Nitro Tolueno/","created":"2025-10-13T17:42:11.183-03:00","updated":"2026-03-17T16:40:46.105-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem\|Conto de Bela Passagem]], no sistema [[Sistemas/Skyfall RPG\|Skyfall RPG]].*
@@ -13,7 +13,7 @@
 - 4 Pontos de Sombra gastos
 - 1 Teste de Morte falhado
 
-![nitro.jpg](/img/user/Aventuras/83%20Conto%20de%20Bela%20Passagem/nitro.jpg)
+![z-Imagem-Nitro.jpg](/img/user/Aventuras/83%20Conto%20de%20Bela%20Passagem/z-Imagem-Nitro.jpg)
 
 #### Atributos
 - FOR 0

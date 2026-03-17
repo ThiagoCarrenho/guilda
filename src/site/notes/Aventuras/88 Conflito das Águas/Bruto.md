@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Bruto/","created":"2025-10-13T17:42:08.636-03:00","updated":"2025-10-24T11:59:55.716-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Bruto/","created":"2025-10-13T17:42:08.636-03:00","updated":"2026-03-17T16:38:27.718-03:00"}
 ---
 
 *Personagem de [[Jogadores/George\|George]] em [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,7 +10,7 @@
 **Classe:** Ladino
 **Divindade:** Valkaria
 
-![bruto.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/bruto.jpg)
+![z-Imagem-Bruto.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/z-Imagem-Bruto.jpg)
 
 ---
 #### Descrição
@@ -18,4 +18,4 @@
 - Busca paz e outras maneiras de resolver problemas
 
 #### Ficha
-![bruto_page-0001.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/bruto_page-0001.jpg)
+![z-Ficha-Bruto.jpg](/img/user/Aventuras/88%20Conflito%20das%20%C3%81guas/z-Ficha-Bruto.jpg)

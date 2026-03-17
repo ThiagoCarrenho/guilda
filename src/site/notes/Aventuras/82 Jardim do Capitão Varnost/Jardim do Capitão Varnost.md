@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost/","pinned":true,"created":"2025-10-13T17:42:11.075-03:00","updated":"2026-03-06T19:02:05.893-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost/","pinned":true,"created":"2025-10-13T17:42:11.075-03:00","updated":"2026-03-17T16:44:00.782-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];
@@ -16,9 +16,9 @@ Participam desta história:
 - [[Aventuras/82 Jardim do Capitão Varnost/Mik-Asa\|Mik-Asa]], o coco (literalmente) de [[Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/82 Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Jogadores/Miguel de Maria\|Miguel de Maria]];
 
-![grupo.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/grupo.jpg)
-![Vila do Mirante.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/Vila%20do%20Mirante.png)
-![acd7bdcf-4ef7-47ee-a327-45f85621179f.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/acd7bdcf-4ef7-47ee-a327-45f85621179f.png)
+![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
+![z-Imagem-Vila_do_Mirante.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Imagem-Vila_do_Mirante.png)
+![z-Imagem-Vila_Atacada_YrrThulu.png](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Imagem-Vila_Atacada_YrrThulu.png)
 
 ---
 #### Prólogo

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço/","created":"2025-10-17T18:09:06.414-03:00","updated":"2026-02-24T15:20:24.006-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço/","created":"2025-10-17T18:09:06.414-03:00","updated":"2026-03-17T17:07:44.271-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
 *Grupo:  [[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]].
 
-![token-fusca.png](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/token-fusca.png)
+![z-Token-Fusca.png](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Token-Fusca.png)
 
 **Nome:** Fusca Chassi-de-Aço
 **Raça:** Yidishan (Anão)

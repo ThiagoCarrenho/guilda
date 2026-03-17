@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kael/","created":"2025-10-14T10:49:45.016-03:00","updated":"2025-10-16T14:12:33.539-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kael/","created":"2025-10-14T10:49:45.016-03:00","updated":"2026-03-17T16:18:44.174-03:00"}
 ---
 
 *Personagem de [[Jogadores/Plínio\|Plínio]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,7 +9,7 @@
 **Classe:** Arcanista
 **Divindade:** Tanna-Toh
 
-![Kael_token.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/Kael_token.png)![Lobinho_bg 1.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/Lobinho_bg%201.png)
+![z-Token-Kael.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/z-Token-Kael.png)![z-Imagem-Lobinho.png](/img/user/Aventuras/94%20Lendas%20de%20Tu'Pana/z-Imagem-Lobinho.png)
 #### Descrição
 - Estudioso ao máximo
 - Misterioso
