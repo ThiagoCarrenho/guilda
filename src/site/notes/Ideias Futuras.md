@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-17T11:21:13.383-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-17T21:23:47.147-03:00"}
 ---
 
+# Personagens Futuros
+Eis a seguir um conjunto de ideias para futuros personagens, separado por criadores
+#### [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]
+- Sir Ossoduro, o Morto - Cavaleiro Osteon;
+- Mecha-c0 - um golem/robô no formato de macaco;
+#### [[Jogadores/Thiago Carro\|Thiago Carro]]
+- Crow-Elkhart - o corvo fintástico (build voltada para a manobra "Finta");
+- Seu Uninho - o comum;
+
+---
+# Aventuras Futuras
 Aqui vão algumas ideias para a continuidade de nossas aventuras, possíveis futuras mesas, e outras histórias.
 A numeração e ordem das aventuras é feita de acordo com a nossa lembrança e, de forma alguma, representa prioridade.
 
