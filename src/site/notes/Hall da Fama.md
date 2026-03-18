@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-17T17:09:29.833-03:00"}
+{"dg-publish":true,"permalink":"/Hall da Fama/","pinned":true,"created":"2025-10-16T09:56:09.981-03:00","updated":"2026-03-17T23:25:04.722-03:00"}
 ---
 
 ### Personagens
@@ -16,7 +16,7 @@ Lista dos personagens que marcaram a história da GUILDA:
 - Os personagens favoritos de cada um (ordem alfabética):
     * [[Aventuras/97 Tales of Andalurien/Belega\|Belega]] - [[Jogadores/Franciane\|Franciane]];
     * [[Aventuras/88 Conflito das Águas/Bruto\|Bruto]] - [[Jogadores/George\|George]];
-    * ? [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+    * [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] - [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
     * [[Aventuras/91 Ascenção do Deus Dragão/Escallac Dallennordre\|Escallac Dallennordre]] - [[Jogadores/Thiago Carro\|Thiago Carro]];
     * ? [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] - [[Jogadores/Miguel de Maria\|Miguel de Maria]];
     * ? [[Aventuras/94 Lendas de Tu'Pana/Kael\|Kael]] - [[Jogadores/Plínio\|Plínio]];
