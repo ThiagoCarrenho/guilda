@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-17T17:09:28.403-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-17T21:24:22.202-03:00"}
 ---
 
 # A GUILDA
@@ -14,7 +14,7 @@ Para conhecer nossa história, acesse [[História da GUILDA\|História da GUILDA
 
 Para ver os jogos que jogamos, acesse [[Aventuras\|Aventuras]].
 
-Para ver nossas próximas possíveis histórias, acesse [[Ideias Futuras\|Ideias Futuras]].
+Para ver nossas próximas possíveis histórias e heróis, acesse [[Ideias Futuras\|Ideias Futuras]].
 
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
