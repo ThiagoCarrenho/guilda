@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-18T12:49:35.368-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-18T13:05:47.850-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -24,8 +24,15 @@ Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Sist
 ---
 ## Sessão 1 (13/03/2026) - Malditas Grades!
 Em um canto escuro de uma sala, vemos uma criatura sombria, deitada, caída no chão. Ele abre os olhos, acordando, começa a se erguer, e nota que suas mãos estão algemadas, assim como os seus pés.
-É Thiagrel, um suraggel sulfure de cabelos castanhos, chifres encaracolados saindo da lateral do rosto. Ele se põe de pé silenciosamente, e começa a observar o ambiente a seu redor, alerta, como um bom caçador.
-Olhando ao seu redor, ele percebe estar numa cela, preso, mas não se recorda de como fora capturado. Apenas se recorda de estar cansado, e deitar à cama em seu lar. Na cela com ele se encontra um anão
+É Thiagrel, um suraggel sulfure de cabelos castanhos, chifres encaracolados saindo da lateral do rosto. Ele se põe de pé silenciosamente, e começa a observar o ambiente a seu redor, alerta, como um bom caçador, seu olhar é ameaçador, como se procurando uma nova presa.
+Olhando ao seu redor, ele percebe estar numa cela, preso, mas não se recorda de como fora capturado. Apenas se recorda de estar cansado, e deitar à cama em seu lar. Na cela com ele se encontra um anão, deitado no chão, duro como pedra, parecendo até mesmo estar morto.
+
+Enquanto escaneia a situação, um barulho mecânico e um vapor irrompem do outro lado da sala, e então ele nota o desperta de um golem de bronze, movido à vapor. Desperto, Jack O'Vapor toma a mesma postura do sulfure, e, silenciosamente, tenta entender a situação.
+Ao seu lado se encontra um amontoado de penas - um tengu, que assim como o anão, parece estar morto.
+
+Neste momento se ouve o som de alguém fazendo um esforço, e se nota um meio-anjo, outro suraggel, dessa vez um aggelus, de beleza estonteante, muito mais belo que o corracial.
+Sir Galabriel solta ainda um "não serei preso de novo!" em meio aos seus grunhidos, mas não tem sucesso em quebrar as algemas que o prendem.
+
 > 
 
 thiagrel - dormindo, pequeno, cabelos castanhos, chifre encaracolado no lado do rosoto, olhar ameaçador, sempre de olho , a procura de uma nova presa, e encontrar o e - dormindo na própria casa

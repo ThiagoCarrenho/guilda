@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-17T21:24:22.202-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-18T14:35:13.344-03:00"}
 ---
 
 # A GUILDA
@@ -28,6 +28,8 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - OwlBear: https://www.owlbear.rodeo/ - simples e rápido... e gratuito;
 - Roll20: https://roll20.net/welcome - quase completo, mas gratuito;
 #### Imagens de Personagem
+- 2-Minute: https://2minutetabletop.com/2-minute-token-editor/
+- Czepeku: https://www.czepeku.com/ - alguns tokens gratuitos;
 - HeroForge: https://www.heroforge.com/ - criador de miniaturas 3D;
 - Rerrol: https://reroll.co/ - pixel art simples;
 - TokenStamp: http://rolladvantage.com/tokenstamp/ - tokens de personagens;
@@ -36,7 +38,9 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - Fast Character: https://fastcharacter.com/ - Fichas rápidas e/ou aleatórias para [[Sistemas/D&D 5e\|D&D 5e]];
 - Fichas de Nimb: https://fichasdenimb.com.br/#/ - Fichas rápidas e/ou aleatórias para [[Sistemas/Tormenta20\|Tormenta20]];
 #### Gerador de Mapa:
+- 2-Minute: https://2minutetabletop.com - assets;
 - Azgaar (gerador mapa-mundis): https://azgaar.github.io/Fantasy-Map-Generator/ - gera um mundo aleatório;
+- Czepeku: https://www.czepeku.com/ - alguns mapas gratuitos;
 * Dave's Mapper (dungeon): https://davesmapper.com/ - completo, sem ser complexo;
 * DeepNight (dungeon): https://deepnight.net/tools/rpg-map/ - rápido e intuitivo;
 * Dungeon Scrawl (apenas dungeon): https://www.dungeonscrawl.com/ - intuitivo e fácil de usar, conecta com o Roll20;
