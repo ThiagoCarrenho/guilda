@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-03-17T20:41:18.639-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-03-17T21:13:07.166-03:00"}
 ---
 
 Amigo de ensino médio de [[Jogadores/Raul Teixeira\|Raul Teixeira]] - formando a dupla dos 'Raulzes'.
@@ -23,8 +23,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o fumaceiro de bronze em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o pula-muros em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
+- [[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o fumaceiro de bronze, e [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o pula-muros, em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - † [[Aventuras/79 Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]];
 - [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/80 Missão Hereditus/Cifer\|Cifer]], o alienígena lagarto sniper de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]];

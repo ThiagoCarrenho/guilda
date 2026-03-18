@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-17T17:08:17.500-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-17T21:14:30.673-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
@@ -12,6 +12,7 @@
 
 **Descrição:** Anões guerream pela irmandade.
 **Cenário:** [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
+**Curiosidade:** Tudo nesta aventura segue os nomes de músicas de Wind Rose.
 
 **Personagens e Jogadores:**
 - [[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
