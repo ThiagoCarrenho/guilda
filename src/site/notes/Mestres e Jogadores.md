@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"created":"2025-10-14T12:03:39.305-03:00","updated":"2026-03-17T11:29:00.861-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/","pinned":true,"created":"2025-10-14T12:03:39.305-03:00","updated":"2026-03-19T19:07:50.546-03:00"}
 ---
 
 Para conhecer mais dos sistemas apresentados, acesse [[Sistemas\|Sistemas]].

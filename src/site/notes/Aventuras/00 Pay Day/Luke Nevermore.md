@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Luke Nevermore/","created":"2026-03-07T17:58:17.913-03:00","updated":"2026-03-17T17:06:37.988-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Luke Nevermore/","created":"2026-03-07T17:58:17.913-03:00","updated":"2026-03-19T19:06:13.535-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Teixeira\|Raul Teixeira]] em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*

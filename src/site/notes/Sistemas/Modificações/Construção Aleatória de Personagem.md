@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Modificações/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-16T19:47:34.972-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Modificações/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-19T19:08:11.339-03:00"}
 ---
 
 Antes de qualquer coisa, este guia é para aleatorizar um personagem nível 1 de [[Sistemas/Tormenta20\|Tormenta20]], mas é conveniente que cada jogador jogue com um personagem que se sinta à vontade em interpretar. Por exemplo, o [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem o costume de jogar com personagens baixos, e só jogaria com um que pudesse dar esta forma de roleplay, assim, ao sortear um Suraggel na tabela, ele disse que seria um Suraggel baixinho, de no máximo 1,50m de altura.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Phalássios Dolofónos/","created":"2025-10-13T17:42:11.006-03:00","updated":"2026-03-17T16:42:09.102-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/82 Jardim do Capitão Varnost/Phalássios Dolofónos/","created":"2025-10-13T17:42:11.006-03:00","updated":"2026-03-19T19:06:07.301-03:00"}
 ---
 
 *Personagem de [[Jogadores/Miguel de Maria\|Miguel de Maria]] em [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

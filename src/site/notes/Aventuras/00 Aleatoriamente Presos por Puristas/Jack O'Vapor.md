@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor/","created":"2026-03-17T20:39:56.050-03:00","updated":"2026-03-18T18:07:06.608-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor/","created":"2026-03-17T20:39:56.050-03:00","updated":"2026-03-19T19:06:13.717-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

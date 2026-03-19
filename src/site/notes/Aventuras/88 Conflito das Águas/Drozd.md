@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Drozd/","created":"2025-10-13T17:42:08.724-03:00","updated":"2026-03-17T16:38:44.180-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/88 Conflito das Águas/Drozd/","created":"2025-10-13T17:42:08.724-03:00","updated":"2026-03-19T19:06:03.340-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/88 Conflito das Águas/Conflito das Águas\|Conflito das Águas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

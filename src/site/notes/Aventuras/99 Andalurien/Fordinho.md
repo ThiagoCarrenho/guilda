@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Fordinho/","created":"2025-10-14T11:41:49.655-03:00","updated":"2026-03-17T11:22:40.680-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Fordinho/","created":"2025-10-14T11:41:49.655-03:00","updated":"2026-03-19T19:05:58.833-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]], sem sistema.

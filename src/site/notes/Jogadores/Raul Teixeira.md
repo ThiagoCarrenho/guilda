@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-03-17T11:26:36.713-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-03-19T19:08:04.117-03:00"}
 ---
 
 Noivo da [[Jogadores/Daniela\|Daniela]], irmão da [[Jogadores/Laura\|Laura]], primo de [[Jogadores/Jozsef\|Jozsef]] e padrinho de casamento de [[Jogadores/Thiago Carro\|Thiago Carro]] e Fernanda.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Biga/","created":"2026-03-17T18:45:51.616-03:00","updated":"2026-03-18T18:06:45.268-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Biga/","created":"2026-03-17T18:45:51.616-03:00","updated":"2026-03-19T19:06:13.609-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

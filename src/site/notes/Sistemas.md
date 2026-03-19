@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/","pinned":true,"created":"2025-10-16T10:13:51.636-03:00","updated":"2026-03-17T11:21:51.580-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/","pinned":true,"created":"2025-10-16T10:13:51.636-03:00","updated":"2026-03-19T19:07:49.678-03:00"}
 ---
 
 # Sistemas

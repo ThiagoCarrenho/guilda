@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones/","created":"2026-03-17T20:43:51.558-03:00","updated":"2026-03-18T18:07:02.533-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones/","created":"2026-03-17T20:43:51.558-03:00","updated":"2026-03-19T19:06:13.833-03:00"}
 ---
 
 *Personagem de [[Jogadores/Raul Ouros\|Raul Ouros]] em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

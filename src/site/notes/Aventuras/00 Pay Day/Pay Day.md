@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-17T17:01:17.084-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-19T19:06:13.248-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Oraskin/","created":"2025-10-13T17:42:13.224-03:00","updated":"2026-03-17T16:58:59.632-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Oraskin/","created":"2025-10-13T17:42:13.224-03:00","updated":"2026-03-19T19:06:10.111-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]], no sistema [[Sistemas/Stars Without Numbers\|Stars Without Numbers]].*

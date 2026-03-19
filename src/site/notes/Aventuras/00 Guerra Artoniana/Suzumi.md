@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Suzumi/","created":"2025-10-13T17:42:13.182-03:00","updated":"2026-03-17T17:09:29.711-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Suzumi/","created":"2025-10-13T17:42:13.182-03:00","updated":"2026-03-19T19:06:06.268-03:00"}
 ---
 
 *Personagem **falecida** de [[Jogadores/Laura\|Laura]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

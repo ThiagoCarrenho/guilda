@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-17T17:37:19.653-03:00"}
+{"dg-publish":true,"permalink":"/Cenários Próprios/Khalmyrthaal/","created":"2026-03-17T10:55:22.348-03:00","updated":"2026-03-19T19:07:49.411-03:00"}
 ---
 
 ## Descrição de Cenário

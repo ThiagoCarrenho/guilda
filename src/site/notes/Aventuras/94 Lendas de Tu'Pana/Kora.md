@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kora/","created":"2025-10-14T10:51:53.661-03:00","updated":"2026-03-17T16:18:36.470-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kora/","created":"2025-10-14T10:51:53.661-03:00","updated":"2026-03-19T19:06:07.627-03:00"}
 ---
 
 *Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

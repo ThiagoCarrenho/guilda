@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kael/","created":"2025-10-14T10:49:45.016-03:00","updated":"2026-03-17T16:18:44.174-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/94 Lendas de Tu'Pana/Kael/","created":"2025-10-14T10:49:45.016-03:00","updated":"2026-03-19T19:06:07.469-03:00"}
 ---
 
 *Personagem de [[Jogadores/Plínio\|Plínio]] em [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*

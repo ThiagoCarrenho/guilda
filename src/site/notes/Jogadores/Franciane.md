@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Franciane/","created":"2025-10-14T11:20:41.422-03:00","updated":"2025-10-15T18:05:33.500-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Franciane/","created":"2025-10-14T11:20:41.422-03:00","updated":"2026-03-19T19:08:02.242-03:00"}
 ---
 
 Católica, Engenheira Mecânica e apaixonada por Senhor dos Anéis. Musicista excelente.

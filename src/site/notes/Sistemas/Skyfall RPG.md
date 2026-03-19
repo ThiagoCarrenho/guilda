@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Skyfall RPG/","created":"2025-10-13T17:42:06.405-03:00","updated":"2025-10-15T18:05:01.457-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Skyfall RPG/","created":"2025-10-13T17:42:06.405-03:00","updated":"2026-03-19T19:08:10.618-03:00"}
 ---
 
 Aventuras que utilizam este sistema:

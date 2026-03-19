@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Cayenne Sochlar/","created":"2025-10-14T11:30:13.351-03:00","updated":"2026-03-17T23:20:03.087-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/97 Tales of Andalurien/Cayenne Sochlar/","created":"2025-10-14T11:30:13.351-03:00","updated":"2026-03-19T19:06:12.543-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], no sistema [[Sistemas/D&D 5e\|D&D 5e]].*

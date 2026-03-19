@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-17T21:14:30.673-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Irmandade do Martelo/Irmandade do Martelo/","pinned":true,"created":"2025-10-17T17:56:23.598-03:00","updated":"2026-03-19T19:06:09.269-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];

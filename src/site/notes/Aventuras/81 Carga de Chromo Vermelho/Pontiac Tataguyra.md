@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Pontiac Tataguyra/","created":"2025-10-13T17:42:08.770-03:00","updated":"2026-03-17T16:44:10.483-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/81 Carga de Chromo Vermelho/Pontiac Tataguyra/","created":"2025-10-13T17:42:08.770-03:00","updated":"2026-03-19T19:06:00.606-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/81 Carga de Chromo Vermelho/Carga de Chromo Vermelho\|Carga de Chromo Vermelho]], no sistema [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].*

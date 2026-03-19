@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cenários Próprios/Andalurien/","created":"2026-03-17T11:23:18.852-03:00","updated":"2026-03-17T17:31:34.138-03:00"}
+{"dg-publish":true,"permalink":"/Cenários Próprios/Andalurien/","created":"2026-03-17T11:23:18.852-03:00","updated":"2026-03-19T19:07:49.548-03:00"}
 ---
 
 ## Descrição de Cenário

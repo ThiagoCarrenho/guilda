@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel/","created":"2026-03-17T20:45:27.578-03:00","updated":"2026-03-18T18:07:12.609-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel/","created":"2026-03-17T20:45:27.578-03:00","updated":"2026-03-19T19:06:13.779-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
