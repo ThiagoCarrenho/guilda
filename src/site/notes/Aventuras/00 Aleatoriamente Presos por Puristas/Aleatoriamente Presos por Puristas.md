@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T18:21:32.243-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T18:51:56.755-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -23,7 +23,6 @@ Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Sist
 
 ---
 ## Sessão 1 (13/03/2026) - Malditas Grades!
-<p align="justify">
 Em um canto escuro de uma sala, vemos uma criatura sombria, deitada, caída no chão. Ele abre os olhos, acordando, começa a se erguer, e nota que suas mãos estão algemadas, assim como os seus pés.
 É Thiagrel, um suraggel sulfure de cabelos castanhos, chifres encaracolados saindo da lateral do rosto. Ele se põe de pé silenciosamente, e começa a observar o ambiente a seu redor, alerta, como um bom caçador, seu olhar é ameaçador, como se procurando uma nova presa.
 Olhando ao seu redor, ele percebe estar numa cela, preso, mas não se recorda de como fora capturado. Apenas se recorda de estar cansado, e deitar à cama em seu lar. Na cela com ele se encontra um anão, deitado no chão, duro como pedra, parecendo até mesmo estar morto.
@@ -41,9 +40,9 @@ Por fim, na última cela não vista, ouve-se um murmúrio: "me ajudem...", e se 
 
 Então todos ouvem uma conversa vindo da porta de saída da prisão:
 
-	\- Eles parecem estar acordando, fique de olho neles!
-	\- O que é que vão fazer, haha! Estão presos! Mas precisava ser uma gentinha tão estranha?
-    \- A impureza lhes é inerente, meu jovem.
+\- Eles parecem estar acordando, fique de olho neles!
+\- O que é que vão fazer, haha! Estão presos! Mas precisava ser uma gentinha tão estranha?
+\- A impureza lhes é inerente, meu jovem.
 
 Por fim, aparece um jovem do lado de dentro, apenas observando os presos.
 
