@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T17:43:18.450-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T18:21:32.243-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -23,6 +23,7 @@ Caso deseje ver como ocorre a construção aleatória de personagem, veja [[Sist
 
 ---
 ## Sessão 1 (13/03/2026) - Malditas Grades!
+<p align="justify">
 Em um canto escuro de uma sala, vemos uma criatura sombria, deitada, caída no chão. Ele abre os olhos, acordando, começa a se erguer, e nota que suas mãos estão algemadas, assim como os seus pés.
 É Thiagrel, um suraggel sulfure de cabelos castanhos, chifres encaracolados saindo da lateral do rosto. Ele se põe de pé silenciosamente, e começa a observar o ambiente a seu redor, alerta, como um bom caçador, seu olhar é ameaçador, como se procurando uma nova presa.
 Olhando ao seu redor, ele percebe estar numa cela, preso, mas não se recorda de como fora capturado. Apenas se recorda de estar cansado, e deitar à cama em seu lar. Na cela com ele se encontra um anão, deitado no chão, duro como pedra, parecendo até mesmo estar morto.
@@ -68,7 +69,12 @@ Os detentos começam então a conversar:
  \- Nunca ouvi falar... onde fica?
  \- É só você seguir a sujeira, *hahaha*!
 
+\- Falando nisso, eu não me lembro de como fui preso - diz Gwat.
+\- Eu também não - respondem a maioria dos detentos.
 
+\- Oh, do Beco Sujo - Crojac chama Thiagrel - e esse aí do seu lado?
+
+O meio-anjo olha em volta, chega até o anão, cutuca algumas vezes, mexe nele, mas nada acontece. "Tá duro como pedra", responde
 
 bar do valkarya, em Campo Belo
 
