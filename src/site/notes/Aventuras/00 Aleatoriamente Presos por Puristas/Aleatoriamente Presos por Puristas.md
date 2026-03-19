@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T19:10:44.396-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T19:12:03.313-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -50,7 +50,6 @@ Por fim, aparece um jovem do lado de dentro, apenas observando os presos.
 *Situação inicial da Prisão Purista (ignore as barras de vida, elas representam a saúde dos personagens no final da sessão).*
 
 Os detentos começam então a conversar:
-A
 
 \- Quem é que está ferido? - Pergunta Sir Galabriel, tomando sua honra cavalheiresca a fim de sempre ajudar os necessitados.
 \- É o fortão ali - Respondem, indicando Biga, o forte minotauro sentado em sua cela.
@@ -60,21 +59,21 @@ A
 \- Eu gostaria, anjo. Mas estou preso, com as mãos atadas, não tenho conhecimento médico e nenhum equipamento aqui. O que quer que eu faça, lamba suas feridas?
 
 \- Com licença, senhor troglodita, acorde o meu amigo, por favor? - Jack pede ao companheiro de cela de Ryan que o acorde.
- \- Acorda aí, vagabundo - o trog chuta o kliren - tu tá preso. Aliás, por que é que eu to preso? Eu não fiz nada de errado, pô! - ele começa a se exaltar.
- \- O que é que tu tava fazendo antes de vir pra cá?
- \- Eu estava tocando numa taverna... aliás, eu sou Crojac, o melhor trog cantor de toda Deheon! (...) Depois do Bob, é claro. Alguém mais aqui estava na taverna comigo?
- \- Eu estava na taverna! - Afirma Thiagrel, o sulfure, mentindo.
- \- Você... eu não me lembro... e você é tem uma fisionomia bem marcante, não me leve a mal... você tem certeza que era o Bar do Valkarya, em Campo Belo.
- \- Ah, não, era o Beco Sujo, em Campo Belo também - outra mentira, nem Campo Belo ele conhece.
- \- Nunca ouvi falar... onde fica?
- \- É só você seguir a sujeira, *hahaha*!
+\- Acorda aí, vagabundo - o trog chuta o kliren - tu tá preso. Aliás, por que é que eu to preso? Eu não fiz nada de errado, pô! - ele começa a se exaltar.
+\- O que é que tu tava fazendo antes de vir pra cá?
+\- Eu estava tocando numa taverna... aliás, eu sou Crojac, o melhor trog cantor de toda Deheon! (...) Depois do Bob, é claro. Alguém mais aqui estava na taverna comigo?
+\- Eu estava na taverna! - Afirma Thiagrel, o sulfure, mentindo.
+\- Você... eu não me lembro... e você é tem uma fisionomia bem marcante, não me leve a mal... você tem certeza que era o Bar do Valkarya, em Campo Belo.
+\- Ah, não, era o Beco Sujo, em Campo Belo também - outra mentira, nem Campo Belo ele conhece.
+\- Nunca ouvi falar... onde fica?
+\- É só você seguir a sujeira, *hahaha*!
 
 \- Falando nisso, eu não me lembro de como fui preso - diz Gwat.
 \- Eu também não - respondem a maioria dos detentos.
 
 \- Oh, do Beco Sujo - Crojac chama Thiagrel - e esse aí do seu lado?
 
-O meio-anjo olha em volta, chega até o anão, cutuca algumas vezes, mexe nele, mas nada acontece. "Tá duro como pedra", responde
+O meio-anjo olha em volta, chega até o anão, cutuca algumas vezes, mexe nele, mas nada acontece. "Tá duro como pedra", responde, depois dá um chute, virando o anão para que fique de barriga para cima
 
 bar do valkarya, em Campo Belo
 
