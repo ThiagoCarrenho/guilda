@@ -1,0 +1,28 @@
+/* TEXT INDENT */
+
+/* regular indent */
+.indent .cm-content .cm-line {
+    text-indent: 1.5rem;
+    /* justify-content: space-evenly; */
+    text-align: justify;
+}
+
+/* no indent for header */
+.indent .cm-content .HyperMD-header {
+    text-indent: 0;
+    /* justify-content: space-evenly; */
+}
+
+/* .indent .cm-content .HyperMD-header+.cm-line, */
+/* .indent .cm-content .HyperMD-quote+.cm-line { */
+    /* text-indent: 0; */
+    /* background-color: blue; */
+/* } */
+
+/* .indent .cm-content .HyperMD-header+.cm-line+.cm-line, */
+/* .indent .cm-content .HyperMD-quote+.cm-line+.cm-line { */
+    /* text-indent: 0; */
+    /* background-color: red; */
+/* } */
+
+/* Normal alignment */
