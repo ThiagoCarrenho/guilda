@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T19:12:03.313-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"contentClasses":"indent","created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T20:37:28.318-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
