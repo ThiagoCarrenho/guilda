@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-18T13:05:47.850-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-18T21:19:34.395-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -33,27 +33,15 @@ Ao seu lado se encontra um amontoado de penas - um tengu, que assim como o anão
 Neste momento se ouve o som de alguém fazendo um esforço, e se nota um meio-anjo, outro suraggel, dessa vez um aggelus, de beleza estonteante, muito mais belo que o corracial.
 Sir Galabriel solta ainda um "não serei preso de novo!" em meio aos seus grunhidos, mas não tem sucesso em quebrar as algemas que o prendem.
 
-> 
+Fala contrária é o que ouvimos de outro ponto da prisão, "de novo...", vindo de um kliren, que vira de lado e volta a dormir, é Ryan Jones.
+Ao lado dele, um trog se levanta irritado, batendo contra as grades.
 
-thiagrel - dormindo, pequeno, cabelos castanhos, chifre encaracolado no lado do rosoto, olhar ameaçador, sempre de olho , a procura de uma nova presa, e encontrar o e - dormindo na própria casa
-tem um anão na cela com ele
+Por fim, na última cela não vista, ouve-se um murmúrio: "me ajudem...", e se vê um minotauro forte, parrudo, mas muito machucado, ele se senta no chão, e, ao lado dele, um humano misturado com uma jaguatirica (um moreau), que tenta prestar alguma ajuda, mas não sabe o que fazer.
 
-escuta o barulho mecanico de uma máquina a vapor, fumaça abaixando
+![z-Imagem-PresosPorPuristas.png](/img/user/Aventuras/00%20Aleatoriamente%20Presos%20por%20Puristas/z-Imagem-PresosPorPuristas.png)
+*Situação inicial da Prisão Purista.*
 
-jack - quieto, de bronze
-fazendo pézinho para alguém pular o muro - o ryan
-tem um tengu na sala com ele
 
-galadriel tenta abrir os braços, tentar se livrar,e  se apreseenta mais belo que thiagrel
-estava limpando o escudo
-tem minotauro na sala, 
-
-minotauro de pelo escuro, ferido pede ajuda
-estava tentando passar por uma floresta
-moreau jaguatirica
-
-kliren cansado que volta a dormir, magrelo, ryan estava pulando o muro
-com um ttrog ao lado, jacaré bípede que sonha em ser o bob
 
 galabriel busca ver quem está ferido
 
@@ -66,3 +54,6 @@ beco sujo
 Feudo dos Silva
 
 Pedra lançada 
+
+![z-Imagem-APpP-Fim-Sessão-01.png](/img/user/Aventuras/00%20Aleatoriamente%20Presos%20por%20Puristas/z-Imagem-APpP-Fim-Sess%C3%A3o-01.png)
+*Situação Final da Prisão Purista.*
