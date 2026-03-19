@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T18:51:56.755-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T19:10:44.396-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -50,6 +50,7 @@ Por fim, aparece um jovem do lado de dentro, apenas observando os presos.
 *Situação inicial da Prisão Purista (ignore as barras de vida, elas representam a saúde dos personagens no final da sessão).*
 
 Os detentos começam então a conversar:
+A
 
 \- Quem é que está ferido? - Pergunta Sir Galabriel, tomando sua honra cavalheiresca a fim de sempre ajudar os necessitados.
 \- É o fortão ali - Respondem, indicando Biga, o forte minotauro sentado em sua cela.
