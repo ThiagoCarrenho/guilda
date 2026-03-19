@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-18T21:19:34.395-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas/","pinned":true,"created":"2026-03-13T20:43:14.633-03:00","updated":"2026-03-19T17:14:34.918-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
@@ -38,8 +38,14 @@ Ao lado dele, um trog se levanta irritado, batendo contra as grades.
 
 Por fim, na última cela não vista, ouve-se um murmúrio: "me ajudem...", e se vê um minotauro forte, parrudo, mas muito machucado, ele se senta no chão, e, ao lado dele, um humano misturado com uma jaguatirica (um moreau), que tenta prestar alguma ajuda, mas não sabe o que fazer.
 
+Então todos ouvem uma conversa vindo da porta de saída da prisão:
+> - Eles parecem estar acordando, fique de olho neles!
+> - O que é que vão fazer, haha! Estão presos! Mas precisava ser uma gentinha tão estranha?
+> - A impureza lhes é inerente, meu jovem.
+Por fim, aparece um jovem do lado de dentro, apenas observando os presos.
+
 ![z-Imagem-PresosPorPuristas.png](/img/user/Aventuras/00%20Aleatoriamente%20Presos%20por%20Puristas/z-Imagem-PresosPorPuristas.png)
-*Situação inicial da Prisão Purista.*
+*Situação inicial da Prisão Purista (ignore as barras de vida, elas representam a saúde dos personagens no final da sessão).*
 
 
 
