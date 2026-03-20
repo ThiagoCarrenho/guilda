@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/95 Planeswalker/Planeswalker/","pinned":true,"created":"2025-10-14T10:58:28.008-03:00","updated":"2026-03-19T19:06:11.731-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/95 Planeswalker/Planeswalker/","pinned":true,"created":"2025-10-14T10:58:28.008-03:00","updated":"2026-03-19T19:06:11.742-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Plínio\|Plínio]];
