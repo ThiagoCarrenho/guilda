@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-19T19:07:49.861-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-20T19:23:17.568-03:00"}
 ---
 
 # A GUILDA
@@ -55,6 +55,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - Kobold Fight Club: https://koboldplus.club/ - calculadora de balanço de encontro em [[Sistemas/D&D 5e\|D&D 5e]];
 - Obsidian: https://obsidian.md/ - wiki para organizar suas ideias e aventuras (ou um site exatamente igual a este);
 - The Homebrewery: https://homebrewery.naturalcrit.com/ - permite formatação de textos como o formato do [[Sistemas/D&D 5e\|D&D 5e]];
+- World Anvil: https://www.worldanvil.com/p/desktop - construção de mundo (worldbuilding);
 
 ---
 ## Aventuras em Andamento
