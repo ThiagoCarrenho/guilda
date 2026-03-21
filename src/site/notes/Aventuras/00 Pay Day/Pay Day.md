@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-19T19:06:13.248-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Pay Day/Pay Day/","pinned":true,"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-03-20T21:16:52.816-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];
@@ -46,7 +46,10 @@ E desliga o telefone.
 \- Ihh, tem sujeira aí. Lá é meio tenso também. Mas vamos, né, já fizemos o trabalho, precisamos da grana. A gente pode ir na minha van também. Ôh Déesse, você vai?
 \- Eu... *blurg*... acho que não... *gulp*... me passem o endereço que depois eu vou... *blurg*. - Responde o rapaz, em meio a vômitos e ânsias.
 
-Então saem para o novo destino, na van de Luke, que não só é bastante chamativa, como indica quem está dentro dela. Toda em tons de rouxo, e cheia de luzes, com a foto da própria estrela da música, com sua assinatura: $$\mathcal{Nevermore}$$
+Então saem para o novo destino, na van de Luke, que não só é bastante chamativa, como indica quem está dentro dela. Toda em tons de rouxo, e cheia de luzes, com a foto da própria estrela da música, com sua assinatura: 
+
+$$\mathcal{Nevermore}$$
+
 Estacionam algumas quadras antes de chegar no local indicado, para que, se houver uma armadilha, não percam também a condução.
 
 ![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)

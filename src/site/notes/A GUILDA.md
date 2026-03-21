@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-20T19:23:17.568-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-20T21:02:36.540-03:00"}
 ---
 
 # A GUILDA
@@ -37,7 +37,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - Fantasy Name Generators: https://www.fantasynamegenerators.com/ - gerador de nomes para personagens, locais, e até mesmo puzzles!
 - Fast Character: https://fastcharacter.com/ - Fichas rápidas e/ou aleatórias para [[Sistemas/D&D 5e\|D&D 5e]];
 - Fichas de Nimb: https://fichasdenimb.com.br/#/ - Fichas rápidas e/ou aleatórias para [[Sistemas/Tormenta20\|Tormenta20]];
-#### Gerador de Mapa:
+#### Gerador de Mapa
 - 2-Minute: https://2minutetabletop.com - assets;
 - Azgaar (gerador mapa-mundis): https://azgaar.github.io/Fantasy-Map-Generator/ - gera um mundo aleatório;
 - Czepeku: https://www.czepeku.com/ - alguns mapas gratuitos;
