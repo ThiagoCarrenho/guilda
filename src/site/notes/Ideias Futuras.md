@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-03-19T19:07:50.424-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-04-01T17:10:20.373-03:00"}
 ---
 
 # Personagens Futuros
@@ -31,7 +31,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001);
 6. Outras Aventuras:
 	* [[Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
-	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#019), **Sabotagem em Encélado** (#020), **Uai, Lobisomem Existe?** (#022);
+	* [[Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#019), **Sabotagem em Encélado** (#020), **Uai, Lobisomem Existe?** (#022), **Pindorama** (#025);
 	* [[Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
 	* [[Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/94 Lendas de Tu'Pana/Lendas de Tu'Pana\|Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#024);
 
@@ -217,6 +217,14 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Detalhes:** Aventura Breve; 
 - **Curiosidade:** Inspirada pelo jogo de tabuleiro *Blood on The Clocktower*;
 - **Descrição:** Os aventureiros recebem a notícia de três mortes ocorridas numa pequena vila vizinha, e decidem ir até lá para resolver o problema. As mortes claramente não são por causas naturais, mas podem ter sido assassinato, monstros, ou forças sobrenaturais. Os personagens precisarão ganhar a confiança dos membros da cidade, entender quem mente e quem fala a verdade, investigar a verdadeira causa das mortes e resolver o problema.
+---
+#### \#025 - Pindorama
+- **Ideia de [[Jogadores/Raul Teixeira\|Raul Teixeira]]**;
+- **Sistema:** [[Fabula Ultima\|Fabula Ultima]];
+- **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- **Detalhes:** One-Shot;
+- **Temática:** Natural / Techno Fantasy.
+- **Descrição:** Vocês são criaturas mágicas vivendo em harmonia com a natureza numa vila na terra de Pindorama. Nunca tiveram contato com outros povos, e o mundo é cheio de cor e felicidade. Porém, começam a ser ameaçados por tropas tecnomagicas que buscam conquistar sua terra e dizimar a população.
 ---
 #### \#997 One-Shot do Carro.
 - **Ideia de [[Jogadores/Thiago Carro\|Thiago Carro]]**;

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem/","pinned":true,"created":"2025-10-13T17:42:11.133-03:00","updated":"2026-03-19T19:06:04.197-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/83 Conto de Bela Passagem/Conto de Bela Passagem/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:11.133-03:00","updated":"2026-03-25T21:03:07.420-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

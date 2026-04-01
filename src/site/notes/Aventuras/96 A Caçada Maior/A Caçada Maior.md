@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/A Caçada Maior/","pinned":true,"created":"2025-10-15T10:19:47.680-03:00","updated":"2026-03-19T19:05:58.385-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/96 A Caçada Maior/A Caçada Maior/","pinned":true,"tags":["Aventura"],"created":"2025-10-15T10:19:47.680-03:00","updated":"2026-03-25T21:05:17.066-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Thiago Carro\|Thiago Carro]];

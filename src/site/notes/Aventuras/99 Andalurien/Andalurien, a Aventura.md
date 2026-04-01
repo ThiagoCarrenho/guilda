@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Andalurien, a Aventura/","pinned":true,"created":"2025-10-14T11:40:58.896-03:00","updated":"2026-03-19T19:05:58.695-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/99 Andalurien/Andalurien, a Aventura/","pinned":true,"tags":["Aventura"],"created":"2025-10-14T11:40:58.896-03:00","updated":"2026-03-25T21:06:33.715-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -12,7 +12,7 @@
 
 **Personagens e Jogadores:**
 - [[Aventuras/99 Andalurien/Fordinho\|Fordinho]], o mecânico de carroças de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- Alguns outros que não nos recordamos.
+- Alguns outros que não nos recordamos, de [[Jogadores/Franciane\|Franciane]] e mais.
 ---
 #### História
 Tudo começou numa taverna, Fordinho perdeu num jogo de tabuleiro.

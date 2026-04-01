@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/89 Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier/","pinned":true,"created":"2025-10-13T18:21:18.267-03:00","updated":"2026-03-19T19:06:08.512-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/89 Minas Perdidas de Phandelvier/Minas Perdidas de Phandelvier/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T18:21:18.267-03:00","updated":"2026-03-25T21:04:29.249-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Ouros\|Raul Ouros]];

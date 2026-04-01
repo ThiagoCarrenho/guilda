@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-19T19:06:09.861-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/80 Missão Hereditus/Missão Hereditus/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.218-03:00","updated":"2026-03-25T20:58:59.098-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];

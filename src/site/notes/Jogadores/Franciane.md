@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Franciane/","created":"2025-10-14T11:20:41.422-03:00","updated":"2026-03-19T19:08:02.242-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Franciane/","created":"2025-10-14T11:20:41.422-03:00","updated":"2026-03-25T21:06:18.504-03:00"}
 ---
 
 Católica, Engenheira Mecânica e apaixonada por Senhor dos Anéis. Musicista excelente.
@@ -13,4 +13,5 @@ Deixou de jogar após se formar.
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pela Franciane:
+- Alguém, de [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]];
 - [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], o/a elfo/a amnésico/a de [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
