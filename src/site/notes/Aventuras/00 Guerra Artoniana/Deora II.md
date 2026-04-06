@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-03-19T19:06:05.234-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-06T18:35:49.141-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -23,61 +23,78 @@ Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Rome
 ---
 #### Background
 
-_O quê? O baixinho? Ele nunca faria isso com ninguém, ele é super bonzinho, eu confio mais nele que em todo o resto desse reino!” – Husdon, criador de animais em Ahlen_
+_O quê? O baixinho? Ele nunca faria isso com ninguém. Ele é super bonzinho; eu confio mais nele do que em todo o resto deste reino!_  
+— **Husdon, criador de animais em Ahlen**
 
-A maioria massacrante aventureiros terminam sua aventura pela espada, morrem em batalha, dentro de uma masmorra, por fome ou doença em local remoto. Poucos sobrevivem para contar sua história, isso se não puxarem para si ainda mais responsabilidades. Pense bem, quantos dos líderes deste mundo foram aventureiros, ou são partes das aventuras, como Schkar?
+A esmagadora maioria dos aventureiros termina sua jornada pela espada: morre em batalha, dentro de uma masmorra, por fome ou doença em algum local remoto. Poucos sobrevivem para contar sua história — isso quando não atraem para si responsabilidades ainda maiores. Pense bem: quantos dos líderes deste mundo já foram aventureiros, ou ainda fazem parte de aventuras, como Schkar?
 
-Mas alguns tomam um caminho diferente, este é o caso de Vert e Esmeralda Wheeler.
+Mas alguns escolhem um caminho diferente. Esse foi o caso de Vert e Esmeralda Wheeler.
 
-Ele, um humano baixo, apesar de seu cabelo loiro sempre bagunçado, olhos azuis, e uma paixão por andar por aí, sempre na maior velocidade possível, era um cavaleiro, mas não do tipo convencional, honroso, seguidor de regras: era devoto do Deus do Caos, e seu cavalo era um constructo, sabia moldar a magia arcana para ser o mais veloz possível.
+Ele, um humano baixo, de cabelo loiro sempre bagunçado, olhos azuis e uma paixão por sair por aí sempre na maior velocidade possível, era um cavaleiro — mas não do tipo convencional, honrado e seguidor de regras. Era devoto do Deus do Caos, cavalgava um constructo e sabia moldar a magia arcana para se tornar o mais veloz possível.
 
-Ela, uma hynne, paladina de Valkaria, pele extremamente clara, e, assim como Vert, tinha olhos azuis, e era apaixonada pela liberdade de movimento, ainda que sua armadura pesada parecesse pregar o contrário.
+Ela, uma hynne, paladina de Valkaria, de pele extremamente clara e, assim como Vert, olhos azuis, era apaixonada pela liberdade de movimento, ainda que sua armadura pesada parecesse afirmar o contrário.
 
-Dois personagens tão aventurísticos assim não poderiam tomar outro caminho senão o do heroísmo, e, juntamente com outras figuras caricatas, formaram uma equipe e saíram fazendo missões dos mais variados tipos: Teku.
+Dois indivíduos tão marcados pelo espírito aventureiro dificilmente seguiriam outro rumo que não o heroísmo. Assim, ao lado de outras figuras igualmente caricatas, formaram uma equipe e saíram cumprindo missões dos mais variados tipos: Teku.
 
-Mas incidentes acontecem, e aventureiros costumam ter fins trágicos. Numa batalha numa caverna esquecida no mapa, travaram combate com cultistas de Sszzaas, e um dos seus aliados, Dron, se voltou contra eles, mostrando-se devoto da Traição. A caverna desabou, os cultistas foram todos mortos, Dron saiu caminhando pelo mundo, e o resto de Teku ficou soterrado, os heróis, mortos.
+Mas incidentes acontecem, e aventureiros costumam ter fins trágicos. Em uma batalha numa caverna esquecida dos mapas, travaram combate contra cultistas de Sszzaas, quando um de seus próprios aliados, Dron, voltou-se contra eles, revelando-se devoto da Traição. A caverna desabou. Os cultistas foram todos mortos, Dron saiu caminhando pelo mundo, e o restante de Teku ficou soterrado sob as pedras. Os heróis, mortos.
 
-Na verdade, quase isso, um amante do caos não se mata de forma tão ordinária, e não é fácil derrubar uma paladina, e dos escombros saíram Vert e Esmeralda, mas não inteiros. Vert ficou com cicatrizes gravíssimas, e com o corpo extremamente amassado pelas pedras que caíram sobre si, e Esmeralda, a devota da liberdade, viu-se presa numa cadeira de rodas, após perder o movimento de uma de suas pernas, que ficara prensada.
+Na verdade, quase isso.
 
-Eles notaram que aquilo não foi à toa, e que não era apenas sede de aventura que os mantinha juntos. Com o que sobrou de suas forças, subiram no cavalo mecânico de Vert e foram atrás do traídos, matando que pelo caminho.
+Um amante do caos não morre de forma tão ordinária, e não é fácil derrubar uma paladina. Dos escombros, Vert e Esmeralda emergiram — mas não inteiros. Vert ficou coberto de cicatrizes gravíssimas, com o corpo brutalmente esmagado pelas pedras que desabaram sobre si. Esmeralda, devota da liberdade, viu-se presa a uma cadeira de rodas após perder os movimentos de uma das pernas, que ficara prensada sob os escombros.
 
-Ao chegarem na vila mais próxima, após cuidados prolongados, e passarem por sério risco de vida, optaram por largar a vida de perigos, para uma vida de aventuras mais controlada. Casaram-se, recuperaram a saúde, ainda que não seria mais possível recuperar a perna, e dessa união surgiu um pequeno hynne, caótico como o pai, livre como a mãe, era Deora.
+Foi então que perceberam que aquilo não havia sido em vão, e que não era apenas a sede de aventura que os mantinha unidos. Com o que restava de suas forças, subiram no cavalo mecânico de Vert e partiram atrás do traidor, matando pelo caminho.
 
-Deora, o Segundo, ou simplesmente Deora II, traz já em seu nome o caos que provém de si: ele é o primeiro de seu nome. Segundo sua mãe, seu nome representa a liberdade, mas o pai não poderia deixar tão ordenado, e complementou com uma pitada de inesperado.
+Ao chegarem à vila mais próxima, depois de cuidados prolongados e de passarem por sério risco de vida, optaram por abandonar a vida de perigos extremos em troca de aventuras mais controladas. Casaram-se, recuperaram a saúde na medida do possível — embora a perna de Esmeralda jamais pudesse ser restaurada — e, dessa união, surgiu um pequeno hynne: caótico como o pai, livre como a mãe. Seu nome era Deora.
 
-Diferente dos pais, ele nunca foi apaixonado pela velocidade, sempre mais devagar que os demais, talvez fosse um sinal divino da pausa que o casal teve que fazer.
+Deora, o Segundo — ou simplesmente Deora II — já traz em seu próprio nome o caos que emana de si: ele é, na verdade, o primeiro de seu nome. Segundo sua mãe, o nome representava liberdade; mas seu pai não poderia deixar algo tão ordenado assim, e tratou de complementá-lo com uma pitada de imprevisibilidade.
 
-Se teve algum lugar para chamar de lar, era o Meca-valo, porque passava mais tempo lá que nas cidades, ainda sim, viajou o mundo, conheceu diversos reinos e lugares, dentre esses, dois lhe marcaram grandemente.
+Diferente dos pais, ele nunca foi apaixonado pela velocidade. Sempre mais devagar que os demais, talvez fosse um sinal divino da pausa que o casal precisou fazer em suas próprias vidas.
 
-O primeiro lugar foi Sallistick, o Reino sem Deuses. Vindo de uma casa de dois devotos, e uma paladina, aquela ideia era nova, e símbolo de rebeldia, e então decidiu que não seguiria nenhuma divindade, tomando filosofias teologicamente confusas para se defender. Para Vert, aquela rebeldia era mais uma aleatoriedade de seu deus, para Esmeralda, era símbolo da liberdade de sua Deusa.
+Se houve algum lugar que Deora pudesse chamar de lar, esse lugar era o Meca-valo, pois passava mais tempo ali do que em qualquer cidade. Ainda assim, viajou pelo mundo, conheceu diversos reinos e lugares e, entre todos eles, dois o marcaram profundamente.
+
+O primeiro foi Sallistick, o Reino sem Deuses. Vindo de uma casa com dois devotos — sendo um deles uma paladina — aquela ideia lhe pareceu nova, ousada e profundamente rebelde. Decidiu, então, que não seguiria divindade alguma, defendendo-se com filosofias teologicamente confusas sempre que precisava justificar sua escolha. Para Vert, aquela rebeldia era apenas mais uma das aleatoriedades de seu deus. Para Esmeralda, era símbolo da liberdade concedida por sua Deusa.
 
 Mas não foi lá que Deora realmente se encontrou.
 
-A idade pesa, e pesou no coração dos viajantes, e tiveram que se instalar num local único, estando em Ahlen, acharam prudente não sair daquele reino de intrigas, e em Tharlann, Deora II realmente se encontrou.
+A idade pesa, e pesou também no coração dos viajantes. Chegou o momento em que precisaram se fixar em um único lugar. Já estando em Ahlen, acharam prudente não deixar aquele reino de intrigas. Foi em Tharlann que Deora II realmente encontrou a si mesmo.
 
-O rapaz já tinha seus 20 anos, um cabelo inspirado no pai, bagunçado e loiro, olhos azuis da família, sendo um hynne, não tinha como ser muito alto, mas ele consegue ser ainda menor que o normal de sua raça, não sendo muito maior que o cachorro que ficava no portão de Deerek.
+O rapaz já contava cerca de vinte anos. Tinha o cabelo loiro e bagunçado herdado do pai, os olhos azuis da família e, sendo um hynne, não tinha como ser muito alto. Ainda assim, conseguia ser menor do que o normal até para os de sua raça, não sendo muito maior do que o cachorro que ficava no portão de Deerek.
 
-Deerek foi, sem dúvidas, o melhor amigo de Deora, inicialmente, se encontravam nos bares da cidade, roubavam juntos nos jogos de apostas, dando sinais das cartas que tinham, e se divertiam bastante, eram uma dupla caricata: Deora o hynne fraco, lento e aparentemente indefeso, mas que sempre estava com um sorriso no rosto e palavras mansas na boca, Deerek, o elfo contrário, corpulento e veloz, mas que não conseguia manter uma conversa por 10 minutos que já soltava um segredo que ele deveria esconder.
+Deerek foi, sem dúvida, o melhor amigo de Deora. No começo, encontravam-se nos bares da cidade, trapaceavam juntos em jogos de aposta, trocando sinais sobre as cartas que tinham, e se divertiam bastante. Formavam uma dupla caricata: Deora, o hynne fraco, lento e aparentemente indefeso, mas sempre com um sorriso no rosto e palavras mansas na boca; e Deerek, o elfo oposto, corpulento e veloz, mas incapaz de sustentar uma conversa por dez minutos sem deixar escapar algum segredo que deveria manter escondido.
 
-Mas havia uma coisa a mais que unia os dois: a não devoção por ninguém do panteão, diziam um para o outro “Eles criaram tudo, e agora sentam lá nos seus planos e não fazer porcaria nenhuma, e nós temos que nos curvar a eles?” ou ainda “Se eu perder dinheiro, eu tenho que trabalhar, nenhum deus vai me dar nada de graça”, entre outras frases.
+Mas havia algo a mais que unia os dois: a ausência de devoção por qualquer membro do panteão. Diziam um ao outro coisas como: “Eles criaram tudo e agora ficam sentados em seus planos, sem fazer porcaria nenhuma, enquanto nós temos que nos curvar a eles?” Ou ainda: “Se eu perder dinheiro, tenho que trabalhar. Nenhum deus vai me dar nada de graça.”
 
-Até que numa das tardes, Deerek prometeu ensinar uma possível nova tática para o roubo, e demonstrou ao pequeno uma forma de moldar magia, mas não era arcana como seu pai fazia, eram as magias de sua mãe! Mas como é possível, Deerek teria se tornado devoto? Depois de tudo?
+Até que, em uma daquelas tardes, Deerek prometeu ensinar uma nova tática de roubo. O que mostrou a Deora, porém, foi algo muito maior: uma forma de moldar magia. Mas não era magia arcana, como a de seu pai — eram as magias de sua mãe.
 
-Não. Ele usurpava a realidade.
+Como isso era possível? Deerek teria se tornado devoto, depois de tudo?
 
-Falando em idiomas antigos frases religiosas conhecidas por clérigos e paladinos, ele estava tornando a fé alheia, e a energia divina deixada pelos deuses em Arton em magia, forçadamente.
+Não.
 
-Os encontros foram cada vez mais presentes, e Deora rapidamente se tornou um Usurpador melhor que o amigo, e usou muito disso para tomar vantagens no reino mais justo do mundo. Afinal, era filho de uma conjuradora divina, sabia os efeitos das magias dos deuses, e era filho de um moldador arcano, que trazia o mágico para o material, imbuindo itens e veículos.
+Ele usurpava a realidade.
 
-Mas o momento que fora tanto adiado pelos pais, chegou. A morte visitou sua mãe e a levou para o plano de Valkaria, seu pai não durou um ciclo de lua sem a esposa, e partiu logo em seguida.
+Ao pronunciar, em idiomas antigos, frases religiosas conhecidas por clérigos e paladinos, Deerek convertia a fé alheia e a energia divina deixada pelos deuses em Arton em magia — à força.
 
-O pequeno Deora se perdeu. Se viu num estágio que viva de roubos e de mentiras, e sentiu falta do Caos e da Liberdade. Não teve outra escolha, e partiu para a vida de aventura que já ouvira tantas histórias, boas e más, e que lhe foi recomendado para nunca seguir.
+Os encontros tornaram-se cada vez mais frequentes, e Deora rapidamente se mostrou um Usurpador ainda melhor do que o amigo. Passou a usar isso para tirar vantagem no reino mais justo do mundo. Afinal, era filho de uma conjuradora divina: conhecia os efeitos das magias dos deuses. E também era filho de um moldador arcano, alguém capaz de trazer o mágico ao mundo material, imbuindo itens e veículos.
 
-Assim, despediu-se do amigo, e rumou, deixando-se levar pela Sorte, por Arton, e toda vez que tinha que escolher virar para um lado ou para o outro, se lançava ao Caos, esvaziando o máximo possível de racionalidade no caminho.
+Mas o momento que seus pais tanto tentaram adiar finalmente chegou.
 
-Até que lhe apareceu um sinal, e passando por um território deserto em Svalas, com uma vila abandonada, viu um homem com uma cartola verde, parou para observar o que acontecia, este homem se transformou, vieram aventureiros, que passaram por ali e entraram no bosque.
+A morte visitou sua mãe e a levou para o plano de Valkaria. Seu pai não resistiu sequer a um ciclo de lua sem a esposa, partindo logo em seguida.
 
-Um deles deixara ao léu uma carroça, e, com muita cautela, Deora vasculhou toda a vila, nada encontrando, e partiu para a carroça... talvez fosse tarde demais, assim que iria começar a investigar o que tinha dentro dela, os aventureiros voltaram, em um número bem menor, Deora só teve tempo de se esconder, e mais uma vez, deixar-se Livre à Sorte, como sua mãe e seu pai lhe ensinaram.
+O pequeno Deora se perdeu.
+
+Viu-se reduzido a uma vida de roubos e mentiras, e sentiu falta do Caos e da Liberdade. Não teve outra escolha: partiu para a vida de aventuras sobre a qual ouvira tantas histórias, boas e más, e que lhe fora recomendada a vida inteira como um caminho a jamais seguir.
+
+Assim, despediu-se do amigo e rumou por Arton, deixando-se levar pela Sorte. E, toda vez que precisava escolher entre virar para um lado ou para o outro, entregava-se ao Caos, esvaziando de si o máximo possível de racionalidade no processo.
+
+Até que um sinal lhe apareceu.
+
+Ao passar por um território deserto em Svalas, deparou-se com uma vila abandonada. Ali, viu um homem de cartola verde. Parou para observar o que acontecia. O homem se transformou. Logo depois, surgiram aventureiros, que passaram por ali e adentraram o bosque.
+
+Um deles deixara uma carroça ao relento. Com muita cautela, Deora vasculhou toda a vila, mas nada encontrou. Restava apenas a carroça.
+
+Talvez já fosse tarde demais.
+
+No exato momento em que se preparava para investigar o que havia ali dentro, os aventureiros retornaram — em número bem menor. Deora só teve tempo de se esconder e, mais uma vez, entregar-se à Sorte, livre como sua mãe e caótico como seu pai lhe ensinaram.
 
 ---
 
