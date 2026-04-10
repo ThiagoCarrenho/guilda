@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-03-20T21:02:36.540-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-10T09:41:39.776-03:00"}
 ---
 
 # A GUILDA
@@ -43,6 +43,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - Czepeku: https://www.czepeku.com/ - alguns mapas gratuitos;
 * Dave's Mapper (dungeon): https://davesmapper.com/ - completo, sem ser complexo;
 * DeepNight (dungeon): https://deepnight.net/tools/rpg-map/ - rápido e intuitivo;
+* Dungeon Map Doodler (dungeon): https://dungeonmapdoodler.com - desenho rápido;
 * Dungeon Scrawl (apenas dungeon): https://www.dungeonscrawl.com/ - intuitivo e fácil de usar, conecta com o Roll20;
 * HexFriend (grid hexagonal): https://hexfriend.net/ - rápido e intuitivo;
 * Inkarnate: https://inkarnate.com/ - completo, mas complexo;
@@ -54,6 +55,7 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 - Fichas de Nimb: https://fichasdenimb.com.br - Gerador de ameaças, rolador de recompensas e itens mágicos, mapa interativo, entre outros usos para [[Sistemas/Tormenta20\|Tormenta20]];
 - Kobold Fight Club: https://koboldplus.club/ - calculadora de balanço de encontro em [[Sistemas/D&D 5e\|D&D 5e]];
 - Obsidian: https://obsidian.md/ - wiki para organizar suas ideias e aventuras (ou um site exatamente igual a este);
+- Syrinscape: https://app.syrinscape.com - efeitos sonoros;
 - The Homebrewery: https://homebrewery.naturalcrit.com/ - permite formatação de textos como o formato do [[Sistemas/D&D 5e\|D&D 5e]];
 - World Anvil: https://www.worldanvil.com/p/desktop - construção de mundo (worldbuilding);
 
