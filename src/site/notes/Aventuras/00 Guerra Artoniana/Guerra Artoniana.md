@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T19:17:16.373-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T20:40:01.865-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -124,6 +124,7 @@ Participam desta história:
 - Então tropas foram mobilizadas, e a cerimônia fica caótica
 - Neste momento, os aventureiros devem fugir a qualquer custo, Emmy e Gabj são notados atrás da fonte, Nagi está detido, e Deora escondido numa armadura dentro do gabinete do Coronel, com o Coronel dentro dele
 #### Sessão 04 (11/04/2026) - Retorno a Karst
+###### A Fuga do Quartel
 "Soem o alarme, temos intrusos!" Grita o General Hegar Wortric. O grupo, sabendo que são eles os procurados, devem fugir a qualquer custo, enquanto os outros muitos membros do evento e guardas e soldados de Yuden tentam agarrá-los e ferí-los.
 Tudo que os aventureiros precisavam eram provas consistentes dos crimes do Reino de Yuden, de sua traição à Coroa do Reinado, e à Rainha-Imperatriz Shivara Sharpblade, missão esta que foi dada pelo próprio Barão Abelard, do Castelo de Karst, que o próprio grupo salvara anteriormente... melhor dizendo, parte do grupo. Na ocasião, Gabj e Nagi contavam com o apoio de Harcos, Alfa Romeo e Suzumi. Por alguma bênção divina - ou maldição, a depender do ponto de vista -, a dupla recebe a ajuda de Deora II e Emmy - às vezes confundida por Mya, mas isso não vem ao caso.
 Nagi, o seteiro, havia acabado de se livrar das mãos de alguns humanos que o colocaram contra a parede, após seu capuz ter caído e sua natureza meio-élfica ter sido descoberta. O anão Gabj, que é tão inventivo quanto é chato, estava ao lado da humana Emmy, que é tão forte quanto é quieta, no andar de cima, subindo uma longa escada semi-circular, e escondidos atrás de uma fonte. Eles estavam ali para ajudar o último integrante a se infiltrar no gabinete do general, no que tiveram sucesso, e Deora II, o hynne "amigo" dos deuses, está la dentro, escondido dentro de uma armadura humana.
@@ -134,271 +135,33 @@ Alyssa sai do gabinete, mas o coronel ainda segue lá dentro. Deora olha pela ja
 Sendo hora de agir, Gabj pega sua mochila, encaixa uma peça de roupa em pedaços de madeira, ferro e aço, e improvisa, como um bom engenhoqueiro, uma asa-delta, e salta de cima da escada lá para o andar de baixo. A ideia é boa, mas as peças se desencaixam no meio do vôo e ele cai no meio de um grupo de soldados, ganhando alguns ferimentos novos no seu corpo. Emmy não tem a mesma mente, mas um corpo melhor, e sai correndo e pula para fugir daqueles que tentam agarrar, mas, ao saltar, alguém alcança seu pé e a faz se esborrachar no chão.
 Nagi, assim como Deora, também tenta passar despercebido pela multidão, entretanto, ele está no meio dela, e não tem sucesso. Logo alguém grita "O orelha pontuda, por ali!", e o batem e empurram.
 Os três, apanhando no meio do povaréu, notam Deora II no andar de cima, ele olha de volta, põe o dedo na frente da boca e faz "shh", se virando para uma porta, e a abrindo com suas habilidades ladinescas. Por sorte, essa porta levava a uma saída lateral, e não havia ninguém no caminho para o atrapalhar.
-Os aliados não tiveram a mesma sorte. Novamente, Gabj tentou usar sua inventividade, dessa vez, relacionada à fabricação de armas e armaduras. Assim, ele pegou um escudo de alguém e tentou transformar em uma barricada, para segurar os golpes enquanto ele avançava. Emmy se colocou em combate direto, lançando socos e pontapés a quem aparecia a sua frente. Nagi tomou uma estratégia mais refinada, e buscou saltar acrobaticamente por uma janela, caindo no estábulo, onde está o seu cavalo - uma vez no cavalo, ele sabe que suas habilidades melhoram, e melhoram muito.
+Os aliados não tiveram a mesma sorte. Novamente, Gabj tentou usar sua inventividade, dessa vez, relacionada à fabricação de armas e armaduras. Assim, ele pensou em pegar um escudo de alguém e tentou transformar em uma barricada, para segurar os golpes enquanto ele avançava. Emmy se colocou em combate direto, lançando socos e pontapés a quem aparecia a sua frente. Nagi tomou uma estratégia mais refinada, e buscou saltar acrobaticamente por uma janela, caindo no estábulo, onde está o seu cavalo - uma vez no cavalo, ele sabe que suas habilidades melhoram, e melhoram muito.
 Nada funcionou.
-A barricada do anão não segurou nem metade dos golpes que ele estimava aguentar. Ele logo foi derrubado, e lançado por dois guardas para fora. A bárbara pode até ter ferido uma porção de guerreiros, mas eram muitos, e a quantidade se sobressaiu. Murros, espadadas e pontapés - ela até foi capaz de sair do recinto, mas saiu bastante ferida. Por fim, a ideia do ginete de pular pela janela foi ótima, o problema foi chegar a janela, de forma que não foi capaz de pular com maestria no estábulo, e se jogou pela janela, levando um tombo vergonhoso.
+O anão não conseguiu nem ao menos tomar o escudo de um soldado no canto, e recebe um contra-ataque imediato, levando uma escudada na cabeça, caindo ao chão e sendo arremessado para fora da porta principal - é a segunda vez que Gabj fora arremessado, dessa vez, por inimigos. A bárbara, por sua vez, pode até ter ferido uma porção de guerreiros, mas eram muitos, e a quantidade se sobressaiu. Murros, espadadas e pontapés - ela até foi capaz de sair do recinto, mas saiu bastante ferida, e viu o aliado diminuto voar por cima de sua cabeça. Por fim, a ideia do ginete de pular pela janela foi ótima, o problema foi chegar a janela, de forma que não foi capaz de pular com maestria no estábulo, e se jogou pela janela, levando um tombo vergonhoso, quebrando uma costela ao atingir o teto de palha.
+De uma forma ou de outra, todos haviam saído do quartel, mas estavam longe da segurança.
+Nagi, no estábulo, encontra seu amigo equino, e como outrora dissera aos aliados, "montado, eu sou outra pessoa", e, pela primeira vez obteve sucesso em suas ações e não se machucou pelo caminho. Vendo os soldados que o meio-elfo estava no estábulo, correram atrás dele, mas só conseguiram ver um vulto veloz passando por meio deles e se perdendo no meio das pessoas e das casas da cidade.
+Gabj, por sua vez, sab que não é capaz de ganhar dos perseguidores na velocidade, mas pode fazê-lo pela inteligência, assim, com seu olho clínico, encontra brechas no meio da multidão e corre pelo melhor caminho possível para não ser pego e tem sucesso ao despistar.
+O pequenino e vagaroso clérigo não havia sido notado pelos soldados, e havia abusado muito da sorte até o momento. Mas não o suficiente. Vendo um carroceiro que passava, pediu uma carona: "Senhor, senhor, me ajude por favor, eu preciso ir até... a Casa Caída! Minha família está me esperando por lá e eu não quero passar por essa multidão, me parece muito perigoso."
+A voz mansa, inicialmente, não parece ter efeito: "Você precisa de..."
+"Uma caroninha, por favor! Se não for atrapalhar."
+"Você é escravo?" - olha o hynne de cima a baixo.
+"Não, não, de jeito nenhum! Eu sou só um velhinho pequeno."
+"Ah, você quer voltar à periferia dos escravos, lá que fica sua família? Na Casa Caída?"
+"Não, não... Ah, de novo essa porcaria!" - esbraveja Deora consigo mesmo - "eu sou um humano, só que velho e pequeno!"
+O homem olha de novo de cima a baixo o hynne, e se compadece por conta de sua idade avançada: "Tá bom, sobe aí! Mas não fala para ninguém que eu tô te ajudando."
+"Já me esqueci do senhor, hihihi" - a cara de bonzinho sempre engana. E foi na hora exata, no instante seguinte soldados viraram a esquina, ele se escondeu na carroça, ouve os passos velozes e uma breve conversa. "Ah, ele não esta por aqui" e "Vamos por outro lugar, antes que fuja!"
+Faltava apenas Emmy, que estava cansada de apanhar, e focou mais na própria defesa e no desvio dos golpes que lhe tentavam acertar, do que em acertar aqueles que a golpeavam. E funcionou! Assim, ela desviou e pode fugir, pulava daqui, pulava dali, e, de repente quando se achava sozinha, viu mais alguém a frente.
+Por sorte, era Gabj.
+Logo em seguida chegou Nagi em seu cavalo.
+Por fim, Deora II pulou da carroça em uma avenida paralela, mas, caminhando na velocidade que lhe é inerente, ele foi o último a chegar.
+Então o grupo ouve alguns passos próximos, mas eles vão para longe com um grito "Vamos achar eles!".
+"Estamos livres, por enquanto" - respiraram aliviados.
+Mas não, não estavam livres.
+###### Alyssa
 
 
 ---
 
-Eu imagino que em volta assim, todo mundo esteja com espada, alguns escudos, alguma coisa
-assim.
-Sim.
-Eu queria pegar alguma coisa assim e usar o ofício...
-Armer.
-É, então...
-É, o ofício armer assim, pra formar meio que fosse, sei lá, uma barricada assim,
-que eu queria encaixar seus braços assim, como se fosse uma barricada pra sair do portal.
-Você deixa pra empurrar no portal.
-Isso.
-Pode ser.
-Pode ser.
-Eu gravo normalmente assim.
-Eu tô funcionando.
-3, 5...
-Meu Deus.
-Os dados...
-Cadê os dados antigos?
-Ó, eu sou meu.
-Tá funcionando.
-Tá difícil.
-Pra ficar lá que ele é assim, tipo, ah, não escutei alguma coisa, não lembro direito.
-Meu Deus, eu sou de 14.
-4 PM.
-Caraca, perdi 4 PM?
-O que você tentou fazer que eu não ouvi?
-Perdão, eu tava forçando aqui.
-Eu tentei fazer uma barricadinha assim pra cunha.
-Ok.
-Senhores, eu expulso em PM.
-Barricada.
-Você pega o seu escudo, você vê um guarda assim no tanto, você tem que pegar o escudo
-dele, você não consegue.
-E aí ele dá uma escudada na sua cabeça e os caras caem em cima de você e você tá
-com a guarda aberta.
-Aí você pega o seu machado mesmo, vai tentando empurrar e...
-E alguém dá um chute nele pra tirar ele do direito do quartão.
-É, alguém te dá um chute, aí pega você assim, te joga.
-Te arremessa.
-Aí você bate assim na porta principal e cai pra fora assim.
-Aí você levanta e tem que estar aquela multidão e começa a ir pela lateral, em direção
-a um lugar menos cheio de gente.
-Os guardas veem, você saindo e começa a correr atrás de você.
-Eu falei, não foi 5, foram na verdade 9, mas não muda nada.
-Eu esqueci de tomar inteligência.
-Eu vou usar a entrada principal aqui, eu vou usar a luta.
-Pra...
-Pra ir lutando?
-Pra ir.
-Pra ter em todo mundo.
-Eu quero pegar a minha machada assim e fazer a minha...
-Ainda bem que eu não tô perto.
-E a minha... eu vou ir.
-Ah, mas vai só girar o machado, então não teria problema eu tá perto, eu vou passar por cima.
-Cara, eu tô com um pego.
-Nossa, eu achei que era o outro 1.
-É...
-Mais luta.
-Eu tirei 13.
-13?
-Não, você tá gato.
-Mera.
-Quanto você tem de luta?
-Eu tenho 6.
-É 6?
-Ah...
-Tá, não é...
-Na verdade é 7.
-Porque é 4 de força, mais 1, mais 2, né?
-É.
-Você tem mais 2 do treino, mais 4 de força e mais 1 porque você é... metade do nível.
-Então deu 14.
-É, ainda não deu pra passar.
-É.
-Você tomou 6 pontos de vida.
-Rapaz...
-Não, é que eu acho que você tá esquecendo de somar o...
-Não, o... não, eu tô não somando, mas não deu certo, não.
-Não, metade do nível.
-Vai lutando com as duas coisas.
-Não esquece.
-Uma coisa...
-A gente tem muito metade do nível.
-Na hora que o anão bate na porta, cai pra fora, você sai depois dele assim, toda cheia de...
-Só que no meu machano dá certo, primeiro deu 3, deu 2.
-E aí ele começa a correr e você vai atrás dele também.
-Meu Deus.
-Agora é um lag.
-Aí vendo que eu fui reconhecido, então eu vou tentar pular por uma janela direto para o estábulo.
-Tá.
-Vou.
-No caso, a probacia.
-A probacia.
-Ó, pra na bacia.
-O que é isso?
-7.
-14.
-Você colocou mais uma metade do nível?
-Metade.
-Sim.
-É real.
-Destreza, que é 4.
-5, 6, 7.
-Mais uma metade do nível.
-Eu acho que tá faltando a gente subir de nível, isso sim.
-É.
-É verdade?
-Não.
-Eu tô tranquilo que a próxima eu já passei.
-4 PV.
-Eita.
-Você tirou um natural?
-E um PV.
-Eu já tenho a chance de eu tirar um natural em 400.
-Tá.
-Você cai assim.
-Você pula na janela, cai no telhado do estábulo assim, que é de palha.
-Aí você quebra uma costela assim, você levanta, pega o seu arco, vê seu cavalo.
-Ele já tá, chega correndo do seu lado, você já começa a subir, né?
-Eu já vou usar a iniciativa pra...
-Não é a próxima?
-É você já?
-É.
-Qualquer um.
-Qualquer um.
-Já vou usar a iniciativa de termostifres pra tu lá em cima do cavalo e meio que distrair.
-E o mais rápido possível.
-E o mais rápido possível.
-É, os guardas tão começando a... eles abrem a porta.
-Fala aí.
-Vamos tentar outro dado, porque...
-É, o dado do Gabriel tá difícil.
-Como você tá com o cavalo, você...
-Deu 7 de novo, mas essa vez a gente passa porque é 17.
-Eu tenho 10 de iniciativa.
-É, eu ia te dar mais um bônus, mas...
-Não precisa.
-Não.
-É porque eu tô fora do cavalo, senão ia ser mais.
-Então você pega no cavalo assim, e aí os guardas abrem a porta e pega ele.
-Aí você...
-E fica com o seu capuz pra trás, eles te vêm e você vai...
-E aí você vê e começa a ir em direção aos lugares mais afastados da cidade.
-Certo.
-Posso ir?
-Pode ir.
-Pode.
-Eu gostaria então de usar...
-Deitar como é isso aqui.
-Eu tô na porta assim, investigação pra ver o melhor caminho que eu conseguiria passar
-e fugir da melhor forma.
-Investigação.
-Ah, tá bom.
-Você quer ver qual que é um beco ou alguma coisa assim.
-Exatamente.
-Tá bom.
-Porque eu tenho aqui mais 9 de investigação.
-Ju.
-18, por favor.
-18 mais 9, 27.
-Não vai tomar...
-Não vai ficar sem PM.
-Você pega um beco assim, começa a correr e aí você pega nesse beco, você consegue pegar
-uma passagem assim pelo meio de umas casas e os guardas te perdem e você vai correndo
-e consegue fugir deles.
-Agora é um dos dois.
-É, o meu já tava decidido.
-Eu vou ver algum carroceiro passando e eu vou falar, senhor, senhor, me ajude.
-Eu preciso ir até...
-Eu falo o nome do bairro.
-Até a casa caída.
-Minha família tá lá me esperando e eu não quero passar por meio dessa multidão.
-Tá acontecendo um caos terrível por aqui, pro primeiro carroceiro que passar.
-E ele vai...
-Ele vai com certeza, ele vai me levar até lá.
-Vou gastar um PM pra rolar com vantagem, porque eu sou...
-Tenho foco...
-Foco em perícia?
-Eu sou especialista?
-Deixa eu ver.
-Não, eu tenho foco em perícia, em enganação.
-Posso.
-Na verdade, eu não sei que aceitar.
-Não se me justifica, porque o cara é um carroceiro humano.
-Ele vê um baixinho desse tamanho, assim, e ele olha...
-Ah...
-Você precisa de...
-A minha família tá por lá.
-É...
-Você pode me levar lá, por favor?
-A casa caída.
-Você é um escravo?
-Porque você não é humano, né?
-Não, eu sou humano.
-Eu sou só velhinho, pequeno.
-Ah, na casa caída, lá onde fica a periferia dos escravos.
-Lá que fica a sua família.
-Os escravos da...
-Não, eu não sei.
-Não, não...
-É uma gente da sua altura, assim, tipo...
-Não, eu sou só pequeno.
-Ah, de novo essa porcaria.
-Ninguém acredita que eu sou só um velho pequeno.
-Tá.
-Tá, rola as vezes.
-Tá, o maior foi 15.
-Então, é...
-Eu acho que é...
-Ele olha assim pra você.
-31.
-Ele vê que você é muito velho e você tá assim.
-Tá bom, sobe aí, vai.
-Mas não fala que eu te ajudei.
-Não.
-Já me esqueci do senhor.
-Tanto a gente cuidar dos escravos, né?
-E aí, na hora que você sobe assim, na carroça, você vê os guardas virando a esquina e eles se escondem atrás.
-E assim, os guardas...
-Ah, ele não tá por aqui.
-Não tem ninguém pra...
-Vamos para o outro lugar.
-E...
-Todos estão indo para a periferia da carroça.
-Falta ele.
-Falta ele.
-Falta ele.
-Falta ele.
-Falta ele.
-Falta ele.
-Falta ele.
-Falta ele.
-Eu posso usar reflexo.
-E que sentido?
-Pra tentar ir desviando dos guardas enquanto eu tô correndo?
-Pode.
-Tá.
-Você tá com outro dado agora.
-O Gabriel não tá funcionando.
-Agora deu certo.
-O Gabriel não tá funcionando.
-Eu passei, eu passei.
-Funcionador disso vai tentar agora.
-Vai vir agora em grana.
-Você vai correndo, desviando dos guardas.
-E aí você chega nas ruelas.
-Começa a desviar.
-Pula pra um lado, pula pro outro.
-Eles que perdem.
-E aí, então, a gente termina.
-De alguma forma, todos vocês acabam se encontrando no mesmo lugar.
-Que é uma rua, assim.
-Em direção à periferia.
-E aí você se encontra assim.
-Chega o nag de cavalo.
-O Deora pula fora da carroça.
-A minha chega se enrolando.
-E o Gabi chega olhando, assim.
 Vocês se encontram.
 Vocês estão aí, seu Zé Barré.
 Vocês conseguem ouvir ao longe os guardas chegando também.
