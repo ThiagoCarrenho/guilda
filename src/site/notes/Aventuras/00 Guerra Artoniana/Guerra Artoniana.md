@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T20:40:01.865-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T20:51:38.959-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -2627,6 +2627,7 @@ Que isso?
 Eu fico...
 Cinco vezes mais do que eu tenho.
 É isso.
+###### Essez de Rota Dourada
 Então, vocês vão indo, né?
 Ainda tem mais.
 Lembrando que o sol já se foi, vocês começam a cavalgar em direção...
@@ -3348,6 +3349,7 @@ E acabam adormecendo.
 Vocês acordam.
 Um outro dia, ele não tá mais lá.
 Só os resquícios da fogueira apagada.
+###### Rumo a Karst
 Vocês continuam em direção a Karst.
 Mas agora não é uma jornada simples, porque vocês estão entrando em território de Isvalas.
 E agora a gente vai usar uma outra regra do sistema que é navegação, viagem.
@@ -3834,6 +3836,7 @@ Pode ser...
 Tá...
 Eu vou pausar aqui o negócio...
 Tá, tá...
+###### O tronco de madeira desce pelo rio
 Ó, tá sendo gravado, hein? Não fala nenhuma besteira agora, Gabriel.
 Tá. Besteira agora, Gabriel.
 Ah!
@@ -4863,7 +4866,9 @@ POM!
 POM!
 POM!
 um pedaço de um. Aí vocês todos, a gente vai zelabirando, gente. Senhores? Eu já estou querendo arremessar um rininho por cima do muro. Eu acho que ele morreria com dano de queda, mas tem que ver.
-Mr. Chato, você é útil. Então, beleza. Vocês entram. Mr. Útil, você é chato. Por favor. Vocês entram pelo... Vão subindo. Vocês encontram alguns guardas e eles dizem, vocês. Vocês estão aqui? Vocês são heróis que salvaram o barulho Amelard? Vem conosco. Aí eles levam vocês. Quem é o Amelard? Você conheceu, mas fica tranquilo. Você conheceu. A gente estava na sala. Você recebeu a missão dele. Ah, é verdade.
+Mr. Chato, você é útil. Então, beleza. Vocês entram. Mr. Útil, você é chato. Por favor.
+###### Preparem-se para a guerra!
+Vocês entram pelo... Vão subindo. Vocês encontram alguns guardas e eles dizem, vocês. Vocês estão aqui? Vocês são heróis que salvaram o barulho Amelard? Vem conosco. Aí eles levam vocês. Quem é o Amelard? Você conheceu, mas fica tranquilo. Você conheceu. A gente estava na sala. Você recebeu a missão dele. Ah, é verdade.
 Então, com isso. Vocês são levados em uma sala sóbria. Simples, assim, como todo o resto do castelo. Como que é o contrário de uma sala sóbria? Uma sala bíblica? Não, uma sala... Calma. Calma. Não, que tipo, não tem objetos luxuosos nem nada. Só o símbolo de calmir bem grande, assim, no teto. E coisa simples, uma cadeira de madeira, coisa bem simples.
 Eu desmontei. Ela está lá para o barão Amelard e a... Você ajudou o pessoal a invadir. A Lady Islef. Ela está lá também.
 Eles estão em volta de uma grande mesa de madeira analisando mapas do feudo. Eles examam vocês. Eles gritam para os guardas algumas coisas, tipo...
