@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00","updated":"2026-03-19T19:06:05.955-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00","updated":"2026-04-11T21:17:47.342-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Miguel de Maria\|Miguel de Maria]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
 *Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]], além dos falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].
-Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Mya\|Mya]].*
+Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]].*
 
 **Nome Completo:** Harcos, a Lâmina Escondida
 **Raça:** Lefou

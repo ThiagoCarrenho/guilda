@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeo/","created":"2025-10-13T17:42:11.369-03:00","updated":"2026-03-19T19:06:04.997-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeo/","created":"2025-10-13T17:42:11.369-03:00","updated":"2026-04-11T21:17:46.566-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
 *Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]], além dos falecidos [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].
-Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Mya\|Mya]].*
+Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]].*
 
 **Nome Completo:** Alfa Romeo Superleggera Cabriolet Villa-d’Este de Touring
 **Raça:** Humano

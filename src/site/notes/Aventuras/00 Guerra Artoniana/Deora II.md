@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-06T18:35:49.141-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-12T13:45:04.259-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
-*Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Mya\|Mya]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
+*Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
 Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
 
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
-**Classe:** Ladino 1 Clérigo Usurpador 1
+**Classe:** Ladino 1 Clérigo Usurpador 2
 **Divindade:** Nenhuma
 #### Descrição
 - Adulto com Pulmão Ruim
@@ -114,7 +114,7 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 #### Complicação
 **Vagaroso.**
 **Foco em Perícia.** **_Enganação_**.
-#### Nv.01 lADINO 1
+#### Nv.01 Ladino 1
 **Perícias.** Ladinagem (Des/Car), Reflexos (Des), Enganação (Car), Furtividade (Des), Pontaria (Des), Intimidação (Car), Atuação (Car), Percepção (Des), Jogatina (Car) e Intuição (Sab).
 **Proficiências.** Nenhuma.
 **Ataque Furtivo. (+1d6).**
@@ -123,9 +123,12 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Inimigo dos Deuses.**
 **Magias.**
 **Usurpar.**
+#### Nv.03 Clérigo Usurpador 2
+**Conjuração Falsa.**
+**Impostor.**
 #### Toques Finais
-**PV. 16:** Ladino 1 (12+0*3), Usurpador (1*4), Constituição (1*0).
-**PM. 14:** Ladino 1 (1*4), Usurpador 1 (1*5), Magias (Carisma = 5).
+**PV. 20:** Ladino 1 (12+0\*3), Usurpador 2 (2\*4), Constituição (1\*0).
+**PM. 18:** Ladino 1 (1\*4), Usurpador 2 (2\*5), Magias (Carisma = 4).
 **Perícias Extras.**  1 de Inteligência: Religião (Sab).
 **Defesa. 16:** 10 + 4 (Destreza) + 2 (Armadura).
 #### Perícias

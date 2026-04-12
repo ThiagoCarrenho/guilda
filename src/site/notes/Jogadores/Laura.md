@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jogadores/Laura/","created":"2025-10-13T17:42:06.665-03:00","updated":"2026-03-19T19:08:03.325-03:00"}
+{"dg-publish":true,"permalink":"/Jogadores/Laura/","created":"2025-10-13T17:42:06.665-03:00","updated":"2026-04-11T21:17:47.958-03:00"}
 ---
 
 Irmã de [[Jogadores/Raul Teixeira\|Raul Teixeira]], prima de [[Jogadores/Jozsef\|Jozsef]] e cunhada da [[Jogadores/Daniela\|Daniela]].
@@ -12,6 +12,6 @@ Personagem predileto: [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]?
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pela Laura:
-- [[Aventuras/00 Guerra Artoniana/Mya\|Mya]], a bárbara de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
+- [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], a bárbara de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]], a necromante de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - [[Aventuras/84 A Voz das Marés/Agatha\|Agatha]], a bruxa de [[Aventuras/84 A Voz das Marés/A Voz das Marés\|A Voz das Marés]];
