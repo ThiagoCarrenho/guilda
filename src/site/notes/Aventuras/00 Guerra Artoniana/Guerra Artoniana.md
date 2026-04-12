@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T15:30:04.684-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T19:17:16.373-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -4071,3 +4071,1233 @@ Pode ser...
 Tá...
 Eu vou pausar aqui o negócio...
 Tá, tá...
+Ó, tá sendo gravado, hein? Não fala nenhuma besteira agora, Gabriel.
+Tá. Besteira agora, Gabriel.
+Ah!
+Tá, vamos lá, então. Terminou isso?
+Sim, eu só tô vendo se aumentava a marca da presença, ainda não.
+Eu só tô lendo aqui. Porque aquele livro fala igual caçador.
+Aí você fica... Tá bom. Eu só tô confirmando, mas tá certo.
+Bom, então a gente chega nesse alvorecer enevoado, de novo, como sempre.
+Aí você vem ao longe a aldeia de Karst, né?
+E a tropa, toda a tropa, com o escandarte do Leopardo Sangrento na frente.
+E é... é muito parecido com a Swast, que é da tropa de Yudem, né?
+Na frente do... desse exército.
+Eles... o... as tropas tão lá, se preparando pra uma batalha de serco.
+Claramente eles vão invadir o castelo, né?
+Não tem nenhum sinal de incêndio na aldeia, mas eles tomaram todo... que nem eu falei pra você, toda a aldeia, eles tomaram.
+É... e nas casas entra e sai pessoas.
+Eles tão muito perto uns dos outros, tipo...
+Estão um encostando no outro, os soldados?
+Tá.
+É muito longe, senão vai...
+Calma, vai pro Tonkshofer de Lans.
+Também tem soldados... é... campando em tendas, máquinas de cerco, catapultas, tipo uma grande batalha, vai se armar.
+É... e do castelo do Baranabelardi tem chuvas de flechas saindo assim, em direção a esses soldados.
+Eles tão prestes a invadir.
+Vocês devem... chegar no castelo... ou fugir, porque o que quer que vocês sejam fazer, isso aqui é uma sugestão, não é uma... é...
+Mas pra prosseguir a história, você deve entrar no castelo.
+Vocês podem simplesmente virar e ir embora, mas aí não vai ter um intuito.
+É... vocês enxergam... vocês enxergam dois caminhos pra poder chegar no castelo.
+Se é assim que você decidir.
+É... não, primeiro faz um... quem tiver guerra faz guerra, quem tiver... ou percepção.
+Escolha.
+Guerra é só treinado.
+Seis.
+Quinze.
+Ah, passou.
+Com quatro.
+Sete.
+Você percebe... é muito estranho, mas tropas... tipo, milhares de soldados... é a quantidade de soldados aqui.
+Treze.
+Milhares de soldados chegaram... na frente de vocês, vocês não viram muito o castelo.
+Você tem claramente pra vocês, eles usaram alguma artimunda, alguma estratégia ali... mágica ou não mágica, pra chegar na frente de vocês.
+E... tá.
+Então a gente tem duas rotas, a princípio, que vocês enxergam pra entrar no castelo.
+É... tem bastante gente na aldeia, sendo patrulhada, mas talvez vocês possam contornar...
+esguerar pela vegetação, pela floresta e subir nos muros do castelo.
+Ou então vocês podem... ir nadando pelo rio, que tem um rio que vai atrás do castelo...
+E aí, no lado de trás, vocês escalam pelos muros.
+Eu tenho um asma, um muros do seu plano rio.
+São dois caminhos possíveis, não são os únicos que existem, mas vocês enxergam esses caminhos.
+Se eu fizer um teste de engenho aqui, pra mim a carroça, ser tipo um bote pra gente atravessar o rio.
+Você demoraria muito tempo pra fazer isso.
+A asma tem problema pra natação?
+Tem.
+É isso que vocês estão... vocês querem chegar no castelo, se assim quiserem...
+Eu começo a fazer teste na primeira rodada.
+Ou ter esses dois caminhos possíveis, ou...
+Ou esconder alguma outra ideia que vocês podem ter.
+Eu vendo que só tem esses dois caminhos, eu vou... esconder a carroça primeiro, na unida floresta.
+Eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... eu vou... é... uma coisa que o meu personagem, não sei se ele saberia... é... são puristas, certo?
+Não, são... é os artistas do Diúdo, ninguém sabe se é purismo ainda.
+Ah, tá.
+Eu saberia se eles são a favor ou contra usar magia?
+Assim, do tipo, como é que eles chegaram ali? Eles seriam, tipo, ok de usarem meios mágicos, ou eles são meio assim...
+Eu não gostar mais de magia.
+Quanto de bola de guerra você tem? Eu vou rolar.
+É, mais onze.
+Tá, mas eles, com certeza, fazem uso de magia. Eles têm magos de guerra.
+Sim, de bola. Ok.
+Tranquil.
+Só pra saber isso.
+Seria um caminho.
+É.
+E um de um que eu diria, né, sim?
+Mas, hum... então se você botar uma mágica, usar magia, é magia de alta tecnologia.
+Sim. Não, é só pra saber, assim, do tipo, esses caras... se são eles mesmos ou se alguém se passando por eles.
+Tá.
+Meio que essa... tentar entender se faz sentido o que eles têm.
+E aí.
+Então vocês têm esses dois lados. Possíveis pelo rio ou pelo meio da aldeia.
+E aí... ou alguma, qualquer atividade que vocês tiverem.
+Sejam criativos, porque os dois caminhos são difíceis e vocês podem morrer.
+Nadar é atletismo, né?
+É, atletismo.
+Hum... uma ideia de fazer uma boa...
+Se eu carregar ele, eu tenho penalidade, né?
+Tem.
+Nadando bastante ainda.
+Cavalo nada?
+Pode até nadar, mas tem que escalar um muro depois.
+É verdade.
+Escolha o cavalo junto do cavalo.
+Inclusive, não. Cavalo nada, naturalmente.
+Nadar é teste atletivo.
+Todos os caminhos parecem... faz outro teste de guerra pra mim.
+É... 16... 27.
+Os dois caminhos parecem difíceis.
+Você percebe que se você for...
+É...
+Pelo caminho da aldeia, vocês podem sofrer flechadas que estão vindo do castelo.
+Então...
+Flechas de graça.
+E são milhares de soldados.
+É esse que é dificuldade.
+Mas vocês podem ir contornando por esse caminho.
+Então vocês vão ter que ser furtivos e podem levar flechadas.
+Se você for pelo rio, é...
+Atletismo.
+Vocês vão ter que ir nadando e podem se afogar.
+É, porque vocês vão ter que subir os muros do castelo.
+O maneiro caminho também tem que subir os muros.
+Você tem uma corda?
+É.
+Não sei.
+É...
+Acho que tem um padrão lá.
+10 metros de corda, acho.
+Qual que é a largura do rio?
+Ah, ele tem tipo uns 10 metros, 20 metros de largura, sim.
+É um rio forte.
+Não dá pra fazer uma corda.
+Não, eu ia falar.
+É uma corda.
+Você vai amarrar uma...
+Flete sincero.
+Ah, não.
+A corda é muito pesada se você botar numa flecha.
+Teria que alguém atravessar com a corda e pendurar pra...
+A gente tem alguém que morre.
+Mas é isso aí.
+Eu sou boa, mas...
+É o...
+Ir reto ou dar a volta?
+É, vocês podem vir, tipo...
+Quer que eu segure o livro pra você?
+Mostra.
+Ah, por favor.
+Vocês estão aqui, ó.
+Vocês podem, tipo, vir aqui pela aldeia...
+Passar, tipo, meio por aqui e subir.
+Aí tem uma floresta aqui, né?
+Ou então vocês mergulham no rio, vão nadando e sobram.
+E o deserto tá tudo aqui, ó.
+E passar pelo rio, andar pela floresta e dar a volta?
+Pode ser.
+Só atravessar o rio?
+É.
+Pode ser também.
+A gente vai ficar nadando, andar pela margem de lá do rio?
+Pode ser.
+Seria mais fácil do que...
+É, no rio.
+É, aí a gente teria que atravessar o rio pra ir e atravessar o rio depois, na hora de chegar no castelo.
+É.
+Ah, eu sugiro isso pro grupo.
+E aí?
+Quantos metros tem o rio mesmo? Uns dez?
+Uns dez metros.
+É, tá. Tem que ter um metro e meio. Dez metros e meio. Pronto.
+Dá pra gente te jogar.
+Eu consigo, eu acho.
+Eu consigo arrebentar a ideia de que eu não consigo.
+Eu acho que eu consigo.
+Seria um teste, sei lá, de atletismo.
+A gente amarra o...
+Não, mas assim, o meu problema é que eu não posso...
+É dez metros da travessia?
+É.
+A gente usa as catapultas deles pra jogar ele pro outro lado.
+Mas você tem que roubar uma catapulta.
+Tem que roubar uma catapulta, é.
+A gente pode pedir pra ele enganar, pedir uma catapulta.
+Eu posso fazer...
+A gente pode roubar a catapulta e jogar ele dentro do castelo.
+E ele faz uma magia e sumona a gente.
+Eu caço tranquilidade em vocês.
+Eu tenho nenhuma magia pra facilitar...
+Eu tô pensando aqui.
+Tem suporte ambiental que aí eu consigo respirar embaixo d'água.
+Eu passo a...
+É enxuto.
+E você pode fazer qualquer magia divina?
+Primeiro círculo, sim.
+Peraí, eu acho que meu cavalo tem atletismo.
+Deve ter.
+É uma correnteza, tá?
+Então, se não conseguir passar a pé, você ainda vai ter que nadar contra a correnteza.
+Só que você não vai se afogar, né?
+Um caminho da natureza.
+O que faz caminho da natureza?
+É só que guia.
+Não vai ajudar nesses testes, não?
+Eu acho que não.
+É só sobrevivência melhor.
+Você falou...
+Eu não sei documentado alguma coisa sobre ir numa encosta por uma mata.
+Escondido numa mata.
+É.
+É pelos lugares, Luiz?
+Ahn...
+Deixa eu ver aqui.
+Não, a passa escondida é pelo rio.
+Você vai pelo fundo.
+Você vai pelo rio e sobe pelos fundos do castelo.
+Aí tem uma... não tem aça rinha, assim.
+Ah, eu vou tipo...
+Eu não vou nadar o rio.
+Mas eu vou tipo na beirada do rio.
+A gente sabe mais tremendo do caminho.
+Isso é o caminho da aldeia.
+Não, peraí.
+Qual que é esse caminho aí?
+Tem dois caminhos.
+Então você passa a aldeia, passa a floresta e sobe o muro.
+Ou você vai pelo rio até atrás do castelo e sobe o muro por trás.
+Sobe o penhasco e sobe o muro.
+Eu tô supercendo o terceiro.
+Atravessa o rio, vai contornando pela mata e depois atravessa o rio de novo.
+A aldeia inteira tem bastante mata?
+Mata alta.
+Não, porque aqui tem...
+O povo aqui, as florestas tinham muitos monstros.
+Então ao redor, assim, eles mataram bastante.
+Eu ainda acho que a ideia da gente fazer um barquinho com a carroça demora um pouco.
+Não tem nenhum barco que a gente pode usar?
+Não.
+A carroça é aquela carroça simples.
+Que é isso aqui assim.
+Duas rodas embaixo, só.
+É isso aqui.
+Vai ser super fácil de fazer isso virar um barco.
+Não, a gente coloca ela assim.
+Pega as duas partes da frente que amarram o tubo e diz...
+Eu acho que isso não vai dar certo.
+Isso não vai dar certo.
+Uma carroça nunca foi feita pra selar água.
+Não, mas seria tipo um...
+Não vai ser um teste difícil.
+Seria uma...
+Tipo uma balsa.
+Não um barco.
+Uma balsa.
+Você teria que desmontar bem mais pra ser tipo só as madeiras, assim.
+E ela flutuar.
+Se você tem muita estrutura em volta, ela fica muito pesada.
+Faz um ofício engenhoqueiro ou algum outro aí pra mim.
+Seria engenhoqueiro?
+Tá, eu vou lá em engenhoqueiro.
+Apenas...
+É só mais...
+Mais oito.
+Eu, mestre, o cavalo tem um atletismo diferente do meu.
+Se eu tô montando o cavalo, o nadar é o atletismo do meu ou do cavalo?
+Vinte.
+Do cavalo.
+Tirou vinte.
+Vinte, não natural.
+Ah, não natural.
+Ah, eu gosto de ter.
+Você consegue, mas demoraria um certo tempo.
+Quando eu tivesse a possibilidade, posso desfazer engenhoca.
+Oi?
+Eu sei.
+Eu sei.
+Viu?
+Tem até essa magia porque viram que o inventor é muito roubado.
+Não.
+É que eu tô vendo aqui que tem uma magia que me deixa socialmente invisível.
+Eu não fico invisível.
+Mas as pessoas deixam de prestar atenção em mim.
+Tá.
+Tá.
+Você quer usar essa magia?
+Não, eu tô pensando que seria útil porque eu só consigo usá-la em mim mesmo.
+Então, não ajudaria.
+Porque eu conseguiria entrar pra passar despercebido.
+Demoraria uma hora pra eu fazer uma balsa.
+Eu conseguiria passar despercebido no meio dos puristas, por exemplo.
+Mesmo eu não sendo por conta...
+Tá.
+Resurreição da magia.
+Não perderia a calça, mas...
+Como se eu fosse salvar uma pessoa qualquer passando por ali.
+Tá.
+Mas a partir do momento que eu fizer qualquer ação ofensiva contra eles, eu...
+Essa magia deixa de ser feita.
+Tá.
+Mas é que só funciona comigo.
+Eu tenho um ofício artesão também, então eu não seria pra um vizinho aqui.
+Eu tenho um ofício artesão aqui.
+Veículo também é artesão.
+Tá.
+Mas você joga louco.
+Eu já golei, não?
+Sim, eu só relembrei agora.
+Só relembrei agora.
+Não, eu daria na mesma coisa.
+E aí, alguma ideia?
+Me jocando até mais.
+Eu tô remendo todos os...
+A descrição de magia.
+Eu olho...
+O Gabi já deixa pra carroça.
+Olha pro rio.
+Olha pra carroça.
+Olha pro trovo.
+Olha pro rio.
+Dá uma hora eu consigo fazer uma balsa.
+Dá pra gente tentar montar...
+Tentar montar isso aí.
+Precisação forte.
+Dá pra ir remando até lá.
+Rola um...
+Eu não vou pedir pra você treinar, mas você percebe isso aqui.
+Claramente eles vão atacar em menos de uma hora.
+O...
+O...
+O Deora tá literalmente assim.
+Não, não.
+Não, não funciona.
+Deixa eu ver.
+Procurar um barco?
+Ia demorar muito?
+Tá, procurando.
+Aí seria o primeiro teste.
+Tá, assim, ver se a gente vê algum barco em algum lugar que ele ia pra usar.
+Tá, faz um teste de percepção.
+Pode...
+Seria um teste inicial.
+Você ainda não tá procurando ativamente.
+Você tá tipo olhando, assim...
+Pode ser, pode também fazer aqui.
+Eu posso fazer esse teste em cima do meu cavalo?
+Pode.
+Aí vocês ajudam ele.
+É só pra ver se você vê algum barco de onde...
+É um teste do quê que eu posso ajudar?
+Percebição.
+E a investigação não dá certo?
+Não.
+O, 18?
+23.
+Eu dou mais dois.
+Mais dois?
+É.
+Percebição.
+Eu dou.
+Tá, você vê um barco.
+Um barquinho.
+Arrima, assim, que cabe em vocês.
+É, o meu deu 22.
+Eu tô aqui no meu teste.
+Peraí.
+É, cabe vocês, mas não cabe o cavalo.
+Ah, não.
+Tudo bem.
+Eu não espero que o cavalo vá subir um penhasco e um...
+Nem o Trovo, nem a carroça.
+A gente escolhe.
+Eu queria abandonar o Trovo e a carroça se fizesse um barco com a carroça.
+Ó.
+A primeira coisa que faz quando percebe esse perigo é abandonar os amigos.
+O meu cavalo é bem treinado.
+É tipo o cavalo do Zorro.
+Já viram?
+Você ia subir, aí ele vem.
+Tipo de qualquer videogame que existe.
+Você tá em outro reino.
+Não, é porque eu...
+Eu acho que a máscara de Zorro...
+Várias vezes ele quer que o cavalo faça as coisas, o cavalo faz um negócio diferente.
+Ele fica achando o cavalo de cavalo burro.
+Ah.
+É tipo aqueles...
+Não.
+É, running gags, né?
+Que fica repetindo a coisa engraçada.
+Uma piada, sim.
+Aí ele vai, ele...
+Tem também, acho que umas duas ou três vezes que o cavalo passa num lugar e ele fica
+preso no...
+Porque era muito baixo.
+Bom, mas o que vocês estão achando mais interessante?
+Qual o caminho?
+Eu dei uma olhada.
+Tem um barco ali também, se a gente pular nele.
+Talvez seja mais seguro que tentar nadar pelo ovo.
+Eu não consigo perder minha respiração.
+Minha...
+Eu sou velha.
+E você, o que você acha?
+Eu acho que a gente pode tentar usar o barco.
+Você quer bater nos outros, né?
+Eu quero.
+Ah, sabia.
+Você não é meu amigo, você falou que você não é meu amigo, eu não vou perguntar.
+Eu não sei.
+Vai dar merda, vocês sabem, né?
+Se der merda, eu monto mais a Delta e fujo da Delta.
+Então, monta de ativão.
+Deixa eu parar.
+Você tem que ter montado a Delta lá no...
+Quando ele estava fugindo, ele falhou.
+Mas só eu tomei dano e consegui passar.
+Eu tomei daninho dele.
+Vou e ele me pula depois.
+Você acha que você vai conseguir fugir desse batalhão aqui com mais a Delta?
+É só eu subir no castelo e pular pro outro lado.
+Deixa.
+O último dia de um anão é o primeiro dia de uma história.
+Isso vai ser o último dia do anão.
+Vocês vão pegar o barco, então?
+Eu estava vendo aqui.
+Olha só.
+Vê se quem não vai ver a gente pegando o barco, mas...
+Tá.
+Sim, pode ser que eles vejam vocês.
+O barco não está ocupado, assim.
+Não está guardado, mas pode ser que alguém veja.
+É, tipo, claramente, assim...
+Vocês estão lá e aí...
+Nossa, um barco?
+Vocês vão ter que rolar um teste pra...
+Pra tentar passar despercebidos no barco.
+Porque se não só dá...
+Não só dá a folha.
+Não dá pra colar umas folhas no barco, assim, pra...
+Vou fazer uma escuridão mágica.
+Uma névoa.
+Posso fazer a névoa?
+Uma névoa.
+Mas a névoa, ela acompanha o barco?
+A escuridão sempre acompanha o barco.
+Não, a névoa não acompanha.
+A névoa, ela sobe do chão.
+A escuridão é no objeto.
+Ah, tá.
+Não, mas também uma escuridão, assim, saindo de um barco.
+Um meio rio, assim...
+Exato.
+Mas ninguém vai atirar no negócio, vai?
+São por isso.
+O que é que eu tenho vídeo de último caminho da natureza?
+Será que o barco aguenta a gente, mas o peso de uma árvore?
+Não.
+E se eu fizer um teste de artesão pra simular com a gente?
+A gente bota, tipo, só o novo corpo da árvore, assim, em cima e vai tudo no meio da árvore.
+O peso de um teste de artesão é difícil.
+Você deve usar uma sacana de 20.
+Tem alguns guardas meio afastados?
+Especialmente quatro.
+Não, merda, não consigo.
+Troca.
+É...
+Quatro, tipo, afastados de quatro.
+Quatro guardas aleatórias, assim.
+Que a gente possa chegar e roubar as roupas deles.
+Eles estão todos focados na guerra, assim.
+É tipo um pessoal meio pra trás, meio distraído, é assim.
+Gostei da ideia.
+Ah, mas, tipo, eles são humanos, deixa eu pensar.
+Tá, vocês podem chamar a atenção de quatro.
+E a gente bate neles e rouba as outras.
+Não, aí vai ser luta, que estão todos com roupas e armaduras.
+É, sim, mas...
+E eles prometem uma reforça.
+Vai vir uns 20 anos só, próximo de vocês.
+É.
+E se alguém tiver tranquilidade?
+Fizer os guardas dormirem e aí todo mundo mata um guarda super rápido.
+Tem algum destacamento pra trás?
+Pode ser.
+É que tranquilidade, ela quebra a partir do momento.
+Não é sono, né?
+E o cara só fica ali.
+Só que se o apartamento, você faz qualquer coisa ofensiva contra eles.
+Mas, vai...
+Dá pra fazer cada um...
+Quatro pessoas atacando um cara desmaiado no chão.
+Acho que...
+Ele não desmaia.
+Com tranquilidade.
+Ele fica só normal.
+Eu só desisto de lutar.
+Se alguém matar um amiguinho dele do lado dele, ele vai acordar?
+Mas como que ele vai estar dormindo?
+Vai acordar, não.
+Vai, tipo...
+Vai!
+É uma ação ofensiva.
+Mas não é contra ele, é contra o amigo dele.
+Ah, mas...
+Ele acorda, ele acorda.
+Ele acorda.
+Eu sempre vou...
+Escrever um queime de guerra daqui a pouco.
+Dá pra ir vindo no barco, tipo, abaixar assim?
+Dá?
+Dá pra...
+Dá pra...
+Dá pra...
+A única coisa que eu consigo...
+Que eu consigo pensar aqui em fazer é essa descrição, que eu fico...
+Mas eu só consigo fazer em mim mesmo.
+Pra ficar invisível.
+Temos caminhos da natureza, que a gente se desmove mais rápido.
+E ignora terreno difícil.
+Pra você, essa segunda parte é inútil.
+E se a gente fizer uma distração...
+É só um controlar plantas, mas é só um controlar plantas a ponto de seguro.
+É ofensivo.
+Distração.
+Alguém vai lá incender uma das casas da aldeia.
+Pra gente passar de barco.
+Não vai funcionar.
+Eles vão olhar pra todos os lados.
+Vai só chamar mais atenção.
+Porque a gente quer não chamar atenção.
+Pra mim tá valendo mais a pena a gente só atravessar o rio.
+É verdade.
+Andar pelo mato.
+Porque a gente andando no mato vai chamar menos atenção.
+Amarra a corda no barco.
+A gente atravessa o rio, pega o barco.
+Amarra a corda.
+Vai pela outra encosta puxando o barco.
+Não.
+A gente tem um cara que fica socialmente invisível.
+É só ele no barco.
+A gente vai a pé.
+Eles vão ver um barco e não vão ignorar, provavelmente.
+Aí a gente usa o barco pra atravessar de volta.
+Eu não faço magia.
+Ou sou eu.
+Eu consigo fazer a descrição de um alvo.
+Peraí, peraí.
+É, mas aí também vem quatro pessoas em cima de um negócio invisível.
+Dá pra amarrar a corda no barco.
+E o barco é a gente puxando.
+Ainda assim, o barco sendo puxado na beira do rio.
+Esta magia...
+Descrição aqui.
+Descrição.
+Esta magia torna a aparência do alvo desinteressante.
+Como se ele fosse parte da paisagem.
+Algo perdido na bagunça ou mais um na multidão.
+O alvo não se torna invisível ou ainda é percebido como uma criatura objeto.
+O encantamento apenas desvia a atenção dos observadores para outras pessoas ou elementos
+ao redor.
+Teres de investigação e percepção contra o alvo salve uma penalidade de menos dez.
+Em combate, enquanto a descrição estiver ativa, todos os inimigos, isso aqui é para combate específico.
+Então eu consigo...
+Se todo mundo entrar no barco, cobrir o barco com uma lona, eu consigo fazer a descrição no alvo, ninguém vai ver a gente.
+Assim, vai ver, mas vai ser bem difícil.
+Mas você, tipo, vai olhar para o barco e vai só ignorar o barco.
+Quanto aí, então?
+É, eu aguento essa.
+Deixa eu fazer o touch aí de uma tia.
+É, não, mas aí se eu for olhar mais de uma vez, eu faço ela de novo.
+Vamos lá?
+É, a gente precisa pilotar esse barco.
+Sete.
+É.
+Qual é a sua pilotagem?
+Sete, eu passei.
+Mais pra mim.
+Só para saber quem que está.
+Eu piloto o barco.
+Para ajudar, foi de Ali Hanna ainda.
+Eu posso ajudar.
+Uma descrição de Ali Hanna, é um barco super natural.
+Parece um tronco.
+Parece um tronco caindo na água.
+Tá.
+Mas é bem fácil.
+É, o piloto é um barco e ele está me ajudando.
+Tá, vai lá.
+Dois, gente natural, mais e mais aleatórias.
+A gente devia largar todas as carroças e andar de barco.
+É, sim.
+Vocês entram no...
+Todos vocês chegam assim, perto da vila.
+Vocês ouvem o barulho dos soldados.
+Vocês deixam a carroça, né?
+O cavalo ali amarrado bem escondidos.
+Vocês entram no barco, jogam umas folhas assim.
+E o barco vai indo assim.
+E recém, totalmente escondido, a gente pilota.
+Vocês pilotam.
+É uma pilodagem excepcional.
+Você põe um remilho para fora, faz assim.
+Aí os caras...
+Aí tem, sei lá, três turistas assim, tipo, comendo alguma coisa.
+Eles olham assim.
+Um tronco.
+Aí depois vocês ouvem assim.
+Aí quando vocês olham, vocês pararam bem assim no penhasco.
+A parede do castelo.
+Certo.
+Agora a gente subiu o penhasco e a parede fica assim.
+Quem que tem a melhor acrobacia ou atletismo que você viu?
+É, atletismo.
+Eu tenho seis de atletismo.
+Eu tenho cinco de atletismo porque eu estou sem o cavalo.
+Eu tenho cinco de atletismo também.
+Você tem a corda?
+Eu tenho a corda básica.
+Uma corda básica do livro lá.
+É, acho que é...
+Eu não...
+Você sobe com a corda e a corda daria vantagem para a gente?
+Alguma vantagem?
+Se ela não precisa avançar a corda?
+É, olha, o penhasco tem 12 metros de altura.
+E é difícil pra caramba de subir.
+É bem ímgrima assim.
+Se a pessoa cair é arriscada.
+Ela vai tomar muito dano.
+Mas se você jogar a corda...
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por nós, por favor.
+É por favor.
+Nossa!
+Botei ferro, né?
+Então...
+Atletismo?
+É isso aí.
+É, Bárbara é assim.
+Já chega e vai fazendo.
+É igual para a bolsa.
+Bom, atletismo.
+Eu posso...
+O que eu falei se eu tirou um?
+Dois.
+Falei.
+Se não é um, é dois.
+Eu tirei...
+Nove.
+Eu acho que é...
+Fala quanto que eu perdi, Júlio.
+Peraí.
+Atletismo é pré-escalar, né?
+Isso.
+Não tem a maneira que eu posso te ajudar.
+A CD é dez para a superfície...
+Você...
+Quanto você rolou?
+Deve ter a CD própria lá.
+Oi?
+Eu quero ver se a corda ajudou.
+Não, nove.
+A corda deve dar um bônus.
+Você está subindo.
+Mas faz ver a corda.
+A gente escorrega uma pedra assim, você...
+Bate as costas.
+Aqui, ó.
+Se um personagem estiver...
+Ah, não.
+Adjacente.
+Alguém tem queda suave?
+Não, não tem queda suave.
+É só me arca, né?
+Você vai tentar de novo?
+Se tiver...
+Eu vou tentar de novo.
+É isso aqui.
+Deixa eu ir.
+Eu treinei isso lá em tal lugar.
+Conhece tal lugar?
+Óbvio.
+Foi esse.
+Tu não conhece.
+Eu treinei lá em tal lugar e...
+E eu sei muito bem escalar.
+Sabe aquelas paredes assim, onde eles colocam umas pedrinhas coloridas?
+Tinha lá em tal lugar.
+Você leva a corda?
+Levo, levo.
+Claro que levo.
+Você tem espaço para carregar a corda?
+Tenho.
+Eu tenho espaço de sobra.
+Não, eu tinha uma corda no cavalo.
+Dez metros de corda.
+Eu joguei a corda no cavalo.
+É...
+Seria essa corda.
+É um rolo com dez metros de corda de canhamo.
+Dois metros de cruzado para navios.
+Mais cinco metros de atletismo.
+Dois metros de doze metros.
+A gente sabe a dificuldade?
+Não.
+É difícil.
+Tá.
+Então, eu gasto um PM para poder usar o atletismo como enganação.
+É mais que difícil.
+É desafiador.
+Tá bom.
+Eu gasto um PM para usar o atletismo como enganação.
+Gasto um PM para rolar com vantagem.
+E gasto um PM para dobrar meu treino.
+Então, eu estou rolando isso aqui mais dezoito.
+Tá.
+Dezenove mais dezoito.
+Da...
+Trinta e sete.
+Trinta e sete.
+Tá bom.
+Você fala com tanta convicção que você se engana.
+Lá em Tal Lugar é muito bom.
+Eu estou parecendo aquela personagem lá do negócio do lado de Pato Branco.
+Lá em Pato Branco?
+Você vai pisando assim.
+Aí, de repente, como você está subindo, você percebe que tem uma escadinha natural.
+Você vai subindo por ela.
+Você fala, nossa, eu já fiz isso naturalmente.
+Aí, vocês olham, tipo, não tem nenhuma escada.
+É tipo assim, né?
+Já viu a cabra?
+Na montanha.
+Eu estou atento nas mãos.
+Você nem respira direito.
+Só que é muito doloroso para vocês assistirem.
+Porque é três metros.
+Vocês vão ver, né?
+Tipo...
+Pã, pã, pã, pã, pã, pã, pã, pã, pã, pã, pã, pã, pã, pã.
+Ô, Gabi, eu devia ter feito a balsa.
+Eu chego lá em cima com a corda aí, bom, vocês têm auxílio a mais para subir.
+Tá, vocês sobem com a corda, então.
+Agora vocês estão de frente para o muro que tem mais 15 metros de altura.
+Vocês têm que subir o muro agora.
+Tem alguma investigação para, sei lá, alguma...
+É, eu não posso usar o mesmo poder de novo agora.
+Alguma, sei lá, eu posso subir pedrinha.
+Que formam meio que uma escadinha de mão, assim, para subir o muro.
+Uma investigação, algumas, algumas...
+Uns buracos dentro do muro.
+Tá, peraí, tem uma...
+Ô, mestre.
+Uma coisa boa.
+Peraí, deixa eu pesquisar uma coisinha aqui.
+É um muro que eu posso ficar...
+Eu estou desse lado de cá, do lado de lá, é na mesma altura.
+Então, se eu soubesse teletransportar seis metros, ele seria útil.
+Olha a investigação.
+Lembra dessa?
+Deu com a discussão de ontem.
+É.
+Pode ajudar.
+Dezesseis.
+Só dezesseis?
+Puxa.
+Pode ajudar.
+Pode.
+Mais um, pelo menos.
+Mais dois.
+Mais dois.
+Dezoito.
+Vai ter que tirar um hit.
+Ah, eu tenho menos um de investigação.
+Ele já soma a minha inteligência, não posso gastar dois.
+Doze.
+Dezenove.
+Dezenove.
+Mestre, eu já uso, ele já é apagado a investigação.
+Posso gastar mais um PM pra, dois PM pra somar de novo a investigação?
+Eu não sei.
+É engenhosidade.
+Engenhosidade.
+Pode ser.
+Eu vou fazer isso em total.
+Ok.
+Senão eu ia atrás de uma manjinha aqui, permite adicionar mais dois em um teste.
+Você colocou mais dois no teste, então?
+Já.
+Eu não posso.
+Eu tenho um cabalo pra ele.
+Vocês estão ali, vocês estão com a corda ali e tal, puxando, aí o Gabi começa
+a olhar.
+Hum, tchau, eu não consigo ir aqui e tal.
+E aí, conforme você vai olhando, é...
+Calma aí.
+A gente, aquele que eu tenho a transportação de metros, você tá bom.
+Aqui, olha.
+Atrás.
+Você olha um pouco mais pra trás, assim, tem um caminho meio esquisito, assim, pra dentro
+do muro e volta.
+Conforme você vai olhando, você vê uma enseada, assim.
+É tipo um porto natural, pra bairros.
+E lá dentro, você vê uma passagem secreta com uma porta.
+Então, uma entrada secreta pra dentro do caçal.
+Você consegue entrar por lá.
+Bora, bora pular.
+E você vai ter que só solar a dinagem pra abrir aquela passagem secreta, provavelmente.
+É.
+Eu tenho também.
+Eu sou um amigo dos meus.
+Vocês descem, então, com a corda, né?
+É...
+Então, você vai ter subido.
+Foi a última.
+Não precisa descer agora.
+Não é...
+Ah, não.
+É, tá.
+Tá, você dá a volta, então, no muro.
+Aí tem a porta lá.
+Tá.
+Não precisa descer.
+Tá bom.
+Eu falo, puxa vida.
+A porta tava do nosso lado e a gente subiu 20 metros de altura.
+É que o livro fala.
+Se você especificamente quiser investigar, você encontra uma passagem secreta passando
+no teste.
+Aí ninguém tinha investigado.
+Só tentaram subir.
+Então...
+Tem que descer então
+Mas é bem secreto
+No meio de um muro
+Tem que entrar por trás da água
+E vocês descem
+Chega lá, tem uma porta
+Que suave num dia específico
+Que bateu o sol
+No dia de julho
+É uma porta
+Da dinagem
+Da dinagem?
+Da dinagem
+1 mais 4 mais 2 mais 2
+9
+Deu também
+Então a gente se ajuda
+Você tem gasul?
+Quem vai fazer?
+Você faz
+Quantas ferramentas vocês tem?
+Gasul é
+Usa quantas quiser
+18
+Mais 2
+20 não abre?
+20 não abre?
+Toda?
+Não
+É uma porta pesada
+Antiga
+Uma passagem secreta
+Tenta fazer agora
+Eu te ajudo
+Pode fazer isso?
+Ele acabou de tentar e não conseguiu
+Agora eu tento e ele me ajuda?
+Eu acho que...
+É porque eu ajudei ele
+Agora eu...
+Pode, mas se falhar vai quebrar a ferramenta
+A gasula
+Tá bom
+Mas aí eu vou colocar a minha risco
+Se não a gente fecha a granada agora eu já sei se podia a porta
+Se fosse o contrário eu tinha passado
+Ah não, mas a de tranca não é...
+Acho que se fosse o contrário eu ia dar na mesma não?
+Eu vou ter que fazer a mesma coisa que nós fizemos
+Ficar batendo na porta
+Até destruir
+Não, não, calma aí
+De novo
+Ah, mas dessa vez não tem um monstro gigante vindo até a gente
+É verdade
+Nem um macaco
+Deixa eu pensar
+É...
+Cadê o rininho aqui?
+Na verdade não chama mais gasul
+Chama ferramenta estiladinagem
+Hum, tá
+Vai quebrar
+E...
+Ou posse de arsenal
+Deixa eu ver aqui
+Eu posso fazer um teste de investigação
+Pra tentar, sei lá
+Achar alguma parte dessa porta que esteja mais fraca
+Frágil
+A porta é feita do que é a mesma?
+De aço
+De pedra
+Fundido
+Um natural
+Não, de...
+Um natural?
+É
+Tá, você não acha
+Graças a Deus não acontece mais nada
+Poderia ter feito ela
+Você quebrar a tranca
+Alguma coisa assim
+Mas eu sou bonzinho
+É tipo de madeira
+Grossa assim
+Com um...
+Madeira?
+Trançado de...
+Ah, não é pena
+Madeira?
+Madeira grossa
+Invernizada
+Você tem uma coisa que taca fogo?
+Ela taca fogo?
+Não
+Não, o que eu tinha pensado é que...
+Não, você pode tentar
+O que você está...
+Me fala
+Eu tenho mais de óculos que é de explosão de chamas
+É...
+É, vai chamar um pouco de atenção
+Mas pode tentar
+Não, a gente está nas costas
+Pra frente do...
+Não vai chamar a atenção
+Tá
+Senhores, vocês têm mais alguma outra ideia?
+Parou a música?
+Ah, parou
+Parou
+Vocês têm uma outra ideia?
+Eu não estou olhando o resto que eu tenho aqui
+Ele saca de novo?
+Bom, eu tenho que despedaçar que causa dano melhor pra essas coisas
+Você tem alguma coisa que bota fogo na porta?
+Eu não queria usar a minha engenhoca que depois eu ameitar a CD pra usar ela
+Só flecha de luz, mas ela causa luz, né?
+Causa dano, não fogo em específico
+Fogo eu não vou ter
+Ah, santuário, suporte, metatropriedade, visão mística, arma de jardim...
+Hum...
+Hum...
+Hum...
+É, se eu tivesse alguma coisa seria provavelmente um escapatório de eninho que vai me dar mais 5 em ladinagem pra desarmar a armadilha
+Não entra nesse caso, eu acho... não entra nesse caso, eu acho... não é uma armadilha... hum...
+É, e o outro não vai dar não... é... não, seria só eu arriscar a minha gasua
+Arrisca a gasua... eu acho que a gente compra outra...
+Cada um de vocês tem uma gasua, arrisca uma mudança...
+É, é difícil comprar ferramenta de ladinagem, tipo, não vende em qualquer loja, assim...
+Tem que ser...
+Eu faço...
+Excesso faz...
+Ele faz...
+Ele faz...
+Ele ainda vai ter os materiais da minha quebrada e o molde da dele pra saber exatamente como fazer...
+Tá...
+Então, vamos lá...
+É claro que é da baixo, né?
+Não, não vai passar de...
+Eu acho que tem algum lugar do livro com pontos de vida de uma porta...
+Tem...
+Ah, tem, você já mostrou outra vez...
+Tem, mas eu não quero usar minha... minha esposa de chamas agora, porque ela dá dano...
+Tá 2x6 de dano...
+E a arcano, 8x5 pontos que eu não ia usar, né, Thiago?
+Uhum...
+É muito difícil a gente dar a volta e chegar na frente do castelo e entrar...
+Não, não é difícil de ficar mais fácil...
+É...
+Tipo, vocês vão dar direto pros arqueiros, vocês vão ter que...
+Tomar dano...
+É, eles estão tipo atirando flecha lá de cima...
+Pode tentar, mas eles vão tentar...
+Por que ninguém gritou ainda, pedindo pra alguém abrir a porta?
+É que você tem que estar na frente do castelo...
+Aqui não tem nem, assim, vocês estão com o castelo...
+Tá...
+Isso...
+Eu tenho, eu tenho um ofício...
+Eu tenho um ofício artesão...
+Eu posso tentar desmontar a porta?
+Não...
+Nem acertar uma porta guardada secreta...
+Tipo, não tem um parafusinho assim pra você...
+Não sei, mas eu tenho...
+Eu tenho um artesão aqui, eu posso...
+Eu tenho, sei lá, aquele...
+Formão de madeira...
+Desbassa ali uma partezinha...
+Tento tirar para...
+Achar parafuso...
+Tá...
+É difícil, Tessa...
+Pode tentar...
+20, 20, 20, 20, 20...
+Tem que ser mais que...
+20 natural!
+20 natural!
+20 natural!
+Boa!
+20 natural com um ofício daria 27!
+Cara, é exatamente isso...
+Você acha um parafusinho...
+Você começa a guardar...
+Sem latinagem!
+Sem latinagem!
+Sem latinagem!
+Nossa, uma caixa de chave Philips...
+Aí você começa assim...
+Aí ele abre...
+Cai assim...
+Tipo...
+A fechadura...
+POM!
+Depois a mão e faz...
+POM!
+Cai assim...
+POM!
+POM!
+POM!
+um pedaço de um. Aí vocês todos, a gente vai zelabirando, gente. Senhores? Eu já estou querendo arremessar um rininho por cima do muro. Eu acho que ele morreria com dano de queda, mas tem que ver.
+Mr. Chato, você é útil. Então, beleza. Vocês entram. Mr. Útil, você é chato. Por favor. Vocês entram pelo... Vão subindo. Vocês encontram alguns guardas e eles dizem, vocês. Vocês estão aqui? Vocês são heróis que salvaram o barulho Amelard? Vem conosco. Aí eles levam vocês. Quem é o Amelard? Você conheceu, mas fica tranquilo. Você conheceu. A gente estava na sala. Você recebeu a missão dele. Ah, é verdade.
+Então, com isso. Vocês são levados em uma sala sóbria. Simples, assim, como todo o resto do castelo. Como que é o contrário de uma sala sóbria? Uma sala bíblica? Não, uma sala... Calma. Calma. Não, que tipo, não tem objetos luxuosos nem nada. Só o símbolo de calmir bem grande, assim, no teto. E coisa simples, uma cadeira de madeira, coisa bem simples.
+Eu desmontei. Ela está lá para o barão Amelard e a... Você ajudou o pessoal a invadir. A Lady Islef. Ela está lá também.
+Eles estão em volta de uma grande mesa de madeira analisando mapas do feudo. Eles examam vocês. Eles gritam para os guardas algumas coisas, tipo...
+Rápido, vamos lá. Façam um cerco. Se preparem para a torre Rá, não sei o quê. E eles chamam vocês para chegar perto.
+A barão Amelard fala assim, é...
+Eu e minha filha estão assim na vida, né? A gente temia uma retaliação.
+Demos mensagem pedindo ajuda, mas não recebemos nenhuma resposta.
+Ordenei aos aldeões que amadenaçam seus lares e se dispersassem do interior do reino. Porém, eles perderam suas casas, mas, infelizmente, não perderam suas vidas, né?
+Mas nem todos deram partido. Os anciões, crianças e enfermos ficaram por aqui. E eles não resistirão a uma jornada como essa pelo interior.
+Convoquei barqueiros para levá-los pelo rio. A gente tem uma passagem secreta lá no fundo, né? Um porto. Tem uma porta muito bonita que eu mandei fazer.
+Meu pai mandou fazer e era especial, assim, numa madeira centenária. Feita, nossa, de uma porta mágica e... Se ela fosse desmontada, eu perderia toda a magia e... Mas, enfim...
+Então, eu chamava... Ela não deve ter defeito nenhum. Não, perfeito. Eu mandei fazer. O cara falou que era a melhor madeira do reino.
+O que o cara falou? O que o cara falou? Esse cara se chamava Aquiles? Aquiles? Não, era... Era Aldor o nome dele.
+Aldor. Aldor.
+Ele era um grande... Ele era um grande... Eu não sei... Artesão?
+Era um grande artesão? Era um grande artesão, é.
+Não, não. E devia ser alfã. Os são grandes.
+Mas, enfim... Ele... As pessoas enfermas, doentes, ficaram aqui... Os barqueiros vão vindo e vão levá-las.
+Eu posso te garantir. Essa passagem secreta está sempre... Secreta. Secreta. Foi difícil conseguir ela, viu?
+Um penetrável. Impenetrável, não. Muito bom. Não sei... Tem uma... Não dá pra arrombar a porta. Arrombar não.
+É isso que eu pedi pra ele fazer. Se fosse fazer só uma coisa, eu fizesse a fechadura dele.
+Não dá pra gente voltar e só... Com uma caixa vifes de novo, depois que sair...
+Eu vou levar a porta.
+Eu vi... Eu faço, eu faço, eu faço.
+Eu faço.
+E aí... Eu tô com doja.
+Eu vou levar a porta.
+Os barqueiros vão levar eles pelos rios.
+Mas eles ainda não chegaram e só vão chegar quando o cerco começar, que é em breve.
+E quanto a vocês, eu gostaria que combatessem ao meu lado. Vocês já fizeram muito e... Se ficarem...
+Dever... Advertidos. Talvez vocês morram.
+Mas ainda assim vai chegar a hora de todos sermos julgados por Calmir. Se puderem ficar ajudando na batalha, eu agradeço.
+Claro que eu vou ter que ajudar. Eu ajudo. E eu soubervoto de Calmir.
+Assim... Onde a gente ajudaria mais?
+E meu amigo Rinin também vai ajudar. Eu dou dois tapias assim e tipo pra não ser toda conversa.
+Só pra te obrigar a ajudar.
+Vocês tem que segurar... Ajudar na batalha. Segurar o resto enquanto os mais...
+Tudo bem.
+Os que estão mais... Os anciões, as crianças, fugam dos barcos.
+É só fazer brincadeira.
+É que é meio difícil de ajudar. Eu olho pra cima assim... Enfim, ignoro...
+Se eu olho pra cima eu faço... Aquele símbolo de... de... de Calmir.
+Aqui é meio difícil de ajudar, mas lá embaixo eu não consigo mais.
+É... Vocês teriam que ir direto pra uma batalha.
+É... Você teria... Aquelas pepidinhas boas pra gente reanimar?
+Essência de uma?
+Tem alguma. Vocês podem pegar lá.
+Por favor. Por favor.
+É... Também. A gente tá guardando pros... pros guardas, mas...
+Eu consigo... Quatro poções.
+Uma pra cada um.
+Podem pegar no meu estoque aí, no meu figolar.
+Ei, eu... Eu curei todo mundo. Viu isso? Viu? Deixa eu... Mais uma. Mais uma.
+Não, eu peguei... Eu peguei... Eu peguei... Eu peguei uma assim e já... Já guardo.
+Ok, eu curei quatro de vida. Se alguém puder doar pra mim, eu aceito.
+Eu peguei... Tá, pode pegar a minha.
+Eu peguei... Eu tô com um... Eu tô com dez de bagunção.
+Quer rolar pra mim? Quanto procuro? De dois... Vai lá.
+Vou rolar com o soldado? Tudo faz.
+O que você faz?
+Uhuuu!
+Eu tomei duas essências de humano, eu colei 8 pra ele.
+Ó. Agora eu tô com 19, não tô full ainda, mas tá ótimo.
+É.
+Fala.
+O Neki tem experiência em ver servos e coisas de guerra, ele pode falar com alguém e tentar, tipo, dar aquela coordenada pra ver se melhora a estratégia do texto.
+Não, transmitir não vai dar tempo, mano. Os soldados já estão todos no front e o ataque tá pra começar.
+A verdade, chegaram lá em cima da hora.
+Uma pergunta, uma pergunta.
+Uma pergunta.
+A história é longa.
+Digamos que eu joguei cartas com velho e quase morri por culpa dela.
+Perdão, dele também, mas ela também.
+A verdade, só uma pergunta.
+Teria algum lugar onde eu pudesse fazer, sei lá, uma barricada?
+Trazer, sei lá, todos os idosos e enfermos para perto da passagem...
+Eles estão?
+Não, eles estão aqui dentro já.
+Para...
+Na sala mais perto da passagem secreta.
+Para que eu bloqueasse a passagem até essa sala.
+É, a gente vai ter...
+Você pode fazer uma barricada, a gente tem uns guardas lá.
+Vamos até onde estão os soldados?
+Eu vou querer fazer uma barricada.
+Quem que é?
+É...
+Eu vou para a torre dos vaqueiros.
+Calmino ou qualquer outro, Deus os abençoe.
+Antes de...
+É...
+Quando a gente começar a batalha é uma mecânica diferente, mecânica de batalha.
+Eu passo pra vocês depois, mas...
+Eu não lembro exatamente qual que é a regra.
+Sem problema.
+Mas...
+Então, gente, mas se dividir é a melhor ideia?
+Eu acho que não.
+Deveríamos ficar aqui.
+A nossa missão foi nos incumbindo de proteger os doentes, os mais...
+Não, aqui nessa sala, não se preocupe.
+Você percebe o sonho do velho assim?
+É...
+Eu acredito que eu vou subir rapidinho contigo?
+Junto com as coisas dos arqueiros, para principalmente os arqueiros com o poder de vir.
+Todos os que vocês...
+Vocês tem que voltar aqui em no máximo 2 segundos.
+Na minha velocidade eu não consigo nem sair em 2 segundos.
+E a gente carrega.
+Eu acho que eu não consigo carregar ele.
+Eu posso carregar?
+Não com todos os itens dele.
+É que eu vou ficar montando a barricada.
+Por enquanto.
+Tá.
+Ah, enfim.
+Qualquer coisa, vocês morrem e o Gabi foge.
+O Gabi vai ser o ancião do grupo.
+O único que ele bateu no começo da campanha.
+Mas vamos lá.
+O Nagy tem essa filosofia de vida, né?
+Porque eu já vi muitos os aventureiros morrerem, mas...
+Ah, as pessoas morrem.
+Mas já é isso para mim, amor.
+Aí ele fala também:
+Eu pedi para Lady Arleth, minha filha, levar os camponeses para o barco, mas...
+Ela quer ficar a lutar.
+Ela está doada e fala:
+Sim, eu lutarei pelo meu reino.
+Pelo meu povo.
+Faz bem, faz bem, faz bem.
+E ela já está com uma armadura armadurada assim e tal.
+É de ferro?
+Não, provavelmente é de aço...
+De noxidável.
+É, alguma coisa tipo de qualidade assim.
+Que é feito sob medida para ela.
+Ah tá, não é?
+Porque se você usa toque chocante ela tem penalidade.
+Eu não uso toque chocante dela.
+Tá.
+Bom, é isso.
+Vocês...
+Aqui é o epílogo, né?
+O final.
+Vocês começam a se posicionar, pesa barricada, sobem na torre...
+Eu tenho que fazer algum teste para montar a barricada?
+Não, você consegue montar.
+Não, porque seria tipo uma barricada muito forte.
+A gente está para a próxima, né?
+A gente está para a próxima.
+A gente está para a próxima.
+A gente está para a próxima.
+Então, vocês sobem assim em cima dos muros e vem aquele batalhão todo organizado assim,
+fileiras se aproximando.
+E o barão está no topo da torre assim, da barricada assim, do castelo.
+E aí após ter tomado a aldeia, né?
+Os reservistas, o turista começa a avançar com suas máquinas de cerco, carroças, subindo o penhasco assim, em direção a vocês.
+Os arquivos continuam tirando flechas e eles estão usando grandes escudos assim, para não levarem as flechadas.
+E o coronel, Heger Wartrick, ele avança com um cavalo assim, um grande martelo enorme assim.
+E ele vai se aproximando.
+E as flechas vão pegando nele assim, ele está na frente dos escudos, tipo resvala assim na armadura dele e nem faz cócegas.
+Uma hora está passando uma flecha, ele puxa a espada, corta ela no ar assim.
+E a flecha cai aos pedaços.
+E aí ele faz assim, todo o pantalhão para com aqueles gritos de guerra e tal.
+Aí ele grita, né?
+Pipoca, ola!
+Ola!
+Ola!
+Ola!
+Você pegou?
+Sim!
+Do Nemo!
+E aí ele grita, Abelard!
+É um prazer vê-lo vivo!
+Aí o barão responde assim:
+Você é um cão sem honra, isso que você é, Wartrick.
+Agindo pelas costas da sua legítima rainha imperatriz.
+Matando camponeses, atacando na surdina.
+É um tolo, você acha que pode me vencer no combate justo?
+Aí o coronel dá um sorriso assim:
+Tolo é você!
+Você acredita ser merecedor de tanta consideração?
+Não vou falar dos feitos do Lorde do Karst, mas a verdade é que você ama e acolhe seres inferiores, de raças inferiores.
+Mim mesmo merece lutar comigo ou com meus soldados.
+Guerreiros de verdade.
+Meus soldados não lutarão, me enviei à escória.
+E aí quando ele faz assim, as carroças abrem, os escudos abrem.
+E de dentro, assim, algumas carroças avançam, abrem as portinhas e começam a sair vários prisioneiros.
+Goblins e alguns humanos.
+Aí os guardas chegam assim nos Goblins e começam com lança a cutucar.
+E os humanos também, né?
+Para um ataque suicida contra o castelo.
+Aí eles começam a chegar assim, a investir contra o muro, bater e subir também, escalar.
+E eles estalam facilmente.
+E é isso aí, a gente chegou no final da sessão.
+E na próxima a gente vai ter o combate.
+Daqui 353 dias.
+Os prisioneiros deles.
+Os prisioneiros deles.
