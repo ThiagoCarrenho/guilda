@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-12T20:51:38.959-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-14T12:14:59.259-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -11,13 +11,13 @@
 
 Nesta história, os aventureiros buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 Participam desta história:
-- [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Jogadores/Thiago Carro\|Thiago Carro]] (entra na Sessão 3);
 - [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] de [[Jogadores/Laura\|Laura]];
+- [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] de [[Jogadores/Laura\|Laura]] (entra na Sessão 3);
 - [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
-- † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
-- † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]] (morto em batalha na Sessão 2);
+- † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]] (morto em batalha na Sessão 2);
+- † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]] (morta em batalha na Sessão 2);
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
