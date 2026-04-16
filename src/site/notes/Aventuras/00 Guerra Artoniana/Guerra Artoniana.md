@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T15:19:53.398-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T15:20:04.575-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -192,7 +192,7 @@ Alyssa não tem muita opção, a bárbara que lhe jurara morte está caída a su
 "A gente não aguenta levar ela não, só o cavalo", mais uma vez, Nagi é a voz da razão, olhando para o porte dos três sobreviventes, "mas se ela for andando é mais fácil", fixando o olhar no clérigo.
 "Ela que ande então! Me levanta aqui."
 O meio-elfo pega o hynne nos braços, sobem ambos no cavalo, e fazendo uma torre de três bichos, Deora consegue alcançar um braço caído da bárbara, desacordada sobre o telhado. Ele faz uma pequena oração verbal, entendendo que deveria orar em dracônico, se concentra, e cura Emmy suficientemente bem, a ponto que se levante. As feridas da bárbara começam a criar sobre si uma escama de dragão, que, conforme o tempo passar, vão caindo ao chão e se desfazendo. Kallyadranoch foi o deus usurp... consultado para esta magia.
-Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando. $Abc = 1$
+Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando. a $Abc = 1$
 ###### Chapéu de palha
 "Qual é o deus das terceiras chances?"
 "Deus das terceiras chances?!"
