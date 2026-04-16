@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-04-11T21:17:46.405-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-04-14T12:17:19.058-03:00"}
 ---
 
 # Aventuras
@@ -62,16 +62,16 @@ Para conhecer os sistemas, acesse [[Sistemas\|Sistemas]].
 **Sistema:**  [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura longa;
 **Data de Jogo:** 15/03/2025-Hoje;
-**Sessões:** 3 presenciais
-**Nível dos Personagens**: 1 -> 2;
+**Sessões:** 4 presenciais
+**Nível dos Personagens**: 1 -> 3;
 **Descrição:** Impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 **Personagens e Jogadores:**
 - [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] de [[Jogadores/Laura\|Laura]];
+- [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]] de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]], morto em batalha;
-- † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]]
+- † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]];
+- † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]];
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]];
 ---
 ### Sumiço de Mike

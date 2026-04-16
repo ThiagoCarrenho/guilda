@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-11T21:17:46.874-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-14T12:16:21.501-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
-*Grupo:  [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]], além dos falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
+*Grupo:  [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] e [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]], além dos falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
 
 **Raça:** Anão
 **Origem:** Mercador

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-11T21:17:46.174-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-14T12:17:46.674-03:00"}
 ---
 
 # A GUILDA
@@ -76,7 +76,7 @@ Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por P
 
 ### Guerra Artoniana
 
-Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]),  [[Jogadores/Laura\|Laura]] ([[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
+Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Jogadores/Laura\|Laura]] ([[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 
 ---
 ## Galeria

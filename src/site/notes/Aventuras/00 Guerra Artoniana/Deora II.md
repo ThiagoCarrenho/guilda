@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-12T13:45:04.259-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-14T12:16:02.856-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
-*Grupo:  [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]], [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
+*Grupo: [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
 Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
 
 **Raça:** Hynne
