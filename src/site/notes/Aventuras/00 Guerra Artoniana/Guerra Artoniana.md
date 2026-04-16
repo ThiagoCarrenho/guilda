@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T00:07:04.449-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T14:48:24.437-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -157,7 +157,7 @@ Por fim, Deora II pulou da carroça em uma avenida paralela, mas, caminhando na 
 Então o grupo ouve alguns passos próximos, mas eles vão para longe com um grito "Vamos achar eles!".
 "Estamos livres, por enquanto" - respiraram aliviados.
 Mas não, não estavam livres.
-###### Alyssa
+###### Competição de arquearia
 "Ali, ali estão eles!" - escutam um grito a distância. O problema parecia distante. Mas um vulto se aproximava. Pulos ágeis sobre os telhados das casas: era necessário agir, e rápido.
 Estão em uma ruela, as casas em volta, todas fechadas. O sol se terminando de se por, e a lua tomando seu lugar. As tochas da cidade aos poucos vão se acendendo.
 O pequeno Gabj apruma seu machado e usa uma engenhoca afiadora de lâminas para deixá-la mais potente, e a arma começa a brilhar em sua mão.
@@ -184,241 +184,24 @@ Já a humana não pergunta antes de agir, ela afirma: "Eu vou te matar! Eu vou t
 Ainda que não esteja montado, o arqueiro dispara outra flecha, e acerta outro belo tiro.
 A guerreira não deixa por menos, irritada com a machadada e com a flecha, dá uma coronhada de arco em Emmy, que dá uma cambaleada para trás, e é finalizada com um segundo golpe. Pela segunda vez, um aliado está caído.
 Não era algo difícil de supor, mas Deora percebe algo novo neste instante, e não consegue segurar para si: "Oh, que belo o arco dela, uma arquitetura élfica rebuscada". O que permite ao chato do grupo continuar sua chata chantagem: "Aah, um humano usando arquitetura élfica!", o que é respondido com um "Como ousa!" por parte dela.
-O anão, vendo que não a acertaria de jeito nenhum à distância, e vendo que ela se recusa a entrar em combate corpo a corpo, joga um martelo de guerra, para que algum de seus aliados o use. "Eu só sei atirar, amigo" diz o arqueiro, "eu nem isso", complementa o clérigo. Em seguida, o próprio saca um frasco de luz, e usando este componente conjura uma flecha luminosa na direção da inimiga, que consegue se desviar um pouco mas ainda é atingida.
+O anão, vendo que não a acertaria de jeito nenhum à distância, e vendo que ela se recusa a entrar em combate corpo a corpo, joga um martelo de guerra, para que algum de seus aliados o use. "Eu só sei atirar, amigo" diz o arqueiro, "eu nem isso", complementa o clérigo. Em seguida, o próprio saca um frasco de luz, e usando este componente conjura uma flecha luminosa na direção da inimiga, que consegue se desviar um pouco mas ainda é atingida. E, enquanto Emmy agoniza desacordada, Nagi acerta mais uma flecha contra a guerreira, que está bem ferida.
+Alyssa não tem muita opção, a bárbara que lhe jurara morte está caída a sua frente, e os seus três aliados se escondem covardemente atrás do cavalo. Ela nota suas muitas manchas de sangue, da  machadada, das flechadas e um pouquinho de queimado de luz olha para a combatente caída, olha na direção dos três (e do cavalo). Então vira-se de costas e corre para além, pulando do telhado e seguindo para outra direção.
+"Ela fugiu? Ha! Sabia que uma humana não teria coragem de enfrentar o anão!" - se vangloria, aquele que tudo o que pode fazer em combate foi se esconder.
+"Não conte vitória ainda", respode Nagi, indicando os guardas que se aproximam.
+"Peguem a Emmy, peguem a Emmy", grita o baixíssimo.
+"A gente não aguenta levar ela não, só o cavalo", mais uma vez, Nagi é a voz da razão, olhando para o porte dos três sobreviventes, "mas se ela for andando é mais fácil", fixando o olhar no clérigo.
+"Ela que ande então! Me levanta aqui."
+O meio-elfo pega o hynne nos braços, sobem ambos no cavalo, e fazendo uma torre de três bichos, Deora consegue alcançar um braço caído da bárbara, desacordada sobre o telhado. Ele faz uma pequena oração verbal, entendendo que deveria orar em dracônico, se concentra, e cura Emmy suficientemente bem, a ponto que se levante. As feridas da bárbara começam a criar sobre si uma escama de dragão, que, conforme o tempo passar, vão caindo ao chão e se desfazendo. Kallyadranoch foi o deus usurp... consultado para esta magia.
+Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando.
 
-
+$$A$$
+###### Chapéu de palha
 "Qual é o deus das terceiras chances?"
 "Deus das terceiras chances?!"
 "Triatis, *hihihi*".
 
 ---
-
-
 ###### A
-Não, eu errei.
-Ela é número 3, não.
-É.
-Se morrer vai aparecer o devoratriz.
-A ficha do cavalo aqui.
-Não causa a defesa da vida.
-Se precisar.
-Mas ainda não.
-Um homem não tem.
-Qualquer coisa a gente precisa.
-É, se precisar.
-Tá, não tá aqui.
-Tá.
-Então, Deora, ele recebe uma fechada na cabeça e...
-Deora recebe uma fechada na cabeça e...
-Morre!
-É, agora sim eu vou usar a ameaça de...
-Vou ver aqui, subir no cavalo.
-Tá.
-E vou atacar.
-Ah, aqui.
-17.
-É...
-Não.
-Ah, desculpa.
-É, não ataque.
-É...
-O ataque tem mais 2.
-Não...
-Não.
-É, 24...
-26.
-26.
-26.
-Acerta porque já acertou antes.
-Ah, então acertou.
-É.
-E aí, um das 6 mais 4 que eu tenho em cima do cavalo, mais um do abito.
-5.
-Mais 4, 9.
-Mais um, 10.
-10.
-10.
-É, agora a vez dela, né?
-Isso.
-É.
-Você vê, ela tá assim, bem sangrando.
-Aí você acerta outra flecha, atravessa o peito dela.
-Aí ela tá assim, olha pra barba caída, olha pra vocês.
-E a Kronksa voltou.
-Ela toma uma outra flechada.
-Ela olha assim pra vocês.
-Aí, como mais uma ação, ela enrola o...
-O arco, nela assim, vem correndo, tipo, por outro lado e pula do pecado.
-Ela tá fugindo da gente?
-Ela tá correndo até a gente.
-Fugindo de vocês.
-Ela pula de um dedo.
-Tipo, vocês estão aqui, né?
-Ela tá aqui.
-Ela vira de quadros, vem correndo e pula.
-E agora é vocês.
-Tá, não?
-A gente já ia ter marcado ela.
-Tá, agora é o número 4.
-E o...
-Tá, você.
-Ah, mas vocês percebem os guardas chegando mais perto, tá?
-Tem 3 rodadas pra eles chegarem.
-Tem uma barba caída no teléreo.
-Tá.
-É, tem que recuperar a...
-Eu falo, alguém ajuda.
-Pega a Mia!
-Pega a Mia!
-Pega a Mia!
-A Mia não!
-Você não conheceu a Mia!
-Aí vai lá, pega a M!
-A M!
-Ele sabe quem é a Mia, você não.
-Alguém consegue carregar ela?
-Eu tenho um cavalo.
-É verdade.
-Ok, quanto de carga ele pode levar?
-Eu não lembro os quando...
-Ah, eu acho que dá pra levar mais uma pessoa, mas...
-Eu tenho até uma carroça.
-Eu tenho uma carroça depois.
-Ah, o cavalo dá.
-Dá pra mim...
-Não, aguenta.
-Deixa eu pensar.
-Eu vou jogar ela no cavalo.
-O que vai descer ela do telhado?
-É, essa parte eu não posso ajudar muito.
-Enrola ela, vai rolando aí o cara.
-É quanto, assim, de...
-Ela tá com o pezinho pra fora?
-Da perda do telhado?
-É, mais ou menos.
-Não, sei lá.
-Tá uns 3 metros da beira do telhado.
-Ah, eu consigo pular do cavalo no telhado e pular de volta no cavalo.
-Ah, você consegue carregar ela?
-Você tem espaço, assim...
-Você empurra ela?
-Você consegue me empelhar?
-Eu vou parar de levar pra eu levantar ela.
-Se você só quiser isso aqui, me levantar pra eu voltar, você vai curar ela.
-Peraí, Peraí, essa é boa.
-Uma pessoa em cima de um cavalo tem 2 metros de altura.
-Quantos com a sua altura?
-Meio.
-A do primeiro metade.
-Mais ou menos um metro.
-É.
-55 centímetros.
-Eu preciso arremessar ele.
-Ninguém tem força pra arremessar ele.
-Eu tenho um de força.
-Eu também.
-Por isso que eu falei, ninguém tem força pra arremessar ele.
-É, você tem 2 metros, o cavalo tem 1 metro e meio.
-Você esticar assim, ele fica assim pendurando.
-Eu alcanço ela?
-Não, você fica com o dedinho, assim...
-E se vocês subirem...
-Você corre lá, né?
-E se vocês subirem...
-Nem no pé?
-E se vocês subirem...
-Eu tenho um pé em cima do cavalo e aí segurar ele pra cima.
-Tá, você consegue.
-Ela está com o pezinho.
-Tá, eu preciso relar nela.
-A minha ideia inicial é que eu vou lá, pra mim, com certeza.
-Eu sou um machado de gancho, assim, ó.
-Fazendo puxar ela pra baixo.
-Tá.
-Então, você está subindo o meu cavalo ou vou ter que esperar pra próxima rodada?
-Não, não.
-Eu estou aí em cima do cavalo.
-Eu consigo te pegar e te colocar pra cima.
-É porque ainda é a sua vez, né?
-Mas aí vocês podem alterar o turno.
-É, eu deixo ela só engatilhada.
-Eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-É, eu deixo ela só engatilhada.
-Então, você passa, aí a gente faz...
-Mano, eu não tenho que fazer.
-Mano, eu tenho que fazer.
-Aí, agora sim.
-Eu engatilho a minha ação de...
-Mas peraí que ela é a primeira, faz o teste de uma.
-É, ela é a primeira.
-Eu lembro dela.
-É, eu sei.
-Eu sei.
-Só que eu engatilhei a ação porque eu sim, eu cheguei até ele, mas eu não consigo subir nele, escalar nele.
-Ele tem que levantar.
-Três, passou.
-Eu tirei.
-Passou, passou, passou.
-Três, seis.
-Você fala de sangrar.
-É.
-O louco tomou um double print agora.
-Você levanta e ele cura.
-Isso.
-Primeiro eu tenho que...
-Eu vou gastar a mesma coisa.
-Eu vou gastar mais um PM pra rolar com vantagem porque esse teste é preciso passar.
-Passar.
-Passar.
-Passei 17.
-Mais...
-Minha borrada de bônus.
-Você recupera 2 de 8 mais 2.
-E agora eu não tenho como melhorar esse dado.
-Tem mais do que 9.
-Cadê meu outro de 8?
-Quer rolar você?
-Eu não, Ziz.
-Eu sou o Matias.
-Eu sou o Matias.
-Eu sou o Matias.
-Ah, já tem 8.
-Boa aí.
-11.
-12, 13.
-13?
-13.
-Então seu 9 fica...
-Fica...
-3 menos.
-9.
-4 de vida.
-Você tá com 4 de vida.
-Tá.
-A doença é 6.
-Devolva o Bruno também.
-Quem te curou?
-Calhadra 9 te curou.
-Você sente...
-Você sente o poder do dragão dentro de você.
-E na hora que você levanta, você está em cima do telhado, os caras, os soldados...
-Tem uma tempestade dos soldados.
-É, é.
-Você vê o seu...
-Não, agora é o último turno.
-Os ferimentos dela, das flechadas, dos golpes que ela levou, vira uma...
-Vira...
-Temporalmente um escama.
-A escama fecha.
-E a escama vai cair, mas por enquanto é isso aí.
-Legal.
 Vem em Jagani Qualcara, em Kanitiyachi, em Kanitana Tori, agora em Kanitana Tori e agora em Kanitana Tori.
 Tempo.
 Tá, vocês vêm...
