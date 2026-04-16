@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T14:48:24.437-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T15:16:12.744-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -194,7 +194,7 @@ Alyssa não tem muita opção, a bárbara que lhe jurara morte está caída a su
 O meio-elfo pega o hynne nos braços, sobem ambos no cavalo, e fazendo uma torre de três bichos, Deora consegue alcançar um braço caído da bárbara, desacordada sobre o telhado. Ele faz uma pequena oração verbal, entendendo que deveria orar em dracônico, se concentra, e cura Emmy suficientemente bem, a ponto que se levante. As feridas da bárbara começam a criar sobre si uma escama de dragão, que, conforme o tempo passar, vão caindo ao chão e se desfazendo. Kallyadranoch foi o deus usurp... consultado para esta magia.
 Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando.
 
-$$A$$
+$A$
 ###### Chapéu de palha
 "Qual é o deus das terceiras chances?"
 "Deus das terceiras chances?!"
