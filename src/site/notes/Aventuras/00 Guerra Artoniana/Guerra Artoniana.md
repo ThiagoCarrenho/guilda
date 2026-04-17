@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-17T14:27:40.527-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-17T15:29:52.867-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -220,11 +220,6 @@ Os heróis começam a correr de fato, antes que cheguem os soldados. Nagi monta 
 
 ---
 ###### Essez de Rota Dourada
-Então, vocês vão indo, né?
-Ainda tem mais.
-Lembrando que o sol já se foi, vocês começam a cavalgar em direção...
-O que eu fiz assim de novo.
-Vocês saem dos portões da cidade, né?
 Conseguem desfixar os guardas, pegam a carroça.
 Sei lá, vocês se disfarçam de novo e partem em nordeste em direção a Karst, né?
 Vocês param pra dormir a primeira noite?
