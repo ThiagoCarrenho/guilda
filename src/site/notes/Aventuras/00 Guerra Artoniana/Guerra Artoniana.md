@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-16T15:20:04.575-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-17T14:27:40.527-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -18,6 +18,14 @@ Participam desta história:
 - † [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Jogadores/Thiago Carro\|Thiago Carro]] (morto em batalha na Sessão 2);
 - † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]] (morto em batalha na Sessão 2);
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]] (morta em batalha na Sessão 2);
+#### Sumário
+- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 01 (15/03/2025) - Os “heróis” se conhecem\|#Sessão 01 (15/03/2025) - Os “heróis” se conhecem]]
+- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?\|#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?]]
+- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric\|#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric]]
+- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 04 (11/04/2026) - Retorno a Karst\|#Sessão 04 (11/04/2026) - Retorno a Karst]]
+	- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A Fuga do Quartel\|#A Fuga do Quartel]]
+	- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Competição de arquearia\|#Competição de arquearia]]
+	- [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|#Chapéu de palha]]
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
@@ -192,146 +200,25 @@ Alyssa não tem muita opção, a bárbara que lhe jurara morte está caída a su
 "A gente não aguenta levar ela não, só o cavalo", mais uma vez, Nagi é a voz da razão, olhando para o porte dos três sobreviventes, "mas se ela for andando é mais fácil", fixando o olhar no clérigo.
 "Ela que ande então! Me levanta aqui."
 O meio-elfo pega o hynne nos braços, sobem ambos no cavalo, e fazendo uma torre de três bichos, Deora consegue alcançar um braço caído da bárbara, desacordada sobre o telhado. Ele faz uma pequena oração verbal, entendendo que deveria orar em dracônico, se concentra, e cura Emmy suficientemente bem, a ponto que se levante. As feridas da bárbara começam a criar sobre si uma escama de dragão, que, conforme o tempo passar, vão caindo ao chão e se desfazendo. Kallyadranoch foi o deus usurp... consultado para esta magia.
-Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando. a $Abc = 1$
+Foi o suficiente, ela se levantou, procurou a adversária, mas não a viu. Enxergou *apenas* uma tempestade de soldados se aproximando.
+Dois deles vinham à frente, e gritavam para o grupo que seguia atrás: "peguem eles!"
+Rapidamente, todos se puseram a correr, mas Nagi - o mais rápido e dono do cavalo - quem decidiu o caminho, e se colocou em direção de onde Alyssa teria corrido. Deram a volta no quarteirão, e encontraram uma poça de sangue, onde a guerreira provavelmente teria caído após pular do telhado, mas não viram nenhum outro rastro.
+"Alguém teria um potezinho?", indaga o ginete.
+"Pote?", respondem em unissom, curiosos.
+"É, eu queria coletar um pouco de sangue para analisar depois. Para saber mais sore ela."
+Todos estranharam.
+Emmy retirou uma flecha que estava fincada em seu braço, "tem isso aqui, serve?"
+"Um pouco...", Nagi tenta recuperar um pouco de munição com as flechas enfincadas em seu corpo também, "mas eu queria estudar um pouco mais sobre ela."
+"Acho que isso deve servir então...", Deora esvazia uma garrafinha d'água e entrega para o coletor.
+Por sorte eles pararam, quando coletava o sangue, Nagi viu algo brilhando encostado na parede - o arco de Alyssa. Todo esculpido em madeira e com uma gema vermelha no centro, de alta precisão, arquitetura élfica - mas isso eles já sabiam -, bem flexível e justo. Arrancou um sorriso ainda maior do ginete quando percebeu que o item teria uso até mesmo para sua inteligência em combate.
+Do outro lado da viela, Emmy encontra um saco de couro, e diz para si mesma "acho que eu mereço ficar com isto aqui", enquanto chacoalha e ouve o som do metal batendo contra metal.
+Os heróis começam a correr de fato, antes que cheguem os soldados. Nagi monta em seu cavalo, Deora, o lento, ganha uma carona. Antes de dobrarem a segunda esquina, o meio-elfo já estava irritado com a lerdeza do anão segurando o grupo, desce do cavalo e manda ele subir, enquanto ele correria ao lado, melhorando, e muito, a velocidade do grupo.
 ###### Chapéu de palha
 "Qual é o deus das terceiras chances?"
 "Deus das terceiras chances?!"
 "Triatis, *hihihi*".
 
 ---
-###### A
-Vem em Jagani Qualcara, em Kanitiyachi, em Kanitana Tori, agora em Kanitana Tori e agora em Kanitana Tori.
-Tempo.
-Tá, vocês vêm...
-Nossa, agora um pouquinho.
-Vocês vêm chegando lá no fim, dois guardas.
-Eles...
-Eu falei um e dois.
-Graças a Deus.
-Mas vocês tem o suficiente para sair correndo e deixar eles no chinelo.
-Tá bom.
-E se a gente matar eles?
-Não.
-Não, não, não, não.
-Eles conseguem fugir sem iniciar uma cena de perseguição, só explicando o que eu liguei.
-Então vamos fugir.
-Não daria para a gente perseguir a...
-Não.
-Não, não.
-Quanto tempo você tem?
-Metade.
-Eu tenho quatro.
-Ela caiu de outro lado.
-Você sai e faz a curvinha assim, sabe?
-Sei lá.
-Não, não, não.
-Não.
-Vale mais a pena fugir.
-Ela sangrou.
-Sangrou.
-Sangrou.
-Ela sangrou.
-Ninguém teria um potinho vazio para pegar a sangue dela.
-Um potinho vazio?
-É.
-Eu tenho uma chave.
-Mas ela estava só em cima do telhado que vai ter que pegar você.
-Eu tenho um saco de dormida para pegar e colocar a pele.
-Não caiu umas flechas, um pedaço da armadura assim.
-Não, deve ter alguma flecha enfiada no seu corpo aí.
-Flecha não tem.
-Ah, eu arranco uma flecha assim no meu braço.
-Não, não.
-É.
-E aí vocês vão fugir?
-Sim, sim, sim.
-Eu só quero alguma coisa que tenha, tipo, dela para poder investigar depois.
-Tá.
-Tem a flecha que sempre foi atingido.
-É, eu precisava.
-É, pode ser.
-Aí o ideal seria se fosse sangue dela.
-Música de batalha, por favor.
-Não, não sei.
-Não teria nada muito útil.
-Não tem nenhuma magia de velocidade.
-Eu fiz isso aqui pra ver nível.
-Vocês saem assim, sobem o Nag no cavalo, você põe o Deora junto.
-Todos os personagens correm pouco, né?
-O Arnal tenta correr assim também.
-E aí vocês todos saem correndo o cavalo.
-Vocês saem assim, sobem o Nag no cavalo, você põe o Deora junto, todos os personagens correm pouco, né?
-O Anão tenta correr assim também, e aí vocês todos saem correndo o cavalo, começam aí nesse labirinto de vielas.
-Eu posso botar os dois em cima do cavalo e ir correndo, que é mais rápido.
-É, boa.
-Tá bom. Vocês vão então correndo, começam o labirinto de vielas, aí vocês fazem uma curva assim, né?
-Os guardas estão lá, ficando pra trás, vocês estão bem deixando eles no chinelo, e aí vocês acabam passando pelo lugar onde ela pulou, do telhado.
-Do lugar onde ela pulou tem uma poça de sangue assim no chão e não tem mais nada.
-É, não sai pingando o sangue, sabe? Só uma pocinha assim de sangue no chão e acabou.
-No meio da poça de sangue você vê uma coisa brilhando, você passa assim correndo, você pega e é o arco dela.
-E aí você vê assim um arco todo esculpido de madeira, que tem, tipo, tem, sei lá, uma gema assim.
-É, de alta precisão, assim, a madeira se faz assim, ela é uma madeira, não sei que é polo, então isso é um arqueiro, né?
-E ele é bem flexível e justo, depois eu te passo, ele é um item mágico, ou superior, na verdade.
-E aí eu te passo certinho a regra dele.
-Que legal, temos três arcos agora.
-Mas ele, basicamente...
-Não, menorzinho eu aceito, depois a gente pode ver isso.
-Depois, com calma...
-Os arcos longos.
-Ah, então.
-Você...
-Eu acho que não consigo nem usar.
-Mas pra mim, um...
-Na verdade, você pode somar inteligência na rolagem.
-Não, ok, legal.
-É útil.
-É muito útil.
-Você pode usar como uma arma dupla de duas mãos, pra atacar a curta distância.
-Peraí.
-É.
-Mas se fizer o que passa depois do seu formato aqui, eu acho que tem.
-Hum...
-E...
-Olhem pra mim, por favor.
-Eu acho que eu nunca vou usar essa última parte, porque eu não sou treinado em inglês, mas beleza.
-Tá.
-O...
-Deora, fala pra mim um D...
-Ah, não, você tá sendo um cavalo, né?
-Tá.
-Então, Mia, M.
-Fala pra mim...
-Não, mas não pra Mia.
-Um D-100.
-Um D-100?
-Que é...
-Isso aqui...
-É, os dois é D-100.
-Eu posso rolar, tipo, apontar pra alguém buscar pra mim.
-Deixa eu ver.
-Calma, quanto que é um D-100?
-Não sei se for...
-Os dois é D-100 aqui, então é...
-Esse e mais um parecido com esse, ó.
-Isso.
-Esse é dois.
-56.
-56.
-Um D-100 é D-100.
-56?
-Fala pra mim um D-4.
-De dano.
-Tirando.
-Você não...
-Você encontra junto com a...
-O ar com um saquinho de moedas, com 400 de base.
-Ah!
-Pô, porra!
-Bastante.
-Que isso?
-Eu fico...
-Cinco vezes mais do que eu tenho.
-É isso.
 ###### Essez de Rota Dourada
 Então, vocês vão indo, né?
 Ainda tem mais.
