@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:22:54.945-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:57:41.243-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -32,108 +32,51 @@ Participam desta história:
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
+Logo ao amanhecer, o grupo foi convocado por Lady Ayleth, a Dama Guerreira, cuja expressão dura deixava claro que não havia espaço para falhas. Ela os incumbiu de encontrar seu pai, o Barão Abelard — herói da Batalha de Amarid — desaparecido após uma missão nos limites do reino, em um bosque sombrio cercado por relatos inquietantes de criaturas corcundas, peludas e de olhos vermelhos.
+No castelo de Karst, um lugar quase sem vida e tomado por um ar de abandono, foram guiados por Loras, a Castelã, tão severa quanto Ayleth. Receberam um adiantamento de Isilgro Coração de Ouro, um clérigo generoso, e então cada um seguiu seus preparativos: Gabj tentou, sem sucesso, ajudar um goblin com um moinho; Nagi foi direto à taverna; enquanto Alfa, Harcos e Suzumi buscaram suprimentos com o padeiro Lazos, cuja loja curiosamente tinha mais terra de cemitério e itens alquímicos do que pão.
+Reunidos depois na taverna, o primeiro contato entre eles foi tenso, marcado por desconfiança e palavras ríspidas. Ainda assim, partiram juntos até o local indicado: uma vila devastada, silenciosa, com marcas claras de combate. Durante a exploração — prejudicada por uma queda desajeitada de Alfa — encontraram um mercador em apuros, Essez de Rota Dourada. Nagi acalmou seus trobos, Gabj negociou com ele, e Harcos aproveitou para vasculhar as casas em busca de dinheiro.
+Foi Essez quem trouxe a verdade: o Barão havia enfrentado soldados de Yuden ali. Derrotado, foi levado para dentro do bosque após um massacre completo da vila.
+Sem hesitar, o grupo avançou pela mata, chegando ao entardecer a uma clareira dominada por uma torre alta, com rastros frescos de soldados. A subida pela escada externa foi difícil, escorregadia pelo musgo, mas conseguiram alcançar o topo — com algum esforço e até arremessando um companheiro.
+Dentro da torre, Gabj arrombou a porta e encontrou um velho acorrentado, brutalmente ferido. Tudo indicava ser Abelard. Ele murmurou poucas palavras antes de desmaiar.
+Foi então que surgiram.
+Criaturas humanoides, escuras, de olhos vermelhos, cercaram o grupo dentro da torre, transformando o resgate em uma luta desesperada pela sobrevivência.
 
-- Encontro logo cedo com Lady Ayleth, a Dama Guerreira, extremamente cara fechada e brava, que nos pediu para ir atrás do Barão Abelard, seu pai, famoso por lutar na Batalha de Amarid, e que já deveria ter voltado de uma missão no limite do reino, num bosque
-- Relatos de olhos vermelhos em criaturas corcundas, escuras e peludas
-- Castelo de Karst meio morto, sem vida, “esquecido”
-- Guiados por Loras, a Castelã (parecida com Ayleth)
-- Adiantamento do pagamento com Isilgro Coração de Ouro, clérigo de Tibar caridoso
-- O grupo é formado por Alfa Romeo, Gabj Cascar, Harcos, Nagi e Suzumi
-- Gabj foi ajudar um goblin a consertar a roda do moinho, não conseguiu
-- Nagi foi sozinho para a Taverna
-- Alfa, Harcos e Suzumi foram até o padeiro comprar coisas para a missão, pois Lazos vendia também itens alquímicos
-- Tinha pouca coisa, algumas essências de mana, bálsamos restauradores
-- Tinha mais terra de cemitério do que pão
-- Depois todos se encontraram na Taverna e Nagi já havia comido
-- A cena deles se conhecendo melhor foi tensa, com xingamentos e caras feias
-- Viajaram até o local indicado, era uma vila aparentemente abandonada com muitas marcas de batalha
-- Alfa caiu feio tentando ser furtivo
-- Apareceu um mercador, Essez de Rota Dourada, da Adu Escudos, que usava um chapéu de palha, em apuros com seus trobos
-- Nagi acalmou os animais
-- Essez trocou mercadoria com Gabj
-- Harcos vasculhou as casas e encontrou dinheiro (para ele)
-- Essez contou que houve um confronto entre o que parece ter sido o Barão e soldados de Yuden
-- Os soldados venceram, mataram todos na vila, e levaram o Barão para dentro do bosque
-- Entraram no bosque, umas horas antes do anoitecer, chegaram a uma clareira com uma torre alta, e rastro de passos de soldados no chão
-- Subimos a escada por fora, com problemas no final por conta de musgos escorregadio
-- Nagi passou
-- Arremessamos o anão
-- Gabj quebrou a porta, viu um velho acorrentado todo surrado
-- Parecia Abelard
-- Soltou algumas palavras com pouca força, desmaiou
-- Apareceram então as criaturas humanóides escuras, de olhos vermelhos, enquanto ainda estão na Torre
+---
 #### Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?
-- O combate começa, os heróis têm um tempo de preparação até as criaturas chegarem na Torre, e um tempo ainda maior até um grande monstro aparecer
-- Nagi e Gabj se põem a quebrar a parede, a fim de libertar Lorde Abelard, enquanto isso, Harcos, Suzumi e Alfa tentam identificar a criatura e fornecer o apoio que for possível
-- Com um dos bálsamos restauradores, o Lorde Abelard foi curado
-- Chega Essez para ajudar, com a carroça toda arranhada por conta das árvores do bosque
-- Enquanto isso, os dois seguiam atacando a parede
-- Colocamos o cavalo de Nagi na carroça
-- Enquanto isso, os dois seguiam atacando a parede
-- As primeiras criaturas chegaram, não eram mágicas, ou divinas ou naturais
-- Enquanto isso, os dois seguiam atacando a parede
-- Alfa convenceu um a desistir do combate, Suzumi, com Setas Infalíveis e Toques Necróticos, e Harcos, com um arco curto, derrubaram outros três ou quatro
-- Enquanto isso, os dois seguiam atacando a parede
-- Alfa se colocou a frente, para defender Suzumi, que já havia subido na carroça, mas não foi suficiente
-- Enquanto isso, os dois seguiam atacando a parede
-- As criaturas, em grande número, se amontoaram sobre Alfa, que, depois de sucessivos ataques, faleceu
-- Enquanto isso, os dois seguiam atacando a parede
-- Essez, seus trobos e o cavalo de Nagi não foram atacados
-- Enquanto isso, os dois seguiam atacando a parede
-- Foi a vez de Suzumi ser atacada, e um único monstro foi suficiente para que chegasse à morte
-- Enquanto isso, os dois seguiam atacando a parede
-- Harcos avisou da morte dos companheiros, subiu a escada para tentar defender um por vez
-- Enquanto isso, os dois seguiam atacando a parede
-- Harcos conseguiu matar mais um inimigo, mas logo em seguida, caiu em combate, ainda vivo
-- Finalmente terminaram de atacar a parede
-- Saíram correndo e foram direto para a carroça, Abelard conseguia andar
-- Tentaram puxar o corpo de Harcos, mas não conseguiram
-- Apareceu a criatura, que se aproximava da Torre, massacrando os monstros menores
-- Essez saiu correndo com sua carroça, levando os dois heróis restantes, Nagi e Gabj, o corpo destroçado de Suzumi, um ou dois corpos das criaturas mortas e o Lorde Abelard enfraquecido
+O combate começou sob uma tensão sufocante. Havia pouco tempo para se preparar antes que as criaturas alcançassem a torre — e ainda menos antes da chegada de algo pior, algo maior. Sem hesitar, Nagi e Gabj concentraram todos os esforços em abrir uma brecha na parede para libertar o Barão Abelard, golpe após golpe, ignorando o caos crescente ao redor. Enquanto isso, Alfa, Harcos e Suzumi tentavam entender a natureza dos inimigos e conter o avanço como podiam.
+Com um dos bálsamos restauradores, conseguiram devolver algum vigor ao velho barão, que mal se mantinha consciente. Nesse momento, Essez surgiu novamente, sua carroça marcada pelos arranhões do bosque, mas ainda funcional. Rapidamente acomodaram o cavalo de Nagi junto aos trobos, preparando uma possível fuga — caso sobrevivessem até lá.
+As primeiras criaturas invadiram a torre. Não eram bestas comuns, nem pareciam ligadas à magia ou ao divino — havia algo errado, algo indefinido nelas. Alfa, com palavras firmes, conseguiu fazer uma delas hesitar e recuar. Suzumi, com sua precisão letal, e Harcos, com seu arco, derrubaram várias outras. Mas não era suficiente.
+Enquanto Nagi e Gabj continuavam, incansáveis, destruindo a parede, Alfa se colocou à frente para proteger Suzumi, que já havia subido na carroça. O sacrifício foi em vão. As criaturas vieram em número esmagador, lançando-se sobre ele até que não restasse mais resistência. Alfa tombou sob o peso da horda.
+Logo depois, Suzumi foi alcançada. Um único inimigo bastou. Sua magia não teve tempo de reagir — e ela caiu.
+Harcos, percebendo o destino dos companheiros, recuou pela escada, tentando ganhar tempo, enfrentando um inimigo por vez. Ainda conseguiu derrubar mais um antes de ser vencido, caindo gravemente ferido, à beira da morte.
+E ainda assim, Nagi e Gabj não pararam.
+Quando finalmente a parede cedeu, não havia mais o que defender — apenas fugir. Abelard, fraco, conseguia andar com ajuda. Correram até a carroça. Tentaram resgatar Harcos, mas o tempo havia acabado.
+Foi então que a verdadeira ameaça surgiu.
+Uma criatura colossal avançava em direção à torre, destruindo tudo em seu caminho — inclusive as próprias criaturas menores, que eram massacradas como se nada fossem.
+Sem alternativa, Essez chicoteou as rédeas. A carroça disparou bosque adentro, carregando os últimos sobreviventes: Nagi, Gabj, o corpo destroçado de Suzumi, alguns restos das criaturas abatidas… e um Barão Abelard à beira do fim.
+Atrás deles, a torre — e tudo o que restava — era engolida pela escuridão.
+
+---
 #### Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric
-- De alguma forma, o corpo do Harcos fora salvo.
-- Chegando no Castelo de Karst, o barão foi posto sob cuidados médicos, assim como Harcos, ainda em coma
-- Lady Ayleth chamou os aventureiros restantes para dar-lhes o resto de sua recompensa
-- Houve um funeral para Alfa Romeu e Suzumi
-- Não houve muito tempo para descanso, pois logo a Lady chamou os aventureiros, assim como outros que possam estar na região
-- Apareceram ao local Nagi e Gabj
-- Uma humana, talvez da região, bem grande, carregando um machado, a bárbara Emmy
-- Um velho hynne, o pequenino Deora II, com mantos “eclesiais”
-- O guarda Aram os recebeu
-- O Barão contou sobre o que aconteceu, que enfrentou soldados do Reino, e fora deixado pelo Coronel Wortric como algum tipo de sacrifício
-- Deora II faz uma oração sobre o barão, e Gabj se põe como servo do barão para defendê-lo a todo custo
-- A Lady então lhes apresenta uma nova missão, dando um soco na parede como símbolo da sua raiva
-- Haverá uma cerimônia da invasão do exército em Svalas, que ocorrerá em Warton
-- O grupo deve  entrar nesta cerimônia para roubar os planos e provar os crimes do Coronel
-- Ela também descreve um pouco da batalha de Amarid
-- Foram então conversar com Isilgro para combinar a recompensa, e, depois de muito barganhar, conseguem um maior valor
-- Deora faz algumas compras e tenta roubar o templo de Khalmyr, pegando para si a estola de Jarad, mas falha e é pego pelo clérigo
-- Partem então para a viagem
-- Todos os dias os aventureiros se disfarçam de humanos: Gabj põe suas pernas de pau, e fica parecendo só um homem barbudo rechonchudo, Nagi, o meio-elfo, esconde sua herança élfica, escondendo suas orelhas pontudas e maquiando outros de seus traços, e o pequeno Deora esconde as marcas do tempo em seu rosto, parecendo uma criança humana.
-- Gabj trabalha em suas engenhocas, montando duas delas, com algumas peças soltas da carroça, assim como uns itens que nem Essez quis para si, no resto de seus dias, monta flechas para que Nagi seja ainda mais eficiente em combate
-- Em um dos dias de viagem são notados por um destacamento do exército Yudenach, que nota que não são humanos e os param para analisar
-- O fato de se passarem por humanos não é um problema, nem o de carregarem armas, mas não devem carregar alquímicos consigo
-- O único que o faz é Deora, que tem em si uns frascos de luz, para potencializar suas magias luminosas, mas ainda sim, ele consegue convencer os guardas que aquilo serve para um bem maior
-- Outro dos dias, Deora II quis testar sua capacidade de roubo, tentado furtar flechas da aljava do arqueiro, mas não conseguiu. Pelo contrário, foi notado pelo meio-elfo, que tentou dar o troco, mas também não conseguiu. O grupo parece bem preparado para uma missão de roubo.
-- Chegaram então em Warton, uma cidade quartel, com muitos prédios do exército, sendo o princial de mármore branco, todos muito devotos de Keen, o deus da guerra
-- O grupo passa dois dias, até a cerimônia
-- Nesse meio tempo, Gabj tenta comprar utensílios de combate, mas, por ser chato e não humano, é mal recebido pelos vendedores, ainda bem que Emmy foi capaz de ajudá-lo
-- Deora tenta conseguir informações sobre a cerimônia conversando com as pessoas na cidade, mas nada de útil ele obtém
-- Gabj, por outro lado, encontra uns goblins que vão servir na cerimônia, e estão distribuindo convites falsos, o que ele recebe com a promessa de gerar confusão
-- Ele entrega os convites ao grupo dizendo que pagou uma quantia por eles, Emmy e Nagi não caem nessa falácia, mas o hynne sim, ainda sim, recusa-se a pagar e o anão deixa a ideia para lá
-- É chegada a cerimônia, por mais que pareçam estranhos, os aventureiros são aceitos no local
-- Trombetas tocam, e acontece uma apresentação de guerra, onde realmente morrem guerreiros, mas numa das cenas, um deles se mostra fraco e pede clemência, então o Coronel Wortric aparece na cena, lhe dá um baita sermão, e enfim pede para receber o ataque em seu lugar, permitindo ser perfurado por uma lâmina sem alterar sua face
-- A cerimônia se inicia e o grupo tenta colocar um plano em prática, descobrem que um mestre de guilda compra grandes suprimentos de arma, descobrem o local do gabinete e que os cidadãos de Yuden estão insatisfeitos com a Rainha Imperatriz do Reinado
-- Com planos distintos, os aventureiros tentam chegar ao gabinete, o problema é que os dois possivelmente mais ágeis são notados pela guarda, Deora recebe um guarda para cuidar de si e Nagi fica um tempo recluso sob a escada
-- Deora consegue despistar seu guarda e sobe até o local, magicamente abrindo a porta e passando despercebido pelo alarme que lá se encontrava
-- A porta era belíssima com a imagem de um leopardo negro
-- Estava guardada por guardas, mas sob a desculpa de ser um clérigo de Keen, faz com que os 
-- Estando dentro do gabinete e Emmy e Gabj próximos a porta, atrás de uma fonte, Deora tenta olhar o que pode ser uma boa prova, mas é avisado por Emmy que tem pouco tempo
-- Consegue pegar um papel numa pilha que estava sobre a mesa, sem saber muito bem o que seria, e um machado de guerra, para melhorar seu disfarce de clérigo de Keen
-- Chegam então ao gabinete o coronel e uma jovem, Alyssa, ela é uma arauta da guerra
-- Alyssa conta que o barão foi salvo por aventureiros, Wortric então diz que vai caçá-los, mas é desencorajado pela jovem, que diz algo como: “deixe os aventureiros comigo, e vá até o Castelo de Karst continuar nosso plano”
-- Então tropas foram mobilizadas, e a cerimônia fica caótica
-- Neste momento, os aventureiros devem fugir a qualquer custo, Emmy e Gabj são notados atrás da fonte, Nagi está detido, e Deora escondido numa armadura dentro do gabinete do Coronel, com o Coronel dentro dele
+Contra todas as probabilidades, o corpo de Harcos também foi resgatado. Quando retornaram ao castelo de Karst, Abelard foi imediatamente colocado sob cuidados médicos, e Harcos, ainda vivo, permaneceu em coma. Lady Ayleth recebeu os sobreviventes, pagou o restante da recompensa e, sem demora, organizou o funeral de Alfa Romeo e Suzumi — uma cerimônia breve, pesada, sem espaço para consolo.
+O descanso durou pouco. Logo, Ayleth convocou novamente os aventureiros, juntando aos remanescentes novos rostos: a imponente bárbara Emmy, o pequeno e envelhecido hynne Deora II e, mais uma vez, Nagi e Gabj. Recebidos pelo guarda Aram, ouviram do próprio Barão a verdade: ele fora traído pelo Coronel Wortric, deixado como sacrifício após um confronto contra tropas do próprio reino.
+Indignada, Ayleth apresentou a nova missão com um soco na parede: infiltrar-se em uma cerimônia militar em Warton, onde seria celebrada a invasão de Svalas, e roubar provas que expusessem os crimes do coronel. Após negociações intensas com Isilgro, garantiram uma recompensa maior — talvez proporcional ao risco.
+Nem tudo correu sem atritos. Deora tentou furtar uma relíquia no templo de Khalmyr e foi pego; mais tarde, já na estrada, o grupo precisou manter disfarces constantes para parecer humano. Gabj improvisava engenhocas com sucata, Nagi refinava seu combate com novas flechas, e Deora ocultava sua verdadeira idade sob ilusões. Ainda assim, foram quase desmascarados por uma patrulha de Yuden — escapando por pouco graças à lábia do pequeno clérigo.
+A jornada seguiu entre tentativas fracassadas de furtos, pequenas desconfianças internas e preparativos. Ao chegarem em Warton, encontraram uma cidade militar fervilhante, marcada pela devoção a Keen e pela presença esmagadora do exército. Durante dois dias, buscaram informações: Gabj conseguiu convites falsos com goblins infiltrados, enquanto os outros pouco descobriram além de rumores de insatisfação popular.
+
+Então veio a cerimônia.
+Aceitos apesar das aparências, assistiram a uma encenação brutal de guerra — tão real que homens morriam diante da multidão. Em um dos momentos mais marcantes, um soldado suplicou por misericórdia. O Coronel Wortric surgiu, discursou friamente e, em um gesto teatral, tomou o lugar do condenado, recebendo uma lâmina no corpo sem sequer alterar a expressão. Era devoção, fanatismo… ou loucura.
+No meio do espetáculo, o grupo entrou em ação. Descobriram pistas: um mestre de guilda envolvido com armamentos, a localização do gabinete do coronel e o descontentamento com a imperatriz. Dividiram-se para agir — e começaram os erros.
+Nagi foi detido. Deora quase foi vigiado de perto. Emmy e Gabj se esconderam como puderam. Ainda assim, Deora conseguiu o improvável: infiltrou-se no gabinete, abriu a porta encantada — adornada com um leopardo negro — e passou pelos guardas sob disfarce religioso. Lá dentro, com o tempo contra si, pegou um documento qualquer e um machado para reforçar sua farsa.
+
+Então, tudo desmoronou.
+Wortric entrou no gabinete, acompanhado por Alyssa, uma jovem arauta da guerra. Pelas frestas, Deora ouviu o essencial: o barão havia sido salvo, e o coronel pretendia caçar os responsáveis — mas foi contido por Alyssa, que assumiu essa tarefa, enquanto o próprio Wortric deveria seguir para Karst e dar continuidade ao plano.
+Ordens foram dadas. Tropas começaram a se mover. A cerimônia virou caos.
+E ali estavam eles: Emmy e Gabj prestes a serem descobertos, Nagi sob custódia… e Deora, escondido dentro de uma armadura, preso no mesmo cômodo que o próprio homem que estavam tentando derrubar.
+A missão, agora, não era mais roubar provas.
+Era sair vivo.
+
+---
 #### Sessão 04 (11/04/2026) - Retorno a Karst
 ###### A Fuga do Quartel
 "Soem o alarme, temos intrusos!" Grita o General Hegar Wortric. O grupo, sabendo que são eles os procurados, devem fugir a qualquer custo, enquanto os outros muitos membros do evento e guardas e soldados de Yuden tentam agarrá-los e ferí-los.
@@ -142,14 +85,17 @@ Nagi, o seteiro, havia acabado de se livrar das mãos de alguns humanos que o co
 O detalhe é que o próprio general e Alyssa, arauta da Guerra, também lá se encontram.
 Wortric é um general durão, e muito forte, há pouco ele quebrara uma espada ao meio usando as próprias mãos, e Alyssa apresenta a mesma frieza e desejo por sangue, com seu capuz vermelho e máscara de ferro.
 Com o soar do alarme, as portas começam a se fechar, e a única saída visível é o próprio portão de entrada. O hynne ainda ouve a arauta dizer "deixe os aventureiros comigo."
+
 Alyssa sai do gabinete, mas o coronel ainda segue lá dentro. Deora olha pela janela, pensa em se jogar por ela e se confiar à sorte e aos deuses, mas ele não acredita que estes vão ajudá-lo. Enquanto os aliados buscam formas de passar pela multidão, ele tenta manter-se despercebido. Em pouco tempo, um soldado chega para receber instruções do general - e esta foi a abertura perfeita! O diminuto clérigo se esgueira para fora da sala sem ser notado por ninguém, e vai andando rente à parede do segundo andar, longe da multidão.
 Sendo hora de agir, Gabj pega sua mochila, encaixa uma peça de roupa em pedaços de madeira, ferro e aço, e improvisa, como um bom engenhoqueiro, uma asa-delta, e salta de cima da escada lá para o andar de baixo. A ideia é boa, mas as peças se desencaixam no meio do vôo e ele cai no meio de um grupo de soldados, ganhando alguns ferimentos novos no seu corpo. Emmy não tem a mesma mente, mas um corpo melhor, e sai correndo e pula para fugir daqueles que tentam agarrar, mas, ao saltar, alguém alcança seu pé e a faz se esborrachar no chão.
 Nagi, assim como Deora, também tenta passar despercebido pela multidão, entretanto, ele está no meio dela, e não tem sucesso. Logo alguém grita "O orelha pontuda, por ali!", e o batem e empurram.
+
 Os três, apanhando no meio do povaréu, notam Deora II no andar de cima, ele olha de volta, põe o dedo na frente da boca e faz "shh", se virando para uma porta, e a abrindo com suas habilidades ladinescas. Por sorte, essa porta levava a uma saída lateral, e não havia ninguém no caminho para o atrapalhar.
 Os aliados não tiveram a mesma sorte. Novamente, Gabj tentou usar sua inventividade, dessa vez, relacionada à fabricação de armas e armaduras. Assim, ele pensou em pegar um escudo de alguém e tentou transformar em uma barricada, para segurar os golpes enquanto ele avançava. Emmy se colocou em combate direto, lançando socos e pontapés a quem aparecia a sua frente. Nagi tomou uma estratégia mais refinada, e buscou saltar acrobaticamente por uma janela, caindo no estábulo, onde está o seu cavalo - uma vez no cavalo, ele sabe que suas habilidades melhoram, e melhoram muito.
 Nada funcionou.
 O anão não conseguiu nem ao menos tomar o escudo de um soldado no canto, e recebe um contra-ataque imediato, levando uma escudada na cabeça, caindo ao chão e sendo arremessado para fora da porta principal - é a segunda vez que Gabj fora arremessado, dessa vez, por inimigos. A bárbara, por sua vez, pode até ter ferido uma porção de guerreiros, mas eram muitos, e a quantidade se sobressaiu. Murros, espadadas e pontapés - ela até foi capaz de sair do recinto, mas saiu bastante ferida, e viu o aliado diminuto voar por cima de sua cabeça. Por fim, a ideia do ginete de pular pela janela foi ótima, o problema foi chegar a janela, de forma que não foi capaz de pular com maestria no estábulo, e se jogou pela janela, levando um tombo vergonhoso, quebrando uma costela ao atingir o teto de palha.
 De uma forma ou de outra, todos haviam saído do quartel, mas estavam longe da segurança.
+
 Nagi, no estábulo, encontra seu amigo equino, e como outrora dissera aos aliados, "montado, eu sou outra pessoa", e, pela primeira vez obteve sucesso em suas ações e não se machucou pelo caminho. Vendo os soldados que o meio-elfo estava no estábulo, correram atrás dele, mas só conseguiram ver um vulto veloz passando por meio deles e se perdendo no meio das pessoas e das casas da cidade.
 Gabj, por sua vez, sab que não é capaz de ganhar dos perseguidores na velocidade, mas pode fazê-lo pela inteligência, assim, com seu olho clínico, encontra brechas no meio da multidão e corre pelo melhor caminho possível para não ser pego e tem sucesso ao despistar.
 O pequenino e vagaroso clérigo não havia sido notado pelos soldados, e havia abusado muito da sorte até o momento. Mas não o suficiente. Vendo um carroceiro que passava, pediu uma carona: "Senhor, senhor, me ajude por favor, eu preciso ir até... a Casa Caída! Minha família está me esperando por lá e eu não quero passar por essa multidão, me parece muito perigoso."
@@ -175,6 +121,7 @@ O pequeno Gabj apruma seu machado e usa uma engenhoca afiadora de lâminas para 
 O menor ainda Deora se assusta com o vulto, e dá um tapinha nas costas (ou coxas, onde consegue alcançar) dos companheiros dizendo palavras quase inspiradoras: "Vamos sobreviver, vamos sobreviver ... *eu acho*", e se esconde atrás de um barril. Uma faísca de fogo sai de cada um destes tapinhas - dessa vez foi Thyatis quem concedeu a bênção ao grupo.
 Já a grande Emmy não tinha muito a fazer, e aguardou o momento certo para agir, e apenas se pôs de forma altiva na frente dos aliados. "Isso! Proteja o anão" foi o elogio que sua postura recebeu do próprio anão. 
 Por fim, o alto Nagi, ainda mais alto em cima de seu cavalo, encaixou uma flecha em seu arco e preparou para atirar assim que o alvo aparecesse. "Não esquece do velho se forem correr, tá?" é o que ele ouve do clérigo escondido, e acena positivamente com a cabeça.
+
 A flecha então foi disparada. Não a de Nagi, mas uma outra, vinda de cima, que atravessa o peito de Emmy, e ao olharem para cima, o grupo enxerga uma figura contra a lua, que começa a subir ao céu. A figura carrega um arco, veste uma armadura de ferro e uma máscara do mesmo material por baixo de um capuz vermelho. Alyssa.
 "Rendam-se imediatamente!" Ela ordena. A resposta do grupo vem das mãos de Nagi, que atira a flecha preparada, mas não fere o alvo.
 No mesmo momento, a bárbara corre em direção à casa e começa a escalar pelas paredes. As casas são altas, e sua agilidade, baixa, e ela até consegue subira ao telhado, mas não a ponto de ferir a adversária. O arqueiro, dessa vez, se prepara melhor e acerta um tiro certeiro na devota da guerra, contradizendo a vontade do anão, que sussurrava: "convence ela a descer, convence ela a descer!" Ninguém busca conversa com Alyssa, que dispara uma flecha contra o arqueiro, e este ferimento se une aos outros muitos que ele sofrera tentando fugir do quartel, desacordando o meio-elfo e fazendo-o cair do cavalo.
@@ -183,6 +130,7 @@ O chato do anão pensa em começar a irritar a guerreira, mas sabe que tem meios
 O tempo de demora para agir também fez com que o clérigo pensasse em como agir, e, depois de muito confabular, correu até o meio-elfo (na sua velocidade máxima, que é um terço da velocidade normal do meio-elfo) e com uma imposição de mãos, recupera a vida do companheiro. Dessa vez, as mãos contém runas arcanas azuis em volta, e, ao retornar para a consciência, o aliado enxergou um livro com o seu próprio nome escrito nele. Nesta magia, a divindade engan... invocada fora Tanna-Toh.
 Esta imagem é melhor do que a que ele vê ao abrir os olhos: o próprio velhinho quase em cima de si dizendo "acorda rapaz!", que fala e corre para trás do cavalo.
 Revigorado pela magia ou assustado pela visão, Nagi acorda em um salto, e também se esconde atrás do equino, ele vê ao longe algumas sombras dos guardas que se aproximam, e calcula que é possível fugir a tempo.
+
 Então Alyssa grita novamente: "Rendam-se e ninguém precisará ser machucado. Soltem as armas e venham comigo!"
 O grupo responde de maneira distinta: a bárbara solta um sincero e espontâneo "Eu não, oxi", o inventor retoma a pose irritante e puxa um canto de torcida, "chata, chata", com palmas e repetições, e Deora finge estar se convencendo, com um "mas a gente vai morrer se a gente for com você" - que é seguido de um apoio do anão "legal, legal" e mais palmas.
 "Não, vocês não vão morrer. Vocês só vão ver comigo, pode deixar, eu falo lá com o pessoal, ninguém vai matar vocês, não."
@@ -197,6 +145,7 @@ A guerreira não deixa por menos, irritada com a machadada e com a flecha, dá u
 Não era algo difícil de supor, mas Deora percebe algo novo neste instante, e não consegue segurar para si: "Oh, que belo o arco dela, uma arquitetura élfica rebuscada". O que permite ao chato do grupo continuar sua chata chantagem: "Aah, um humano usando arquitetura élfica!", o que é respondido com um "Como ousa!" por parte dela.
 O anão, vendo que não a acertaria de jeito nenhum à distância, e vendo que ela se recusa a entrar em combate corpo a corpo, joga um martelo de guerra, para que algum de seus aliados o use. "Eu só sei atirar, amigo" diz o arqueiro, "eu nem isso", complementa o clérigo. Em seguida, o próprio saca um frasco de luz, e usando este componente conjura uma flecha luminosa na direção da inimiga, que consegue se desviar um pouco mas ainda é atingida. E, enquanto Emmy agoniza desacordada, Nagi acerta mais uma flecha contra a guerreira, que está bem ferida.
 Alyssa não tem muita opção, a bárbara que lhe jurara morte está caída a sua frente, e os seus três aliados se escondem covardemente atrás do cavalo. Ela nota suas muitas manchas de sangue, da  machadada, das flechadas e um pouquinho de queimado de luz olha para a combatente caída, olha na direção dos três (e do cavalo). Então vira-se de costas e corre para além, pulando do telhado e seguindo para outra direção.
+
 "Ela fugiu? Ha! Sabia que uma humana não teria coragem de enfrentar o anão!" - se vangloria, aquele que tudo o que pode fazer em combate foi se esconder.
 "Não conte vitória ainda", respode Nagi, indicando os guardas que se aproximam.
 "Peguem a Emmy, peguem a Emmy", grita o baixíssimo.
@@ -231,6 +180,7 @@ A inteligência do inventor decifrou o enigma escondido nos nomes que usa, afina
 O anão, no entanto, a ninguém contou sua descoberta.
 O pequeno Deora conhece também já tinha se encontrado com o idoso. Se você se lembra, Deora apareceu escondido na carroça de Gabj no começo de sua aventura, e foi seguindo Essez que foi parar lá, e, ao chegar nas ruínas, o velho teria desaparecido sem deixar rastro nenhum! O hynne suspeita de haver algo de sobrenatural, mas não imagina o que é.
 O grupo então se aproxima mais leve, sem oferecer perigo ao velho amigo.
+
 "Oba!", acena Deora.
 "Oba, bão?", responde o senhor, fazendo menção de oferecer um cachimbo.
 "Obrigado", aceita, põe na boca, e espera acender.
@@ -269,6 +219,7 @@ Os outros até compram uma coisa ou outra que querem, mas comércio é com o inv
 "Thedon?" - interrompe, animado, Deora.
 "Isso, Thedon. Pediu, é... por fiado, disse que não tinha dinheiro nem pra pagar a casa dele. Inclusive foi ontem isso, já devem estar chegando lá."
 "Legal!", respondem, em unissom, mentindo entre os dentes.
+
 "Mas, e o senhor, que história o senhor tem para contar para a gente?"
 Essez se senta ao redor da fogueira, convida os outros a sentar-se também, oferecendo uns marshmallows ao fogo. Deora também oferece alguns de seus alimentos, para partilharem e comerem junto.
 "História? Bom... Não, você sabe que eu sou de Rota Dourada, né?"
@@ -289,6 +240,7 @@ Essez se senta ao redor da fogueira, convida os outros a sentar-se também, ofer
 "Quer apostar quanto?"
 "10 tibar pra começar, né? Só pra brincar."
 O resultado, para você leitor, é claro. Disputar em jogo de sorte contra o Deus da Sorte é suicídio. Gabj também sabe disso, mas não faz questão nenhuma de avisar o seu amigo. Lembre-se que enganar deuses é o trabalho básico do Deora, usurpador da magia divina. De todo modo, Deora não perdeu dez, mas vinte tibares.
+
 "Cê me pareceu bastante sortudo!", afirma Deora.
 "E eu nem sou tão bom nesses jogos de sorte e azar. Eu não sou bom com essas coisas não."
 "Você gosta da sorte?"
@@ -323,6 +275,7 @@ Depois de um silêncio, todos esperando que ele complete dizendo o que ele sabe,
 "Não, não, mas vocês sabem qual é o deus das terceiras chances?"
 "Deus das terceiras chances?!", pergunta curioso Essez
 "Triatis, *hihihi*".
+
 Enquanto conta sua piada, Nagi, bem quieto, lhe entrega um punhado de tibares. "Acho que você deveria jogar cartas de novo contra ele."
 "Beleza, bora apostar aqui, dez do Nagi, mais dez meu. Vinte!"
 "Aposta esse também!" Grita Gabj atirando forte um tibar na direção do hynne, na intenção de machucar. A pontaria, entretanto, não corresponde à sua vontade.

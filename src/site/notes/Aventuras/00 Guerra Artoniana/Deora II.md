@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-20T16:47:41.889-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-20T20:34:34.026-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -136,7 +136,7 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Atuação (Treinado).** +2 (Citadino Hynne).
 **Diplomacia.** +2 (Citadino Hynne).
 **Enganação (Treinado).** +2 (Pequeno e Rechonchudo) +2 (Benefício Trapaceiro Ahleniense) +2 (Citadino Hynne) +3 (Capa Esvoaçante Cravejada de Gemas). 1 PM para vantagem no teste (Foco em Perícia) 1 PM para dobrar proficiência no teste (Especialista)
-**Fortitude. -**2 (Citadino Hynne).
+**Fortitude.** -2 (Citadino Hynne).
 **Furtividade (Treinado).** +2 (Pequeno) +2 (Benefício Trapaceiro Ahleniense).
 **Intimidação (Treinado).** +2 (Citadino Hynne) -5 (Tonsura).
 **Intuição (Treinado).**
@@ -146,7 +146,7 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Percepção (Treinado).**
 **Pontaria (Treinado).**
 **Religião (Treinado).**
-**Sobrevivência. -**2 (Citadino Hynne).
+**Sobrevivência.** - 2 (Citadino Hynne).
 ##### Atributos
 **Força. -1**: Valor Inicial (0), Hynne (-1).
 **Destreza. 4**: Valor Inicial (2), Hynne (2).
@@ -168,3 +168,5 @@ Se o candidato tiver sucesso, torna-se um vigarista. Caso contrário, ele acha q
 Mas não se preocupe, isso não vai acontecer com você. Você é inteligente demais, esperto demais, não é como os outros. Você é um herói aventureiro, não?
 Eu nunca mentiria para você.
 ###### Admitindo que é otário
+Bom, estas são as vezes que Deora foi feito de otário:
+- Nagi fez Deora de otário, quando o fez apostar moedas falsas contra o próprio deus do Caos, Nimb. (Sessão 04: [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|Guerra Artoniana#Chapéu de palha]]);
