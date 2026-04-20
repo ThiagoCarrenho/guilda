@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:57:41.243-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:58:51.791-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -19,16 +19,16 @@ Participam desta história:
 - † [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]] de  [[Jogadores/Miguel de Maria\|Miguel de Maria]] (morto em batalha na Sessão 2);
 - † [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]] de [[Jogadores/Laura\|Laura]] (morta em batalha na Sessão 2);
 #### Sumário
-[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 01 (15/03/2025) - Os “heróis” se conhecem\|#Sessão 01 (15/03/2025) - Os “heróis” se conhecem]]
-[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?\|#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?]]
-[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric\|#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric]]
-[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 04 (11/04/2026) - Retorno a Karst\|#Sessão 04 (11/04/2026) - Retorno a Karst]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A Fuga do Quartel\|#A Fuga do Quartel]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Competição de Arquearia\|#Competição de Arquearia]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|#Chapéu de palha]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Rumo a Karst\|#Rumo a Karst]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Tronco de madeira\|#Tronco de madeira]]
-.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A guerra se aproxima\|#A guerra se aproxima]]
+1. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 01 (15/03/2025) - Os “heróis” se conhecem\|#Sessão 01 (15/03/2025) - Os “heróis” se conhecem]]
+2. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?\|#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?]]
+3. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric\|#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric]]
+4. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 04 (11/04/2026) - Retorno a Karst\|#Sessão 04 (11/04/2026) - Retorno a Karst]]
+	1. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A Fuga do Quartel\|#A Fuga do Quartel]]
+	2. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Competição de Arquearia\|#Competição de Arquearia]]
+	3. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|#Chapéu de palha]]
+	4. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Rumo a Karst\|#Rumo a Karst]]
+	5. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Tronco de madeira\|#Tronco de madeira]]
+	6. [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A guerra se aproxima\|#A guerra se aproxima]]
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
