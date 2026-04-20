@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-14T12:16:21.501-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-20T15:59:12.411-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -11,3 +11,5 @@
 **Divindade:** Khalmyr
 #### Descrição
 - Chato
+
+*"O último dia de um anão é o primeiro dia de uma história" - Alexis de Caskhar.*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-17T15:31:08.282-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T16:31:42.852-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -214,728 +214,137 @@ Por sorte eles pararam, quando coletava o sangue, Nagi viu algo brilhando encost
 Do outro lado da viela, Emmy encontra um saco de couro, e diz para si mesma "acho que eu mereço ficar com isto aqui", enquanto chacoalha e ouve o som do metal batendo contra metal.
 Os heróis começam a correr de fato, antes que cheguem os soldados. Nagi monta em seu cavalo, Deora, o lento, ganha uma carona. Antes de dobrarem a segunda esquina, o meio-elfo já estava irritado com a lerdeza do anão segurando o grupo, desce do cavalo e manda ele subir, enquanto ele correria ao lado, melhorando, e muito, a velocidade do grupo.
 ###### Chapéu de palha
-"Qual é o deus das terceiras chances?"
-"Deus das terceiras chances?!"
+Saíram da cidade. Finalmente Gabj se reencontra com sua carroça, o inventor é bem arraigado com o material.
+Se disfarçam como de costume e partem a nordeste, em direção a Karst.
+Nagi aproveita o tempo de viagem, estuda o arco, e descobre que fora confeccionado de madeira tollon. Estuda as flechas e descobre que é do exército de Yuden. Mas quanto ao sangue, nenhuma informação ele tira, seria necesário que ele fosse algum tipo de médico ou cientista, e ainda sim só resolveria a questão se tivesse a aparelhagem suficiente.
+Deora mexe com os papéis que conseguiu roubar do Gabinete do General, na esperança de ser algo que prove os crimes de Yuden. Mas não. É um simples boleto. Aparentemente o soldado Thedon esqueceu de pagar algumas contas relativas a sua moradia.
+O grupo segue pela estrada e, curiosamente, não encontram nenhum guarda.
+O clima é pesaroso, nublado. Num dia garoa, noutro chove, no seguinte, o tempo fica fechado, ameaçando derrubar mais água.
+Após alguns dias de viagem de retorno a Karst, chegando próximo a Svalas, ao anoitecer, o grupo vê uma luz mais a frente no caminho. Emmy e Gabj sacam seus machados e Nagi, com seu arco enriste, ordena a todos que façam silêncio.
+Ao aproximar, é necessário que saiam um pouco da estrada e adentrem a floresta. Eles o fazem, e vêem um lago, com uma fogueira acesa do lado oposto a eles, e, ao lado da fogueira, uma carroça. Sobre a carroça, diversos itens de metal. Ao lado dela, um homem, um velhinho com um narigão e uma sobrancelha grossa e branca, um bigodão, dando pitos em seu cachimbo, com um chapéu de palha em sua cabeça.
+Nagi e Gabj reconhecem o brasão da carroça: Ado Escudos, "a melhor defesa pelo menor preço". O velhinho deve então ser Essez de Rota Dourada.
+Foi esta carroça que trouxe os dois, além do barão Abelard, e os cadáveres de Suzumi, Harcos e Alfa Romeo, da floresta de volta a Karst. Eles sabem que há algo de especial com este senhorzinho, em particular, Gabj sabe quem ele é.
+A inteligência do inventor decifrou o enigma escondido nos nomes que usa, afinal, Ado Escudos é um anagrama para "Deus do Caos", enquanto seu nome pode ser rearranjado para "Deus da Sorte e do Azar".
+O anão, no entanto, a ninguém contou sua descoberta.
+O pequeno Deora conhece também já tinha se encontrado com o idoso. Se você se lembra, Deora apareceu escondido na carroça de Gabj no começo de sua aventura, e foi seguindo Essez que foi parar lá, e, ao chegar nas ruínas, o velho teria desaparecido sem deixar rastro nenhum! O hynne suspeita de haver algo de sobrenatural, mas não imagina o que é.
+O grupo então se aproxima mais leve, sem oferecer perigo ao velho amigo.
+"Oba!", acena Deora.
+"Oba, bão?", responde o senhor, fazendo menção de oferecer um cachimbo.
+"Obrigado", aceita, põe na boca, e espera acender.
+"Negócio aqui é bão, viu, trouxe lá de Fortuna."
+"Fortuna? Nunca passei por lá não, vim de Ahlen... Aliás, o nome é Deora, o segundo, muito prazer!"
+"Nós num já se conhece já não? Me lembro de ver o senhor um tempo atrás..."
+"Mas nunca conversamos."
+"Tá certo, eu sou o Essez", sua resposta é interrompida ao ver os outros membros do grupo analisando sua carroça. Ele aumenta a voz: "Opa! Cês querem comprar outras coisas?"
+"Tem Armadura de Engenhoqueiro por aqui?", o chato do Gabj já vai direto ao ponto.
+"Umas poções seriam muito úteis também" complementa Nagi.
+"Claro, tem sim, tem sim. Quais poções seriam? E armadura de engenhoqueiro eu nunca vi falar, tenho essas de metal e de couro, se servir?"
+"Seria uma armadura de engenhoqueiro goblin, mas não acho que o senhor tem não..."
+"Ah sim, dessa aí eu tenho, espera só um pouquinho...", o velho começa a vasculhar a sua carroça, jogando escudos para cima como se estivesse procurando um boleto em meio a uma pilha de papel. "A-ha! Aqui está. São 85 tibares para o nobríssimo anão."
+"Se eu te der minha armadura de couro por essa armadura de engenhoqueiro goblin, o quanto eu consigo de desconto?"
+"Eu te dou 10 de desconto."
+"Ah, mas isso aqui fui eu que fiz, eu sei da qualidade dela."
+"Sim, sim, mas eu tenho minha margem de lucro, né?"
+"Quinze!"
+"Eu faço onze."
+"Feito, tá na mão."
+"Além do anão, mais alguém deseja comprar de meus produtos?"
+"Eu gostaria de algumas poções de mana, e algo para curar! Quais são preços?"
+"A essência de mana sai cinquentinha e o bálsamo... vinte!"
+"Me veja duas essências e dez bálsamos, então" - o clérigo do grupo olhou com desconfiança a esta compra.
+"UAU, vejo sim, deixa só eu achar."
+Depois de entregue, ele olha para a humana, que até então estava quieta. "E você, minha jovem?"
+"Vou comprar quatro essências."
+"Ótimo!"
+Os outros até compram uma coisa ou outra que querem, mas comércio é com o inventor. "Você teria... granadas?"
+"Granadas? Talvez... vendi um bocado esses dias... deixe me ver", o vendedor fuça de novo na carroça, e nada encontra. "Não, vendi tudo para um soldado, que estavam indo lá para Karst, e pegou tudo."
+"Eita!", responde assustado Gabj, que logo muda de assunto: "Posso usar sua pedra de amolar, para o meu machado? De graça?"
+"Pode, pode, vocês já são meus amigos! Mas tem tempo que a gente não se vê."
+"Tem tempo mesmo..."
+"Mas, cê disse que o vicho vai atacar Karst lá, os soldados vão jogar bomba em tudo lá?", pergunta, assustado, o clérigo, "então não é melhor eu voltar pra lá não."
+"É, um rapaz chamado Thedon..."
+"Thedon?" - interrompe, animado, Deora.
+"Isso, Thedon. Pediu, é... por fiado, disse que não tinha dinheiro nem pra pagar a casa dele. Inclusive foi ontem isso, já devem estar chegando lá."
+"Legal!", respondem, em unissom, mentindo entre os dentes.
+"Mas, e o senhor, que história o senhor tem para contar para a gente?"
+Essez se senta ao redor da fogueira, convida os outros a sentar-se também, oferecendo uns marshmallows ao fogo. Deora também oferece alguns de seus alimentos, para partilharem e comerem junto.
+"História? Bom... Não, você sabe que eu sou de Rota Dourada, né?"
+"É, você é de Rota Dourada. Essez de Rota Dourada", confirma Gabj, que está mexendo nos seus instrumentos, desenhando o novo símbolo de sua ferraria na armadura recém adquirida.
+"Esséz de Rota Dourada?" Pergunta Deora.
+"Essez de Rota Dourada."
+"É nessas partes aqui?"
+"Fortuna."
+"Fortuna?"
+"Isso, sabe, lá onde eles adoram dinheiro e tal, e a sorte, o azar..."
+"Ah, eu já estive em Ahlen" complementa Deora.
+"Ahlen?", Essez copia as perguntas desnecessárias como faz o hynne.
+"Ahlen! Lá tem bastante cassino, essas coisas, deve ser ali perto."
+"É ali!"
+"Ah, tá!"
+"Mas eu tô sempre viajando em todos os lugares aí, todos os negócios..."
+"Então você gosta de um joguinho, né? Tem um baralho aí pra jogar?"
+"Quer apostar quanto?"
+"10 tibar pra começar, né? Só pra brincar."
+O resultado, para você leitor, é claro. Disputar em jogo de sorte contra o Deus da Sorte é suicídio. Gabj também sabe disso, mas não faz questão nenhuma de avisar o seu amigo. Lembre-se que enganar deuses é o trabalho básico do Deora, usurpador da magia divina. De todo modo, Deora não perdeu dez, mas vinte tibares.
+"Cê me pareceu bastante sortudo!", afirma Deora.
+"E eu nem sou tão bom nesses jogos de sorte e azar. Eu não sou bom com essas coisas não."
+"Você gosta da sorte?"
+"Gosto da sorte, do azar..."
+"Eu sei", sussura baixinho o anão, tentando falar apenas ao ouvir do hynne, mas sendo escutado por todos.
+Depois de um silêncio, todos esperando que ele complete dizendo o que ele sabe, alguém é obrigado a falar algo.
+"Ele sabe."
+"Ele finge que sabe", corrige Deora.
+"Finge que sabe? É, to vendo essa cara aí, parece que engana as pessoas" diz Essez enquanto olha para o anão, coçando a própria barba com uma feição misteriosa no olhar.
+"É ele engana todo mundo. Eu não, eu sou amigo de todos, até dos Deuses."
+"Mas ele é gente boa, ele faz armadura."
+"É, apesar de ele ser um pouquinho insuportável, ele é legal. Se você relevar toda a chatisse, ele fica legal. Tendeu?"
+"Tendi... e você engana os deuses então?" Nimb sabe que já fora enganado.
+"Amigo! Amigo dos deuses. É, já ouviu falar de clérigo do panteão? É, eu não me devoto a um deus só, nem Valkaria, ou que nem esse pessoal de Keen aí. Eu só amigo de todo mundo, eu sou amigo dela \[apontando para Emmy\], dele \[Nagi\]..."
+"Meu não!" Gabj interrompe o clérigo, antes que seu dedo aponte para o anão.
+"Bem caótico isso aí. Mas isso não parece clérigo do panteão não. Isso parece clérigo de Nimb, hein?" Autopromoção.
+"Nimb? Papai era!"
+"Seu pai? Qual era o nome dele?"
+"Vert. Vert Wheeler. Tanto que meu nome é Deora, o Segundo, e nem existe um 'Primeiro', bem caótico."
+"Verto? Acho que eu conheci ele sim. Comprei um escudo com ele, tinha uma barba branca..."
+"Conheceu? Orra, cê é velho hein."
+"E meu pai, você conheceu? Alexis de Caskhar, primeiro dono e fundador da Barba \& Bigorna", disse Gabj.
+"Casca-Dura?"
+"Caskhar! Tipo cascar laranja", disse Deora, enchendo o saco do companheiro.
+"Ah, sim, comprei uns machados dele."
+"Ele morreu...", diz e começa a chorar o anão. Todos se espantam ao ver aquela 'casca-dura' se desfazendo em lágrimas. "Primeiro ele partiu para uma grande batalha"
+"Contra o quê? Um rato?" Brinca o hynne para elevar o clima, mas suas palavras têm efeito contrário.
+"Vou ignorar você. Ele primeiro participou de uma grande batalha e a guilda dos mercadores o aceitou, ele era um simples ferreiro, criou uma ferraria, trabalhei com ele, mas de doença ele faleceu. Eu lembro mesmo até hoje, ele disse que o último dia de um anão é o primeiro dia de uma história."
+"Então pode ter uma história de matar anão!", mais uma fala mal colocada de Deora.
+"Frase bonita hein. Mas eu prefiro 'em terra de olho, quem tem cego é rei'."
+"Você quer ficar cego?" Gabj ameaça o hynne.
+"Não, não, mas vocês sabem qual é o deus das terceiras chances?"
+"Deus das terceiras chances?!", pergunta curioso Essez
 "Triatis, *hihihi*".
+Enquanto conta sua piada, Nagi, bem quieto, lhe entrega um punhado de tibares. "Acho que você deveria jogar cartas de novo contra ele."
+"Beleza, bora apostar aqui, dez do Nagi, mais dez meu. Vinte!"
+"Aposta esse também!" Grita Gabj atirando forte um tibar na direção do hynne, na intenção de machucar. A pontaria, entretanto, não corresponde à sua vontade.
+"Vinte e um! Já jogou 21, Essez?"
+"Não, esse eu não conheço não."
+"Black Jack?"
+"Conheço um cara chamado Jack, serve? Cara bom, vende lá umas coisinhas em Coridrian."
+"Coisa boa?"
+"Coisa boa."
+"Boa?" E faz um gesto de uso de entorpecentes.
+"Não, não é assim que se faz com o cachimbo!" Se Essez entendeu ou não, não se sabe, mas não se usa cachimbo como se usa entorpecentes.
+"Vamos jogar, vamos jogar."
+Dessa vez, Deora joga melhor. Não só isso, dessa vez ele tenta fazer maço com as cartas e predizer a saída. Ele não quer só jogar habilmente, ele quer roubar. O leitor já sabe o resultado.
+Ao receber as moedas da vitória, Essez olha com um sorrisinho para Nagi. As dez moedas emprestadas pelo arqueiro não eram as mais verdadeiras do continente.
+Enquanto isso, Deora fica perplexo, "como teria eu perdido escolhendo as cartas de nós dois?", e nem suspeita que fora enganado. Já é a segunda vez que isso acontece. Ele ainda não sabe, mas isso é benéfico para ele.
+"Não, quer saber? Eu gostei de você. Tome", e atira o chapéu de palha em sua direção. É um chapéu de palha furado, remendado, entreaberto em cima, como uma tampa, presa por um pequeno trecho da circunferência.
+"Obrigado!" Agradece, mas olha para o presente com estranheza. Sabe que Essez é mais do que diz ser. Sabe também que usar o chapéu não lhe deixará com a mesma aparência inofensiva que sua tonsura lhe dá.
+"Gostei de você também", diz olhando para Nagi. Ambos sabem sobre o que se trata.
+"Bom, vamos dormir. Já é tarde. Aliás, moça grande com machado, quer falar alguma coisa?"
+"Não, não, eu prefiro ficar quieta."
+Todos tomam seu rumo, Gabj, no caso, dorme em sua carroça, abraçado em seus materiais. Essez apaga o fogo, e se retira.
+Conforme piscam os olhos, caindo no sono, sobe uma névoa no lago. Tudo natural. Um sereno. Alguns sapos pulam, pequenas fadas brincam, e acabam adormecendo.
+No dia seguinte, Essez já partiu, antes de todos se levantarem. Só encontram resquícios da fogueira apagada. É hora de seguir até Karst.
 
 ---
-###### Essez de Rota Dourada
-Conseguem desfixar os guardas, pegam a carroça.
-Sei lá, vocês se disfarçam de novo e partem em nordeste em direção a Karst, né?
-Vocês param pra dormir a primeira noite?
-Então, falem pra mim, por favor...
-Ou...
-Descanso.
-Tá?
-Eu acho que precisava de uma sobrevivência, uma coisa mais...
-Se você chega...
-Ah, não.
-Você tem comigo.
-É o seu...
-É igual ao seu nível.
-Não, eu só tô vendo se não tem nada pior.
-Ou melhor.
-Como que eu faço?
-É o seu nível.
-Você cura...
-2PM, 2PM.
-2PM, 2PM?
-É que eu tenho alguma coisa por conta do seu cidadino, não?
-Na verdade, vocês curam tudo, na verdade.
-Graças a Deus.
-É...
-Alguém tem um boche?
-Eu também.
-Então, agora a gente vai...
-Vocês...
-Sobre aqui, viu?
-Partem...
-Ainda não.
-Ah, vai que é, né?
-Vocês partem em direção ao nordeste, de volta a Karst.
-É...
-Lembrando que é uma viagem de mais ou menos 2 semanas.
-Vocês estão a muitos quilômetros, né?
-Eu acumo 20, né?
-Tá bom.
-Podem fazer o que quiser, no meio do caminho.
-Você estuda o arco, ele parece uma coisa...
-Elfica antiga.
-Provavelmente vinda de Lenore, ou alguma coisa do tipo.
-É feito de madeira tolo.
-É...
-Aí eu passo...
-Aí eu passo...
-Se já estão na sua carroça de volta, eu tenho aqui minha carroça, entendeu?
-Ah, é a carroça?
-É, nesse meio tempo que eu queria uma flecha, alguma coisa dela.
-Pra saber se ela é alfa ou meio mais...
-Uma lança.
-Uma lança.
-Eu tenho uma lança nela.
-Ótimo.
-17 mais 7 e 24. Não, é uma flecha normal de York. Do exército de Yul. E o sangue dela é sangue romano? Ou eu não saberia dizer isso? Não, você não saberia dizer isso. Nem com uma boa sobrevivência. Não. Você vai ter que ser um cientista de...
-Como que é aquela... Médica Sadistic? Sadistic. Pra poder tentar... Você não sabe... É, não. Só pra perguntar. Vai que dá. Tá. Mas ela... O fato é que ela tava com um arco, ela. Um arco antigo. E... Bom. Vocês passam ali, assim, duas semanas de viagem, né? Primeira semana... É... Continua o clima... Eu não lembro exatamente qual época do ano que é, mas é um clima, assim, meio pesaroso, chuvoso, nublado.
-Vocês seguem pela estrada, calmamente. Vocês não veem muito os guardas. O... Deora, rola pra mim, pelo favor... Um teste de... Um teste de... Mais um pouquinho.
-Qual um teste de investigação. Deora. Deora? Por que... Por que simplicamente isso? Deora.
-Aquele que pegou o papel na mesa. Ah, tá. Eu entrego o papel. Eu falo: Ah! Eu tinha isso que eu tinha pego? É que... Deixa eu explicar. Eu não lembro a rolagem que você fez, né? Não sei se você pegou o papel certo. Deora. Tá. Ok.
-Eu tenho que cobrir agora. Um, mas o outro. Quase. Dois? Sete. Quase. Dois? Sete. Quase. Mas o um tá ali do lado.
-Mas a minha investigação... Um... Oito. Mas a minha metade do nível nove. Marcos, pode ajudar? Pelo... Não. Ah. É que foi... Se eu não me engano, ele falhou no teste, mas aí eu... Seria justo porque eu não anotei nem nada.
-Então que bom que eu falei essa, porque eu também tinha essa mesma memória. Eu não queria roubar. É. Eu tinha... Tipo, eu peguei um papel inútil. Eu lembro dessa... É, não tem nada de útil. Eu lembro disso também, mas eu falei: Ah, não. Não vou... Não vou roubar, né? Vamos rolar de novo. Acho que é justo.
-Beleza. Os dados falaram que é justo. Mas você olha o papel... A gente ainda pode usar ele pra falsificar outras coisas. Pode ser útil. Assinaturas. É. Você encontra um papel falando de, sei lá... Você tem muito informação pra falsificar. Tem.
-Faz um papel de humano lá com o horário. Pra todo mundo a gente... Não. É um papel falando tipo de... É um boleto de IPTU de um soldado que mora lá em... Um barco. Basicamente. Ah, a gente tem informações de um soldado que mora.
-Você quer saber o nome dele? Sim. Por favor. É, sim. Eu falei porque tem a tabela de nomes aleatórios. Papel... Aleatório. Seu nome é... Boleto... Ben-Lure. Pedal.
-Pedal. P-H-E-B-O-E. Tá passando cinema? Tá falando que ele não... Ben-Lure. Tá passando de novo? Remasterizaram e saíram em algum cinema. É bom. É.
-Falando que ele não pagou o IPTU e que ele tem que ser cobrado imediatamente. Tá bom. Tá bom. A gente já tem um blackmail já. Vamos cobrar ele. Vamos lá cobrar ele. Vamos lá cobrar ele. Vamos embora. Se a gente fosse humano seria mais fácil.
-Alguém aqui é muito fã de Star Wars? Diga. Mais ou menos. Ah, pode estragar um pouquinho. Metade dos quotes dos filmes é resolvidos por alguém fingindo ser alguém super importante e botando medo nas pessoas pra entrar onde não deveria. Ok. Eu não sou o suficiente pra conseguir entender isso. Não tô entendendo. Porque é fácil.
-Várias das coisas deles chegam assim. Tipo, eu queria entrar aí. Mas daqui que você... Ah, você não sabe quem eu sou? Não sei o que. Então...
-E vocês, então, vocês seguem alguns dias de viagem. O clima tá pesado, né? Pesaroso. Um dia garoa, chove. E vocês estão voltando pra Karst. Até que uma noite vocês estão bem próximos, assim, perto de Valas, né? E vocês se aproximam de... À noite. Vocês estão começando a parar pra descansar de vocês vendo uma luz, assim.
-Uma luzinha, assim, tem alguma coisa brilhando ali, né? Vai começar.
-Vocês se armam ou entram com a carroça, pianinho, assim, vão chegando perto. Como vocês se aproximam, vocês veem um lago. Tipo, perto da estrada, assim, mas entrando mais pra floresta. É... Nesse lago do lado tem uma fogueira, né? Tem uma carroça.
-Cheio de coisa, assim, de metal. Cheio, tudo amarrado de qualquer jeito. E do lado dessa carroça tá sentada... Tá sentado um galinho. Um narigão. Uma sobrancelha grossa, branca. Um ligadão. E... Com um cachimbo, assim. Dando um pito num cachimbo.
-E aí vocês reconhecem o escudo lá da carroça. A do escudo. A melhor defesa pelo menor preço. E ele tem um chapéu, assim, de palha.
-No meu micrófone foi se ver, nem consegui, não é? É. E aí tá assim... Eu me recordo de... Opa! Bom!
-Eu me recordo de ter... De... Eu ter reconhecido que ele era um deus. Porque quando ele tava saindo, se meio que desembaralhou o nome e apareceu lá...
-É Nimb, né? É. É. Então, eu... Eu não lembro se eu contei pra todo mundo. Porque eu acho que, se me engano, foi só eu... Ou só eu e o Ouros que vimos isso.
-É, eu acho que... Eu não... Não sabia que ele era um deus. É, você percebeu. É um... É um anagrama. É... A do escudos. Você troca e vira deus do caos. E aí ele chama... E-C de rota dourada. Se você trocar, fica... Deus da sorte e do azar. Não aconteceu. Mas você não falou pra ninguém.
-Não falou pra ninguém. Eu sei se eu sou o seu filho. É. E ele desapareceu no ar, acho, também, né? É, é. E eu lembro que foi o cara que eu segui. E aí quando eu cheguei, tipo, desapareceu. Aí eu vi um monte de aventureiros chegando.
-E aí eu me escondi numa carroça. E aí ele tá assim... Se eu cheguei, cheguei na fogueira. Com licença. Por favor. É, é obrigado. É, é.
-Eu não perigo, senhor. Você viu o meu rapaz? Não, né? É um cachimbo. Eu, com certeza. O meu personagem tá com um cachimbo na mão? Esse é lá de Fortuna. Essa... Essa... Esse tabaco trouxe lá de Fortuna.
-Nunca passei por lá.
-Não, mas tem que acender antes, né?
-Ah, achei que já chegou. O negócio apagado?
-Não, ainda não. É pra você acender.
-Ah, me desculpa.
-Faz um ar assim.
-Eu dou uma pequena investigada pra ver se na...
-Na...
-Na carroça dele tem alguma mercadoria que seria melhor pra gente.
-Você começa a olhar a carroça e fala:
-Pô, vocês querem comprar alguma coisa de novo?
-Tem...
-Armas, armaduras, escudos...
-Se vocês quiserem aí, eu recentemente vou pegar umas poções também.
-Tem armadura de engenho aqui?
-Poções é muito bom.
-Tem.
-Tem uma armadura de engenho aqui no Globo?
-Qual você precisa?
-É uma armadura de engenho aqui no Globo, hein?
-Qual que é o valor da armadura?
-3.500.000 de base.
-Eu não vou ter coisas muito complexas, mas o básico eu tenho.
-Imagino que...
-Qual é o valor das poções de mana aí?
-É, poções de mana?
-Que tem que levar você tiver.
-É...
-Calma.
-Calma, uma coisa de cada vez.
-Vamos lá, armadura.
-Eu vou querer 300 tibares em poção de mana.
-Quantos tibares?
-Eu vou fazer.
-Eu vou doar.
-Só por aí, por favor.
-Pera aí, na verdade, deixa eu ver quanto eu consigo carregar.
-85 tibares vale uma armadura de engenho aqui no Globo.
-Eu tenho, eu tenho.
-Pera aí, aí ele desamarra assim.
-Aí ele pulou no meio assim, mas...
-Começa a jogar uns escudos pra cima.
-Tá.
-Aqui, ó.
-Aí joga assim pra você.
-Aí...
-Pega esse teu dinheiro.
-Se eu te entregar minha armadura de couro por essa armadura de engenho aqui no Globo,
-quanto eu consigo de desconto?
-Armadura de couro...
-Eu não lembro quanto vale uma armadura de couro.
-Você tem aí fósseis?
-Eu pego aqui fósseis.
-Eu pego aqui fósseis.
-Esse é de mana 50 de bares.
-E...
-Meio espaço?
-Um quarto de espaço.
-Meio espaço.
-Não existe um quarto de espaço.
-Rapidinho já...
-Ok.
-É só meio, um e...
-Dois ou mais, mas...
-É metade da maioria meio e um.
-É...
-Oi?
-20.
-Quantos quentes?
-10.
-10 de baixa cada mês passa.
-Ah, que foi o mesmo que fiz, eu sei da qualidade dela.
-É bem fraco.
-Eu sei que ela é extremamente...
-É, mas eu tenho minha margem de...
-Nossa minha história deu provavelmente.
-Já é 10.
-Nossa minha história deu provavelmente.
-É mais barato.
-10 de mais?
-10, pegar ou largar?
-15.
-Não.
-Eu tenho negociação.
-Eu sigo 10% mais caro.
-Mais coisa.
-10% de 10 é 11, né?
-É.
-Eu faço 11.
-10 de baixa.
-10 de baixa.
-10 de baixa.
-10 de baixa.
-10 de baixa.
-Eu te dou também...
-85 de baixa, né?
-Então eu dou então...
-74.
-74.
-É, comprem.
-Ele vai vender o que tiver aí pra vocês podem anotar, né?
-Ele conversa com cada um de vocês e vende aqui.
-Eu não sei se eu preciso comprar alguma coisa não.
-Uma música de jogo, né?
-O som de mana é quanto?
-50.
-50 com 24.
-Tá.
-Meio espaço gasta.
-Tu ocupa no caso, né?
-Eu estou comprando duas essências de mana e 10 balso no restaurador.
-- Música de jogo, né? - Oção de mana é quanto? - 50. - 50 por 24. - Tá. - Meio espaço gasta. Ocupa no caso, né?
-- Eu estou comprando duas essências de mana e 10 balso no restaurador. - Caraca! - É sem espaço, dá. Tá bom. - Quanto cavalo carrega? Dá molhando depois.
-- Tem a carroça. - Tem a carroça também. - Tem a carroça carrega. - Eu não vou estar com tudo. - A carroça é isso aqui, ó. - Ah, certeza. - Eu tenho isso aqui tudo de espaço. Só tem uma lança nela. - Compre o que vocês quiserem aí. Mas todos ocupam um espaço? - Não, a lança ocupa só um espaço na carroça. - Balsa mais salador. - Só tem a lança na carroça. - Ah, tá. - Vou comprar 4% de mana. - Tá. - Não vai querer ter de centério dessa vez? Ah, não, esqueci.
-- É. - Vamos mudar agora, né? - É. - Falei que eu tinha comprado o frasco de lena, o frasco de luz no negócio, mas não. Eu comprei no meu background mesmo. E... - Tem 10 espaços no cavalo.
-- Não. - Não. - Não, não é briga de espaço, não. - Não é nada. - Tem umas regras de base móvel mais pra frente. Depois a gente pode fazer a carroça virar tipo um...
-É que eu preciso estar com as coisas perto pra me curar, né, Aldo? Sempre que eu preciso eu vou estar em cima do cavalo, então...
-- Justo. - Posso largar as coisas no cavalo e usar. Eu também não carrego tudo isso de flecha e virote em mim.
-- Tá, mas... - Você teria... sei lá... granadas? - Talvez... não. Eu vendi todas. Você sabe que tava passando com um soldado aqui de Karst, né? Aí ele pediu umas granadas.
-Pediu pra mim e eu vendi pra ele. - Já que você está fazendo tudo... passando no acelerador, eu posso dizer, mas não vou pegar não.
-É, eu... não. Eu vendi as granadas pra ele e ele falou pra mim que... ele tava indo lá pra direção de Karst, falou que ia ter um ataque, alguma coisa assim.
-- E aí tá? - Aí ele... eu vou todas as granadas, não tem mais.
-Eu posso usar sua pedra de amolar?
-- É... pode. - De graça?
-- A gente é amigo, pode usar. - Aí eu vou lá e eu afirmo o machado.
-Faz tanto tempo que a gente não se vê, parece que faz até um ano, né?
-Não, não faz um ano. - Quase um ano. - Um ano não faz.
-E 364 dias, acho?
-Talvez, talvez.
-Parece que vocês se...
-Eles transportaram, né? Vocês estavam lá em Karst, chegaram para aqui, ficaram um ano lá...
-Faz tempo, né? Que a gente não se vê.
-É, foi tempo.
-Você falou, o bicho vai tacar Karst lá, o soldado vai jogar bomba lá?
-Então é melhor que eu voltar lá, não.
-É, o Tedden, ele falou que o nome dele era Tedden.
-Tedden?
-Ele estava precisando comprar umas granadas, ele pediu, comprou o piado, né?
-Faz o quê?
-Falou que estava sem dinheiro para pagar a casa dele.
-E precisava pagar a casa dele, na verdade ele não tinha dinheiro para a granada.
-Aí ele foi lá e foram tacar Karst.
-Eita, que negócio de complicado.
-Inclusive, ele foi ontem isso, acho que ele já deve estar chegando lá para a casa.
-Legal.
-Mas, e o senhor, que história o senhor tem para botar para a gente?
-É, é uma coisa de ouvir histórias.
-Ele me deu, eu estou com o cachimbo ali.
-Ele estava tipo parado, né? Ele estava meio que acampando.
-É, está acampando.
-Por favor, senta aí na fogueira, tem uns caramelos aí para vocês, uns caramelos.
-Qual é disso?
-Tipo, provavelmente eu tenho algum tipo de comida na bolsa, eu também ajudo aí.
-Ah, entendi.
-Faz uma...
-Ou algum tipo de fumo também.
-Tá bom.
-História?
-Bom...
-Deixa eu ver o que ele pode falar aqui.
-A gente está no primeiro capítulo do Olimpí.
-Está aqui.
-Depois de um ano.
-Então...
-Parece que esse é um ouvinte.
-É.
-Não, você sabe que eu sou de Rota Dourada, né?
-É, você é de Rota Dourada.
-Rota Dourada.
-Rota Dourada.
-Esse é de Rota Dourada.
-Esse é de Rota Dourada.
-Esse é de Rota Dourada.
-Mentira, mas a gente tem...
-Esse é esse.
-Não sei.
-Com Rota Dourada, né?
-Rota Dourada...
-É essa parte?
-Fortuna.
-Fortuna?
-Sabe?
-Lá onde eles adoram dinheiro e tal, e a sorte, o azar...
-Ah, eu já tive em Alien.
-Alien.
-Alien.
-Lá tem bastante cassina, essas coisas...
-É ali.
-Ali perto?
-Ah, tá.
-Enquanto isso eu peguei, sei lá, o meu instrumento de ofício de armeira, eu tô desenhando
-o símbolo da minha ferraria na armadura nova.
-Assim, ó.
-Tô...
-Tá bom.
-É...
-É...
-Eu achei que você ia estar fazendo isso na carroça do cara.
-Mas eu tô sempre viajando em todos os lugares aí, todos os negócios...
-Tô...
-Então você gosta de um joguinho, né?
-Tem um baralho aí pra jogar?
-Tenho.
-Vamos jogar então.
-Quer apostar quanto?
-Vamos dar este bar pra começar, né?
-Desculpa, eu nem entendeu o que você falou.
-Teste bar?
-Teste bar?
-Tá bom, vai.
-É, só pra brincar mais, hein?
-Tá bom.
-Vamos fazer um teste.
-Você tem jogatina treinada?
-Eu não tenho jogatina.
-Não, eu tenho jogatina, só tenho 9 jogatina.
-Boa.
-Vamos fazer um teste aí.
-Testezinho de jogatina.
-Eu acho que é a perícia que o povo menos usa de jogatina.
-4, 5, 6, 7, 8, 9.
-Mais 9.
-Um natural.
-Também eu tô jogando em um ponto de um inimigo, que não deve ter sentido.
-Peraí...
-Você pode enganar ele.
-Posso, mas não é seu intuito ainda.
-Super fácil.
-É, você...
-Não sei o que ele tira em um, mas...
-É, ok.
-Você perde 10 tivadas.
-Tá bom.
-A dada de você pague 20, porque você aumenta a posse que eu ganhei.
-Justo, justo, justo.
-Ah, eu não sou muito bom nesse jogo.
-Eu tenho muito de azar e sorte, né?
-Eu sou bom nessa coisa.
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar.
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Eu tenho muito de azar e sorte, né?
-Cascar
-Cascar, Cascar Laranja
-Cascar Laranja
-Cascar Laranja
-Lex Cascar
-É, será que você já gosta?
-Eu já comprei uns machados dele já
-Bom, bom, bom
-Ah, não bom, viu?
-Ele não desgordou, eu
-É, moveu, né?
-Que craxo
-Por que você morreu mesmo?
-Ele...
-O anão chorando, né?
-Os recanais são bem emotivos, né?
-Ele primeiro participou de uma grande batalha
-Era contra o que?
-Um rato?
-Vou ignorar você
-Ah, conta a história
-Ele primeiro participou de uma grande batalha
-E a guilda dos mercadores o aceitou
-Ele era um simples perdeiro
-Criou uma ferraria, trabalhei com ele
-Mas de doença ele fabriu
-Eu lembro mesmo até hoje
-Ele disse que o último dia de um anão
-É o primeiro dia de uma história
-Foi, frase bonita, hein?
-Então pode ter uma história que a gente tem que matar anão
-Eu tenho uma frase bonita
-Mas eu não gosto de falar
-Diga, diga
-Em terra de olho, quem tem um cego é rei
-Gosta?
-Boa
-Você quer ficar cego?
-Mas você tem esse item?
-Tenho
-Tá bom, fala aí, Pedro
-Ixi
-É, contra aí
-Agora tem o que fazer?
-Rola um D20
-D20
-D20
-Tá, mas é o que?
-Qual o ponto?
-É um D20
-É, percepção
-Qual a percepção aí?
-8
-Percepção minha
-Sabedoria 1, mais 1, 2
-Mais 2, 12
-É, já foi
-É, já foi
-É, tá bom
-Então, é
-O Nagy
-Para, pensa assim
-Ah, já sei, já sei
-Ele tira assim, mais 10 bar e dá pra você e fala que você devia jogar de novo a carta contra ele
-completamente normal, te deu mais tibar
-tá bom, vamos apostar
-quantas você ganhou? 10, mais 10
-você quer que eu aposte 10 ou que eu aposte 20?
-quando você quiser apostar
-vamos apostar 20
-eu pego um tibar assim
-eu quero fazer um teste de pontaria pra acertar a cabeça do
-do...
-você vai jogar um tibar na cabeça dele?
-é, tá
-10
-você acerta
-você daí?
-deve fazer 16
-12
-mano, cai do lado dele
-bate na armadura de couro
-aposta esse também
-tá bom? tá, então
-21
-conhece 21? sabe jogar 21?
-não, esse eu não conheci não
-Black Jack
-Black Jack?
-ah, conhece o cara chamado Jack?
-Jack Black?
-é um cara bom, muito bom
-ele vende lá em Coríndia
-mas isso não vem ao caso
-não vem ao caso
-umas coisinhas boas?
-coisa boa
-boa?
-não, mas não é assim que você faz com o cachimbo, é assim ó
-então vamos jogar, vai
-vamos jogar, vamos jogar
-eu quero tentar, assim, roubar o jogo
-nossa, eu quero dar enganação
-eu quero dar enganação
-e eu não percebi quem ele era
-Pra mim é só tá falando mentira que conhece meu pai do mesmo jeito que eu tô falando muito mentira.
-Ah, isso vai ser muito bom.
-Então eu vou rolar uma enganação aqui.
-Mas roubar no jogo eu acho que é a própria jogatina.
-Ahn... Não, jogatina é habilidade de jogo, né?
-Eu tô tentando melhorar minha jogatina. Deu 30.
-Rolou a enganação.
-E agora a jogatina...
-Deu.
-9... 16.
-16 de jogatina e 30 de enganação.
-Aí você... ele vai rolar o DCI pra saber a jogatina.
-Quanto que foi a... enganação ou jogatina?
-Enganação, 30?
-Enganação foi 30.
-Tá bom.
-Ele... ele pega assim, aí joga com você.
-Fiz máximo.
-Você... perde.
-E aí ele... hum, nossa eu perdi. Que estranho isso, né?
-Ele perde?
-Não, você perde. Desculpa.
-É...
-Você perde.
-Ele... ah, tá bom. Vai, toma os tivates.
-Não, quer saber? Eu gostei de você.
-Pega assim o chapéu.
-Tá, pra você.
-Ele me dá um chapéu?
-Pega o chapéu.
-Tá bom.
-Chapéu de palha furado.
-E aí ele... tá tudo furado assim, remendado.
-E ele é aberto aqui assim.
-Tipo, ele não tem o...
-Então eu continuo...
-Podendo usar meu poder?
-É, ele é só...
-Tá.
-Na verdade ele tá meio...
-Sabe aquele chapéu de desenho animado que fica assim?
-Tá, ok.
-Ok.
-Eu tinha imaginado...
-Eu tinha imaginado o boné de gente que corre.
-Que é só isso aqui assim, em volta e só tem a água.
-Não tem nada em cima.
-É fácil, mas é um chapéu de palha de...
-Ok.
-Ok.
-Então eu perco mais 20 tibar.
-Eu acho, né?
-Perde.
-Ele olha assim o tibar.
-Eu não sei se você me roubou, mas...
-Gabriel, você perdeu o tibar?
-Ele olha o tibar assim e ele olha pra você.
-Hum, hum.
-Gostei de você também.
-É...
-Tá.
-Você foi enganado de novo pela segunda vez.
-Pode anotar isso.
-Mas se você não se roubou, você me avisa.
-Talvez eu não tenha dinheiro pra apostar mais.
-Não, não, não.
-Ele é tibar falso.
-Ele é tibar falso.
-Ok.
-O mano era verdadeiro.
-Então ele recebe 10 normais, 10 tibar falso?
-É.
-11 normais.
-11 normais, tá.
-10 falsas.
-Ok.
-Mas é que eu tinha...
-E tem falsa aqui falsificada e eu preciso me livrar disso em algum momento.
-Eu falei assim: "E você precisava ser enganado".
-Eu lembro disso então.
-É, é.
-Eu não lembro pra quê, mas eu precisava ser enganado.
-Uma distinção.
-Alguma das duas de barba, de perigo.
-Não, não é...
-Não é...
-Deve ser o do...
-A distinção de...
-Fala...
-Você tem...
-Instincismo?
-Diário.
-Você deu?
-Eu também achei que era bom.
-Misticismo eu não tenho.
-Não tenho?
-Tá bom.
-Tenho vilifião.
-Tá bom.
-Que é misticismo pra...
-Deu ser.
-Mas é um chapéu de palha, você coloca...
-E...
-Ele não ocupa espaço.
-Parece que vai.
-Ok.
-Ok.
-Eu posso usar ele vestido junto com outro vestido?
-Pode.
-Tonsura vestido.
-Tá.
-Alguém tem misticismo aqui?
-É que assim...
-É que assim...
-É que assim...
-A tonsura...
-A tonsura...
-Mais sete.
-A tonsura também não ocupa espaço, então...
-Tanto faz.
-É só dependendo...
-Então eu vou usando o chapéu e na hora que eu entro em batalha eu tiro o chapéu.
-Mas...
-Ele dá um bom no chapéu?
-Não.
-Eu sei que não.
-Tá.
-É só decorativo.
-Então eu vou usando o chapéu e na hora que eu entro em batalha eu tiro o chapéu.
-Vai poder ter o poder.
-Claro.
-Que é a aparência ofensiva, né?
-Beleza.
-Eu preciso de rodar um misticismo.
-Não.
-Porque você não tá com chocada.
-Depois, mais pra frente, você faz o chapéu.
-Tá.
-Mas é isso aí.
-É isso aí.
-Só bota ele pra casa.
-Vamos dormir aqui.
-Tá na hora.
-Comecei a jogar.
-Eu vou na minha carroça, jogo tudo essas coisas e eu durmo meio que em cima das coisas com
-mesmo de alguém roubar.
-Beleza.
-Vai falar alguma coisa?
-Um moça grande com machado...
-Não, não.
-Eu prefiro ficar quieta.
-Ficar quieta?
-Tá bom.
-Já comprou, né?
-Já comprou, né?
-Já comprou, já comprou.
-Tá bom.
-Bom, então é isso aí.
-Aí ele apaga o fogo.
-E ele apaga o fogo e todos vocês deitam assim.
-Não, ele deixa cedo, né?
-Porque vocês vão dormir.
-Vocês deitam junto ali com ele e tal.
-E conforme vocês vão piscando assim, caindo no sono, sobe uma névoa no lago.
-Tudo natural, assim.
-Tipo, aquela água, um sereno.
-Vocês veem alguns sapos pulando assim, umas fadinhas brincando.
-E acabam adormecendo.
-Vocês acordam.
-Um outro dia, ele não tá mais lá.
-Só os resquícios da fogueira apagada.
 ###### Rumo a Karst
 Vocês continuam em direção a Karst.
 Mas agora não é uma jornada simples, porque vocês estão entrando em território de Isvalas.
