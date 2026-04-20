@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T16:31:42.852-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:22:54.945-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -23,9 +23,12 @@ Participam desta história:
 [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?\|#Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?]]
 [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric\|#Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric]]
 [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Sessão 04 (11/04/2026) - Retorno a Karst\|#Sessão 04 (11/04/2026) - Retorno a Karst]]
-	[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A Fuga do Quartel\|#A Fuga do Quartel]]
-	[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Competição de arquearia\|#Competição de arquearia]]
-	[[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|#Chapéu de palha]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A Fuga do Quartel\|#A Fuga do Quartel]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Competição de Arquearia\|#Competição de Arquearia]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Chapéu de palha\|#Chapéu de palha]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Rumo a Karst\|#Rumo a Karst]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#Tronco de madeira\|#Tronco de madeira]]
+.    [[Aventuras/00 Guerra Artoniana/Guerra Artoniana#A guerra se aproxima\|#A guerra se aproxima]]
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
@@ -165,7 +168,7 @@ Por fim, Deora II pulou da carroça em uma avenida paralela, mas, caminhando na 
 Então o grupo ouve alguns passos próximos, mas eles vão para longe com um grito "Vamos achar eles!".
 "Estamos livres, por enquanto" - respiraram aliviados.
 Mas não, não estavam livres.
-###### Competição de arquearia
+###### Competição de Arquearia
 "Ali, ali estão eles!" - escutam um grito a distância. O problema parecia distante. Mas um vulto se aproximava. Pulos ágeis sobre os telhados das casas: era necessário agir, e rápido.
 Estão em uma ruela, as casas em volta, todas fechadas. O sol se terminando de se por, e a lua tomando seu lugar. As tochas da cidade aos poucos vão se acendendo.
 O pequeno Gabj apruma seu machado e usa uma engenhoca afiadora de lâminas para deixá-la mais potente, e a arma começa a brilhar em sua mão.
@@ -343,9 +346,9 @@ Enquanto isso, Deora fica perplexo, "como teria eu perdido escolhendo as cartas 
 Todos tomam seu rumo, Gabj, no caso, dorme em sua carroça, abraçado em seus materiais. Essez apaga o fogo, e se retira.
 Conforme piscam os olhos, caindo no sono, sobe uma névoa no lago. Tudo natural. Um sereno. Alguns sapos pulam, pequenas fadas brincam, e acabam adormecendo.
 No dia seguinte, Essez já partiu, antes de todos se levantarem. Só encontram resquícios da fogueira apagada. É hora de seguir até Karst.
-
----
 ###### Rumo a Karst
+
+
 Vocês continuam em direção a Karst.
 Mas agora não é uma jornada simples, porque vocês estão entrando em território de Isvalas.
 E agora a gente vai usar uma outra regra do sistema que é navegação, viagem.
@@ -832,7 +835,7 @@ Pode ser...
 Tá...
 Eu vou pausar aqui o negócio...
 Tá, tá...
-###### O tronco de madeira desce pelo rio
+###### Tronco de madeira
 Ó, tá sendo gravado, hein? Não fala nenhuma besteira agora, Gabriel.
 Tá. Besteira agora, Gabriel.
 Ah!
@@ -1863,7 +1866,7 @@ POM!
 POM!
 um pedaço de um. Aí vocês todos, a gente vai zelabirando, gente. Senhores? Eu já estou querendo arremessar um rininho por cima do muro. Eu acho que ele morreria com dano de queda, mas tem que ver.
 Mr. Chato, você é útil. Então, beleza. Vocês entram. Mr. Útil, você é chato. Por favor.
-###### Preparem-se para a guerra!
+###### A guerra se aproxima
 Vocês entram pelo... Vão subindo. Vocês encontram alguns guardas e eles dizem, vocês. Vocês estão aqui? Vocês são heróis que salvaram o barulho Amelard? Vem conosco. Aí eles levam vocês. Quem é o Amelard? Você conheceu, mas fica tranquilo. Você conheceu. A gente estava na sala. Você recebeu a missão dele. Ah, é verdade.
 Então, com isso. Vocês são levados em uma sala sóbria. Simples, assim, como todo o resto do castelo. Como que é o contrário de uma sala sóbria? Uma sala bíblica? Não, uma sala... Calma. Calma. Não, que tipo, não tem objetos luxuosos nem nada. Só o símbolo de calmir bem grande, assim, no teto. E coisa simples, uma cadeira de madeira, coisa bem simples.
 Eu desmontei. Ela está lá para o barão Amelard e a... Você ajudou o pessoal a invadir. A Lady Islef. Ela está lá também.
