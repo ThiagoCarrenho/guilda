@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeo/","created":"2025-10-13T17:42:11.369-03:00","updated":"2026-04-11T21:17:46.566-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Alfa Romeo/","created":"2025-10-13T17:42:11.369-03:00","updated":"2026-04-21T10:16:35.851-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -19,6 +19,12 @@ Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]]
 - Busca retomar o poder de seu Castelo, retirar o poder das mãos dos Puristas, favorecendo a diversidade de raças
 
 ![z-Imagem-Alfa_Romeo.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Alfa_Romeo.png)
+#### Prompt
+Este é Alfa Romeo, um humano nobre, carismático, simpático, e filantropo. Em combate, um comandante estrategista.
+Medindo cerca de 1,90m, é um homem alto e altivo, mas sempre sorridente, ele veste uma armadura de couro tingida em verde por baixo de um casaco de couro marrom, assim como a calça, todos muito bem ornados.
+Faça uma imagem dele fantástico-realista.
+
+![z-Imagem-Alfa_Romeo-Realista.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Alfa_Romeo-Realista.png)
 
 ---
 

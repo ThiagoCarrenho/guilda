@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-14T12:17:46.674-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-21T23:04:27.470-03:00"}
 ---
 
 # A GUILDA
@@ -19,8 +19,6 @@ Para ver nossas próximas possíveis histórias e heróis, acesse [[Ideias Futur
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
-![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
-*Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 
 ---
 ## Links Úteis
@@ -81,10 +79,20 @@ Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestr
 ---
 ## Galeria
 
+#### Guerra Artoniana
+![z-Grupo-Guerra_S1.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
+*Recebendo a missão de Lady Ayleth*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+#### Aventuras em Andamento
+![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
+*Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
+
 ![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
 *A caminho do pagamento*, da Aventura [[Aventuras/00 Pay Day/Pay Day\|Pay Day]].
+#### Aventuras Finalizadas
+
 ![z-Imagem-LC_e_San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
 *O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
+
 ![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
 *Final da Aventura I de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
 

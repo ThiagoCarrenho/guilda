@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00","updated":"2026-04-11T21:17:47.342-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Harcos/","created":"2025-10-13T17:42:13.025-03:00","updated":"2026-04-20T21:00:57.255-03:00"}
 ---
 
 *Personagem **falecido** de [[Jogadores/Miguel de Maria\|Miguel de Maria]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -10,6 +10,8 @@ Não conheceu os sucessores [[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]]
 **Raça:** Lefou
 **Origem:** Charlatão
 **Classe:** Guerreiro 1
+
+![z-Imagem-Harcos.jpeg](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Harcos.jpeg)
 
 #### Background
 

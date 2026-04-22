@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-20T20:58:51.791-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-21T22:58:09.183-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -32,7 +32,13 @@ Participam desta história:
 
 ---
 #### Sessão 01 (15/03/2025) - Os “heróis” se conhecem
-Logo ao amanhecer, o grupo foi convocado por Lady Ayleth, a Dama Guerreira, cuja expressão dura deixava claro que não havia espaço para falhas. Ela os incumbiu de encontrar seu pai, o Barão Abelard — herói da Batalha de Amarid — desaparecido após uma missão nos limites do reino, em um bosque sombrio cercado por relatos inquietantes de criaturas corcundas, peludas e de olhos vermelhos.
+Logo ao amanhecer, o grupo foi convocado por Lady Ayleth, a Dama Guerreira, cuja expressão dura deixava claro que não havia espaço para falhas. Composto por cinco criaturas únicas, eram estes os que tinham respondido ao chamado da realeza.
+Quem mais chamou a atenção fora Alfa Romeo, um humano nobre, carismático, simpático, e filantropo. Em combate, um comandante estrategista. Homem alto e altivo, mas sempre sorridente, ele veste uma armadura de couro tingida em verde por baixo de um casaco de couro marrom, assim como a calça, todos muito bem ornados. Ele quem mais conversou com o povo e a nobreza local. Havia sim certo interesse político no aceite da missão, mas ainda que fossem completos desconhecidos, ajudar alguém já seria motivo suficiente para Alfa arriscar sua própria vida.
+Por outro lado, a mais quieta e sombria era Suzumi, uma Fintroll, raça que raramente sai dos subsolos das montanhas, de pele roxo-acinzentada, que veste roupas com as mesmas tonalidades, um manto púpura que cobre todo o seu corpo, ficando apenas os seus olhos brilhates roxos à mostra. Uma necromante devota a Tenebra, deusa da noite. Seus motivos eram secretos. Sua boca é assim como seu local favorito: um túmulo.
+Outro personagem bastante quieto era Nagi, mas este era bem menos amedrontador e muito mais amigável. Um meio-elfo, bom caçador, cujo melhor amigo é um cavalo, o segundo melhor amigo é se arco, e todas as outras pessoas abaixo desses dois. Aliás, ao seu ver, pessoas, assim como cavalos e arcos, são substituíveis. De cabelo loiro-escuro, pele bronzeada e olho azul bem claro. Ele veste uma armadura leve de couro batido azulado, com diversos ornamentos élficos, variando os tons de azuis. De feição sóbria, está sempre quieto, analisando o que pode ser feito.
+Gabj Caskhar é outro analista, e seu monóculo deixa isso bem evidente. Um anão chato, bastante rabugento, e, curiosamente, mercador. Vendedor de itens diversos, mas principalmente de ferraria, é grudado em sua carroça. Usa sempre um avental de couro batido com ferramentas distintas para situações divesas, carrega consigo um martelo, útil para moldar ferro e quebrar ossos. 
+Por fim, Harcos é a figura mais única do grupo. Tem descendência humana, mas corrompida. Tocado pela Tormenta, o guerreiro tem um braço rubro monstruoso, que afasta as pessoas antes mesmo da primeira palavra, se o ouvissem, com certeza o dariam a devida chance da conversa. Um bom amigo para quem merece sua amizade, Harcos é um guerreiro de pele escura, dois metros de altura, e cabelo longo. A armadura que usa é de longa data, fora um presente de Alfa, e nunca tivera coragem de arrumá-la ou trocá-la após batalhas, mantendo todas as marcas de combate de sua vida.
+Estando os heróis reunidos, Lady Ayleth os incumbiu de encontrar seu pai, o Barão Abelard — herói da Batalha de Amarid — desaparecido após uma missão nos limites do reino, em um bosque sombrio cercado por relatos inquietantes de criaturas corcundas, peludas e de olhos vermelhos.
 No castelo de Karst, um lugar quase sem vida e tomado por um ar de abandono, foram guiados por Loras, a Castelã, tão severa quanto Ayleth. Receberam um adiantamento de Isilgro Coração de Ouro, um clérigo generoso, e então cada um seguiu seus preparativos: Gabj tentou, sem sucesso, ajudar um goblin com um moinho; Nagi foi direto à taverna; enquanto Alfa, Harcos e Suzumi buscaram suprimentos com o padeiro Lazos, cuja loja curiosamente tinha mais terra de cemitério e itens alquímicos do que pão.
 Reunidos depois na taverna, o primeiro contato entre eles foi tenso, marcado por desconfiança e palavras ríspidas. Ainda assim, partiram juntos até o local indicado: uma vila devastada, silenciosa, com marcas claras de combate. Durante a exploração — prejudicada por uma queda desajeitada de Alfa — encontraram um mercador em apuros, Essez de Rota Dourada. Nagi acalmou seus trobos, Gabj negociou com ele, e Harcos aproveitou para vasculhar as casas em busca de dinheiro.
 Foi Essez quem trouxe a verdade: o Barão havia enfrentado soldados de Yuden ali. Derrotado, foi levado para dentro do bosque após um massacre completo da vila.
@@ -40,6 +46,8 @@ Sem hesitar, o grupo avançou pela mata, chegando ao entardecer a uma clareira d
 Dentro da torre, Gabj arrombou a porta e encontrou um velho acorrentado, brutalmente ferido. Tudo indicava ser Abelard. Ele murmurou poucas palavras antes de desmaiar.
 Foi então que surgiram.
 Criaturas humanoides, escuras, de olhos vermelhos, cercaram o grupo dentro da torre, transformando o resgate em uma luta desesperada pela sobrevivência.
+
+![z-Grupo-Guerra_S1.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
 
 ---
 #### Sessão 02 (22/03/2025) - Abelard salvo, mas a que custo?
@@ -300,7 +308,37 @@ Todos tomam seu rumo, Gabj, no caso, dorme em sua carroça, abraçado em seus ma
 Conforme piscam os olhos, caindo no sono, sobe uma névoa no lago. Tudo natural. Um sereno. Alguns sapos pulam, pequenas fadas brincam, e acabam adormecendo.
 No dia seguinte, Essez já partiu, antes de todos se levantarem. Só encontram resquícios da fogueira apagada. É hora de seguir até Karst.
 ###### Rumo a Karst
+O grupo seguiu viagem em direção a Karst, mas o trajeto deixou de ser simples assim que cruzaram para território de Svalas. A região estava instável, e a jornada rapidamente se tornou um desafio por si só.
 
+A travessia exigiu constante adaptação. O terreno era hostil, os caminhos pouco confiáveis e havia sinais de que algo estava errado: poucos animais, trilhas vazias e uma ausência inquietante de tropas — especialmente considerando os rumores de movimentação militar na região.
+
+Ainda assim, conseguiram avançar. A caça foi escassa, mas suficiente para manter o grupo de pé, e um abrigo improvisado garantiu algum descanso. A sensação, porém, era de que estavam caminhando por um território que já havia sido esvaziado antes de algo maior acontecer.
+
+A situação piorou quando tentaram acelerar o deslocamento utilizando a carroça. Um erro de navegação os tirou da estrada principal e os levou para dentro da mata fechada. O desvio cobrou seu preço: o grupo enfrentou criaturas selvagens, sofreu danos e perdeu tempo precioso. Quando retornaram ao trajeto, estavam mais cansados e feridos.
+
+Mesmo assim, seguiram.
+
+À medida que avançavam, começaram a avistar pequenos destacamentos de soldados de Yuden. Eram poucos — menos do que seria esperado para uma campanha militar daquele porte. A informação não fazia sentido. Se havia um ataque planejado, onde estavam as tropas?
+
+A desconfiança cresceu, e o grupo passou a se mover com mais cautela. Evitar confrontos tornou-se prioridade. Conseguiram contornar patrulhas e seguir adiante, mas a tensão só aumentava.
+
+Novos erros de rota e dificuldades no terreno levaram a mais desgaste. A viagem cobrou caro: quedas, confrontos menores e exaustão acumulada deixaram vários membros à beira do colapso. Alguns chegaram a cair inconscientes durante o percurso, sendo mantidos em movimento apenas com o uso emergencial de recursos e esforço coletivo.
+
+No estágio final da jornada, já sem margem para erros, o grupo alcançou um ponto elevado antes da descida para Karst.
+
+Foi então que viram.
+
+A cidade estava ocupada.
+
+Karst encontrava-se tomada por um batalhão purista de Yuden. Soldados ocupavam as casas, organizavam formações e se preparavam claramente para um ataque ao castelo, que permanecia isolado. Não havia sinal de civis — apenas presença militar.
+
+O grupo, exausto, ferido e reduzido ao limite, observava tudo de dentro da carroça.
+
+A missão havia mudado mais uma vez.
+
+Eles não estavam chegando a Karst.
+
+Estavam chegando a uma guerra.
 
 Vocês continuam em direção a Karst.
 Mas agora não é uma jornada simples, porque vocês estão entrando em território de Isvalas.

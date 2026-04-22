@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-20T20:34:34.026-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-21T10:40:30.324-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
 *Grupo: [[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]], [[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]] e [[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]].
-Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]],  [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
+Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]], [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]].*
 
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
@@ -19,6 +19,10 @@ Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Rome
 - Usa uma roupa com os símbolos divinos de todas as divindades… ou quase isso
 
 ![z-Imagem-Deora_II.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Deora_II.png)
+#### Prompt
+Considere o personagem Deora II. Quero que faça uma imagem dele, é um adulto maduro, já mostrando sinais de idade, um hynne (hobbit/halfling) de menos de 1m de altura, rosto redondo, óculos também redondos, de cabelo loiro cortado como uma tonsura, usa um manto falso eclesiástico em tons púrpura e dourado, cravejado com algumas gemas, com símbolo minimamente modificado de todas as divindades de Tormenta20. Ele está com as mãos soltas em um tom de inocência, um sorrisinho inocente no rosto, tudo dando tom de bom velhinho.
+
+![z-Imagem-Deora_II-Gemini.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Deora_II-Gemini.png)
 
 ---
 #### Background

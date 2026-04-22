@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-20T15:59:12.411-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Gabj Caskhar/","created":"2025-10-13T17:42:13.007-03:00","updated":"2026-04-20T21:03:55.511-03:00"}
 ---
 
 *Personagem de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,6 +9,9 @@
 **Origem:** Mercador
 **Classe:** Inventor 2
 **Divindade:** Khalmyr
+
+![z-Imagem-Gabj.jpeg](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Gabj.jpeg)
+
 #### Descrição
 - Chato
 
