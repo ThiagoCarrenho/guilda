@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-21T22:58:09.183-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-21T23:33:24.579-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -63,9 +63,12 @@ Foi então que a verdadeira ameaça surgiu.
 Uma criatura colossal avançava em direção à torre, destruindo tudo em seu caminho — inclusive as próprias criaturas menores, que eram massacradas como se nada fossem.
 Sem alternativa, Essez chicoteou as rédeas. A carroça disparou bosque adentro, carregando os últimos sobreviventes: Nagi, Gabj, o corpo destroçado de Suzumi, alguns restos das criaturas abatidas… e um Barão Abelard à beira do fim.
 Atrás deles, a torre — e tudo o que restava — era engolida pela escuridão.
+![z-Grupo-Guerra_S2.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S2.png)
 
 ---
 #### Sessão 03 (12/04/2025) - Invasão ao Gabinete do Coronel Wortric
+![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
+
 Contra todas as probabilidades, o corpo de Harcos também foi resgatado. Quando retornaram ao castelo de Karst, Abelard foi imediatamente colocado sob cuidados médicos, e Harcos, ainda vivo, permaneceu em coma. Lady Ayleth recebeu os sobreviventes, pagou o restante da recompensa e, sem demora, organizou o funeral de Alfa Romeo e Suzumi — uma cerimônia breve, pesada, sem espaço para consolo.
 O descanso durou pouco. Logo, Ayleth convocou novamente os aventureiros, juntando aos remanescentes novos rostos: a imponente bárbara Emmy, o pequeno e envelhecido hynne Deora II e, mais uma vez, Nagi e Gabj. Recebidos pelo guarda Aram, ouviram do próprio Barão a verdade: ele fora traído pelo Coronel Wortric, deixado como sacrifício após um confronto contra tropas do próprio reino.
 Indignada, Ayleth apresentou a nova missão com um soco na parede: infiltrar-se em uma cerimônia militar em Warton, onde seria celebrada a invasão de Svalas, e roubar provas que expusessem os crimes do coronel. Após negociações intensas com Isilgro, garantiram uma recompensa maior — talvez proporcional ao risco.

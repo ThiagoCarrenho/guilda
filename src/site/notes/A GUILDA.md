@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-21T23:04:27.470-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-21T23:44:28.986-03:00"}
 ---
 
 # A GUILDA
@@ -82,6 +82,12 @@ Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestr
 #### Guerra Artoniana
 ![z-Grupo-Guerra_S1.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
 *Recebendo a missão de Lady Ayleth*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
+![z-Grupo-Guerra_S2.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S2.png)
+*O resgate do Barão Abelard*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
+![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
+*O fim de Alfa e Suzumi*, em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
 ![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
