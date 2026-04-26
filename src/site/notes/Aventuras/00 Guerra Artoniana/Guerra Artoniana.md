@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-26T13:35:53.649-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-26T14:44:59.424-03:00"}
 ---
 
 **Mestre:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -421,204 +421,60 @@ Sem alarde, o grupo atravessou a passagem secreta e finalmente adentrou o castel
 "Mr. Chato, você é útil", elogia o clérigo.
 "Mr. Útil, você é chato", corrige o inventor.
 ###### A guerra se aproxima
-Vocês entram pelo... Vão subindo. Vocês encontram alguns guardas e eles dizem, vocês. Vocês estão aqui? Vocês são heróis que salvaram o barulho Amelard? Vem conosco. Aí eles levam vocês. Quem é o Amelard? Você conheceu, mas fica tranquilo. Você conheceu. A gente estava na sala. Você recebeu a missão dele. Ah, é verdade.
-Então, com isso. Vocês são levados em uma sala sóbria. Simples, assim, como todo o resto do castelo. Como que é o contrário de uma sala sóbria? Uma sala bíblica? Não, uma sala... Calma. Calma. Não, que tipo, não tem objetos luxuosos nem nada. Só o símbolo de calmir bem grande, assim, no teto. E coisa simples, uma cadeira de madeira, coisa bem simples.
-Eu desmontei. Ela está lá para o barão Amelard e a... Você ajudou o pessoal a invadir. A Lady Islef. Ela está lá também.
-Eles estão em volta de uma grande mesa de madeira analisando mapas do feudo. Eles examam vocês. Eles gritam para os guardas algumas coisas, tipo...
-Rápido, vamos lá. Façam um cerco. Se preparem para a torre Rá, não sei o quê. E eles chamam vocês para chegar perto.
-A barão Amelard fala assim, é...
-Eu e minha filha estão assim na vida, né? A gente temia uma retaliação.
-Demos mensagem pedindo ajuda, mas não recebemos nenhuma resposta.
-Ordenei aos aldeões que amadenaçam seus lares e se dispersassem do interior do reino. Porém, eles perderam suas casas, mas, infelizmente, não perderam suas vidas, né?
-Mas nem todos deram partido. Os anciões, crianças e enfermos ficaram por aqui. E eles não resistirão a uma jornada como essa pelo interior.
-Convoquei barqueiros para levá-los pelo rio. A gente tem uma passagem secreta lá no fundo, né? Um porto. Tem uma porta muito bonita que eu mandei fazer.
-Meu pai mandou fazer e era especial, assim, numa madeira centenária. Feita, nossa, de uma porta mágica e... Se ela fosse desmontada, eu perderia toda a magia e... Mas, enfim...
-Então, eu chamava... Ela não deve ter defeito nenhum. Não, perfeito. Eu mandei fazer. O cara falou que era a melhor madeira do reino.
-O que o cara falou? O que o cara falou? Esse cara se chamava Aquiles? Aquiles? Não, era... Era Aldor o nome dele.
-Aldor. Aldor.
-Ele era um grande... Ele era um grande... Eu não sei... Artesão?
-Era um grande artesão? Era um grande artesão, é.
-Não, não. E devia ser alfã. Os são grandes.
-Mas, enfim... Ele... As pessoas enfermas, doentes, ficaram aqui... Os barqueiros vão vindo e vão levá-las.
-Eu posso te garantir. Essa passagem secreta está sempre... Secreta. Secreta. Foi difícil conseguir ela, viu?
-Um penetrável. Impenetrável, não. Muito bom. Não sei... Tem uma... Não dá pra arrombar a porta. Arrombar não.
-É isso que eu pedi pra ele fazer. Se fosse fazer só uma coisa, eu fizesse a fechadura dele.
-Não dá pra gente voltar e só... Com uma caixa vifes de novo, depois que sair...
-Eu vou levar a porta.
-Eu vi... Eu faço, eu faço, eu faço.
-Eu faço.
-E aí... Eu tô com doja.
-Eu vou levar a porta.
-Os barqueiros vão levar eles pelos rios.
-Mas eles ainda não chegaram e só vão chegar quando o cerco começar, que é em breve.
-E quanto a vocês, eu gostaria que combatessem ao meu lado. Vocês já fizeram muito e... Se ficarem...
-Dever... Advertidos. Talvez vocês morram.
-Mas ainda assim vai chegar a hora de todos sermos julgados por Calmir. Se puderem ficar ajudando na batalha, eu agradeço.
-Claro que eu vou ter que ajudar. Eu ajudo. E eu soubervoto de Calmir.
-Assim... Onde a gente ajudaria mais?
-E meu amigo Rinin também vai ajudar. Eu dou dois tapias assim e tipo pra não ser toda conversa.
-Só pra te obrigar a ajudar.
-Vocês tem que segurar... Ajudar na batalha. Segurar o resto enquanto os mais...
-Tudo bem.
-Os que estão mais... Os anciões, as crianças, fugam dos barcos.
-É só fazer brincadeira.
-É que é meio difícil de ajudar. Eu olho pra cima assim... Enfim, ignoro...
-Se eu olho pra cima eu faço... Aquele símbolo de... de... de Calmir.
-Aqui é meio difícil de ajudar, mas lá embaixo eu não consigo mais.
-É... Vocês teriam que ir direto pra uma batalha.
-É... Você teria... Aquelas pepidinhas boas pra gente reanimar?
-Essência de uma?
-Tem alguma. Vocês podem pegar lá.
-Por favor. Por favor.
-É... Também. A gente tá guardando pros... pros guardas, mas...
-Eu consigo... Quatro poções.
-Uma pra cada um.
-Podem pegar no meu estoque aí, no meu figolar.
-Ei, eu... Eu curei todo mundo. Viu isso? Viu? Deixa eu... Mais uma. Mais uma.
-Não, eu peguei... Eu peguei... Eu peguei... Eu peguei uma assim e já... Já guardo.
-Ok, eu curei quatro de vida. Se alguém puder doar pra mim, eu aceito.
-Eu peguei... Tá, pode pegar a minha.
-Eu peguei... Eu tô com um... Eu tô com dez de bagunção.
-Quer rolar pra mim? Quanto procuro? De dois... Vai lá.
-Vou rolar com o soldado? Tudo faz.
-O que você faz?
-Uhuuu!
-Eu tomei duas essências de humano, eu colei 8 pra ele.
-Ó. Agora eu tô com 19, não tô full ainda, mas tá ótimo.
-É.
-Fala.
-O Neki tem experiência em ver servos e coisas de guerra, ele pode falar com alguém e tentar, tipo, dar aquela coordenada pra ver se melhora a estratégia do texto.
-Não, transmitir não vai dar tempo, mano. Os soldados já estão todos no front e o ataque tá pra começar.
-A verdade, chegaram lá em cima da hora.
-Uma pergunta, uma pergunta.
-Uma pergunta.
-A história é longa.
-Digamos que eu joguei cartas com velho e quase morri por culpa dela.
-Perdão, dele também, mas ela também.
-A verdade, só uma pergunta.
-Teria algum lugar onde eu pudesse fazer, sei lá, uma barricada?
-Trazer, sei lá, todos os idosos e enfermos para perto da passagem...
-Eles estão?
-Não, eles estão aqui dentro já.
-Para...
-Na sala mais perto da passagem secreta.
-Para que eu bloqueasse a passagem até essa sala.
-É, a gente vai ter...
-Você pode fazer uma barricada, a gente tem uns guardas lá.
-Vamos até onde estão os soldados?
-Eu vou querer fazer uma barricada.
-Quem que é?
-É...
-Eu vou para a torre dos vaqueiros.
-Calmino ou qualquer outro, Deus os abençoe.
-Antes de...
-É...
-Quando a gente começar a batalha é uma mecânica diferente, mecânica de batalha.
-Eu passo pra vocês depois, mas...
-Eu não lembro exatamente qual que é a regra.
-Sem problema.
-Mas...
-Então, gente, mas se dividir é a melhor ideia?
-Eu acho que não.
-Deveríamos ficar aqui.
-A nossa missão foi nos incumbindo de proteger os doentes, os mais...
-Não, aqui nessa sala, não se preocupe.
-Você percebe o sonho do velho assim?
-É...
-Eu acredito que eu vou subir rapidinho contigo?
-Junto com as coisas dos arqueiros, para principalmente os arqueiros com o poder de vir.
-Todos os que vocês...
-Vocês tem que voltar aqui em no máximo 2 segundos.
-Na minha velocidade eu não consigo nem sair em 2 segundos.
-E a gente carrega.
-Eu acho que eu não consigo carregar ele.
-Eu posso carregar?
-Não com todos os itens dele.
-É que eu vou ficar montando a barricada.
-Por enquanto.
-Tá.
-Ah, enfim.
-Qualquer coisa, vocês morrem e o Gabi foge.
-O Gabi vai ser o ancião do grupo.
-O único que ele bateu no começo da campanha.
-Mas vamos lá.
-O Nagy tem essa filosofia de vida, né?
-Porque eu já vi muitos os aventureiros morrerem, mas...
-Ah, as pessoas morrem.
-Mas já é isso para mim, amor.
-Aí ele fala também:
-Eu pedi para Lady Arleth, minha filha, levar os camponeses para o barco, mas...
-Ela quer ficar a lutar.
-Ela está doada e fala:
-Sim, eu lutarei pelo meu reino.
-Pelo meu povo.
-Faz bem, faz bem, faz bem.
-E ela já está com uma armadura armadurada assim e tal.
-É de ferro?
-Não, provavelmente é de aço...
-De noxidável.
-É, alguma coisa tipo de qualidade assim.
-Que é feito sob medida para ela.
-Ah tá, não é?
-Porque se você usa toque chocante ela tem penalidade.
-Eu não uso toque chocante dela.
-Tá.
-Bom, é isso.
-Vocês...
-Aqui é o epílogo, né?
-O final.
-Vocês começam a se posicionar, pesa barricada, sobem na torre...
-Eu tenho que fazer algum teste para montar a barricada?
-Não, você consegue montar.
-Não, porque seria tipo uma barricada muito forte.
-A gente está para a próxima, né?
-A gente está para a próxima.
-A gente está para a próxima.
-A gente está para a próxima.
-Então, vocês sobem assim em cima dos muros e vem aquele batalhão todo organizado assim,
-fileiras se aproximando.
-E o barão está no topo da torre assim, da barricada assim, do castelo.
-E aí após ter tomado a aldeia, né?
-Os reservistas, o turista começa a avançar com suas máquinas de cerco, carroças, subindo o penhasco assim, em direção a vocês.
-Os arquivos continuam tirando flechas e eles estão usando grandes escudos assim, para não levarem as flechadas.
-E o coronel, Heger Wartrick, ele avança com um cavalo assim, um grande martelo enorme assim.
-E ele vai se aproximando.
-E as flechas vão pegando nele assim, ele está na frente dos escudos, tipo resvala assim na armadura dele e nem faz cócegas.
-Uma hora está passando uma flecha, ele puxa a espada, corta ela no ar assim.
-E a flecha cai aos pedaços.
-E aí ele faz assim, todo o pantalhão para com aqueles gritos de guerra e tal.
-Aí ele grita, né?
-Pipoca, ola!
-Ola!
-Ola!
-Ola!
-Você pegou?
-Sim!
-Do Nemo!
-E aí ele grita, Abelard!
-É um prazer vê-lo vivo!
-Aí o barão responde assim:
-Você é um cão sem honra, isso que você é, Wartrick.
-Agindo pelas costas da sua legítima rainha imperatriz.
-Matando camponeses, atacando na surdina.
-É um tolo, você acha que pode me vencer no combate justo?
-Aí o coronel dá um sorriso assim:
-Tolo é você!
-Você acredita ser merecedor de tanta consideração?
-Não vou falar dos feitos do Lorde do Karst, mas a verdade é que você ama e acolhe seres inferiores, de raças inferiores.
-Mim mesmo merece lutar comigo ou com meus soldados.
-Guerreiros de verdade.
-Meus soldados não lutarão, me enviei à escória.
-E aí quando ele faz assim, as carroças abrem, os escudos abrem.
-E de dentro, assim, algumas carroças avançam, abrem as portinhas e começam a sair vários prisioneiros.
-Goblins e alguns humanos.
-Aí os guardas chegam assim nos Goblins e começam com lança a cutucar.
-E os humanos também, né?
-Para um ataque suicida contra o castelo.
-Aí eles começam a chegar assim, a investir contra o muro, bater e subir também, escalar.
-E eles estalam facilmente.
-E é isso aí, a gente chegou no final da sessão.
-E na próxima a gente vai ter o combate.
-Daqui 353 dias.
-Os prisioneiros deles.
-Os prisioneiros deles.
+Após atravessarem a passagem secreta, o grupo foi rapidamente interceptado por guardas do castelo. 
+"Vocês estão aqui?! Os heróis que salvaram o Barão Abelard! Venham conosco!"
+Sem demora, foram conduzidos ao interior da fortaleza. O ambiente contrastava com a grandiosidade esperada. A sala onde foram levados era sóbria, simples, funcional, sem qualquer luxo — apenas o essencial. No alto, o símbolo de Khalmyr dominava o espaço, o que agradou o anão, mas irritou o falso clérigo. Ao redor de uma grande mesa de madeira, o Barão Abelard e Lady Ayleth analisavam mapas e discutiam estratégias, dando ordens rápidas aos soldados, "Rápido, contenham fortaleçam o portão principal, vocês dois, subam à torre dos arqueiros e tomem seus postos...".
+
+Ao notar os aventureiros, interrompe as ordens e os chamam.
+"Vocês estão aqui! Por Khalmyr! Venham cá. Eu e minha filha temíamos uma retaliação. Mandamos algumas mensagens pedindo ajuda, mas não recebemos nenhuma resposta. Ordenei aos aldeões que abandonassem seus lares e se dispersassem pelo interior do reino. Eles perderam suas casas, mas, infelizmente, não perderam suas vidas, né? Mas nem todos deram partir. Os anciões, crianças e enfermos ficaram por aqui. E eles não resistirião a uma jornada como essa pelo interior. Convoquei barqueiros para levá-los pelo rio. A gente tem uma passagem secreta lá no fundo, né? Um porto. Tem uma porta muito bonita que eu mandei fazer..."
+Aqui os aventureiros tiveram que segurar o susto e o riso. Lady Ayleth continuou a explicação.
+"Meu pai mandou fazer e era especial, assim, de uma madeira centenária. Nossa! É uma porta mágica e... se ela fosse desmontada, perderia toda a magia e... Mas, enfim..."
+"Uau! Ela não deve ter defeito algum", Deora nota que o melhor é mentir.
+"Não! Ela era perfeita, o artesão disse que era a melhor madeira do reino."
+"Quem é o artesão? Por acaso se chama Aquiles?" Nagi entra na dança, e cita uma das histórias élficas antigas - pena que apenas ele conhece o mito de Aquiles.
+"Não, o nome dele era Aldor."
+"Ele era um grande artesão?", pergunta o inventor.
+"Um grande artesão!"
+"Deve ser elfo, elfos são grandes", ironiza Deora.
+"Enfim, as pessoas enfermas, doentes, ficaram aqui... Os barqueiros vão vindo e vão levá-las."
+"Eu posso te garantir. Essa passagem secreta está sempre... Secreta. Foi difícil conseguir ela, viu?" respondeu o anão.
+"Impenetrável" confirmou o meio-elfo.
+"Eu sei, é de grande qualidade."
+"Não dá pra arrombar a porta" reafirma Gabj.
+"Arombar não" Nagi confirma mais uma vez.
+"É isso que eu pedi pra ele fazer."
+E os aventureiros, rindo internamente, cogitam fazer Gabj voltar e consertar o que fizera, mas todos permaneceram em silêncio, apenas se entreolhando. O inventor pegou a intenção do grupo e acenou positivamente com a cabeça.
+
+"E quanto a vocês, eu gostaria que combatessem ao meu lado. Vocês já fizeram muito e... se ficarem... devo advertí-los. Talvez vocês morram. Mas ainda sim, vai chegar a hora de todos sermos julgados por Khalmyr. Se puderem ficar e ajudar na batalha, eu agradeço."
+"Claro que eu vou ter que ajudar. Por Khalmyr!" O anão devoto já se prontifica. 
+"Assim... Onde a gente ajudaria mais?" Teme Deora, mas logo é interrompido pelo companheiro anão.
+"E meu amigo hynne também vai ajudar!" E dá dois tapinhas nas costas, fazendo com que o companheiro não passe muito tempo conversando.
+""Vocês tem que segurar... Ajudar na batalha. Segurar o resto enquanto os anciões e as crianças fujam pelos barcos."
+"Tudo bem... é que é meio difícil de ajudar daqui... mas lá embaixo talvez eu consiga mais" diz olhando para cima, para o símbolo de Khalmyr. Gabj, que já entendeu um pouco como o hynne conjura suas magias, entende a mensagem.
+"Vocês teriam de ir direto para a batalha, sim."
+"Você teria algumas coisinhas para ajudar, umas essências de mana?"
+"Sim, estamos guardando para os guardas, mas uma para cada é viável, e já lhes ajuda" diz e sinaliza para alguém ir buscar.
+Cada herói recebe uma, e Deora pede para os colegas que doem para ele se não forem usar, com a desculpa de que tinha a todos curado. Nagi permite, Gabj e Emmy tomaram as suas.
+
+"Tenho certa experiência com cercos e guerras. Poderia falar com os estrategistas? Acredito que lá eu lhes seja de ajuda."
+"Temo não termos mais tempo, os inimigos já estão à porta. A chegada de vocês foi no momento mais preciso o possível."
+Esse foi, por parte do Barão, um agradecimento, mas os heróis sabem que o fiasco que ocorreu no caminho de Warton a Karst pode lhes ter custado um tempo precioso, e, Khalmyr queira que não, a guerra.
+"Agora tomem os postos que desejarem, mas que Khalmyr e os deuses bons do panteão os abençoe!"
+Nisto, os heróis se dividem. Gabj busca algum lugar que sua inventividade tenha uso, ele espera sobreviver, ainda que covardemente. Emmy deve ir ao fronte de combate, ansiosa por ver seu machado rasgar peles dos inimigos. Deora deve ficar onde mais tenham guerreiros, para que suas "orações" os auxilie no combate. E Nagi no ponto mais alto da torre mais alta, junto com os mais exímios arqueiros, disparando flechas precisas nos inimigos.
+Foi a covardia de Gabj de estar longe dos ataques, e o combate à (muita) distância de Nagi que os permitiram chegar a este ponto.
+"Eu pedi para minha filha que leve os camponeses para o barco."
+"Meu pai, já lhe disse, eu lutarei pelo meu reino, pelo meu povo." Responde Lady Ayleth, bem armadurada.
+
+Não houve mais tempo para planejamento.
+O cerco começou.
+Do alto das muralhas, o grupo observou o exército inimigo avançando em formação. Máquinas de cerco eram empurradas colina acima, protegidas por escudos pesados que bloqueavam a chuva constante de flechas disparadas do castelo.
+À frente de tudo, uma figura se destacava: Coronel Wortric.
+Algumas flechas o atingem, mas não o ferem. Uma flecha voa em sua direção, e ele a parte ao meio com sua espada.
+Com um sinal de mão, os soldados encerram seus gritos de guerra, e param no lugar. E em gritos, fala aos que estão no castelo.
+"Abelard! É um prazer vê-lo vivo!"
+"Você é um cão sem honra, isso que você é, Wortrick. Agindo pelas costas da sua legítima rainha imperatriz. Matando camponeses, atacando na surdina. É um tolo, você acha que pode me vencer no combate justo?"
+"Tolo é você!" Diz, com um sorriso no rosto, "Você acredita ser merecedor de tanta consideração? Não vou falar dos feitos do Lorde do Karst, mas a verdade é que você ama e acolhe seres inferiores, de raças inferiores. Nem mesmo merece lutar comigo ou com meus soldados, guerreiros de verdade. Meus soldados não lutarão, envie à escória!"
+E então revelou seu plano.
+As carroças à retaguarda se abriram.
+De dentro delas, surgiram prisioneiros: goblins e alguns humanos, forçados a avançar. Sob ameaças e violência, com ataques de lança, eram empurrados contra o castelo, transformados em uma primeira onda de ataque — carne descartável para desgastar as defesas.
+Desorganizados, desesperados, começaram a escalar os muros. O verdadeiro combate ainda nem havia começado. Mas a guerra já estava em curso.
