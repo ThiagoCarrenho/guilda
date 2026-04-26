@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-21T23:44:28.986-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-24T13:45:03.860-03:00"}
 ---
 
 # A GUILDA
@@ -19,6 +19,8 @@ Para ver nossas próximas possíveis histórias e heróis, acesse [[Ideias Futur
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
+![z-Grupo-Guerra-S3.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
+*A caminho de Warton*, o grupo atual de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 
 ---
 ## Links Úteis
@@ -87,7 +89,9 @@ Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestr
 *O resgate do Barão Abelard*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 
 ![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
-*O fim de Alfa e Suzumi*, em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+*O custo do resgate*, em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra-S3.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
+*A caminho de Warton*, o grupo atual de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
 ![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*

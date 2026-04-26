@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-21T10:40:30.324-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/00 Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-26T11:22:54.280-03:00"}
 ---
 
 *Personagem de [[Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -11,12 +11,12 @@ Não conheceu os precedentes falecidos [[Aventuras/00 Guerra Artoniana/Alfa Rome
 **Classe:** Ladino 1 Clérigo Usurpador 2
 **Divindade:** Nenhuma
 #### Descrição
-- Adulto com Pulmão Ruim
-- Vagaroso
-- Enganador
-- Busca combinar a Liberdade de sua mãe (devota de Valkaria) e o Caos de seu pai (devoto de Nimb)
-- A pessoa mais boazinha do mundo
-- Usa uma roupa com os símbolos divinos de todas as divindades… ou quase isso
+- É um adulto, que parece idoso, tem pulmão ruim e é vagaroso.
+- Enganador, inclusive dos Deuses. Em breve, verdadeiramente um Vigarista.
+- Busca combinar a Liberdade de sua mãe (devota de Valkaria) e o Caos de seu pai (devoto de Nimb).
+- A pessoa mais boazinha do mundo.
+- Usa uma roupa com os símbolos divinos de todas as divindades… ou quase isso.
+- Livro: "Falsas Orações, Verdadeiras Magias".
 
 ![z-Imagem-Deora_II.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Imagem-Deora_II.png)
 #### Prompt
