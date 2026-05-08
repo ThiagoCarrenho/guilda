@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-05-07T21:19:21.038-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Gabriel Carrenho/","created":"2025-10-13T17:42:06.572-03:00","updated":"2026-05-07T21:19:21.053-03:00"}
 ---
 
 Católico, palmeirense, irmão de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] e, graças ao irmão e ao RPG, amigo de [[Mestres e Jogadores/Giovanni Chefe\|Giovanni Chefe]], [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], [[Mestres e Jogadores/Miguel de Maria\|Miguel de Maria]] e [[Mestres e Jogadores/Laura\|Laura]].
