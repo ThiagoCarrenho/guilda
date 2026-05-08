@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Aventuras/85 Caçada nas Sanguinárias/Desconhecido-Jozsef-001/","created":"2025-10-13T17:42:08.666-03:00","updated":"2026-03-19T19:06:01.624-03:00"}
----
-
-*Personagem de [[Jogadores/Jozsef\|Jozsef]] em [[Aventuras/85 Caçada nas Sanguinárias/Caçada nas Sanguinárias\|Caçada nas Sanguinárias]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
-*Grupo:  [[Aventuras/85 Caçada nas Sanguinárias/Atriox\|Atriox]], [[Aventuras/85 Caçada nas Sanguinárias/Isriktas Skyline\|Isriktas Skyline]] e [[Aventuras/85 Caçada nas Sanguinárias/Zsans BraxzKub\|Zsans BraxzKub]].
