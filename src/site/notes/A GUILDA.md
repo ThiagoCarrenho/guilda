@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-07T21:16:48.014-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-08T10:12:28.024-03:00"}
 ---
 
 # A GUILDA
@@ -90,6 +90,7 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 
 ![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
 *O custo do resgate*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
 ![z-Grupo-Guerra-S3.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
 *A caminho de Warton*, o grupo atual de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
