@@ -3,14 +3,14 @@
 ---
 
 ## Descrição de Cenário
-**Criador:** [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+**Criador:** [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 **Aventuras:**
-- [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
+- [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 ### Personagens do Cenario
-- [[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Em andamento/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Em andamento/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]], o velho que teima em existir de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Em andamento/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
 ## Breve História de Khalmyrthaal
 
 A muito tempo, alguns vilarejos muito próximos uns dos outros sofriam com uma terrível seca e com uma terra infértil para o plantio, os moradores desses vilarejos então pediram aos deuses que enviassem chuvas para tornar as terras mais férteis, eles pediram por mais de um ano, mas ninguém os atendeu.
@@ -41,7 +41,7 @@ Cartemir proibiu por muito tempo que os habitantes tivessem contato com outros c
 
 ![z-Mapa-Ilha_dos_Ventos.jpg](/img/user/Cen%C3%A1rios%20Pr%C3%B3prios/z-Mapa-Ilha_dos_Ventos.jpg)
 #### Brasão de Eldoria
-![z-Brasao-Eldoria.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Eldoria.jpg)
+![z-Brasao-Eldoria.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Brasao-Eldoria.jpg)
 
 #### Brasão de Thargrum
-![z-Brasao-Thargrum.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Brasao-Thargrum.jpg)
+![z-Brasao-Thargrum.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Brasao-Thargrum.jpg)

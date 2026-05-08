@@ -2,22 +2,22 @@
 {"dg-publish":true,"permalink":"/Sistemas/Modificações/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-19T19:08:11.339-03:00"}
 ---
 
-Antes de qualquer coisa, este guia é para aleatorizar um personagem nível 1 de [[Sistemas/Tormenta20\|Tormenta20]], mas é conveniente que cada jogador jogue com um personagem que se sinta à vontade em interpretar. Por exemplo, o [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem o costume de jogar com personagens baixos, e só jogaria com um que pudesse dar esta forma de roleplay, assim, ao sortear um Suraggel na tabela, ele disse que seria um Suraggel baixinho, de no máximo 1,50m de altura.
+Antes de qualquer coisa, este guia é para aleatorizar um personagem nível 1 de [[Sistemas/Tormenta20\|Tormenta20]], mas é conveniente que cada jogador jogue com um personagem que se sinta à vontade em interpretar. Por exemplo, o [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem o costume de jogar com personagens baixos, e só jogaria com um que pudesse dar esta forma de roleplay, assim, ao sortear um Suraggel na tabela, ele disse que seria um Suraggel baixinho, de no máximo 1,50m de altura.
 Role, re-role, se necessário, até que tenha um personagem com o qual se sinta à vontade.
 A ideia é que não se escolhe como nascer, nem em qual situação, portanto, os atributos são nos assignados ao nascer, assim como nossa origem, de modo geral (lugar de nascimento, poder econômico, entre outros fatores). No quesito origem, alargue a ideia para uma "origem familiar".
 Quanto à classe e à devoção, esta é decidida pelo personagem, é ele quem faz sua história mediante suas habilidades nativas. Entretanto, para o devoto mais fiel de Nimb, apresentamos uma forma de rolar também a Classe e a Divindade.
 ## Lista de Personagens construídos aleatoriamente
-Personagens de [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]:
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]], Servo dos Silva, de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
-- [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+Personagens de [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]:
+- [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]], Servo dos Silva, de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o Fumaceiro de Bronze de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 ---
 ## Atributos
 As primeiras rolagens devem ser para determinar os atributos de um personagem. Uma vez que a rolagem é aleatória, ela segue a ordem dos atributos, e, a fim de que o personagem fique forte, o mínimo da soma dos atributos deve ser 7, e, ao final da rolagem, o jogador pode escolher um atributo para aumentar em 1.
 ### Construindo o Biga
-Tomemos, por exemplo, a construção de [[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]]. Cada atributo precisa que se rolem 4d6 e se somem os três melhores, assim ele teve: 
+Tomemos, por exemplo, a construção de [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]]. Cada atributo precisa que se rolem 4d6 e se somem os três melhores, assim ele teve: 
 - FOR 1 (13 = 3+4+6, excluindo um 2);
 - DES -2 (7 = 2+2+3, 1);
 - CON 2 (15 = 4+5+6, 3);

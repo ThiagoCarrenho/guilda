@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-04-24T13:45:03.860-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-07T21:16:48.014-03:00"}
 ---
 
 # A GUILDA
@@ -8,19 +8,19 @@
 
 A **GUILDA** - **Grupo Único dos Indivíduos Ligados a Diversas Aventuras**, é um grupo de amigos que se uniu para jogar RPG.
 
-Para conhecer quem somos, acesse [[Mestres e Jogadores\|Mestres e Jogadores]].
+Para conhecer quem somos, acesse [[Mestres e Jogadores/Mestres e Jogadores\|Mestres e Jogadores]].
 
 Para conhecer nossa história, acesse [[História da GUILDA\|História da GUILDA]]. Em particular, veja o nosso [[Hall da Fama\|Hall da Fama]].
 
-Para ver os jogos que jogamos, acesse [[Aventuras\|Aventuras]].
+Para ver os jogos que jogamos, acesse [[Aventuras/Aventuras\|Aventuras]].
 
 Para ver nossas próximas possíveis histórias e heróis, acesse [[Ideias Futuras\|Ideias Futuras]].
 
 Veja ainda nessa página alguns links úteis, e as missões que temos em andamento.
 
 ---
-![z-Grupo-Guerra-S3.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
-*A caminho de Warton*, o grupo atual de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra-S3.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
+*A caminho de Warton*, o grupo atual de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 
 ---
 ## Links Úteis
@@ -64,48 +64,48 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 ### Irmandade do Martelo
 
-Em [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/00 Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]] em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
+Em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]] em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
 
 ### Pay Day
 
-Em [[Aventuras/00 Pay Day/Pay Day\|Pay Day]], o Mestre [[Jogadores/Raul Ouros\|Raul Ouros]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Pay Day/Deux-Chevaux\|Deux-Chevaux]]) e [[Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/00 Pay Day/Luke Nevermore\|Luke Nevermore]]) em uma missão de resgate em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]], na qual os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
+Em [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]], o Mestre [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] guia os personagens de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Pay Day/Deux-Chevaux\|Deux-Chevaux]]) e [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Pay Day/Luke Nevermore\|Luke Nevermore]]) em uma missão de resgate em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]], na qual os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
 
 ### Aleatoriamente Presos por Puristas
 
-Em [[Aventuras/00 Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/00 Aleatoriamente Presos por Puristas/Biga\|Biga]]) e os personagens de [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]] e [[Aventuras/00 Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]]) e [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]] e [[Aventuras/00 Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
+Em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]]) e os personagens de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]]) e [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
 
 ### Guerra Artoniana
 
-Em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/00 Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/00 Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Jogadores/Laura\|Laura]] ([[Aventuras/00 Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/00 Guerra Artoniana/Suzumi\|Suzumi]]), [[Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/00 Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]), [[Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/00 Guerra Artoniana/Nagi\|Nagi]]) e [[Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/00 Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
+Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/Em andamento/Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Mestres e Jogadores/Laura\|Laura]] ([[Aventuras/Em andamento/Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]]), [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]), [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Guerra Artoniana/Nagi\|Nagi]]) e [[Mestres e Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/Em andamento/Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 
 ---
 ## Galeria
 
 #### Guerra Artoniana
-![z-Grupo-Guerra_S1.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
-*Recebendo a missão de Lady Ayleth*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra_S1.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
+*Recebendo a missão de Lady Ayleth*, a formação inicial do grupo de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 
-![z-Grupo-Guerra_S2.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra_S2.png)
-*O resgate do Barão Abelard*, a formação inicial do grupo de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra_S2.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra_S2.png)
+*O resgate do Barão Abelard*, a formação inicial do grupo de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 
-![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
-*O custo do resgate*, em [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
-![z-Grupo-Guerra-S3.png](/img/user/Aventuras/00%20Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
-*A caminho de Warton*, o grupo atual de [[Aventuras/00 Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra-S2.5.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S2.5.png)
+*O custo do resgate*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+![z-Grupo-Guerra-S3.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
+*A caminho de Warton*, o grupo atual de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
-![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/00%20Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
-*Grupo de [[Aventuras/00 Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
+![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
+*Grupo de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 
-![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/00%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
-*A caminho do pagamento*, da Aventura [[Aventuras/00 Pay Day/Pay Day\|Pay Day]].
+![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
+*A caminho do pagamento*, da Aventura [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]].
 #### Aventuras Finalizadas
 
-![z-Imagem-LC_e_San.png](/img/user/Aventuras/79%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
-*O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]].
+![z-Imagem-LC_e_San.png](/img/user/Aventuras/Encerradas/26.02%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
+*O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Encerradas/26.02 Sumiço de Mike/26.02 Sumiço de Mike\|26.02 Sumiço de Mike]].
 
-![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/80%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
-*Final da Aventura I de [[Aventuras/80 Missão Hereditus/Missão Hereditus\|Missão Hereditus]].*
+![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/Encerradas/25.12%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
+*Final da Aventura I de [[Aventuras/Encerradas/25.12 Missão Hereditus/25.12 Missão Hereditus\|25.12 Missão Hereditus]].*
 
-![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/82%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
-*Grupo de [[Aventuras/82 Jardim do Capitão Varnost/Jardim do Capitão Varnost\|Jardim do Capitão Varnost]].*
+![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/Encerradas/25.07%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
+*Grupo de [[Aventuras/Encerradas/25.07 Jardim do Capitão Varnost/25.07 Jardim do Capitão Varnost\|25.07 Jardim do Capitão Varnost]].*
 

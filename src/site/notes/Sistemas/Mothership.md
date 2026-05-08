@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Mothership/","created":"2026-01-31T13:37:27.329-03:00","updated":"2026-03-19T19:08:11.519-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Mothership/","created":"2026-01-31T13:37:27.329-03:00","updated":"2026-05-07T21:14:47.067-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/79 Sumiço de Mike/Sumiço de Mike\|Sumiço de Mike]]: One-Shot de horror espacial por [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/26.02 Sumiço de Mike/26.02 Sumiço de Mike\|26.02 Sumiço de Mike]]: One-Shot de horror espacial por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---

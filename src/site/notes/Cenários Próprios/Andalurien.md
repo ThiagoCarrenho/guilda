@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Cenários Próprios/Andalurien/","created":"2026-03-17T11:23:18.852-03:00","updated":"2026-03-19T19:07:49.548-03:00"}
+{"dg-publish":true,"permalink":"/Cenários Próprios/Andalurien/","created":"2026-03-17T11:23:18.852-03:00","updated":"2026-05-07T21:24:27.910-03:00"}
 ---
 
 ## Descrição de Cenário
-**Criador:** [[Jogadores/Raul Teixeira\|Raul Teixeira]];
+**Criador:** [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 **Sistema:** [[Sistemas/D&D 5e\|D&D 5e]];
 **Aventuras:**
-- [[Aventuras/99 Andalurien/Andalurien, a Aventura\|Andalurien, a Aventura]];
-- [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]];
+- [[Aventuras/Inacabadas/20.03 Andalurien, a Aventura/20.03 Andalurien, a Aventura\|20.03 Andalurien, a Aventura]];
+- [[Aventuras/Encerradas/21.09 Tales of Andalurien/21.09 Tales of Andalurien\|21.09 Tales of Andalurien]];
 ### Personagens do Cenário
-- [[Aventuras/97 Tales of Andalurien/Belega\|Belega]], o/a elfo/a amnésico/a de [[Jogadores/Franciane\|Franciane]];
-- [[Aventuras/97 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/99 Andalurien/Fordinho\|Fordinho]], o mecânico de carroças de [[Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/97 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Jogadores/Lucas Moura\|Lucas Moura]];
+- [[Aventuras/Encerradas/21.09 Tales of Andalurien/Belega\|Belega]], o/a elfo/a amnésico/a de [[Mestres e Jogadores/Franciane\|Franciane]];
+- [[Aventuras/Encerradas/21.09 Tales of Andalurien/Cayenne Sochlar\|Cayenne Sochlar]], o amigo de Venatão de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Inacabadas/20.03 Andalurien, a Aventura/Fordinho\|Fordinho]], o mecânico de carroças de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Encerradas/21.09 Tales of Andalurien/Luisão\|Luisão]], o mago da ilusão de [[Mestres e Jogadores/Lucas Moura\|Lucas Moura]];
 ## Breve História de Andalurien
 ### Povos
 Algumas são as raças que permeiam Andalurien:
@@ -24,7 +24,7 @@ Algumas são as raças que permeiam Andalurien:
 Há boatos de novas raças chegando pelo mar nos últimos anos e trazendo novos cultos.
 ### Pós-Reunião dos Deuses
 #### Igreja
-Após [[Aventuras/97 Tales of Andalurien/Tales of Andalurien\|Tales of Andalurien]], onde os heróis derrotam Fendark e reúnem os deuses bons, a partir de suas joias, reunindo, consequentemente, os povos, e fortalecendo o Panteão.
+Após [[Aventuras/Encerradas/21.09 Tales of Andalurien/21.09 Tales of Andalurien\|21.09 Tales of Andalurien]], onde os heróis derrotam Fendark e reúnem os deuses bons, a partir de suas joias, reunindo, consequentemente, os povos, e fortalecendo o Panteão.
 - Uma igreja central foi erguida e é liderada pelo portador da Coroa da Bondade, que é o único que tem acesso direto aos deuses.
 - Templos for abertos nas vilas e cidades dedicadas ao panteão, mas com o destaque do patrono da raça do reino. Cada vila possui um ou dois altares dedicado a um domínio escolhido
 - Os deuses emprestam poderes a alguns clérigos.
