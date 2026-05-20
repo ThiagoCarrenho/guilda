@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/D&D 5e/","created":"2025-10-13T19:13:40.171-03:00","updated":"2026-05-07T21:20:49.521-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/D&D 5e/","created":"2025-10-13T19:13:40.171-03:00","updated":"2026-05-12T18:49:16.938-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Encerradas/23.08 Minas Perdidas de Phandelvier/23.08 Minas Perdidas de Phandelvier\|23.08 Minas Perdidas de Phandelvier]]: Aventura longa completa por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Encerradas/21.09 Tales of Andalurien/21.09 Tales of Andalurien\|21.09 Tales of Andalurien]]: Aventura longa de resgate de artefatos divinos por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2023-08 Minas Perdidas de Phandelvier/2023-08 Minas Perdidas de Phandelvier\|2023-08 Minas Perdidas de Phandelvier]]: Aventura longa completa por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Encerradas/2021-09 Tales of Andalurien/2021-09 Tales of Andalurien\|2021-09 Tales of Andalurien]]: Aventura longa de resgate de artefatos divinos por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 Cenários criados neste sistema:
 - [[Cenários Próprios/Andalurien\|Andalurien]], cenário de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.

@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/Aventuras/Encerradas/2026-02 Sumiço de Mike/LC Toyota/","created":"2026-01-31T14:10:49.515-03:00","updated":"2026-05-12T18:48:22.158-03:00"}
+---
+
+*Personagem de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]], no sistema [[Sistemas/Mothership\|Mothership]].*
+*Grupo:  [[Aventuras/Encerradas/2026-02 Sumiço de Mike/San Holo\|San Holo]].
+
+![z-Imagem-LC_Toyota.png](/img/user/Aventuras/Encerradas/2026-02%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_Toyota.png)
+
+**Nome:** Luiser Crunar Toyota
+**Classe:** Teamster - Pilot
+
+---
+#### Background
+
+Um operário encarregado de diversos trabalhos que envolvam pilotar naves, o que ele se especializa. Possui um irmão que faleceu enquanto no exército pela explosão de uma bomba nuclear, leva sempre a tag com o nome do irmão consigo, junto com a tag com seu próprio nome, mesmo sem nunca ter vestido um uniforme militar.
+Beberrão, preguiçoso e piadista - um operário ordinário. "Mantenha bem lubrificado" diz o seu chapéu, uma frase com duplo sentido que era lema extra-oficial da mecânica de seu pai, onde começou a trabalhar fazendo troca de óleo, até as corporações tomarem o único meio de renda da família.
+
+![z-Ficha-LC_Toyota.png](/img/user/Aventuras/Encerradas/2026-02%20Sumi%C3%A7o%20de%20Mike/z-Ficha-LC_Toyota.png)

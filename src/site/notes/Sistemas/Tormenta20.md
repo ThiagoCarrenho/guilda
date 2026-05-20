@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2026-05-07T21:24:01.645-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Tormenta20/","created":"2025-10-13T17:42:06.271-03:00","updated":"2026-05-12T18:52:56.769-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]: One-Shot de fuga por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]]: Aventura breve de guerra de anões por [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]: Aventura longa de alta fantasia político e bélica por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]; 
-- [[Aventuras/Encerradas/25.07 Jardim do Capitão Varnost/25.07 Jardim do Capitão Varnost\|25.07 Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/Encerradas/24.11 A Voz das Marés/24.11 A Voz das Marés\|24.11 A Voz das Marés]]: One-shot de caçada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]; 
-- [[Aventuras/Encerradas/24.07 Caçada nas Sanguinárias/24.07 Caçada nas Sanguinárias\|24.07 Caçada nas Sanguinárias]]: One-shot de caçada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Encerradas/24.07 Posto de Troca Baixa Vila de Lena/24.07 Posto de Troca Baixa Vila de Lena\|24.07 Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Encerradas/23.09 Passos de Lava/23.09 Passos de Lava\|23.09 Passos de Lava]]: One-shot de resgate por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Inacabadas/23.09 Conflito das Águas/23.09 Conflito das Águas\|23.09 Conflito das Águas]]: Aventura descontinuada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Inacabadas/22.12 Começo da Guilda/22.12 Começo da Guilda\|22.12 Começo da Guilda]]: Aventura descontinuada por [[Mestres e Jogadores/Jozsef\|Jozsef]];
-- [[Aventuras/Inacabadas/22.09 Ascenção do Deus Dragão/22.09 Ascenção do Deus Dragão\|22.09 Ascenção do Deus Dragão]]: Aventura completa descontinuada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Encerradas/22.08 Invasão ao Vulcão Negro/22.08 Invasão ao Vulcão Negro\|22.08 Invasão ao Vulcão Negro]]: One-shot de invasão por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
-- [[Aventuras/Inacabadas/22.08 Segredos Profundos/22.08 Segredos Profundos\|22.08 Segredos Profundos]]: One-shot por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
-- [[Aventuras/Inacabadas/22.07 Lendas de Tu'Pana/22.07 Lendas de Tu'Pana\|22.07 Lendas de Tu'Pana]]: Aventura longa de exploração descontinuada por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]; 
-- [[Aventuras/Inacabadas/22.05 Planeswalker/22.05 Planeswalker\|22.05 Planeswalker]]: Aventura descontinuada de viagem interplanar por [[Mestres e Jogadores/Plínio\|Plínio]];
-- [[Aventuras/Inacabadas/21.10 A Caçada Maior/21.10 A Caçada Maior\|21.10 A Caçada Maior]]: Aventura breve solo descontinuada por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/2025-07 Jardim do Capitão Varnost\|2025-07 Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Encerradas/2024-11 A Voz das Marés/2024-11 A Voz das Marés\|2024-11 A Voz das Marés]]: One-shot de caçada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]; 
+- [[Aventuras/Encerradas/2024-07 Caçada nas Sanguinárias/2024-07 Caçada nas Sanguinárias\|2024-07 Caçada nas Sanguinárias]]: One-shot de caçada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2024-07 Posto de Troca Baixa Vila de Lena/2024-07 Posto de Troca Baixa Vila de Lena\|2024-07 Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Encerradas/2023-09 Passos de Lava/2023-09 Passos de Lava\|2023-09 Passos de Lava]]: One-shot de resgate por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2023-09 Conflito das Águas/2023-09 Conflito das Águas\|2023-09 Conflito das Águas]]: Aventura descontinuada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2022-12 Começo da Guilda/2022-12 Começo da Guilda\|2022-12 Começo da Guilda]]: Aventura descontinuada por [[Mestres e Jogadores/Jozsef\|Jozsef]];
+- [[Aventuras/Encerradas/2022-09 Ascenção do Deus Dragão/2022-09 Ascenção do Deus Dragão\|2022-09 Ascenção do Deus Dragão]]: Aventura completa descontinuada por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2022-08 Invasão ao Vulcão Negro/2022-08 Invasão ao Vulcão Negro\|2022-08 Invasão ao Vulcão Negro]]: One-shot de invasão por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+- [[Aventuras/Encerradas/2022-08 Segredos Profundos/2022-08 Segredos Profundos\|2022-08 Segredos Profundos]]: One-shot por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/2022-07 Lendas de Tu'Pana\|2022-07 Lendas de Tu'Pana]]: Aventura longa de exploração descontinuada por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]; 
+- [[Aventuras/Encerradas/2022-05 Planeswalker/2022-05 Planeswalker\|2022-05 Planeswalker]]: Aventura descontinuada de viagem interplanar por [[Mestres e Jogadores/Plínio\|Plínio]];
+- [[Aventuras/Encerradas/2021-10 A Caçada Maior/2021-10 A Caçada Maior\|2021-10 A Caçada Maior]]: Aventura breve solo descontinuada por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
 Cenários criados neste sistema:
 - [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]], por [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 

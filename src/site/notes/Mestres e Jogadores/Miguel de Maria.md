@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Miguel de Maria/","created":"2025-10-13T17:42:06.550-03:00","updated":"2026-05-07T21:16:48.204-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Miguel de Maria/","created":"2025-10-13T17:42:06.550-03:00","updated":"2026-05-12T18:48:41.956-03:00"}
 ---
 
 Católico, pai de família e guerreiro da vida real.
@@ -12,4 +12,4 @@ Graças ao RPG e a igreja, amigo de [[Mestres e Jogadores/Thiago Carro\|Thiago C
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Miguel:
 - † [[Aventuras/Em andamento/Guerra Artoniana/Harcos\|Harcos]], a lâmina escondida de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/Encerradas/25.07 Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Aventuras/Encerradas/25.07 Jardim do Capitão Varnost/25.07 Jardim do Capitão Varnost\|25.07 Jardim do Capitão Varnost]];
+- [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/Phalássios Dolofónos\|Phalássios Dolofónos]], o renascido de outro mundo de [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/2025-07 Jardim do Capitão Varnost\|2025-07 Jardim do Capitão Varnost]];

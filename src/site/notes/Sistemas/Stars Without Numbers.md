@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Stars Without Numbers/","created":"2025-10-13T17:42:06.318-03:00","updated":"2026-05-07T21:15:16.274-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Stars Without Numbers/","created":"2025-10-13T17:42:06.318-03:00","updated":"2026-05-12T18:48:27.826-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Encerradas/25.12 Missão Hereditus/25.12 Missão Hereditus\|25.12 Missão Hereditus]]: Aventura breve sci-fi de busca por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]]: Aventura breve sci-fi de busca por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial.
 
 ---

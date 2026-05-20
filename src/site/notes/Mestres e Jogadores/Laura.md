@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Laura/","created":"2025-10-13T17:42:06.665-03:00","updated":"2026-05-07T21:17:46.575-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Laura/","created":"2025-10-13T17:42:06.665-03:00","updated":"2026-05-12T18:48:51.107-03:00"}
 ---
 
 Irmã de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], prima de [[Mestres e Jogadores/Jozsef\|Jozsef]] e cunhada da [[Mestres e Jogadores/Daniela\|Daniela]].
@@ -14,4 +14,4 @@ Personagem predileto: [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]]
 Eis os aventureiros que foram criados e interpretados pela Laura:
 - [[Aventuras/Em andamento/Guerra Artoniana/Emmy\|Emmy]], a bárbara de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
 - † [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]], a necromante de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]];
-- [[Aventuras/Encerradas/24.11 A Voz das Marés/Agatha\|Agatha]], a bruxa de [[Aventuras/Encerradas/24.11 A Voz das Marés/24.11 A Voz das Marés\|24.11 A Voz das Marés]];
+- [[Aventuras/Encerradas/2024-11 A Voz das Marés/Agatha\|Agatha]], a bruxa de [[Aventuras/Encerradas/2024-11 A Voz das Marés/2024-11 A Voz das Marés\|2024-11 A Voz das Marés]];

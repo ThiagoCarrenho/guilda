@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Pay Day/Pay Day/","pinned":true,"tags":["Aventura"],"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-05-02T14:52:13.364-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Pay Day/Pay Day/","pinned":true,"tags":["Aventura"],"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-05-12T19:52:47.875-03:00"}
 ---
 
 **Mestre:** [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
@@ -179,22 +179,47 @@ Assim partiram até o armazém, e, lá chegando, notaram que haviam três possí
 \- Rose, Rose Boot, mas ele pode me chamar do que ele quiser - diz, paquerando o cantor.
 \- Rose, como eu ia dizendo - e devolve a paquera - ou, como eu prefiro, 'gatinha'.
 
-Então 
+Então se organizaram. Chevaux, querendo distração para entrar na surdina, uma vez, esperou a ação de Luke, e esta foi mais inesperada do que ele podia imaginar.
+Inspirado, e, sendo líder do bando, roubou um carro qualquer que estava na rua, acelerou ele contra a porta principal, pulando para fora do carro, e este atingindo com força.
+A passagem estava aberta.
+De sua van ele aumentou o volume de sua música, enquanto ia guiando a gangue para dentro. A música que ele cantava era um cover de um antigo cantor, Maicon Jécson, e repetia "Beat it" repetidamente.
+A entrada foi triunfal, um grupo por um lado, e Rose Boot guiando cantando a todo pulmão por outro.
+"Aí, devolve o que é nosso, ou a gente mete bala!" diz Luke, subindo num caixote alto, sem parar de tocar sua keytar.
 
+![z-Imagem-Beat_It.png](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-Beat_It.png)
+*Luke guiando seu bando*
 
+Três policiais corruptos olham a cena, um deles pega um comunicador e diz: "Oh chefe... desce aqui rapidinho."
+"Que é? Tenho mais o que fazer! E que porcaria de barulho foi esse?"
+"É sobre isso mesmo. Entrou uma galera pedindo umas coisas de volta."
+O chefe então se colocou a caminho, e começou a negociar com Nevermore.
+"Quem é você? E o que é que você quer, rapaz?"
+"Eu sou Luke Nevermore, e quero de volta o que você roubou de nós!"
+"E isso seria...?"
+"As cargas, oras! A gente fez um contrato com vocês, que nos roubaram, então viemos buscar!"
+"Caro... Lucas, eu preciso que você seja mais preciso. A gente faz isso toda semana."
+"Pois devolva!" Responde Luke, não ajudando em nada.
+"Vamos ser mais diretos: você é amigo do cara que a gente afundou, do que a gente tirou os braços ou algum outro?"
+"O dos braços. Tem essa também. Vocês vão pagar pelo que fizeram com o Lazio."
+"E vocês pela porta" diz apontando para a estourada entrada e o carro pegando fogo dentro do armazém.
 
-luke cantando beat it, com uma galera atrás bem cara de gangue, 
+"Você ao menos lembra o que tinham roubado?"
+"Eram umas caixas, com algumas coisas."
+"Sim sim, são aquelas oito caixas ali."
+"Nada disso, eram dez!"
+"E qual a sua proposta?"
+"Ficamos com 90%."
+"O que dá 6 caixas." - O chefe apelou para a ideia de 8 caixas e pra falta de inteligência do Luke, o que funcionou.
+"Seis não, se o total eram dez..." ele vai se perdendo nas contas.
+"Sem problemas, levem essas caixas aqui (aponta para quatro caixas) e paguem pelo que fizeram com minha porta."
 
-Rose Boot
+No meio de tudo isso, Deux-Chevaux estava pronto para disparar. Já haviam perdido o elemento surpresa, e a negociação do músico estava tão boa quanto a sua música, pela opinião do próprio.
+Vendo que precisava tomar o controle da situação, Luke teve que agir rápido e disse: "Passa mais duas caixas, e sem considerar a porta. Lembra do Lazio."
+"Pode ser." Diz o negociante, empurrando cinco caixas na direção dele.
+Deux-Chevaux tinha que agir, a ideia era sair com as dez caixas, e seu parceiro já aceitava cinco, sem nem ver o que tinha dentro delas. Agiu então, mas por meio de uma mensagem.
+``Tinha caixa cheia de parfum francês, e caixa só com teclado de pilha. Escolhe as caixas, seu merde!
 
-Nos dividimos
-
-DC2 furtivo pelo alto
-
-2 entradas com gente
-
-luke roubou o carro e entrou, arrombando a entra
-
-
-
-
+'Seu *merde*' foi uma frase que Chevaux repetiu diversas vezes nessa péssima negociação, em direção ao amigo. Mas pouco importava.
+No meio desse caos, vendo que seu plano ia por água abaixo, Chevaux tomou a decisão de sacar a arma e disparar.
+Não avisou Chevaux, que foi pego desprevenido. Mais desprevenido ainda quando o negociante agiu rápido e atacou o parceiro.
+Sussurou consigo: "Ótimo, 'agorra' 'perrdemos' a posição 'favorrável', e até a chance de 'atirrarr' 'prrimeirro'. Que 'merrde'."

@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/Kora/","created":"2025-10-14T10:51:53.661-03:00","updated":"2026-05-12T18:52:15.413-03:00"}
+---
+
+*Personagem de [[Mestres e Jogadores/Jozsef\|Jozsef]] em [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/2022-07 Lendas de Tu'Pana\|2022-07 Lendas de Tu'Pana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
+*Grupo: [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/Kael\|Kael]], [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/Matuz\|Matuz]], [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/Príncipe Intinho\|Príncipe Intinho]] e [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/Quasar\|Quasar]].*
+
+**Raça:** Medusa
+**Classe:** Caçadora
+**Divindade:** Tenebra
+
+![z-Token-Kora_Lireal.png](/img/user/Aventuras/Encerradas/2022-07%20Lendas%20de%20Tu'Pana/z-Token-Kora_Lireal.png)![z-Token-Kora.png](/img/user/Aventuras/Encerradas/2022-07%20Lendas%20de%20Tu'Pana/z-Token-Kora.png)
+#### Descrição
+- Pele totalmente coberta
+- Totalmente furtiva

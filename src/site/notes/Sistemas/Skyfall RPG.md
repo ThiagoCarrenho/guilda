@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Skyfall RPG/","created":"2025-10-13T17:42:06.405-03:00","updated":"2026-05-07T21:17:29.439-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Skyfall RPG/","created":"2025-10-13T17:42:06.405-03:00","updated":"2026-05-12T18:49:36.245-03:00"}
 ---
 
 Aventuras que utilizam este sistema:
-- [[Aventuras/Encerradas/25.03 Conto de Bela Passagem/25.03 Conto de Bela Passagem\|25.03 Conto de Bela Passagem]]: Aventura breve de investigação por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Encerradas/2025-03 Conto de Bela Passagem/2025-03 Conto de Bela Passagem\|2025-03 Conto de Bela Passagem]]: Aventura breve de investigação por [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
 Abaixo deixamos uma breve descrição do sistema feita por inteligência artificial. 
 
 ---

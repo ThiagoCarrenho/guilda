@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-08T10:12:28.024-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-12T19:53:16.214-03:00"}
 ---
 
 # A GUILDA
@@ -99,14 +99,17 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 
 ![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
 *A caminho do pagamento*, da Aventura [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]].
+
+![z-Imagem-Beat_It.png](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-Beat_It.png)
+*Luke guiando seu bando*, da Aventura [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]].
 #### Aventuras Finalizadas
 
-![z-Imagem-LC_e_San.png](/img/user/Aventuras/Encerradas/26.02%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
-*O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Encerradas/26.02 Sumiço de Mike/26.02 Sumiço de Mike\|26.02 Sumiço de Mike]].
+![z-Imagem-LC_e_San.png](/img/user/Aventuras/Encerradas/2026-02%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
+*O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]].
 
-![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/Encerradas/25.12%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
-*Final da Aventura I de [[Aventuras/Encerradas/25.12 Missão Hereditus/25.12 Missão Hereditus\|25.12 Missão Hereditus]].*
+![z-Imagem-Cena-Final-Missao_Hereditus.jpg](/img/user/Aventuras/Encerradas/2025-12%20Miss%C3%A3o%20Hereditus/z-Imagem-Cena-Final-Missao_Hereditus.jpg)
+*Final da Aventura I de [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]].*
 
-![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/Encerradas/25.07%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
-*Grupo de [[Aventuras/Encerradas/25.07 Jardim do Capitão Varnost/25.07 Jardim do Capitão Varnost\|25.07 Jardim do Capitão Varnost]].*
+![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/Encerradas/2025-07%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
+*Grupo de [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/2025-07 Jardim do Capitão Varnost\|2025-07 Jardim do Capitão Varnost]].*
 

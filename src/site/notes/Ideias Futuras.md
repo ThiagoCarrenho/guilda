@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-05-07T21:23:31.785-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-05-12T18:52:47.055-03:00"}
 ---
 
 # Personagens Futuros
@@ -22,18 +22,18 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 	* [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], presencialmente;
 	* [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]] - [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], one-shot com Raul Teixeira e Thiago;
 	* [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] - [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]], one-shot com Gabriel e Raul Ouros;
-2. Jogar a **Origem da GUILDA** (#023), por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/Inacabadas/22.12 Começo da Guilda/22.12 Começo da Guilda\|22.12 Começo da Guilda]];
+2. Jogar a **Origem da GUILDA** (#023), por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/Encerradas/2022-12 Começo da Guilda/2022-12 Começo da Guilda\|2022-12 Começo da Guilda]];
 3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#021);
 4. Mesa Presencial na casa do [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]: **Mensageiros da Floresta Negra** (#018);
 5. One-Shots e Aventuras Breves Prontas, assim como continuações de outras aventuras
 	* [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]: **Maravilhas de Vaporia** (#003) - continuação de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] em [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]];
-	* [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/Encerradas/25.12 Missão Hereditus/25.12 Missão Hereditus\|25.12 Missão Hereditus]];
+	* [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]: **Missão Hereditus II** (#017) - continuação de [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]];
 	* [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]: **C.A.O.** (#001);
 6. Outras Aventuras:
 	* [[Mestres e Jogadores/Laura\|Laura]]: **Ordem Paranormal** (#004);
 	* [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]: **Loop Temporal** (#005), **Caçadores do Tesouro Perdido** (#006), **Prisioneiros ou Jantar** (#007), **Pretech Vivo** (#008), **Amor Podre e Baleado** (#009), **Vestígios do Silêncio** (#010), **Investigação Noir** (#019), **Sabotagem em Encélado** (#020), **Uai, Lobisomem Existe?** (#022), **Pindorama** (#025);
 	* [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]]: **Nas Entranhas de Tiberus** (#011), **O Apartamento** (#012), **Mistério do Baile de Inverno** (#013), **Caravana em Petrynia** (#014), **Preparativos para o Schkaral** (#015), **Cabana do Mago** (#016);
-	* [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/Inacabadas/22.07 Lendas de Tu'Pana/22.07 Lendas de Tu'Pana\|22.07 Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#024);
+	* [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]: **Retorno a Galrasia** (#002) - retomada de [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/2022-07 Lendas de Tu'Pana\|2022-07 Lendas de Tu'Pana]], **Sangue na Torre do Relógio** (#024);
 
 --- 
 #### \#001 C.A.O. o Campeonato Arcanum de Opath
@@ -48,7 +48,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Ideia de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]**;
 - **Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
 - **Mestre:** [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
-- **Descrição:** Após um grupo de aventureiros que procuravam decifrar as [[Aventuras/Inacabadas/22.07 Lendas de Tu'Pana/22.07 Lendas de Tu'Pana\|22.07 Lendas de Tu'Pana]] se perder no meio do Inferno Verde da ilha que veio diretamente do mundo de Lena, a Deusa da Vida, novos aventureiros aceitaram o chamado para entender o que é que acontece naquele vulcão adormecido e o que os antigos Eiradaan escondiam. Tudo isso, é claro, enquanto enfrentam dinossauros colossais, chuvas torrenciais e outras coisas bem pouco urbanas.
+- **Descrição:** Após um grupo de aventureiros que procuravam decifrar as [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pana/2022-07 Lendas de Tu'Pana\|2022-07 Lendas de Tu'Pana]] se perder no meio do Inferno Verde da ilha que veio diretamente do mundo de Lena, a Deusa da Vida, novos aventureiros aceitaram o chamado para entender o que é que acontece naquele vulcão adormecido e o que os antigos Eiradaan escondiam. Tudo isso, é claro, enquanto enfrentam dinossauros colossais, chuvas torrenciais e outras coisas bem pouco urbanas.
 ---
 #### \#003 Maravilhas de Vaporia
 - **Ideia de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]]**;
@@ -161,7 +161,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 - **Mestre:** [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 - **Nível:** 3;
 - **Detalhes:** Mini-Aventura;
-- **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Encerradas/25.12 Missão Hereditus/25.12 Missão Hereditus\|25.12 Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
+- **Descrição:** As ações dos heróis em Csina, na [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]], geraram inúmeros desdobramentos, problemas e soluções. Veremos o que mudou... Os dados entregues a Joric não foram corretos, mas quanto tempo vai demorar para descobrirem? E Thrella, vai perceber que o recebido é um punhado de carne, e não o verdadeiro cérebro de Vor? Falando dele, ele vai descobrir a cura para a toxina do planeta, e esta resolverá o conflito com a Irmandade?
 ---
 #### \#018 Mensageiros da Floresta Negra
 - **Ideia de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]]**;
