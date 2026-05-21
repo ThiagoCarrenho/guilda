@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-04-29T20:01:06.695-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-05-21T08:45:31.007-03:00"}
 ---
 
 **Mestre:** [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
@@ -149,6 +149,9 @@ O tempo de demora para agir também fez com que o clérigo pensasse em como agir
 Esta imagem é melhor do que a que ele vê ao abrir os olhos: o próprio velhinho quase em cima de si dizendo "acorda rapaz!", que fala e corre para trás do cavalo.
 Revigorado pela magia ou assustado pela visão, Nagi acorda em um salto, e também se esconde atrás do equino, ele vê ao longe algumas sombras dos guardas que se aproximam, e calcula que é possível fugir a tempo.
 
+![ChatGPT Image 20 de mai. de 2026, 21_03_03.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/ChatGPT%20Image%2020%20de%20mai.%20de%202026,%2021_03_03.png)
+*Encontrados por Alyssa*.
+
 Então Alyssa grita novamente: "Rendam-se e ninguém precisará ser machucado. Soltem as armas e venham comigo!"
 O grupo responde de maneira distinta: a bárbara solta um sincero e espontâneo "Eu não, oxi", o inventor retoma a pose irritante e puxa um canto de torcida, "chata, chata", com palmas e repetições, e Deora finge estar se convencendo, com um "mas a gente vai morrer se a gente for com você" - que é seguido de um apoio do anão "legal, legal" e mais palmas.
 "Não, vocês não vão morrer. Vocês só vão ver comigo, pode deixar, eu falo lá com o pessoal, ninguém vai matar vocês, não."
@@ -294,6 +297,9 @@ Depois de um silêncio, todos esperando que ele complete dizendo o que ele sabe,
 "Deus das terceiras chances?!", pergunta curioso Essez
 "Triatis, *hihihi*".
 
+![Pasted image 20260520211501.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260520211501.png)
+*A boa prosa de Essez.*
+
 Enquanto conta sua piada, Nagi, bem quieto, lhe entrega um punhado de tibares. "Acho que você deveria jogar cartas de novo contra ele."
 "Beleza, bora apostar aqui, dez do Nagi, mais dez meu. Vinte!"
 "Aposta esse também!" Grita Gabj atirando forte um tibar na direção do hynne, na intenção de machucar. A pontaria, entretanto, não corresponde à sua vontade.
@@ -391,6 +397,9 @@ Conforme o tronco descia o rio, três soldados que estavam almoçando a margem o
 Claro, o plano só teve sucesso completo pois Nagi e Gabj foram excepcionais guiando o veículo enquanto agachados.
 Assim, chegaram a um penhasco atrás do castelo. Contornaram o rio, precisavam apenas escalar alguns longos metros — o objetivo ainda estava longe de estar concluído.
 
+![Pasted image 20260520212642.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260520212642.png)
+*Apenas um tronco descendo o rio*
+
 A subida era íngreme, perigosa, e qualquer erro significaria uma queda severa. Mas uma bárbara age primeiro e pensa depois.
 "Passem a corda."
 E Emmy começou a subir, carregando a corda para depois passar para os companheiros.
@@ -421,6 +430,9 @@ A entrada estava aberta.
 Sem alarde, o grupo atravessou a passagem secreta e finalmente adentrou o castelo de Karst — deixando para trás um exército inteiro que, a qualquer momento, iniciaria a invasão.
 "Mr. Chato, você é útil", elogia o clérigo.
 "Mr. Útil, você é chato", corrige o inventor.
+
+![Pasted image 20260521084429.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260521084429.png)
+*O parafuso-chave da porta milenar*
 ###### A guerra se aproxima
 Após atravessarem a passagem secreta, o grupo foi rapidamente interceptado por guardas do castelo. 
 "Vocês estão aqui?! Os heróis que salvaram o Barão Abelard! Venham conosco!"

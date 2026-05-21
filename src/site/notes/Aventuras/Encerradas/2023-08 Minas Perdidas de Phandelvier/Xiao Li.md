@@ -7,5 +7,5 @@
 
 Recebeu narração própria feita pelo Schaeppi ([áudio](https://drive.google.com/file/d/1FjmLCcTHwXyPyMaUy-qTsLRTikviWwPv/view?usp=drivesdk)) e está canonicamente no cenário de Tormenta20, pelo livro [Contra a Tempestade](https://jamboeditora.com.br/produto/contra-a-tempestade/).
 
-![Ilustracao Xiao Li.png](/img/user/Ilustracao%20Xiao%20Li.png)
+![Ilustracao Xiao Li.png](/img/user/Aventuras/Encerradas/2023-08%20Minas%20Perdidas%20de%20Phandelvier/Ilustracao%20Xiao%20Li.png)
 *Xiao Li por @lexieesz_*

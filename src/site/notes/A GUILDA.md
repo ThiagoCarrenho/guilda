@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-12T19:53:16.214-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-21T08:49:54.542-03:00"}
 ---
 
 # A GUILDA
@@ -93,6 +93,18 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 
 ![z-Grupo-Guerra-S3.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra-S3.png)
 *A caminho de Warton*, o grupo atual de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
+![ChatGPT Image 20 de mai. de 2026, 21_03_03.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/ChatGPT%20Image%2020%20de%20mai.%20de%202026,%2021_03_03.png)
+*Encontrados por Alyssa*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
+![Pasted image 20260520211501.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260520211501.png)
+*A boa prosa de Essez*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]]
+
+![Pasted image 20260520212642.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260520212642.png)
+*Apenas um tronco descendo o rio*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
+
+![Pasted image 20260521084429.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260521084429.png)
+*O parafuso-chave da porta milenar*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
 ![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
@@ -112,4 +124,7 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 
 ![z-Grupo-Capitao_Varnost.jpg](/img/user/Aventuras/Encerradas/2025-07%20Jardim%20do%20Capit%C3%A3o%20Varnost/z-Grupo-Capitao_Varnost.jpg)
 *Grupo de [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/2025-07 Jardim do Capitão Varnost\|2025-07 Jardim do Capitão Varnost]].*
+
+![Ilustracao Xiao Li.png](/img/user/Aventuras/Encerradas/2023-08%20Minas%20Perdidas%20de%20Phandelvier/Ilustracao%20Xiao%20Li.png)
+*O descanso de Xiao Li* por @lexieesz_, de [[Aventuras/Encerradas/2023-08 Minas Perdidas de Phandelvier/2023-08 Minas Perdidas de Phandelvier\|2023-08 Minas Perdidas de Phandelvier]], descrito também em [Contra a Tempestade](https://jamboeditora.com.br/produto/contra-a-tempestade/).
 
