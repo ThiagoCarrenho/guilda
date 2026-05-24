@@ -1,18 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Pay Day/Pay Day/","pinned":true,"tags":["Aventura"],"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-05-12T19:52:47.875-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Pay Day/Pay Day/","pinned":true,"tags":["Aventura"],"created":"2026-03-06T22:39:06.794-03:00","updated":"2026-05-24T17:51:15.977-03:00"}
 ---
 
 **Mestre:** [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
 **Sistema:** [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 **Tamanho:** One-shot Alongada;
-**Data de Jogo:** 06/03/2026-Hoje;
-**Sessões:** 2 online;
+**Data de Jogo:** 06/03/2026-22/05/2026;
+**Sessões:** 3 online;
 **Rank dos Personagens**: 4;
 
 Após um roubo bem sucedido, no qual conseguiram roubar alguns itens úteis para si e utros que estavam ao alcance, os ladrões são surpreendidos com uma mudança de planos no pagamento - e precisam resolver se quiserem receber.
 Participam desta história:
 - [[Aventuras/Em andamento/Pay Day/Deux-Chevaux\|Deux-Chevaux]] (lê-se "Dus chê vô"), o francês lavandeiro de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
 - [[Aventuras/Em andamento/Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+
+**Sessões**
+- [[Aventuras/Em andamento/Pay Day/Pay Day#Sessão 01 (06/03/2026) - Mudança de Planos\|#Sessão 01 (06/03/2026) - Mudança de Planos]]
+- [[Aventuras/Em andamento/Pay Day/Pay Day#Sessão 02 (30/04/2026) - Dois é pouco\|#Sessão 02 (30/04/2026) - Dois é pouco]]
+- [[Aventuras/Em andamento/Pay Day/Pay Day#Sessão 03 (22/05/2026) -\|#Sessão 03 (22/05/2026) -]]
 
 ---
 #### Sessão 01 (06/03/2026) - Mudança de Planos
@@ -148,6 +153,8 @@ Deux aponta para o analisador, Déesse cospe, e o aparelho indica 'tiopental', c
 \- Quando vamos atrás da grana? - Pergunta Déesse sobre o verdadeiro objetivo.
 \- Amanhã a gente vê isso, arranjei um trabalho mais importante essa noite - comenta Luke, enquanto dá uma namorada na sua fã.
 \- Que *merde*.
+
+---
 #### Sessão 02 (30/04/2026) - Dois é pouco
 \- Luke, não dá para 'esperrar', temos que 'aprroveitar' essa vantagem.
 \- Tá bem, mas tem que chegar na manha, porque a gente não é mto bruto - ele mesmo não seguiu as próprias palavras, como veremos a frente.
@@ -223,3 +230,45 @@ Deux-Chevaux tinha que agir, a ideia era sair com as dez caixas, e seu parceiro 
 No meio desse caos, vendo que seu plano ia por água abaixo, Chevaux tomou a decisão de sacar a arma e disparar.
 Não avisou Chevaux, que foi pego desprevenido. Mais desprevenido ainda quando o negociante agiu rápido e atacou o parceiro.
 Sussurou consigo: "Ótimo, 'agorra' 'perrdemos' a posição 'favorrável', e até a chance de 'atirrarr' 'prrimeirro'. Que 'merrde'."
+
+---
+#### Sessão 03 (22/05/2026) - Tiros e cacetetes
+
+O tiroteio se inicia e corre solto, dois dos *Lukers* são feridos, só Rose está preparada para aguentar tiros. No meio deles, Luke Nevermore segue tocando, e de sua keytar sai uma lâmina que perfura um dos policiais. Outro policial derruba um dos feridos com um cacetete. Os roqueiros partem para a briga, com pistolas, barras de ferro. O alvo de Nevermore é finalizado por dois tiros de seus fãs. Do fundo voa uma granada, que estraçalha dois dos Lukers, e derruba um dos policiais. Deux-Chevaux é o mais lento em agir, e se sente sortudo em estar escondido. Ele lança uma granada, que atrapalha a visibilidade de todos os policiais, e acerta um tiro nas costas do chefe, fazendo-o gritar um "Desgraçado!" e rasgar fora seu colete. Primeira rodada de disparos, e cada lado já tem um ferido e um morto de cada lado.
+Os policiais próximos ao chefe, e ele próprio, tenta devolver os tiros que vieram de cima, um errando, outro sendo absorvido pela armadura e o rifle do chefe - que ele saca da própria perna, que se abre mecânicamente - acerta o corrimão. Deux-Chevaux respira aliviado. Rose, mesmo com a fumaça fechando nos policiais, acerta um em cheio. Este, e outros próximos, tentam responder, mas nada acertam a mulher. Outros fãs vêm ao auxílio, encerrando com a vida de outro policial. Nevermore finda outro com uma 'keytarrada', e coordena os dois fãs próximos para mirarem no chefe, um deles tendo sucesso. O farmacêutico, sabendo que o combate não é seu melhor campo, dá outro tiro no chefe. Segunda rodada de disparos.
+Rose termina com a vida de outro policial, faltam três mais o chefe. Dois são atrapalhados pela fumaça da bomba de gás, e ninguém dos "heróis" é ferido. O chefe também erra seu disparo, mas depois corre para trás, de forma muito, muito veloz, em direção aos escritórios. Luke acerta outro disparo, e mais alguns acertos e erros por parte de seus fãs. O outro corrupto sai de dentro do gás empunhando o cacetete - para nada, sofre mais golpes que acerta. Deux-Chevaux segue solitário na passarela superior, e tenta enganar os inimigos que fora para fora, quando na verdade voltara para perto do escritório, para bisbilhotar o tal do chefe. Se encaminha o final da terceira rodada de tiros, e três policiais mais o chefe subsistem, do outro lado, quatro Lukers estão de pé, além de Rose, do próprio Luke, e do separado Chevaux.
+Próximo à entrada o tiroteio continua. Rose se mostra a melhor atiradora, matando mais um inimigo. Eles devolvem, terminando com a vida de mais um fã. Luke, por sua vez, mantém a estratégia de: sair de trás da cobertura do carro pegando fogo, acertar um tiro, se esconder de novo. Contando com seu acerto, um dos fãs grita: "Pelo Luke! Por mais um show!", e outro responde: "Vamos juntos, Nevermores!" Mais dois disparos, e mais um policial caído no chão.
+
+Deux-Chevaux, por sua vez, foi bisbilhotar, e pela janela superior o farmacêutico vê um escritório quase normal, se não fosse por um cantinho de laboratório, que ele já é bem acostumado, e um tanque de água verde. O chefe está digitando algumas coisas em um computador, com um controle remoto nas mãos.
+A água começa a drenar, revelando uma pessoa, sob experimentos.
+Não é um ser humano, não mais.
+Uma mistura de carne e fios de mais de dois metros de altura.
+Um cyberpsycho.
+A porta de vidro se abre, e a criatura pode sair andando, e ela dá dois passos e faz menção de atacar o chefe policial, prepara-se para o golpe, e então *bzz*, leva um choque e trava na sua posição, enquanto o policial abre um sorriso enquanto aperta um botão no controle que tem em mãos.
+Chevaux se põe em posição de sniper, apenas esperando a criatura sair para atirar.
+
+A fumaça da bomba de gás começa a abaixar, revelando que apenas uma policial está de pé. A porta do escritório se abre, e a criatura começa a andar para fora, com o chefe atrás dela. Os Lukers sobreviventes olham preocupados e assustados para a arma secreta. A policial sorri, e Rose, irritada, lhe acerta um tiro no ombro.
+Aparece então a oportunidade perfeita para Deux, ainda escondido, olha para a criatura e atira. O tiro chama a atenção de todos, mas não é a abominação cibernética que grita de dor, mas o chefe, que está controlando-a. Ele cai, e gritando novamente "Desgraçado!" na direção do atirador, faz menção de sacar seu rifle na perna, mas só consegue ver a sola da criatura, que pisa em seu rosto encerrando sua vida.
+A policial corre de volta, e pula na direção do controle, pega ele em mãos, mas antes de conseguir agir, Chevaux acerta outro tiro certeiro, matando o penúltimo inimigo - falta só o grandalhão. Ele olha ao redor, pisa na mão da policial, destruindo o controle que segurava, se vira, e de seus ombros se levantam lanças mísseis. "Que 'merrde'" exala Chevaux, correndo o tanto quanto pode em direção à porta superior.
+"O show agora é lá fora. Corram Lukers!" grita o artista. Ele e sua amada correm pelo portão que abriram com o carro, e atrás deles os fãs sobreviventes.
+Luke ainda considera entregar a chave para Rose - mas ele sabe que colocou um sistema que só o próprio poderia dirigir, e levaria um bom tempo para dar liberação para outro.
+
+A mutação olha para o autor dos últimos disparos correndo desesperado e lança um míssil em sua direção. A explosão causa um estrondo enorme, e com certeza seria capaz de matar uma pessoa de uma vez só. Por sorte, ela acertou o corrimão, que salva o farmacêutico pela segunda vez.
+Luke, Rose e os dois fãs seguem correndo em direçãoa a van, para fugir, e, enquanto passam pela porta, ouvem outros dois disparos.
+Outros dois mísseis são disparados, este na direção dos que estão no térreo. O primeiro disparo passa por cima de suas cabeças e vai na direção da van. Por sorte, acerta o carro que estava um pouco atrás. O segundo acerta a porta de metal que fora arrombada por um carro, transformando a passagem em um montante de ferro e outros entulhos.
+Luke e Rose estavam bem embaixo do alvo, mas conseguiram pular e não serem acertados pelas barras que caíam.
+Os fãs não tiveram a mesma sorte, se depararam com a entrada incendiada e travaram um instante. "Tem 'outrra' saída, 'otárrios'" grita Deux enquanto corre. Eles se viram e correm para o portão lateral.
+Luke consegue entrar no carro, e Rose do seu lado. Na pressa de sair correndo, o músico tenta ligar o carro, mas falha, uma e duas vezes. Olha pela janela e só consegue ver o brutamontes correndo em sua direção. Mais dois giros na chave e nada.
+O monstro os alcança, tromba com força no carro, e, vendo que ninguém o ameaçava, correu sem parar em alguma direção.
+
+Depois de uns respiros aliviados, Luke sai do carro, com Rose ao lado. Deux-Chevaux está sentado nos degraus da escada que leva para a passarela, empunhando um escudo que sacou no medo de ser atingido, e os dois fãs começam a voltar da porta lateral que tinham saído.
+"Isso foi punk!" fala um deles, "mas e a grana?"
+"Opa, opa quem falou de 'grrana' com vocês foi o cantorzinho", comenta Chevaux, "na minha 'parrte' ninguém toca."
+"É isso aí, mas o lado bom é que a gente recuperou mais que a encomenda, todo o galpão é nosso agora!"
+
+Passam um tempo carregando caminhões e dividindo cargas e dinheiros, e com o obtido vão ter um luxo nunca antes tido: descanso. Talvez sobrevivam um mês sem precisar de novas aventuras.
+Quando terminam o trabalho, o sol já está alto, e notícias de um cyberpsycho causando caos na cidade já surgem nos noticiários.
+Dentre as notícias, foi divulgado que invadiu uma loja de instrumentos musicais e destruiu tudo, exceto keytars, além disso, os cidadãos relataram um cheiro muito forte de perfume de lavanda vindo da monstruosidade.
+Despediram-se todos, os fãs pegaram sua parte e partiram, Rose já estava grudada em Luke, só esperando ficarem a sós, e Deux tomou o caminho do hospital, para encontrar o amigo Déesse e o fixer Lazio.
+"Até a próxima, Chevaux!"
+"Na 'prróxima' vamos 'seguirr' o meu plano. Você só faz 'merrde'!"
