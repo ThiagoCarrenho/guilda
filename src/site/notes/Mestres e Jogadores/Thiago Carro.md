@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-05-12T18:52:56.632-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-05-24T17:54:07.579-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -28,7 +28,7 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]] (Biga), o servo dos Silva em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
-- [[Aventuras/Em andamento/Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]];
+- [[Aventuras/Encerradas/2026-05 Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]];
 - † [[Aventuras/Encerradas/2026-02 Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]];
 - [[Aventuras/Em andamento/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]] (Volkswagen Fusca), o velho que teima em existir em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Encerradas/2025-12 Missão Hereditus/Oraskin\|Oraskin]] (GWM Ora 03 Skin), o pirralho espacial psiônico de [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]];

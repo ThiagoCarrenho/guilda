@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-05-12T18:52:57.031-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-05-24T17:56:12.678-03:00"}
 ---
 
 # Aventuras
@@ -28,19 +28,6 @@ Para conhecer os sistemas, acesse [[Sistemas/Sistemas\|Sistemas]].
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 ---
-### Pay Day
-**Nome da Aventura:** [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]];
-**Mestre:** [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
-**Sistema:**  [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
-**Tamanho:** One-shot Alongada;
-**Data de Jogo:** 06/03/2026-Hoje;
-**Sessões:** 2 online;
-**Rank dos Personagens**: 4;
-**Descrição:** Nesta história, os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
-**Personagens e Jogadores:**
-- [[Aventuras/Em andamento/Pay Day/Deux-Chevaux\|Deux-Chevaux]], o francês lavandeiro de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
-- [[Aventuras/Em andamento/Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
----
 ### Irmandade do Martelo
 **Nome da Aventura:** [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 **Mestre:** [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
@@ -63,7 +50,7 @@ Para conhecer os sistemas, acesse [[Sistemas/Sistemas\|Sistemas]].
 **Tamanho:** Aventura longa;
 **Data de Jogo:** 15/03/2025-Hoje;
 **Sessões:** 4 presenciais
-**Nível dos Personagens**: 1 -> 3;
+**Nível dos Personagens**: 1 -> 4;
 **Descrição:** Impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 **Personagens e Jogadores:**
 - [[Aventuras/Em andamento/Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
@@ -73,6 +60,19 @@ Para conhecer os sistemas, acesse [[Sistemas/Sistemas\|Sistemas]].
 - † [[Aventuras/Em andamento/Guerra Artoniana/Alfa Romeo\|Alfa Romeo]], o nobre filantropo de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
 - † [[Aventuras/Em andamento/Guerra Artoniana/Harcos\|Harcos]] de  [[Mestres e Jogadores/Miguel de Maria\|Miguel de Maria]];
 - † [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]] de [[Mestres e Jogadores/Laura\|Laura]];
+---
+### Pay Day
+**Nome da Aventura:** [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]];
+**Mestre:** [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
+**Sistema:**  [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+**Tamanho:** One-shot Alongada;
+**Data de Jogo:** 06/03/2026-22/05/2026;
+**Sessões:** 3 online;
+**Rank dos Personagens**: 4;
+**Descrição:** Nesta história, os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
+**Personagens e Jogadores:**
+- [[Aventuras/Encerradas/2026-05 Pay Day/Deux-Chevaux\|Deux-Chevaux]], o francês lavandeiro de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Encerradas/2026-05 Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 ---
 ### Sumiço de Mike
 **Nome da Aventura:** [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]];

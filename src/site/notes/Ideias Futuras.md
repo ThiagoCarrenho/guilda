@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-05-12T18:52:47.055-03:00"}
+{"dg-publish":true,"permalink":"/Ideias Futuras/","pinned":true,"created":"2025-10-27T18:09:50.965-03:00","updated":"2026-05-24T17:54:07.177-03:00"}
 ---
 
 # Personagens Futuros
@@ -20,7 +20,7 @@ A prioridade, na verdade, é próxima (mas não exatamente) a:
 1. Finalizar as aventuras em andamento:
 	* [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] - [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 	* [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]] - [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], presencialmente;
-	* [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]] - [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], one-shot com Raul Teixeira e Thiago;
+	* [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]] - [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], one-shot com Raul Teixeira e Thiago;
 	* [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] - [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]], one-shot com Gabriel e Raul Ouros;
 2. Jogar a **Origem da GUILDA** (#023), por [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]], e oficializar a GUILDA no mundo de Arton - retomada de [[Aventuras/Encerradas/2022-12 Começo da Guilda/2022-12 Começo da Guilda\|2022-12 Começo da Guilda]];
 3. Mesa de Investigação / Terror em [[Call of Cthullu\|Call of Cthullu]] por [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]]: **As Montanhas de Passo Dyatlov** (#021);

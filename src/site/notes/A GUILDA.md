@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-21T08:49:54.542-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-24T17:55:13.179-03:00"}
 ---
 
 # A GUILDA
@@ -66,10 +66,6 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 
 Em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]] em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
 
-### Pay Day
-
-Em [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]], o Mestre [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] guia os personagens de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Pay Day/Deux-Chevaux\|Deux-Chevaux]]) e [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Pay Day/Luke Nevermore\|Luke Nevermore]]) em uma missão de resgate em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]], na qual os personagens esperam receber a recompensa de um roubo bem sucedido, mas uma mudança inesperada de planos faz parecer que essa recompensa precisará de mais esforço.
-
 ### Aleatoriamente Presos por Puristas
 
 Em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]]) e os personagens de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]]) e [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
@@ -109,12 +105,13 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 ![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 
-![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
-*A caminho do pagamento*, da Aventura [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]].
-
-![z-Imagem-Beat_It.png](/img/user/Aventuras/Em%20andamento/Pay%20Day/z-Imagem-Beat_It.png)
-*Luke guiando seu bando*, da Aventura [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]].
 #### Aventuras Finalizadas
+
+![z-Imagem-2CV_e_Luke.jpg](/img/user/Aventuras/Encerradas/2026-05%20Pay%20Day/z-Imagem-2CV_e_Luke.jpg)
+*A caminho do pagamento*, da Aventura [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]].
+
+![z-Imagem-Beat_It.png](/img/user/Aventuras/Encerradas/2026-05%20Pay%20Day/z-Imagem-Beat_It.png)
+*Luke guiando seu bando*, da Aventura [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]].
 
 ![z-Imagem-LC_e_San.png](/img/user/Aventuras/Encerradas/2026-02%20Sumi%C3%A7o%20de%20Mike/z-Imagem-LC_e_San.png)
 *O primeiro pânico da tripulação da Tempestade*, da Aventura [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]].

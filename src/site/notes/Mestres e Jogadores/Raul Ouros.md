@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-05-12T18:52:56.539-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-05-24T17:54:07.301-03:00"}
 ---
 
 Amigo de ensino médio de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] - formando a dupla dos 'Raulzes'.
@@ -15,7 +15,7 @@ Mestre de [[Sistemas/Tormenta20\|Tormenta20]], [[Sistemas/D&D 5e\|D&D 5e]] e [[S
 ---
 ## Mestre
 Enquanto Mestre, Raul conduziu as seguintes aventuras:
-- [[Aventuras/Em andamento/Pay Day/Pay Day\|Pay Day]]: One-shot de resgate de grana em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
+- [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]]: One-shot de resgate de grana em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 - [[Aventuras/Encerradas/2025-10 Carga de Chromo Vermelho/2025-10 Carga de Chromo Vermelho\|2025-10 Carga de Chromo Vermelho]]: One-shot de roubo em [[Sistemas/Cyberpunk RED\|Cyberpunk RED]];
 - [[Aventuras/Encerradas/2024-07 Posto de Troca Baixa Vila de Lena/2024-07 Posto de Troca Baixa Vila de Lena\|2024-07 Posto de Troca Baixa Vila de Lena]]: Aventura breve de caçada em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/Encerradas/2023-08 Minas Perdidas de Phandelvier/2023-08 Minas Perdidas de Phandelvier\|2023-08 Minas Perdidas de Phandelvier]]: Aventura longa completa em [[Sistemas/D&D 5e\|D&D 5e]];
