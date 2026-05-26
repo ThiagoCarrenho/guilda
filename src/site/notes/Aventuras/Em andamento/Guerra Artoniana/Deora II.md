@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-04-26T11:22:54.280-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-25T22:58:53.450-03:00"}
 ---
 
 *Personagem de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -8,7 +8,7 @@ Não conheceu os precedentes falecidos [[Aventuras/Em andamento/Guerra Artoniana
 
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
-**Classe:** Ladino 1 Clérigo Usurpador 2
+**Classe:** Ladino 1 Clérigo Usurpador 3
 **Divindade:** Nenhuma
 #### Descrição
 - É um adulto, que parece idoso, tem pulmão ruim e é vagaroso.
@@ -130,6 +130,9 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 #### Nv.03 Clérigo Usurpador 2
 **Conjuração Falsa.**
 **Impostor.**
+#### Nv.04 Clérigo Usurpador 3
+**Discrição Divina.**
+**Aumento de Atributo. *Carisma***
 #### Toques Finais
 **PV. 20:** Ladino 1 (12+0\*3), Usurpador 2 (2\*4), Constituição (1\*0).
 **PM. 18:** Ladino 1 (1\*4), Usurpador 2 (2\*5), Magias (Carisma = 4).
@@ -140,8 +143,8 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Atuação (Treinado).** +2 (Citadino Hynne).
 **Diplomacia.** +2 (Citadino Hynne).
 **Enganação (Treinado).** +2 (Pequeno e Rechonchudo) +2 (Benefício Trapaceiro Ahleniense) +2 (Citadino Hynne) +3 (Capa Esvoaçante Cravejada de Gemas). 1 PM para vantagem no teste (Foco em Perícia) 1 PM para dobrar proficiência no teste (Especialista)
-**Fortitude.** -2 (Citadino Hynne).
-**Furtividade (Treinado).** +2 (Pequeno) +2 (Benefício Trapaceiro Ahleniense).
+**Fortitude.** +1 (Discrição Divina) -2 (Citadino Hynne). 2 PM para rerrolar (Sorte Salvadora).
+**Furtividade (Treinado).** +2 (Pequeno) +2 (Benefício Trapaceiro Ahleniense) +1 (Discrição Divina)cb.
 **Intimidação (Treinado).** +2 (Citadino Hynne) -5 (Tonsura).
 **Intuição (Treinado).**
 **Jogatina (Treinado).** +2 (Citadino Hynne).
@@ -149,15 +152,17 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Luta.** -2 para Manobras (Pequeno).
 **Percepção (Treinado).**
 **Pontaria (Treinado).**
+**Reflexos.** +1 (Discrição Divina). 2 PM para rerrolar (Sorte Salvadora).
 **Religião (Treinado).**
 **Sobrevivência.** - 2 (Citadino Hynne).
+**Vontade.** +1 (Discrição Divina). 2 PM para rerrolar (Sorte Salvadora).
 ##### Atributos
 **Força. -1**: Valor Inicial (0), Hynne (-1).
 **Destreza. 4**: Valor Inicial (2), Hynne (2).
 **Constituição.** 0: Valor Inicial (0).
 **Inteligência. 1**: Valor Inicial (1).
 **Sabedoria. 1**: Valor Inicial (1).
-**Carisma. 4**: Valor Inicial (3), Hynne (1).
+**Carisma. 5**: Valor Inicial (3), Hynne (1), Aumento de Atributo (1).
 
 ---
 ### Distinção
