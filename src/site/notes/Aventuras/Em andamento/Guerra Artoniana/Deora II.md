@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-25T22:58:53.450-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-25T23:04:22.175-03:00"}
 ---
 
 *Personagem de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -144,7 +144,7 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 **Diplomacia.** +2 (Citadino Hynne).
 **Enganação (Treinado).** +2 (Pequeno e Rechonchudo) +2 (Benefício Trapaceiro Ahleniense) +2 (Citadino Hynne) +3 (Capa Esvoaçante Cravejada de Gemas). 1 PM para vantagem no teste (Foco em Perícia) 1 PM para dobrar proficiência no teste (Especialista)
 **Fortitude.** +1 (Discrição Divina) -2 (Citadino Hynne). 2 PM para rerrolar (Sorte Salvadora).
-**Furtividade (Treinado).** +2 (Pequeno) +2 (Benefício Trapaceiro Ahleniense) +1 (Discrição Divina)cb.
+**Furtividade (Treinado).** +2 (Pequeno) +2 (Benefício Trapaceiro Ahleniense) +1 (Discrição Divina).
 **Intimidação (Treinado).** +2 (Citadino Hynne) -5 (Tonsura).
 **Intuição (Treinado).**
 **Jogatina (Treinado).** +2 (Citadino Hynne).
