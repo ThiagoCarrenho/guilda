@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-25T23:04:22.175-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-29T13:46:03.330-03:00"}
 ---
 
 *Personagem de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -9,14 +9,14 @@ Não conheceu os precedentes falecidos [[Aventuras/Em andamento/Guerra Artoniana
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
 **Classe:** Ladino 1 Clérigo Usurpador 3
-**Divindade:** Nenhuma
+**Divindade:** Sim
 #### Descrição
-- É um adulto, que parece idoso, tem pulmão ruim e é vagaroso.
+- A pessoa mais boazinha do mundo.
+- Autor do livro "Falsas Orações, Verdadeiras Magias", um best-seller com quase 3 volumes vendidos.
+- Um adulto que parece idoso, tem pulmão ruim e é vagaroso.
 - Enganador, inclusive dos Deuses. Em breve, verdadeiramente um Vigarista.
 - Busca combinar a Liberdade de sua mãe (devota de Valkaria) e o Caos de seu pai (devoto de Nimb).
-- A pessoa mais boazinha do mundo.
 - Usa uma roupa com os símbolos divinos de todas as divindades… ou quase isso.
-- Livro: "Falsas Orações, Verdadeiras Magias".
 
 ![z-Imagem-Deora_II.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Imagem-Deora_II.png)
 #### Prompt
@@ -100,8 +100,24 @@ Talvez já fosse tarde demais.
 
 No exato momento em que se preparava para investigar o que havia ali dentro, os aventureiros retornaram — em número bem menor. Deora só teve tempo de se esconder e, mais uma vez, entregar-se à Sorte, livre como sua mãe e caótico como seu pai lhe ensinaram.
 
----
+>[!Caution]- Não abra se você for outro jogador da aventura
+>
+>O Gabj, o Nagi e a Emmy são manés.
+>
+>**Objetivo direto:** Antes de pôr os pés na estrada, Deora buscava equipamentos de aventura nas posses de seus falecidos pais, e, escondida entre as placas da armadura de sua mãe, encontrou a seguinte nota:
+>> [!Note] Nota misteriosa
+>> Minha irmã na fé, Esmeralda.
+>> Me entristece que pregues algo tão distante do que deseja a nosse livre Deusa, a Deusa dos humanos. Espero que um dia caia em si que a única liberdade que ela prega é a dos homens em relação aos seres inferiores, e passe a cultuar alguém mais próximo a sua raça.
+>> Enquanto isso, nos livre da sua presença e do teu grupinho de nossa terra, antes que nos livremos das tuas vidas.
+>> Com toda a liberdade, Wortric.
+>
+>No verso, escrito com bastante raiva: "Um dia hás de engolir tuas palavras".
+>Assim, ele deseja ardentemente findar com a vida do Coronel Wortric, e fazê-lo engolir este papel. E, ouvindo muitas histórias de seus pais, sabe que para isso deve ir a Svalas.
+>
+>**Objetivo maior:** Usurpar a divindade é pouco. Se os deuses são ferramentas, seus fiéis também podem ser. Assim, o grande objetivo de Deora é ser capaz de transformar a fé dos fiéis em algo benéfico para si, seu grupo, ou até mais.
+>Seu destino fora a região de Yuden e Svalas Em Yuden temos um caso de sucesso neste ponto, no qual a fé de Valkaria fora deturpada em uma supremacia humana, e Deora pretende se aproveitar disso para aprender a fazer o mesmo e quem sabe re-deturpar esta fé.
 
+---
 ### Ficha
 
 #### Hynne
