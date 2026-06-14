@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-05-24T17:56:12.678-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-06-02T21:17:42.271-03:00"}
 ---
 
 # Aventuras
@@ -10,6 +10,21 @@ Para conhecer os jogadores, acessse [[Mestres e Jogadores/Mestres e Jogadores\|M
 
 Para conhecer os sistemas, acesse [[Sistemas/Sistemas\|Sistemas]].
 
+---
+### Aleatoriamente no Templo do Deus Dragão
+**Nome da Aventura:** [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]];
+**Mestre:** [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+**Sistema:** [[Sistemas/Tormenta20\|Tormenta20]];
+**Tamanho:** One-Shot;
+**Data de Jogo:** 28/05/2026-Hoje;
+**Sessões:** 1 online;
+**Nível dos Personagens**: 2;
+**Descrição:** Personagens montados de forma aleatória são chamados para resolver um roubo... de pás?
+**Curiosidade:** Modelo de criação aleatória de personagens nível 1 em [[Sistemas/Tormenta20\|Tormenta20]].
+**Personagens e Jogadores:**
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Chefe Alce Sentado\|Chefe Alce Sentado]], o Defensor da Paz dos Não Vivos, de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Hachiroku\|Hachiroku]], o Fada com Voto de Silêncio de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Rex\|Rex]], o Malabarista de Machados de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
 ---
 ### Aleatoriamente Presos por Puristas
 **Nome da Aventura:** [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-05-24T17:54:07.579-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Thiago Carro/","created":"2025-10-13T17:42:08.670-03:00","updated":"2026-06-14T17:40:30.961-03:00"}
 ---
 
 Esposo da Fernanda, irmão do [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]], e afilhado de casamento de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]], Thiago é usuário assíduo de chapéu e sandália. Católico e santista, é mestre em Matemática Aplicada, sendo que, em seu bacharelado, conheceu [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] e formou a guilda.
@@ -19,6 +19,7 @@ Sua aventura criada favorita fora [[Aventuras/Encerradas/2022-07 Lendas de Tu'Pa
 ---
 ## Mestre
 Enquanto Mestre, Thiago conduziu as seguintes aventuras:
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]]: One-Shot de investigação em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]]: One-Shot de fuga em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/Encerradas/2025-07 Jardim do Capitão Varnost/2025-07 Jardim do Capitão Varnost\|2025-07 Jardim do Capitão Varnost]]: One-Shot de investigação sobrenatural na Mansão do Capitão Varnost em [[Sistemas/Tormenta20\|Tormenta20]];
 - [[Aventuras/Encerradas/2025-03 Conto de Bela Passagem/2025-03 Conto de Bela Passagem\|2025-03 Conto de Bela Passagem]]: Aventura breve de investigação em [[Sistemas/Skyfall RPG\|Skyfall RPG]];
@@ -27,6 +28,7 @@ Enquanto Mestre, Thiago conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Thiago, em parênteses, o modelo/marca no qual foi inspirado:
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Hachiroku\|Hachiroku]] (Hachiroku), o Fada com Voto de Silêncio em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]] (Biga), o servo dos Silva em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - [[Aventuras/Encerradas/2026-05 Pay Day/Deux-Chevaux\|Deux-Chevaux]] (Citröen 2CV), o francês lavandeiro em [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]];
 - † [[Aventuras/Encerradas/2026-02 Sumiço de Mike/LC Toyota\|LC Toyota]] (Toyota Lunar Cruiser - veículo lunar pressurizado), o piloto preguiçoso em [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]];

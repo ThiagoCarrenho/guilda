@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-05-24T17:54:07.407-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Teixeira/","created":"2025-10-13T17:42:08.635-03:00","updated":"2026-06-14T17:39:33.239-03:00"}
 ---
 
 Noivo da [[Mestres e Jogadores/Daniela\|Daniela]], irmão da [[Mestres e Jogadores/Laura\|Laura]], primo de [[Mestres e Jogadores/Jozsef\|Jozsef]] e padrinho de casamento de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] e Fernanda.
@@ -33,6 +33,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Chefe Alce Sentado\|Chefe Alce Sentado]], o Defensor da Paz dos Não Vivos, em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]];
 - [[Aventuras/Encerradas/2026-05 Pay Day/Luke Nevermore\|Luke Nevermore]], o *Keytar Star* em [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]];
 - [[Aventuras/Em andamento/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]], o cálcio real de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
 - [[Aventuras/Encerradas/2025-10 Carga de Chromo Vermelho/Ying-Zi\|Ying-Zi]], o tira em [[Aventuras/Encerradas/2025-10 Carga de Chromo Vermelho/2025-10 Carga de Chromo Vermelho\|2025-10 Carga de Chromo Vermelho]];

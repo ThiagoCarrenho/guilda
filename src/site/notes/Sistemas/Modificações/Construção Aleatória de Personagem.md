@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sistemas/Modificações/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-03-19T19:08:11.339-03:00"}
+{"dg-publish":true,"permalink":"/Sistemas/Modificações/Construção Aleatória de Personagem/","pinned":true,"created":"2026-03-14T14:23:06.314-03:00","updated":"2026-06-14T16:35:48.865-03:00"}
 ---
 
 Antes de qualquer coisa, este guia é para aleatorizar um personagem nível 1 de [[Sistemas/Tormenta20\|Tormenta20]], mas é conveniente que cada jogador jogue com um personagem que se sinta à vontade em interpretar. Por exemplo, o [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] tem o costume de jogar com personagens baixos, e só jogaria com um que pudesse dar esta forma de roleplay, assim, ao sortear um Suraggel na tabela, ele disse que seria um Suraggel baixinho, de no máximo 1,50m de altura.
@@ -13,6 +13,9 @@ Personagens de [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleat
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o Pula-Muros de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]], o Bom, de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]], o Flagelo dos Bestas de [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]];
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Chefe Alce Sentado\|Chefe Alce Sentado]], o Defensor da Paz dos Não Vivos, de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Hachiroku\|Hachiroku]], o Fada com Voto de Silêncio de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Rex\|Rex]], o Malabarista de Machados de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]];
 ---
 ## Atributos
 As primeiras rolagens devem ser para determinar os atributos de um personagem. Uma vez que a rolagem é aleatória, ela segue a ordem dos atributos, e, a fim de que o personagem fique forte, o mínimo da soma dos atributos deve ser 7, e, ao final da rolagem, o jogador pode escolher um atributo para aumentar em 1.

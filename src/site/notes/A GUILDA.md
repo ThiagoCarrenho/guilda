@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-05-24T17:55:13.179-03:00"}
+{"dg-publish":true,"permalink":"/A GUILDA/","pinned":true,"tags":["gardenEntry"],"created":"2025-10-13T17:42:13.348-03:00","updated":"2026-06-14T16:32:02.470-03:00"}
 ---
 
 # A GUILDA
@@ -62,17 +62,21 @@ Veja ainda nessa página alguns links úteis, e as missões que temos em andamen
 ---
 ## Aventuras em Andamento
 
+### Guerra Artoniana
+
+Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/Em andamento/Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Mestres e Jogadores/Laura\|Laura]] ([[Aventuras/Em andamento/Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]]), [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]), [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Guerra Artoniana/Nagi\|Nagi]]) e [[Mestres e Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/Em andamento/Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
+
 ### Irmandade do Martelo
 
 Em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], o Mestre [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] guia os personagens de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Irmandade do Martelo/Bóra Quebratudo\|Bóra Quebratudo]]), [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Irmandade do Martelo/Fusca Chassi-de-Aço\|Fusca Chassi-de-Aço]]) e  [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Irmandade do Martelo/Zsim\|Zsim]]) em uma missão de guerra no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]] em [[Sistemas/Tormenta20\|Tormenta20]], na qual todos os personagens, anões, guerream pela irmandade.
 
+### Aleatoriamente no Templo do Deus Dragão
+
+Em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]], o Mestre [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Hachiroku\|Hachiroku]]) e os personagens de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] ([[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Chefe Alce Sentado\|Chefe Alce Sentado]]) e [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Rex\|Rex]]) em uma missão de busca em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram convocados para irem atrás de kobolds ladrões de pás. Espera, o que um Templo de Kallyadranoch tem a ver com isso?
+
 ### Aleatoriamente Presos por Puristas
 
 Em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], o Mestre [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] guia o próprio personagem ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Biga\|Biga]]) e os personagens de [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]]) e [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Sir. Galabriel\|Sir. Galabriel]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Thiagrel\|Thiagrel]]) em uma missão de fuga em [[Sistemas/Tormenta20\|Tormenta20]]. Os personagens, aleatoriamente rolados, foram capturados por soldados, e devem escapar, se quiserem viver.
-
-### Guerra Artoniana
-
-Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], o Mestre [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] guia os personagens de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] ([[Aventuras/Em andamento/Guerra Artoniana/Deora II\|Deora II]] e o falecido [[Aventuras/Em andamento/Guerra Artoniana/Alfa Romeo\|Alfa Romeo]]), [[Mestres e Jogadores/Laura\|Laura]] ([[Aventuras/Em andamento/Guerra Artoniana/Emmy\|Emmy]] e a falecida [[Aventuras/Em andamento/Guerra Artoniana/Suzumi\|Suzumi]]), [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] ([[Aventuras/Em andamento/Guerra Artoniana/Gabj Caskhar\|Gabj Caskhar]]), [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] ([[Aventuras/Em andamento/Guerra Artoniana/Nagi\|Nagi]]) e [[Mestres e Jogadores/Miguel de Maria\|Miguel de Maria]] (o falecido [[Aventuras/Em andamento/Guerra Artoniana/Harcos\|Harcos]]) em uma missão bálica e política em Tormenta20, na qual os personagens buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 
 ---
 ## Galeria
@@ -102,6 +106,9 @@ Em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]
 ![Pasted image 20260521084429.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/Pasted%20image%2020260521084429.png)
 *O parafuso-chave da porta milenar*, em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
 #### Aventuras em Andamento
+![Agentes do Medo em frente ao Templo.png](/img/user/Aventuras/Em%20andamento/Aleatoriamente%20no%20Templo%20do%20Deus%20Drag%C3%A3o/Agentes%20do%20Medo%20em%20frente%20ao%20Templo.png)
+*Agentes do Medo em frente ao Templo*, em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]].
+
 ![z-Grupo-Irmandade_do_Martelo.jpg](/img/user/Aventuras/Em%20andamento/Irmandade%20do%20Martelo/z-Grupo-Irmandade_do_Martelo.jpg)
 *Grupo de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]].*
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-05-24T17:54:07.301-03:00"}
+{"dg-publish":true,"permalink":"/Mestres e Jogadores/Raul Ouros/","created":"2025-10-13T17:42:08.737-03:00","updated":"2026-06-14T17:41:04.775-03:00"}
 ---
 
 Amigo de ensino médio de [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] - formando a dupla dos 'Raulzes'.
@@ -23,6 +23,7 @@ Enquanto Mestre, Raul conduziu as seguintes aventuras:
 ---
 ## Personagens
 Eis os aventureiros que foram criados e interpretados pelo Raul:
+- [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Rex\|Rex]], o Malabarista de Machados em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]];
 - [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Jack O'Vapor\|Jack O'Vapor]], o fumaceiro de bronze, e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Ryan Jones\|Ryan Jones]], o pula-muros, em [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]];
 - † [[Aventuras/Encerradas/2026-02 Sumiço de Mike/San Holo\|San Holo]], o ex-militar animado em [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]];
 - [[Aventuras/Em andamento/Irmandade do Martelo/Zsim\|Zsim]], o novo Rei de Thargrum de [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]];
