@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Galeria/","created":"2026-06-15T09:12:55.072-03:00","updated":"2026-06-15T09:14:01.792-03:00"}
+{"dg-publish":true,"permalink":"/Galeria/","created":"2026-06-15T09:12:55.072-03:00","updated":"2026-06-15T09:17:42.571-03:00"}
 ---
 
-## Galeria
-
+1. Galeria da [[Galeria#\|#]]
 ## Guerra Artoniana
 ![z-Grupo-Guerra_S1.png](/img/user/Aventuras/Em%20andamento/Guerra%20Artoniana/z-Grupo-Guerra_S1.png)
 *Recebendo a missão de Lady Ayleth*, a formação inicial do grupo de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]].
