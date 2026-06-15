@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-05-25T19:46:09.651-03:00"}
+{"dg-publish":true,"permalink":"/História da GUILDA/","pinned":true,"created":"2025-10-16T09:52:13.337-03:00","updated":"2026-06-15T12:10:14.524-03:00"}
 ---
 
 A história contada a seguir contém apenas os nomes.
@@ -116,7 +116,7 @@ Depois foi a vez de [[Sistemas/Cyberpunk RED\|Cyberpunk RED]] estrear, na mesa [
 
 O terceiro sistema explorado fora [[Sistemas/Stars Without Numbers\|Stars Without Numbers]], no qual [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] mestrou a aventura [[Aventuras/Encerradas/2025-12 Missão Hereditus/2025-12 Missão Hereditus\|2025-12 Missão Hereditus]].
 
-Além disso, tivemos um mestre novo num sistema conhecido, [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões no cenário de[[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
+Além disso, tivemos um mestre novo num sistema conhecido, [[Mestres e Jogadores/Gabriel Carrenho\|Gabriel Carrenho]] pôs à mesa suas ideias em [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], no qual os jogadores, o trio RRT, fora obrigado a fazer personagens anões no cenário de [[Cenários Próprios/Khalmyrthaal\|Khalmyrthaal]].
 
 ### One-Shots para reposição
 
@@ -124,8 +124,8 @@ Muitas vezes, o grupo não consegue se reunir por completo. Assim, ao invés de 
 
 Por exemplo, no início de 2026, a GUILDA tem como aventura principal a [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], e, presencialmente, aguarda por [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas, quando Gabriel não pôde jogar, [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]] trouxe um sistema novo, de horror, o [[Sistemas/Mothership\|Mothership]], com a aventura [[Aventuras/Encerradas/2026-02 Sumiço de Mike/2026-02 Sumiço de Mike\|2026-02 Sumiço de Mike]], numa impossibilidade seguinte, foir [[Mestres e Jogadores/Raul Ouros\|Raul Ouros]] que se pôs a mestrar [[Aventuras/Encerradas/2026-05 Pay Day/2026-05 Pay Day\|2026-05 Pay Day]], marcando um reencontro do grupo com [[Sistemas/Cyberpunk RED\|Cyberpunk RED]].
 
-Numa outra oportunidade, foi Raul Teixeira quem não pôde jogar, e [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] em [[Sistemas/Tormenta20\|Tormenta20]], que, mais importante que a aventura em si, trouxe uma mecânica de criação aleatória de personagens de primeiro nível.
+Numa outra oportunidade, foi Raul Teixeira quem não pôde jogar, e [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] mestrou [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] em [[Sistemas/Tormenta20\|Tormenta20]], que, mais importante que a aventura em si, trouxe uma mecânica de [[Sistemas/Modificações/Construção Aleatória de Personagem\|Construção Aleatória de Personagem]] de primeiro nível. A mecânica foi reutilizada em [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]], mas, dessa vez, foi Gabriel quem não pode jogar.
 
 ### O Futuro
  
-Esse texto foi atualizado em meados de 2026, enquanto a GUILDA joga [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]] e [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]], e aguarda a nova sessão de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.
+Esse texto foi atualizado em meados de 2026, enquanto a GUILDA joga [[Aventuras/Em andamento/Irmandade do Martelo/Irmandade do Martelo\|Irmandade do Martelo]], [[Aventuras/Em andamento/Aleatoriamente Presos por Puristas/Aleatoriamente Presos por Puristas\|Aleatoriamente Presos por Puristas]] e [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]], e volta a ter mais sessões de [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], mas ainda há muitas outras histórias a serem escritas.

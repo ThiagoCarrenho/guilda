@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-05-24T17:55:55.380-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana/","pinned":true,"tags":["Aventura"],"created":"2025-10-13T17:42:13.089-03:00","updated":"2026-06-15T12:08:04.396-03:00"}
 ---
 
 **Mestre:** [[Mestres e Jogadores/Raul Teixeira\|Raul Teixeira]];
 **Sistema:**  [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura longa;
 **Data de Jogo:** 15/03/2025-Hoje;
-**Sessões:** 4 presenciais
-**Nível dos Personagens**: 1 -> 4;
+**Sessões:** 5 presenciais
+**Nível dos Personagens**: 1 -> 5;
 
 Nesta história, os aventureiros buscam impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 Participam desta história:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-06-02T21:17:42.271-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Aventuras/","pinned":true,"created":"2025-10-13T17:42:13.422-03:00","updated":"2026-06-15T12:08:27.225-03:00"}
 ---
 
 # Aventuras
@@ -64,8 +64,8 @@ Para conhecer os sistemas, acesse [[Sistemas/Sistemas\|Sistemas]].
 **Sistema:**  [[Sistemas/Tormenta20\|Tormenta20]];
 **Tamanho:** Aventura longa;
 **Data de Jogo:** 15/03/2025-Hoje;
-**Sessões:** 4 presenciais
-**Nível dos Personagens**: 1 -> 4;
+**Sessões:** 5 presenciais
+**Nível dos Personagens**: 1 -> 5;
 **Descrição:** Impedir os puristas de alcançarem seu objetivo de dominação da raça humana sobre as outras.
 **Personagens e Jogadores:**
 - [[Aventuras/Em andamento/Guerra Artoniana/Deora II\|Deora II]], o amigo enganador dos deuses de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]];

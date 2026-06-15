@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-05-29T13:46:03.330-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Guerra Artoniana/Deora II/","created":"2025-10-13T17:42:13.083-03:00","updated":"2026-06-15T15:45:50.477-03:00"}
 ---
 
 *Personagem de [[Mestres e Jogadores/Thiago Carro\|Thiago Carro]] em [[Aventuras/Em andamento/Guerra Artoniana/Guerra Artoniana\|Guerra Artoniana]], no sistema [[Sistemas/Tormenta20\|Tormenta20]].*
@@ -8,7 +8,7 @@ Não conheceu os precedentes falecidos [[Aventuras/Em andamento/Guerra Artoniana
 
 **Raça:** Hynne
 **Origem:** Trapaceiro Ahleniense
-**Classe:** Ladino 1 Clérigo Usurpador 3
+**Classe:** Ladino 1 Clérigo Usurpador 4
 **Divindade:** Sim
 #### Descrição
 - A pessoa mais boazinha do mundo.
@@ -149,6 +149,10 @@ No exato momento em que se preparava para investigar o que havia ali dentro, os 
 #### Nv.04 Clérigo Usurpador 3
 **Discrição Divina.**
 **Aumento de Atributo. *Carisma***
+#### Nv.05 Clérigo Usurpador 4
+**Poder Capturado.** Nv.01: Khalmyr (Reparar Injustiça), Nv.02: Sszzaas (Dom dos Segredos), Nv.03: Nimb (Sorte dos Loucos), Nv.04: Tenebra (Passo Sombrio)
+	**Futuros Poderes Capturados.** Alihanna (Voz da Natureza), Azgher (?), Hyninn (?), Kallyadranoch (Aura de Medo ou Baforada Dracônica ou Poder sem Limites), Keenn (?), Lena (Cura Gentil), Lin-Wu (Mestre de Si), Marah (Aura de Paz ou Cancioneiro da Esperança), Megalokk (?), Oceano (Mar Revolto), Ragnar (?), Tanna-Toh (Perceber Farsas), Tauron (Sangue de Ferro), Thyatis (Redirecionar Destino), Valkaria (?), Wynna (?).
+**Diligente.**
 #### Toques Finais
 **PV. 20:** Ladino 1 (12+0\*3), Usurpador 2 (2\*4), Constituição (1\*0).
 **PM. 18:** Ladino 1 (1\*4), Usurpador 2 (2\*5), Magias (Carisma = 4).
