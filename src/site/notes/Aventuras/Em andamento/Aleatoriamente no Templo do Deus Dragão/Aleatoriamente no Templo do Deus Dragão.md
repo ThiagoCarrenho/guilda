@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão/","pinned":true,"tags":["Aventura"],"created":"2026-06-02T21:09:40.345-03:00","updated":"2026-06-14T18:24:42.716-03:00"}
+{"dg-publish":true,"permalink":"/Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão/","pinned":true,"tags":["Aventura"],"created":"2026-06-02T21:09:40.345-03:00","updated":"2026-06-14T21:46:12.767-03:00"}
 ---
 
 **Nome da Aventura:** [[Aventuras/Em andamento/Aleatoriamente no Templo do Deus Dragão/Aleatoriamente no Templo do Deus Dragão\|Aleatoriamente no Templo do Deus Dragão]];
@@ -59,31 +59,46 @@ Ele murmura "eu esperava heróis", mas não baixo o suficiente. "Bom, eu preciso
 Após um momento de silêncio, todos olham para o sílfide, que faz um movimento de lacrar a boca, relembrando seu voto.
 "Ah, e conte com a ajuda do Hachiroku, aparentemente ele fez um voto de silêncio."
 
-==Investigam a cidade==
+Chefe Alce sentado começou a cavalgar ao redor da praça e observar as casas, mas sua presença é vista como agourenta pelos moradores, e a maioria fecha as portas, com um medo do cavaleiro de esqueleto. Ele nada nota de informação adicional, apenas vê pessoas contando seus bens, tentando se dar conta de tudo o que foi perdido, e especialmente uma mulher caída no chão.
 
-==Encontram que ninguém foi ferido==
+Enquanto isso, Rex conversou mais um pouco com Gico, mas ele lhe foi pouco útil. Apenas informou que os kobolds tinha uma relação não inamistosa com a aldeia, um não se importava com a presença do outro por perto, e raramente entravam em contato, sendo que nunca houve nenhum tipo de conflito entre eles.
+Aproveitando de sua postura forte e nobre, ele conversou um pouco com um idoso, que estava sentado ao lado da entrada de uma mina. O senhor não tinha travas na língua, e não era treinado nas artes nobres da oratória, por assim dizer, e, no meio de xingamentos a kobolds e às novas gerações, ele passou algumas informações importantes: os kobolds não roubaram nada senão algumas pás e instrumentos de escavação; eles não atacaram ninguém, mas forçaram passagem para realizar o assalto, sendo que o próprio idoso foi empurrado e derrubado.
 
-==Tem um velho velho que diz ter sido atacado==
+O fada ficou apenas zanzeando de lá para cá.
 
-==Descobrem que só pás foram roubadas==
+Decidem então tomar o caminho da floresta, na direção que foi indicada o caminho à tribo dos kobolds.
+O caminho tomado foi certeiro, a atenção a ele, nem tanto.
+Rex ia a frente, sempre armado, quando sentiu uma fenda se abrir no chão, e caiu num buraco.
+Alce Sentado vinha ao lado, montado no alce, o alce se assustou, caindo sentado, derrubando Alce Sentado no buraco.
+Apenas Hachi não caiu, ficou flutando por cima do buraco, e sinalizou uma ordem de "subam!" com os braços.
 
-==Vão em direção ao caminho==
+Rex rapidamente resolveu seu problema: se transformou em macaco e escalou as paredes, com a graça da raposa.
+Alce sentado se pôs de pé e usou as próprias mãos para escalar.
 
-==Caem na armadilha Fosso Camuflado==
+Seguem mais a frente a estrada, e ouvem vozes em um idioma que não lhes é conhecido, mas os sons clicados com sílabas secas, e as vozes agudas a um ponto irritante deixavam claro: kobolds estavam a frente.
+Aproximam-se com cautela, Hachiroku se esconde atrás das árvores e se aproxima de forma muito furtiva. Alce Sentado se transforma em um animal, para mesclar com a natureza. Rex aperta o seu machado táurico de mitral com mais força.
+Ao chegarem mais perto, Hachiroku e Alce percebem que os kobolds se dividem em dois grupos claros: operários amedrontados e chefes violentos, o principal cavalga um javali pequeno. Para Rex é tudo farinha do mesmo saco.
 
-==Encontram kobolds==
+É Rex quem inicia um combate, se dá para dizer assim. Ele utiliza um truque de explosão de chamas que aprendera enquanto membro de uma trupe circense, sai correndo com seu machado táurico empunhado, e solta um grito com sua voz poderosa de nobre. É uma presença, de fato, aterrorizante.
+Com essa ação, os kobolds que estavam cavando largam a ferramenta e saem correndo, debandando. Os outros kobolds recuam, assustados do minotauro, e o medo lhes paraliza.
+Alce Sentado, em forma de urso, corre para o meio dos que sobraram e morde um kobold, que falece imediatamente.
+Das matas então ouvem-se dois disparos, é Hachiroku que põe à prova uma de suas invenções. Os inventos funcionam, o que lhe falta é pontaria.
 
-==Um percebe, outro não, a diferença entre os kobolds==
+Travados pelo medo, o enxame kobold só se afasta - mas não foge, e o grupo se aproxima, ferindo-os mais um pouco.
+Em seguida, os pequeninos até conseguem ferir um ou outro dos 'heróis', mas dura pouco, logo Rex e Alce acabam com a vida do chefe, e o minotauro grita ordens de fuga aos restantes, que não vêem outra opção se não obedecer. 
 
-==Alce Sentado vira urso==
+Então é que os aventureiros entendem o que faziam os ladrões, abaixo da terra aparecia uma cabeça de dragão esculpida em pedra, e, ao descerem ao nível anterior, visualizam uma porta esculpida em arquitetura anã antiga, bela e imponente. Um templo a Kallyadranoch.
 
-==Hachiroku erra todos os tiros, escondido na floresta==
+Aí então se encontra o grupo, em frente à essa porta (ainda que seja necessário um trabalho de escavação para entrar), com os kobolds afastados da região, e os instrumentos roubados foram recuperados.
+"A gente podia ter prendido um para interrogar" diz Hachiroku.
+"Voltou a falar?" responde Rex.
+"Estamos a sós, não é?"
+"Hm..." rumina Rex.
+"E o que faremos? Recuperamos as pás e afugentamos os kobolds... mas eles devem voltar e roubar de novo para terminarem o trabalho. Ou talvez matar o chefe foi o suficiente. Mas talvez seja bom a gente entrar, vai que tem algo de valioso lá dentro..."
+"Estava melhor quando o voto estava ativo."
 
-==Rex comanda os ataques, mas, melhor que atacar, ele amedronta os kobolds==
-
-==Os escravos fogem de cara, depois do líder morrer, os outros fogem também==
-
-==Recuperam as pás, mas estão diante do Templo do Deus Dragão, com inscrições anãs==
+Assim, a Vila Grafeno tem medo da volta dos kobolds, e dos próprios heróis, já os kobolds estão aterrorizados pelos heróis, especialmente Rex, que tem o medo como principal habilidade.
+E onde está o Chefe Alce Sentado? Sentado no alce.
 
 ![Agentes do Medo em frente ao Templo.png](/img/user/Aventuras/Em%20andamento/Aleatoriamente%20no%20Templo%20do%20Deus%20Drag%C3%A3o/Agentes%20do%20Medo%20em%20frente%20ao%20Templo.png)
 *Agentes do Medo em frente ao Templo*.
